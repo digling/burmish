@@ -113,6 +113,10 @@ def ipa2tokens(
         (default=True), or whether each vowel symbol should be considered
         separately.
 
+    merge_identical_symbols : bool
+        Indicate, whether identical symbols should be merged into one token, or
+        rather be kept separate.
+
     Returns
     -------
     tokens : list
@@ -140,7 +144,8 @@ def ipa2tokens(
             combiners = lingpyd.settings.rcParams['combiners'],
             breaks = lingpyd.settings.rcParams['breaks'],
             stress = lingpyd.settings.rcParams['stress'],
-            merge_vowels = lingpyd.settings.rcParams['merge_vowels']
+            merge_vowels = lingpyd.settings.rcParams['merge_vowels'],
+            merge_identical_symbols = True,
             )
     kw.update(keywords)
 
@@ -256,6 +261,18 @@ def ipa2tokens(
     
     if nasal:
         out += [rcParams['nasal_placeholder']]
+
+    if kw['merge_identical_symbols']:
+        new_out = [out[0]]
+        for i in range(len(out) -1):
+            outA = out[i]
+            outB = out[i+1]
+            if outA == outB:
+                new_out[-1] += outB
+            else:
+                new_out += [outB]
+        return new_out
+
         
     return out
 
@@ -292,6 +309,9 @@ def secondary_structures(tokens):
             out += [segment]
             new_syllable = True
 
+        elif prochar == '_' and len(out) > 1 and out[-1] == segment:
+            new_syllable = True
+
         # check for markers if no tone is given
         elif prochar == 'B' and not new_syllable and tmp_tokens:
             if out[-1] == 'A':
@@ -319,14 +339,16 @@ class Wordlist(lingpyd.basic.wordlist.Wordlist):
         else:
             lingpyd.basic.wordlist.Wordlist.__init__(self,infile)
     
-    def tokenize(self, override=True):
+    def tokenize(self, override=True, preprocessing=False):
+
+        if not preprocessing:
+            preprocessing = lambda x: x
 
         self.add_entries('tokens', 'ipa', lambda x:
-                ipa2tokens(x.replace(' ','_')),override=override)
+                ipa2tokens(preprocessing(x)),override=override)
 
         self.add_entries('prostring','tokens', lambda x: lingpyd.prosodic_string(x,
             _output='CcV'), override)
-
 
         self.add_entries('tokens', 'tokens', lambda x: secondary_structures(x),
                 override = override)
