@@ -44,6 +44,10 @@ def preprocessing(x):
 wl = Wordlist('burmish.triples')
 wl.tokenize(preprocessing=preprocessing)
 
+if 'check_segments' not in wl.header:
+    wl.add_entries('check_segments', 'ipa', lambda x: '')
+    wl[1][-1] = '!'
+
 test_list = []
 too_much = []
 missing = []
