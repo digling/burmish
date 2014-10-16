@@ -1,0 +1,153 @@
+Achang_Lianghe	kɑ̃³¹	k ɑ̃ ∼ ³¹	CVVT
+Achang_Lianghe	ȵɛ̃³¹	ȵ ɛ̃ ∼ ³¹	CVVT
+Achang_Lianghe	tɑ̃³¹	t ɑ̃ ∼ ³¹	CVVT
+Achang_Lianghe	tɑ̃³¹tɕɑ³¹	t ɑ̃ ∼ ³¹ ◦ tɕ ɑ ³¹	CVVTCVT
+Achang_Lianghe	khuɑ̃³¹	kh uɑ̃ ∼ ³¹	CVVT
+Bola	pɛ̃⁵⁵ʃaʔ⁵⁵	p ɛ̃ ∼ ⁵⁵ ◦ ʃ a ʔ ⁵⁵	CVVTCVcT
+Bola	kauŋ⁵⁵tɔ̱̃³⁵	k au ŋ ⁵⁵ ◦ t ɔ̱̃ ∼ ³⁵	CVcTCVVT
+Bola	thɔ̃⁵⁵	th ɔ̃ ∼ ⁵⁵	CVVT
+Bola	tʰɔ̃⁵⁵kʰja⁵⁵	tʰ ɔ̃ ∼ ⁵⁵ ◦ kʰ j a ⁵⁵	CVVTCCVT
+Bola	tʃhə̆⁵⁵mɛ̃⁵⁵--	tʃh ə̆ ⁵⁵ ◦ m ɛ̃ ∼ ⁵⁵	CVTCVVT
+Bola	tʃhə̆⁵⁵khjɛ̃	tʃh ə̆ ⁵⁵ ◦ kh j ɛ̃ ∼	CVTCCVV
+Bola	sø̃³⁵	s ø̃ ∼ ³⁵	CVVT
+Bola	tʃɔ̱̃³⁵	tʃ ɔ̱̃ ∼ ³⁵	CVVT
+Bola	mɔ̃³¹	m ɔ̃ ∼ ³¹	CVVT
+Bola	mɔ̃³¹ta³¹mi̱³⁵	m ɔ̃ ∼ ³¹ ◦ t a ³¹ ◦ m i̱ ³⁵	CVVTCVTCVT
+Bola	mɔ̃³¹ta³¹pha³⁵	m ɔ̃ ∼ ³¹ ◦ t a ³¹ ◦ ph a ³⁵	CVVTCVTCVT
+Bola	nɛ̃³⁵	n ɛ̃ ∼ ³⁵	CVVT
+Bola	tă³¹xɛ̃³⁵	t ă ³¹ ◦ x ɛ̃ ∼ ³⁵	CVTCVVT
+Bola	tɛ̃³⁵	t ɛ̃ ∼ ³⁵	CVVT
+Bola	mjɔ̱̃⁵⁵	m j ɔ̱̃ ∼ ⁵⁵	CCVVT
+Bola	sɛ̃⁵⁵ja³¹tsai⁵⁵	s ɛ̃ ∼ ⁵⁵ ◦ j a ³¹ ◦ ts ai ⁵⁵	CVVTCVTCVT
+Bola	vɛ̃⁵⁵	v ɛ̃ ∼ ⁵⁵	CVVT
+Bola	tshɛ̃⁵⁵	tsh ɛ̃ ∼ ⁵⁵	CVVT
+Bola	tă³¹ʃɔ̃⁵⁵	t ă ³¹ ◦ ʃ ɔ̃ ∼ ⁵⁵	CVTCVVT
+Bola	ka̱i³⁵kjɛ̱̃³⁵	k a̱i ³⁵ ◦ k j ɛ̱̃ ∼ ³⁵	CVTCCVVT
+Bola	laʔ³¹thɔ̃³⁵ŋju̱ŋ³⁵	l a ʔ ³¹ ◦ th ɔ̃ ∼ ³⁵ ◦ ŋ j u̱ ŋ ³⁵	CVcTCVVTCCVcT
+Bola	laʔ³¹tʰɔ̃³⁵ŋju̱ŋ³⁵	l a ʔ ³¹ ◦ tʰ ɔ̃ ∼ ³⁵ ◦ ŋ j u̱ ŋ ³⁵	CVcTCVVTCCVcT
+Bola	laʔ³¹tʰɔ̃³⁵ŋju̱ŋ³⁵jɔ̃³¹pai³¹	l a ʔ ³¹ ◦ tʰ ɔ̃ ∼ ³⁵ ◦ ŋ j u̱ ŋ ³⁵ ◦ j ɔ̃ ∼ ³¹ ◦ p ai ³¹	CVcTCVVTCCVcTCVVTCVT
+Bola	pɛ̃³¹pɔ³⁵	p ɛ̃ ∼ ³¹ ◦ p ɔ ³⁵	CVVTCVT
+Bola	mɛ̱̃³⁵	m ɛ̱̃ ∼ ³⁵	CVVT
+Bola	tsʰɛ̃⁵⁵	tsʰ ɛ̃ ∼ ⁵⁵	CVVT
+Bola	jɔ̃³¹lɔ̃⁵⁵	j ɔ̃ ∼ ³¹ ◦ l ɔ̃ ∼ ⁵⁵	CVVTCVVT
+Bola	ŋɛ̱̃⁵⁵	ŋ ɛ̱̃ ∼ ⁵⁵	CVVT
+Bola	kɔ̃⁵⁵	k ɔ̃ ∼ ⁵⁵	CVVT
+Bola	lɛ̱̃³⁵ma³¹	l ɛ̱̃ ∼ ³⁵ ◦ m a ³¹	CVVTCVT
+Bola	tʃhɔ̃³¹tsham⁵⁵	tʃh ɔ̃ ∼ ³¹ ◦ tsh a m ⁵⁵	CVVTCVcT
+Bola	a³¹mɛ̃⁵⁵	a ³¹ ◦ m ɛ̃ ∼ ⁵⁵	VTCVVT
+Bola	xɛ̃⁵⁵	x ɛ̃ ∼ ⁵⁵	CVVT
+Bola	lɔ̃⁵⁵	l ɔ̃ ∼ ⁵⁵	CVVT
+Bola	ɣəi⁵⁵lɔ̃⁵⁵	ɣ əi ⁵⁵ ◦ l ɔ̃ ∼ ⁵⁵	CVTCVVT
+Bola	lɔ̃⁵⁵mø⁵⁵	l ɔ̃ ∼ ⁵⁵ ◦ m ø ⁵⁵	CVVTCVT
+Bola	lɔ̃³¹khauŋ³⁵	l ɔ̃ ∼ ³¹ ◦ kh au ŋ ³⁵	CVVTCVcT
+Bola	jõ³¹mi³¹	j õ ∼ ³¹ ◦ m i ³¹	CVVTCVT
+Bola	sɔ̃⁵⁵na̱k⁵⁵	s ɔ̃ ∼ ⁵⁵ ◦ n a̱ k ⁵⁵	CVVTCVcT
+Bola	a³¹khə̆³¹tɛ̃⁵⁵	a ³¹ ◦ kh ə̆ ³¹ ◦ t ɛ̃ ∼ ⁵⁵	VTCVTCVVT
+Bola	tɛ̃⁵⁵	t ɛ̃ ∼ ⁵⁵	CVVT
+Bola	thɔ̆i⁵⁵mɛ̃⁵⁵	th ɔ̆i ⁵⁵ ◦ m ɛ̃ ∼ ⁵⁵	CVTCVVT
+Bola	jɔ̃³¹maʔ³¹	j ɔ̃ ∼ ³¹ ◦ m a ʔ ³¹	CVVTCVcT
+Bola	jɔ̃³¹tɔ̱̃⁵⁵	j ɔ̃ ∼ ³¹ ◦ t ɔ̱̃ ∼ ⁵⁵	CVVTCVVT
+Bola	pɛ̃³¹tsaŋ⁵⁵	p ɛ̃ ∼ ³¹ ◦ ts a ŋ ⁵⁵	CVVTCVcT
+Bola	pɛ̃³¹	p ɛ̃ ∼ ³¹	CVVT
+Bola	ŋɛ̃³⁵kjɔt⁵⁵	ŋ ɛ̃ ∼ ³⁵ ◦ k j ɔ t ⁵⁵	CVVTCCVcT
+Bola	jɔ̃⁵⁵	j ɔ̃ ∼ ⁵⁵	CVVT
+Bola	tɔ̃³¹	t ɔ̃ ∼ ³¹	CVVT
+Bola	tɔ̃³¹mja³¹	t ɔ̃ ∼ ³¹ ◦ m j a ³¹	CVVTCCVT
+Bola	ju⁵⁵nɔ̱̃⁵⁵	j u ⁵⁵ ◦ n ɔ̱̃ ∼ ⁵⁵	CVTCVVT
+Bola	ja̱m⁵⁵kɛ̃⁵⁵kɛ̃⁵⁵	j a̱ m ⁵⁵ ◦ k ɛ̃ ∼ ⁵⁵ ◦ k ɛ̃ ∼ ⁵⁵	CVcTCVVTCVVT
+Bola	khɔ̃³⁵kɔ̱n³¹	kh ɔ̃ ∼ ³⁵ ◦ k ɔ̱ n ³¹	CVVTCVcT
+Bola	phɔ̃⁵⁵	ph ɔ̃ ∼ ⁵⁵	CVVT
+Bola	mjɔ̃⁵⁵	m j ɔ̃ ∼ ⁵⁵	CCVVT
+Bola	nɛ̃⁵⁵	n ɛ̃ ∼ ⁵⁵	CVVT
+Bola	ɣɛ̃³⁵	ɣ ɛ̃ ∼ ³⁵	CVVT
+Bola	ŋjɔ̱̃³⁵na̱k⁵⁵	ŋ j ɔ̱̃ ∼ ³⁵ ◦ n a̱ k ⁵⁵	CCVVTCVcT
+Bola	ŋjɔ̱̃³⁵	ŋ j ɔ̱̃ ∼ ³⁵	CCVVT
+Bola	pɛ̃⁵⁵ʃaʔ⁵⁵maʔ³¹	p ɛ̃ ∼ ⁵⁵ ◦ ʃ a ʔ ⁵⁵ ◦ m a ʔ ³¹	CVVTCVcTCVcT
+Bola	lɛ̃⁵⁵	l ɛ̃ ∼ ⁵⁵	CVVT
+Bola	nɔ̃⁵⁵	n ɔ̃ ∼ ⁵⁵	CVVT
+Bola	nauŋ³¹tɔ̱̃⁵⁵	n au ŋ ³¹ ◦ t ɔ̱̃ ∼ ⁵⁵	CVcTCVVT
+Burmese_ZMYYC	ñacpat	ñ a c ◦ p a t	CVcCVc
+Burmese_ZMYYC	naññḥ	n a ññ ḥ	CVcT
+Burmese_ZMYYC	praññʔ	p r a ññ ʔ	CCVcc
+Burmese_ZMYYC	saññ tvaṅ	s a ññ ◦ t v a ṅ	CVc_CCVc
+Burmese_ZMYYC	maññ mhyaʔ	m a ññ ◦ mh y a ʔ	CVc_CCVc
+Burmese_ZMYYC	rhaññ	rh a ññ	CVc
+Burmese_ZMYYC	kyañḥ	k y a ñ ḥ	CCVcT
+Burmese_ZMYYC	khyañ	kh y a ñ	CCVc
+Burmese_ZMYYC	lak saññḥ	l a k ◦ s a ññ ḥ	CVc_CVcT
+Burmese_ZMYYC	a saññḥ	a ◦ s a ññ ḥ	V_CVcT
+Burmese_ZMYYC	ñhac	ñh a c	CVc
+Burmese_ZMYYC	maññ	m a ññ	CVc
+Burmese_ZMYYC	laññ paṅḥ	l a ññ ◦ p a ṅ ḥ	CVc_CVcT
+Burmese_ZMYYC	ñña	ññ a	CV
+Burmese_ZMYYC	saññ	s a ññ	CVc
+Burmese_ZMYYC	sɑñ³ve³	s ɑ ñ ³ ◦ v e ³	CVcTCVT
+Burmese_ZMYYC	lañ²	l a ñ ²	CVcT
+Burmese_ZMYYC	sañ³sa³	s a ñ ³ ◦ s a ³	CVcTCVT
+Burmese_ZMYYC	sañ³	s a ñ ³	CVcT
+Burmese_ZMYYC	mañ²su²	m a ñ ² ◦ s u ²	CVcTCVT
+Hpun	ămyà̃iʼ	ă m y à̃i ∼ ʔ	VCCVVc
+Hpun	ă◦χwaĩ⁴	ă ◦ χ w aĩ ∼ ⁴	V_CCVVT
+Hpun	ăxwaĩ̀	ă x w aĩ̀ ∼	VCCVV
+Lashi	sə̃	s ə̃ ∼	CVV
+Maru	lɔ̱̃⁵⁵	l ɔ̱̃ ∼ ⁵⁵	CVVT
+Maru	kauŋ³¹tɔ̃⁵⁵	k au ŋ ³¹ ◦ t ɔ̃ ∼ ⁵⁵	CVcTCVVT
+Maru	kauŋ³¹tɔ̃³⁵	k au ŋ ³¹ ◦ t ɔ̃ ∼ ³⁵	CVcTCVVT
+Maru	thɔ̃³¹	th ɔ̃ ∼ ³¹	CVVT
+Maru	thɔ̃³¹khjɔ³¹	th ɔ̃ ∼ ³¹ ◦ kh j ɔ ³¹	CVVTCCVT
+Maru	ɔ³¹mɛ³¹kauŋ³¹tɔ̃⁵⁵	ɔ ³¹ ◦ m ɛ ³¹ ◦ k au ŋ ³¹ ◦ t ɔ̃ ∼ ⁵⁵	VTCVTCVcTCVVT
+Maru	thɔʔ³⁵mɛ³¹kauŋ³¹tɔ̃⁵⁵	th ɔ ʔ ³⁵ ◦ m ɛ ³¹ ◦ k au ŋ ³¹ ◦ t ɔ̃ ∼ ⁵⁵	CVcTCVTCVcTCVVT
+Maru	kɔ̱̃³¹	k ɔ̱̃ ∼ ³¹	CVVT
+Maru	tʃɔ̃³⁵	tʃ ɔ̃ ∼ ³⁵	CVVT
+Maru	mɔ̃³⁵	m ɔ̃ ∼ ³⁵	CVVT
+Maru	mɔ̃³⁵tsɔ³⁵	m ɔ̃ ∼ ³⁵ ◦ ts ɔ ³⁵	CVVTCVT
+Maru	nɛ̱̃⁵⁵	n ɛ̱̃ ∼ ⁵⁵	CVVT
+Maru	ŋiɔ̃⁵⁵	ŋ iɔ̃ ∼ ⁵⁵	CVVT
+Maru	mjɔ̃³¹	m j ɔ̃ ∼ ³¹	CCVVT
+Maru	mjɔ̱̃³¹	m j ɔ̱̃ ∼ ³¹	CCVVT
+Maru	nŭŋ³⁵mjɔ̃³⁵	n ŭ ŋ ³⁵ ◦ m j ɔ̃ ∼ ³⁵	CVcTCCVVT
+Maru	vɛ̃³¹	v ɛ̃ ∼ ³¹	CVVT
+Maru	pjɔ̆³⁵jɔ̃³¹	p j ɔ̆ ³⁵ ◦ j ɔ̃ ∼ ³¹	CCVTCVVT
+Maru	vẽ³⁵tuk³¹	v ẽ ∼ ³⁵ ◦ t u k ³¹	CVVTCVcT
+Maru	vɛ̃³⁵tuk³¹	v ɛ̃ ∼ ³⁵ ◦ t u k ³¹	CVVTCVcT
+Maru	vɔ̃³¹kɔ̃³¹muk⁵⁵	v ɔ̃ ∼ ³¹ ◦ k ɔ̃ ∼ ³¹ ◦ m u k ⁵⁵	CVVTCVVTCVcT
+Maru	tshɛ̃³¹	tsh ɛ̃ ∼ ³¹	CVVT
+Maru	tɔ̱̃⁵⁵puk⁵⁵ɣuk⁵⁵	t ɔ̱̃ ∼ ⁵⁵ ◦ p u k ⁵⁵ ◦ ɣ u k ⁵⁵	CVVTCVcTCVcT
+Maru	tsɔ̆³⁵ʃɔ̃³¹	ts ɔ̆ ³⁵ ◦ ʃ ɔ̃ ∼ ³¹	CVTCVVT
+Maru	nə̆³¹jɛ̃³¹	n ə̆ ³¹ ◦ j ɛ̃ ∼ ³¹	CVTCVVT
+Maru	lɔʔ²¹thɔ̃⁵⁵ŋju̱k⁵⁵	l ɔ ʔ ²¹ ◦ th ɔ̃ ∼ ⁵⁵ ◦ ŋ j u̱ k ⁵⁵	CVcTCVVTCCVcT
+Maru	lɔʔ³¹thɔ̃⁵⁵ŋju̱k⁵⁵	l ɔ ʔ ³¹ ◦ th ɔ̃ ∼ ⁵⁵ ◦ ŋ j u̱ k ⁵⁵	CVcTCVVTCCVcT
+Maru	lɔʔ³¹kauŋ³¹tɔ̃⁵⁵	l ɔ ʔ ³¹ ◦ k au ŋ ³¹ ◦ t ɔ̃ ∼ ⁵⁵	CVcTCVcTCVVT
+Maru	mjɔ̃³⁵	m j ɔ̃ ∼ ³⁵	CCVVT
+Maru	lɔ̃³¹	l ɔ̃ ∼ ³¹	CVVT
+Maru	ʃɛ̃³¹tɔʔ⁵⁵	ʃ ɛ̃ ∼ ³¹ ◦ t ɔ ʔ ⁵⁵	CVVTCVcT
+Maru	tɔ̱̃⁵⁵puk⁵⁵	t ɔ̱̃ ∼ ⁵⁵ ◦ p u k ⁵⁵	CVVTCVcT
+Maru	kɔ̃³¹	k ɔ̃ ∼ ³¹	CVVT
+Maru	mɔ̃³⁵khu³¹	m ɔ̃ ∼ ³⁵ ◦ kh u ³¹	CVVTCVT
+Maru	tʃɔ̃³¹ka̱uŋ³⁵	tʃ ɔ̃ ∼ ³¹ ◦ k a̱u ŋ ³⁵	CVVTCVcT
+Maru	xɛ̃³¹	x ɛ̃ ∼ ³¹	CVVT
+Maru	ɣək³¹lɔ̃³¹	ɣ ə k ³¹ ◦ l ɔ̃ ∼ ³¹	CVcTCVVT
+Maru	lɔ̱̃³¹mɔi³¹	l ɔ̱̃ ∼ ³¹ ◦ m ɔi ³¹	CVVTCVT
+Maru	lɔ̃³¹mɔi³¹	l ɔ̃ ∼ ³¹ ◦ m ɔi ³¹	CVVTCVT
+Maru	khjik³¹thɔ̃⁵⁵ŋju̱k⁵⁵	kh j i k ³¹ ◦ th ɔ̃ ∼ ⁵⁵ ◦ ŋ j u̱ k ⁵⁵	CCVcTCVVTCCVcT
+Maru	tsɔi³¹thɔ̃³¹	ts ɔi ³¹ ◦ th ɔ̃ ∼ ³¹	CVTCVVT
+Maru	lɔ̃³⁵khauŋ²¹	l ɔ̃ ∼ ³⁵ ◦ kh au ŋ ²¹	CVVTCVcT
+Maru	sɔ̃³¹na̱k⁵⁵	s ɔ̃ ∼ ³¹ ◦ n a̱ k ⁵⁵	CVVTCVcT
+Maru	jɔ̃³⁵na̱uŋ⁵⁵	j ɔ̃ ∼ ³⁵ ◦ n a̱u ŋ ⁵⁵	CVVTCVcT
+Maru	jɔ̃³⁵na̱k⁵⁵	j ɔ̃ ∼ ³⁵ ◦ n a̱ k ⁵⁵	CVVTCVcT
+Maru	pjɔ̃³⁵	p j ɔ̃ ∼ ³⁵	CCVVT
+Maru	jɔ̃³¹	j ɔ̃ ∼ ³¹	CVVT
+Maru	tɔ̃³⁵	t ɔ̃ ∼ ³⁵	CVVT
+Maru	tsɔ̃⁵⁵	ts ɔ̃ ∼ ⁵⁵	CVVT
+Maru	ja̱m³¹kɛ̃³¹	j a̱ m ³¹ ◦ k ɛ̃ ∼ ³¹	CVcTCVVT
+Maru	khɔ̃⁵⁵	kh ɔ̃ ∼ ⁵⁵	CVVT
+Maru	lɔ̃³⁵	l ɔ̃ ∼ ³⁵	CVVT
+Maru	tshɔ̃⁵⁵	tsh ɔ̃ ∼ ⁵⁵	CVVT
+Maru	phɔ̃³¹	ph ɔ̃ ∼ ³¹	CVVT
+Maru	nɛ̃³¹	n ɛ̃ ∼ ³¹	CVVT
+Maru	ɣɛ̃⁵⁵	ɣ ɛ̃ ∼ ⁵⁵	CVVT
+Maru	lɛ̃³¹	l ɛ̃ ∼ ³¹	CVVT
+Maru	nɔ̃̆³¹na̱uŋ⁵⁵	n ɔ̃̆ ∼ ³¹ ◦ n a̱u ŋ ⁵⁵	CVVTCVcT
+Maru	nɔ̃³¹	n ɔ̃ ∼ ³¹	CVVT
+Maru	nɔ̃̆³¹na̱k⁵⁵	n ɔ̃̆ ∼ ³¹ ◦ n a̱ k ⁵⁵	CVVTCVcT
+Maru	nɔ̃³¹na̱k⁵⁵	n ɔ̃ ∼ ³¹ ◦ n a̱ k ⁵⁵	CVVTCVcT

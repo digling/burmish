@@ -1,0 +1,75 @@
+Achang_Lianghe	**	**	C
+Hpun	ănɔ́ŋ	ă n ɔ́ ŋ	VCVc
+Hpun	ăxɛ̀ʔ	ă x ɛ̀ ʔ	VCVc
+Hpun	ăxʀɛ̀ʔ	ă x ʀ ɛ̀ ʔ	VCCVc
+Hpun	ăhɔ̀ŋ	ă h ɔ̀ ŋ	VCVc
+Hpun	ălàŋ	ă l à ŋ	VCVc
+Hpun	kòʔxwàiŋthokòʔkhw	k ò ◦ ʔ x w ài ŋ ◦ th o ◦ k ò ʔ ◦ kh w	CVCCCVcCVCVcCC
+Hpun	ăʃwì	ă ʃ w ì	VCCV
+Hpun	ăʃùi	ă ʃ ùi	VCV
+Hpun	ăʃɛ¹	ă ʃ ɛ ¹	VCVT
+Hpun	ăʀuh⁴	ă ʀ u h ⁴	VCVcT
+Hpun	ăʀù	ă ʀ ù	VCV
+Hpun	ònòʔònᴜk	ò n ò ◦ ʔ ò ◦ n ᴜ k	VCVCVCVc
+Hpun	ăkhò	ă kh ò	VCV
+Hpun	ăkhᴜ̀ʔ	ă kh ᴜ̀ ʔ	VCVc
+Hpun	ănù	ă n ù	VCV
+Hpun	ănᴜ́	ă n ᴜ́	VCV
+Hpun	ăsà	ă s à	VCV
+Hpun	ăsàʼ	ă s à ʔ	VCVc
+Hpun	ănì	ă n ì	VCV
+Hpun	ù-xu	ù x u	VCV
+Hpun	ănà	ă n à	VCV
+Hpun	ăʔùʼchóʔùʼ	ă ʔ ù ʔ ◦ ch ó ◦ ʔ ù ʔ	VCVcCVCVc
+Hpun	ăʃaíŋ	ă ʃ aí ŋ	VCVc
+Hpun	ăʃáiŋ	ă ʃ ái ŋ	VCVc
+Hpun	ăsháiŋ	ă sh ái ŋ	VCVc
+Hpun	ăphàʼ	ă ph à ʔ	VCVc
+Hpun	ăphá	ă ph á	VCV
+Hpun	ăχih¹	ă χ i h ¹	VCVcT
+Hpun	ăxʀíʔ	ă x ʀ í ʔ	VCCVc
+Hpun	ăʃì	ă ʃ ì	VCV
+Hpun	ămyì	ă m y ì	VCCV
+Hpun	ăshɛ́	ă sh ɛ́	VCV
+Hpun	ăʃɛ́	ă ʃ ɛ́	VCV
+Hpun	ălᴜʔ⁵	ă l ᴜ ʔ ⁵	VCVcT
+Hpun	ălᴜ̀ʔ	ă l ᴜ̀ ʔ	VCVc
+Hpun	ăpɔ̀ŋ	ă p ɔ̀ ŋ	VCVc
+Hpun	ăxúʔ	ă x ú ʔ	VCVc
+Hpun	ăxú	ă x ú	VCV
+Hpun	ăló	ă l ó	VCV
+Hpun	ăʀùkàp	ă ʀ ù ◦ k à p	VCVCVc
+Hpun	ăʀùʔ	ă ʀ ù ʔ	VCVc
+Hpun	ăʃɑiŋ⁴	ă ʃ ɑi ŋ ⁴	VCVcT
+Hpun	ăʃaìŋ	ă ʃ aì ŋ	VCVc
+Hpun	ăʀùăsháiŋ/ʃáiŋ	ă ʀ ùă ◦ sh ái ŋ ◦ /ʃ ái ŋ	VCVCVcCVc
+Hpun	ănùʀaíŋ	ă n ù ◦ ʀ aí ŋ	VCVCVc
+Hpun	ăyìʼ	ă y ì ʔ	VCVc
+Hpun	ămaíŋ	ă m aí ŋ	VCVc
+Hpun	ăláiŋ	ă l ái ŋ	VCVc
+Hpun	ămyàiʔ	ă m y ài ʔ	VCCVc
+Hpun	ăsì	ă s ì	VCV
+Hpun	ăʀìʼ	ă ʀ ì ʔ	VCVc
+Hpun	ăʀíʼ	ă ʀ í ʔ	VCVc
+Hpun	ănih⁴[kălih¹puh¹](=we	ă n i h ⁴ ◦ ( = w e	VCVcTcCCV
+Hpun	ămi⁴	ă m i ⁴	VCVT
+Hpun	ămì	ă m ì	VCV
+Hpun	ăyɑh	ă y ɑ h	VCVc
+Hpun	ăyáʔ	ă y á ʔ	VCVc
+Hpun	ăshwí	ă sh w í	VCCV
+Hpun	ăswi	ă s w i	VCCV
+Hpun	ătɔ́ŋ	ă t ɔ́ ŋ	VCVc
+Hpun	ăsăphóʔ	ă s ă ◦ ph ó ʔ	VCVCVc
+Hpun	ăʃᴜʔ⁵	ă ʃ ᴜ ʔ ⁵	VCVcT
+Hpun	ăʃòʔ	ă ʃ ò ʔ	VCVc
+Hpun	ăʃòʔăʃeɪ	ă ʃ ò ◦ ʔ ă ◦ ʃ eɪ	VCVCVCV
+Hpun	aìʔmᴜ̀ʔ	aì ʔ m ᴜ̀ ʔ	VCCVc
+Hpun	ălíʃᴜ̀ʔ	ă l í ◦ ʃ ᴜ̀ ʔ	VCVCVc
+Hpun	ănùʼsùʼ	ă n ù ◦ ʔs ù ʔ	VCVCVc
+Hpun	ăhwàiŋ	ă h w ài ŋ	VCCVc
+Hpun	ăhwàiŋthò-ŋ	ă h w ài ŋ ◦ th ò ŋ	VCCVcCVc
+Hpun	ăphyúʔ	ă ph y ú ʔ	VCCVc
+Hpun	ăʃú	ă ʃ ú	VCV
+Hpun	ăʃúʔmá	ă ʃ ú ◦ ʔ m á	VCVCCV
+Lashi	ŋ³³	ŋ ³³	CT
+Xiandao	n³¹m̥an³⁵a³¹chot⁵⁵	n ³¹ ◦ m̥ a n ³⁵ ◦ a ³¹ ◦ ch o t ⁵⁵	CTCVcTVTCVcT
