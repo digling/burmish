@@ -7,7 +7,7 @@ Weblinks
 ========
 
 * General URL of Wordlist Editor (EDICTOR): http://tsv.lingpy.org 
-* Customized URL for Burmish data (CHECK SEGMENTATION-STAGE): http://tsv.lingpy.org/?css=menu:show,textfields:show,database:show,&formatter=COGID&preview=10&basics=DOCULECT,CONCEPT,IPA,CHECKSEGMENTS,ORIGINALENTRY,TOKENS,ALIGNMENT&pinyin=CHINESE&highlight=TOKENS,ALIGNMENT&file=burmish
+* Customized URL for Burmish data (CHECK SEGMENTATION-STAGE): http://tsv.lingpy.org/?css=menu:show,textfields:show,database:show,&formatter=COGID&preview=10&basics=DOCULECT,CONCEPT,IPA,ORIGINALENTRY,TOKENS,ALIGNMENT,COGID&pinyin=CHINESE&highlight=TOKENS,ALIGNMENT&file=burmish
 * 
 * Link to our issue tracker: https://github.com/LinguList/burmish/issues
 
