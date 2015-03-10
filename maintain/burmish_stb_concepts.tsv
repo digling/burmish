@@ -1,0 +1,276 @@
+NUMBER	STDB	CONCEPTID	GLOSS	COVERAGE
+1	*	1009	the dust	7
+2	-	1031630	the otter	10
+3	*	1149393	that	11
+4	*	1173416	all	9
+5	-	1243793	the thorn	11
+6	-	1280854	to weave	11
+7	*	1287831	here	10
+8	*	1333710	red	11
+9	*	1335540	to put on // to pull over oneself	16
+10	*	1341728	black	11
+11	*	1375415	to blow	10
+12	-	1425	the field	10
+13	*	1446	the fire	11
+14	-	1454028	the mortar (bowl)	9
+15	*	1460	the fish	11
+16	*	1487	the flower	11
+17	*	1499731	left over // left	15
+18	*	1502	the fog	10
+19	*	1505691	the sea	5
+20	*	1510483	to lick	8
+21	*	1511061	blunt	10
+22	*	1533	the forest	5
+23	-	1542663	to dry near fire	10
+24	*	156096	three	11
+25	*	156104	five	11
+26	*	156863	the nail // the nail (tool)	16
+27	-	1570	the frog	11
+28	*	1590	the hair or fur or down	9
+29	-	160271	the ant	11
+30	*	161806	to hide	9
+31	*	1675	the grass	11
+32	-	1780	the horse	10
+33	*	1837	the ice	8
+34	-	1959	the insect	11
+35	-	2024	the iron	9
+36	*	2061	the lake	7
+37	*	2124	the leaf	11
+38	*	2300	the meat	8
+39	-	2358	the milk	11
+40	*	2421	the mountain	11
+41	-	2444	the mushroom	10
+42	*	264	the ash	6
+43	*	3253	the river	11
+44	*	3258	the road	10
+45	*	3269	the root	11
+46	*	3305	the sand	11
+47	*	332000	the mouth	8
+48	-	333652	the back side	9
+49	*	333730	the person	5
+50	-	335263	to bear	10
+51	-	335942	tall	11
+52	*	336072	to steal	11
+53	*	3361	the seed	11
+54	-	336426	sweet	11
+55	-	337925	old (person)	11
+56	*	3388	the snake	11
+57	*	340828	the egg	7
+58	-	3424	the silver	11
+59	*	3430	the skin	10
+60	*	3451	the smoke	11
+61	*	3455	the snow	5
+62	-	347033	to boil	11
+63	*	352331	they	10
+64	-	353440	how many?	10
+65	*	3633	the stone	11
+66	-	373675	to cough	7
+67	-	375671	bitter	11
+68	*	3854	the tree	11
+69	-	3968	the village	11
+70	*	400	the bird	11
+71	-	401769	the horn	7
+72	*	411	the blood	7
+73	*	4118	the water	11
+74	-	412005	the leech	11
+75	*	4160	the wind	11
+76	*	4165	the woman	11
+77	-	420887	the arrow	11
+78	-	427040	the bow (for arrow)	11
+79	-	429615	to put	9
+80	*	436024	right // right (side)	7
+81	-	441895	to grind	11
+82	*	443659	good	11
+83	*	446278	the head hair // the hair	11
+84	*	478515	to reside	10
+85	*	479387	to climb	6
+86	-	496905	we (inclusive)	9
+87	-	500899	to kick	10
+88	*	522875	to shoot	11
+89	-	538459	the cooked rice	11
+90	-	541498	to give birth	9
+91	*	5423	many	11
+92	*	542675	to warm oneself warm	6
+93	*	5429	the wife	11
+94	*	5432	the husband	11
+95	*	5436	the feather	7
+96	*	5437	big	11
+97	*	5438	long	11
+98	*	5439	to bark	7
+99	*	5440	the tongue	11
+100	*	5451	heavy	11
+101	*	5455	we	10
+102	*	5456	you	10
+103	*	5458	this	11
+104	*	5459	thou	5
+105	*	5463	the mother	11
+106	*	5464	the father	11
+107	*	5465	the rope	11
+108	*	5468	the tail	11
+109	*	5471	the nose	8
+110	*	5475	the heart	11
+111	*	5476	the liver	11
+112	*	5477	the day	11
+113	*	5478	the year	11
+114	*	5483	dirty	10
+115	*	5484	new	11
+116	*	5485	warm	11
+117	*	5486	the night	5
+118	*	5487	smooth	8
+119	*	5490	who?	11
+120	*	5491	what?	10
+121	*	5492	where?	10
+122	*	5493	when?	6
+123	*	5494	how?	6
+124	*	5499	some	5
+125	*	5500	few	11
+126	*	5502	wide	10
+127	*	5503	thick (liquid) // thick	17
+128	*	5509	small	11
+129	*	5510	the ear	11
+130	*	5511	the eye	7
+131	*	5516	the belly	6
+132	*	5517	the house	11
+133	-	5523	to rain	11
+134	*	5527	the head	11
+135	*	5528	the wing	11
+136	*	5540	to sing	10
+137	*	5566	narrow	11
+138	*	5599	the salt	11
+139	*	5616	the hand	8
+140	*	5617	to vomit	10
+141	*	5619	fat	8
+142	*	5622	to fall	11
+143	*	5639	cold	8
+144	*	5648	the back	6
+145	*	5650	bad	11
+146	*	5665	the leg	5
+147	*	5672	the foot	5
+148	*	568	the child (young human)	10
+149	*	5729	the moon	11
+150	*	5823	the neck	8
+151	*	5825	white	11
+152	*	5827	to eat	8
+153	-	5836	the pig	11
+154	*	5850	the sun	11
+155	-	5870	the monkey	11
+156	*	5876	to laugh	8
+157	*	5918	the knee	9
+158	-	5919	the medicine	11
+159	*	5946	the tooth	11
+160	*	5951	the needle (for sewing)	11
+161	-	5966	the shadow	10
+162	*	5980	the louse	10
+163	*	5983	the bone	6
+164	*	5984	round	5
+165	*	5987	sharp	11
+166	*	5989	dry	11
+167	*	5990	thin // thin (person)	15
+168	*	5991	to drink	8
+169	*	5992	the breast	7
+170	*	5993	to bite	7
+171	*	5994	straight	11
+172	*	5995	the name	11
+173	*	5997	far	11
+174	*	5998	to breathe	1
+175	*	5999	to hear	7
+176	*	6003	to see	11
+177	*	6004	to know	11
+178	*	6005	to lie (on the floor)	6
+179	*	6010	to play	10
+180	*	6017	to squeeze // to wring	8
+181	*	6021	to think (reflect)	10
+182	*	6022	to sit	4
+183	*	6023	to kill	9
+184	*	6024	to dig	11
+185	*	6025	to fear	5
+186	*	6026	to count	10
+187	*	6027	to suck	6
+188	*	6028	to live	6
+189	*	6030	to fight	10
+190	*	6031	yellow	10
+191	*	6032	green	11
+192	*	6039	to burn	7
+193	*	6040	full	11
+194	*	6041	the star	11
+195	*	6043	to cut	11
+196	*	6044	to hit (target)	10
+197	*	6045	to stab	6
+198	*	6046	to hunt	10
+199	*	6047	to scratch	9
+200	*	6048	to split	6
+201	*	6050	to swim	6
+202	*	6051	to spit	10
+203	*	6052	to fly	8
+204	*	6053	to stand	11
+205	*	6054	to walk	10
+206	*	6056	to come	11
+207	*	6059	to give	7
+208	*	6060	to hold // to hold (past tense)	16
+209	*	6068	to push down // to push	16
+210	*	6069	to wash something	11
+211	*	6070	to wipe	11
+212	*	6071	to pull	11
+213	*	6072	to throw	11
+214	*	6073	to sew	9
+215	*	6075	to say	4
+216	*	6193	nine	11
+217	*	623	the cloud	10
+218	*	6244	one	11
+219	*	6245	to die	9
+220	*	6248	two	11
+221	*	6253	four	11
+222	*	6280	the fruit	11
+223	*	6312	ten	11
+224	-	6323	to run	11
+225	-	6328	to forget	10
+226	*	6343	the branch	11
+227	*	6397	the man	11
+228	-	6439	to sell	11
+229	*	6454	to swell	9
+230	*	6457	to float	10
+231	*	6519	to sleep	11
+232	*	6521	to smell	8
+233	-	6634	the son	11
+234	*	6685	hundred	11
+235	*	6746	short	11
+236	-	6855	to beat	10
+237	*	7003	six	11
+238	*	7004	seven	11
+239	*	7005	eight	11
+240	*	7013	twenty	10
+241	*	7026	right (correct)	11
+242	*	7027	wet	11
+243	*	7039	the sky	11
+244	-	734724	the banana tree	9
+245	*	741520	the wood	9
+246	-	7552	the bear	10
+247	*	7709	to cry	5
+248	-	7774	the boat	11
+249	*	7800	ill	8
+250	-	7907	soft	11
+251	*	8061	to buy	11
+252	*	828398	the claw	8
+253	-	838324	sour	11
+254	*	844574	to tie into a bundle // to tie up	8
+255	*	8448	to dream	11
+256	-	848903	the bamboo	11
+257	*	858309	there	10
+258	*	869106	near	11
+259	*	961244	to flow	10
+260	*	966	the dog	11
+261	-	980418	to descend	10
+262	-	980597	to dry in the sun or air	10
+263	*	?19	the year after next year	5
+264	-	?20	the year before last year	9
+265	-	?29	to blow the trumpet	8
+266	*	?30	to burn oneself	6
+267	-	?36	to hold in arms	10
+268	-	?37	to hold in the mouth	10
+269	-	?40	to pull out	10
+270	*	?4160	to wind	6
+271	*	?5465	rope (classifier)	6
+272	-	?5675	the little finger	7
+273	-	?6	old (thing)	11
+274	*	?8448	the dream	6
+275	*	?85409	there is	6

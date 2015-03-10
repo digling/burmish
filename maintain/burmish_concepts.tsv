@@ -45,7 +45,8 @@
 45	436024	right // right (side)
 46	7026	right (correct)
 47	?8	river (classifier)
-48	5465	rope (classifier) // the rope
+48	5465	the rope
+48	?5465	rope (classifier)
 49	5984	round
 50	?9	section of road (classifier)
 51	7004	seven
@@ -75,7 +76,8 @@
 75	?13	the bamboo shoot
 76	734724	the banana tree
 77	355931	the bean // the pea or bean
-78	7552	the bear // to bear
+78	7552	the bear
+78	335263	to bear
 79	325	the bee
 80	5516	the belly
 81	400	the bird
@@ -95,7 +97,8 @@
 95	5477	the day
 96	966	the dog
 97	7890	the dove
-98	8448	the dream // to dream
+98	?8448	the dream
+98	8448	to dream
 99	1009	the dust
 100	5510	the ear
 101	340828	the egg
@@ -103,7 +106,9 @@
 103	5464	the father
 104	5436	the feather // the hair or fur or down
 105	1425	the field
-106	5675	the finger // the little finger // to dig out with finger
+106	5675	the finger 
+106	?5675	the little finger
+106	?5676	to dig out with finger
 107	5529	the fingernail
 108	1446	the fire
 109	1460	the fish
@@ -196,9 +201,10 @@
 196	6041	the star
 197	3633	the stone
 198	5850	the sun
-199	1250835	the sweat // to sweat
+199	1250835	the sweat
+199	120941	to sweat
 200	5468	the tail
-201	1577366	the this year // the year
+201	1577366	the this year
 202	1243793	the thorn
 203	5440	the tongue
 204	5946	the tooth
@@ -207,14 +213,16 @@
 207	3968	the village
 208	4118	the water
 209	5429	the wife
-210	4160	the wind // to wind
+210	4160	the wind
+210	?4160	to wind
 211	5528	the wing
 212	4165	the woman
 213	741520	the wood
 214	5478	the year
 215	?19	the year after next year
 216	?20	the year before last year
-217	858309	there // there is
+217	858309	there
+217	?85409	there is
 218	352331	they
 219	?21	they two
 220	5503	thick // thick (liquid)
@@ -257,7 +265,8 @@
 257	?31	to die out (fire)
 258	6024	to dig
 259	5991	to drink
-260	340699	to drive a car // to drive away
+260	340699	to drive a car
+260	?340699	to drive away
 261	980597	to dry in the sun or air
 262	1542663	to dry near fire
 263	5827	to eat
@@ -295,7 +304,8 @@
 295	429615	to place // to put
 296	6010	to play
 297	621011	to pour out
-298	6071	to pull // to pull over oneself
+298	6071	to pull
+298	1335540	to pull over oneself
 299	1496239	to pull (cow)
 300	?39	to pull down
 301	?40	to pull out
@@ -337,8 +347,8 @@
 337	1584109	to turn around // to turn one's head to the back
 338	5617	to vomit
 339	6054	to walk
-340	542675	to warm oneself
-341	5485	to warm oneself warm // warm
+340	542675	to warm oneself // to warm oneself warm
+341	5485	warm
 342	6069	to wash something
 343	1280854	to weave
 344	6070	to wipe
