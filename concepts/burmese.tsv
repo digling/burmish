@@ -1,0 +1,401 @@
+NUMBER	FGLOSS	GLOSS	COVERAGE	OMEGAWIKI
+1	all	all	12	1173416
+2	bad	bad	11	1107818
+2	bad	bad	11	5650
+3	be on the other side	be on other side	6	NAN
+4	big	big	13	5437
+5	bitter	bitter	12	375671
+6	black	black	12	1341728
+7	blunt	blunt	11	1511061
+8	boiled water	boiled water	7	NAN
+9	burn the grass	burn grass	7	NAN
+10	cold	cold	9	5639
+11	dirty	dirty	12	5483
+12	do not have	do not have	7	NAN
+13	dry	dry	13	5989
+14	eight	eight	12	7005
+15	far	far	12	5997
+16	fat	fat	13	5619
+17	few	few	15	5500
+18	five	five	12	156104
+19	four	four	12	6253
+20	full	full	15	6040
+21	good	good	12	443659
+22	green	green	12	6032
+23	heavy	heavy	12	5451
+24	here	here	14	1287831
+25	how many?	how many?	14	353440
+26	how?	how?	7	5494
+27	hundred	hundred	15	6685
+28	ill	ill	11	7800
+29	itchy	itchy	7	1312191
+30	left	left	15	1499731
+31	left over	left over	8	1499731
+32	light	light	9	452743
+33	light (in weight)	light (in weight)	7	452743
+34	long	long	15	5438
+35	long (classifier)	long (classifier)	9	NAN
+36	many	many	15	5423
+37	narrow	narrow	12	5566
+38	near	near	14	869106
+39	new	new	14	5484
+40	nine	nine	12	6193
+41	old (person)	old (person)	15	337925
+42	old (thing)	old (thing)	15	NAN
+43	one	one	15	6244
+44	one pair (classifier)	one pair (classifier)	7	NAN
+45	red	red	15	1333710
+46	right	right	8	436024
+47	right (correct)	right (correct)	14	7026
+48	right (side)	right (side)	10	436024
+49	river (classifier)	river (classifier)	7	NAN
+50	rope (classifier)	rope (classifier)	7	5465
+51	round	round	9	5984
+52	section of road (classifier)	section of road (classifier)	7	NAN
+53	seven	seven	15	7004
+54	sharp	sharp	12	5987
+55	short	short	15	6746
+56	six	six	16	7003
+57	small	small	12	5509
+58	smooth	smooth	11	5487
+59	soft	soft	12	7907
+60	some	some	6	5499
+61	sour	sour	12	838324
+62	straight	straight	13	5994
+63	sweet	sweet	13	336426
+64	tall	tall	13	335942
+65	ten	ten	15	6312
+66	ten cents (classifier)	ten cents (classifier)	7	NAN
+67	that	that	15	1149393
+68	that way	that way	7	NAN
+69	the ant	ant	12	160271
+70	the arm	arm	13	6894
+71	the arrow	arrow	13	420887
+72	the ash	ash	7	264
+73	the back	back	13	5648
+74	the back side	back side	NAN	333652
+75	the bamboo	bamboo	12	848903
+76	the bamboo section	bamboo section	7	NAN
+77	the bamboo shoot	bamboo shoot	9	NAN
+78	the banana tree	banana tree	10	734724
+79	the bean	bean	7	355931
+80	the bear	bear	11	7552
+81	the bee	bee	8	325
+82	the belly	belly	12	5516
+83	the bird	bird	13	400
+84	the blood	blood	15	411
+85	the boat	boat	12	7774
+86	the bone	bone	15	5983
+87	the bow (for arrow)	bow (for arrow)	12	427040
+88	the brain	brain	16	6504
+89	the branch	branch	12	6343
+90	the breast	breast	17	5992
+91	the breath	breath	7	370376
+92	the child (young human)	child (young human)	11	568
+93	the claw	claw	13	828398
+94	the cloud	cloud	12	623
+95	the cooked rice	cooked rice	15	538459
+96	the day	day	15	5477
+96	the day	day	15	5533
+97	the dog	dog	13	966
+98	the dove	dove	9	7890
+99	the dream	dream	7	8448
+100	the dust	dust	8	1009
+101	the ear	ear	21	5510
+102	the egg	egg	13	340828
+103	the eye	eye	18	5511
+104	the father	father	14	5464
+105	the feather	feather	11	5436
+106	the field	field	12	1425
+107	the finger	finger	11	5675
+108	the fingernail	fingernail	12	5529
+109	the fire	fire	12	1446
+110	the fish	fish	14	1460
+111	the flower	flower	12	1487
+112	the fog	fog	12	1502
+113	the foot	foot	16	5672
+114	the forest	forest	6	1533
+115	the frog	frog	12	1570
+116	the fruit	fruit	12	6280
+117	the fungus	fungus	7	2444
+118	the glutinous rice	glutinous rice	7	NAN
+119	the grass	grass	14	1675
+120	the hair	hair	13	446278
+121	the hair or fur or down	hair or fur or down	15	446278
+121	the hair or fur or down	hair or fur or down	15	1399403
+121	the hair or fur or down	hair or fur or down	15	1590
+121	the hair or fur or down	hair or fur or down	15	5436
+122	the hand	hand	17	5616
+123	the head	head	19	5527
+124	the head hair	head hair	14	446278
+125	the heart	heart	22	5475
+126	the horn	horn	14	401769
+127	the horse	horse	12	1780
+128	the house	house	12	5517
+129	the husband	husband	12	5432
+130	the ice	ice	11	1837
+131	the insect	insect	12	1959
+132	the iron	iron	10	2024
+133	the joint	joint	8	430011
+134	the knee	knee	16	5918
+135	the lake	lake	9	2061
+136	the last year	last year	9	1577370
+137	the leaf	leaf	13	2124
+138	the leech	leech	16	412005
+139	the leg	leg	9	5665
+140	the life	life	9	1419171
+141	the life span	life span	7	1419171
+142	the little finger	little finger	12	5675
+143	the liver	liver	21	5476
+144	the louse	louse	14	5980
+145	the man	man	15	6397
+146	the meat	meat	14	2300
+147	the medicine	medicine	15	5919
+148	the middle finger	middle finger	8	NAN
+149	the milk	milk	19	2358
+150	the monkey	monkey	12	5870
+151	the moon	moon	13	5729
+152	the mortar (bowl)	mortar (bowl)	12	1454028
+153	the mother	mother	14	5463
+154	the mountain	mountain	15	2421
+155	the mountain side	mountain side	6	NAN
+156	the mouth	mouth	15	332000
+157	the mushroom	mushroom	12	2444
+158	the nail	nail	12	156863
+158	the nail	nail	12	828575
+159	the nail (tool)	nail (tool)	12	156863
+160	the name	name	12	5995
+161	the navel	navel	11	7690
+162	the neck	neck	16	5823
+163	the needle (for sewing)	needle (for sewing)	12	5951
+164	the next year	next year	7	1577374
+165	the night	night	9	5486
+166	the nose	nose	17	5471
+167	the old lady	old lady	7	385678
+168	the old man	old man	7	1526622
+169	the old person	old person	8	337925
+170	the otter	otter	11	1031630
+171	the paddy rice	paddy rice	7	395506
+172	the pea	pea	7	726623
+173	the pea or bean	pea or bean	6	355931
+173	the pea or bean	pea or bean	6	726623
+174	the penis	penis	8	5473
+175	the person	person	9	333730
+176	the pig	pig	12	5836
+177	the place	place	7	337267
+178	the poison	poison	8	2847
+179	the rat	rat	10	6233
+180	the rice	rice	7	395506
+181	the rice plant	rice plant	8	3263
+182	the river	river	15	3253
+183	the road	road	14	3258
+184	the root	root	15	3269
+185	the rope	rope	15	5465
+186	the salt	salt	15	5599
+187	the sand	sand	15	3305
+188	the sea	sea	8	1505691
+188	the sea	sea	8	6154
+189	the section (of bamboo between two joints, classifier)	section (of bamboo between two joints, classifier)	7	NAN
+190	the seed	seed	15	3361
+191	the shadow	shadow	16	5966
+192	the silver	silver	15	3424
+193	the skin	skin	20	3430
+194	the sky	sky	12	7039
+195	the smoke	smoke	15	3451
+196	the snake	snake	15	3388
+197	the snot	snot	8	1417428
+198	the snow	snow	6	3455
+199	the soil	soil	7	434212
+200	the son	son	15	6634
+201	the soya bean	soya bean	7	1194332
+202	the sprout or shoot	sprout or shoot	7	NAN
+203	the star	star	16	6041
+204	the stone	stone	16	3633
+205	the sun	sun	18	5850
+206	the sweat	sweat	8	1250835
+207	the tail	tail	22	5468
+208	the this year	this year	9	1577366
+209	the thorn	thorn	15	1243793
+210	the tongue	tongue	21	5440
+211	the tooth	tooth	20	5946
+212	the tree	tree	15	3854
+213	the uncooked rice	uncooked rice	8	395506
+214	the unhusked rice	unhusked rice	NAN	395506
+215	the valley	valley	6	3938
+216	the village	village	15	3968
+217	the water	water	18	4118
+218	the wife	wife	15	5429
+219	the wind	wind	15	4160
+220	the wing	wing	19	5528
+221	the woman	woman	15	4165
+222	the wood	wood	13	741520
+223	the year	year	13	1577366
+223	the year	year	13	1577370
+223	the year	year	13	1577374
+223	the year	year	13	5478
+224	the year after next year	year after next year	NAN	5478
+225	the year before last year	year before last year	11	NAN
+226	there	there	14	858309
+227	there is	there is	7	858309
+228	they	they	14	352331
+229	they two	they two	10	NAN
+230	thick	thick	15	5503
+231	thick (liquid)	thick (liquid)	7	5503
+232	thin	thin	14	5990
+233	thin (classifier)	thin (classifier)	8	NAN
+234	thin (hair)	thin (hair)	6	NAN
+235	thin (person)	thin (person)	11	5990
+236	thin (thing)	thin (thing)	8	NAN
+237	thin or watery	thin or watery	8	NAN
+238	this	this	15	5458
+239	this way	this way	7	NAN
+240	thou	thou	9	5459
+241	three	three	15	156096
+242	to arrange	arrange	7	6432
+243	to ascend	ascend	9	335553
+244	to bark	bark	12	5439
+245	to be familiar with	be familiar with	8	NAN
+246	to be satiated	be satiated	10	1188869
+247	to bear	bear	14	7552
+248	to beat	beat	12	6855
+249	to bite	bite	13	5993
+250	to blow	blow	13	1375415
+251	to blow the nose	blow nose	8	NAN
+252	to blow the trumpet	blow trumpet	16	NAN
+253	to boil	boil	13	347033
+254	to breathe	breathe	7	5998
+255	to burn	burn	8	1299599
+255	to burn	burn	8	6039
+256	to burn oneself	burn oneself	7	1299599
+257	to buy	buy	12	8061
+258	to carry	carry	7	335263
+259	to climb	climb	7	479387
+260	to come	come	15	6056
+261	to come out	come out	7	480460
+262	to cough	cough	12	373675
+263	to count	count	11	6026
+264	to cry	cry	16	7709
+265	to cut	cut	15	6043
+266	to deliver	deliver	8	963547
+267	to descend	descend	14	980418
+268	to die	die	19	6245
+269	to die out (fire)	die out (fire)	7	NAN
+270	to dig	dig	13	6024
+271	to dig out with finger	dig out with finger	NAN	5675
+272	to dream	dream	20	8448
+273	to drink	drink	13	5991
+274	to drive a car	drive a car	7	340699
+275	to drive away	drive away	8	340699
+276	to dry in the sun or air	dry in sun or air	14	980597
+277	to dry near fire	dry near fire	NAN	1542663
+278	to eat	eat	16	5827
+279	to expel	expel	6	NAN
+280	to fall	fall	15	5622
+281	to fall asleep	fall asleep	7	480264
+282	to fear	fear	9	6025
+283	to fetch	fetch	7	NAN
+284	to fight	fight	13	6030
+285	to float	float	12	6457
+286	to flow	flow	11	961244
+287	to fly	fly	13	6052
+288	to forget	forget	12	6328
+289	to give	give	8	6059
+290	to give birth	give birth	16	541498
+291	to give out	give out	6	NAN
+292	to grind	grind	13	441895
+293	to hear	hear	13	5999
+294	to hide	hide	13	161806
+295	to hit (target)	hit (target)	14	6044
+296	to hold	hold	14	6060
+297	to hold (past tense)	hold (past tense)	7	6060
+298	to hold a meeting	hold a meeting	6	NAN
+299	to hold in arms	hold in arms	14	NAN
+300	to hold in the mouth	hold in mouth	15	NAN
+301	to hunt	hunt	12	6046
+302	to kick	kick	14	500899
+303	to kill	kill	13	6023
+304	to know	know	15	6004
+305	to laugh	laugh	16	5876
+306	to lick	lick	18	1510483
+307	to lie (on the floor)	lie (on floor)	7	6005
+308	to live	live	7	6028
+309	to pack	pack	7	NAN
+310	to piss	piss	6	160433
+311	to place	place	8	429615
+312	to play	play	13	6010
+313	to pour out	pour out	7	621011
+314	to pull	pull	15	6071
+315	to pull (cow)	pull (cow)	7	1496239
+316	to pull down	pull down	7	NAN
+317	to pull out	pull out	14	NAN
+318	to pull over oneself	pull over oneself	7	6071
+319	to pull up (weeds)	pull up (weeds)	7	761899
+320	to push	push	14	6068
+321	to push down	push down	7	6068
+322	to put	put	13	429615
+323	to put away	put away	8	NAN
+324	to put in	put in	7	NAN
+325	to put on	put on	14	1335540
+326	to put one's hand on	put one's hand on	NAN	1335540
+327	to put out to pasture	put out pasture	7	1443493
+328	to rain	rain	18	5523
+329	to rease	rease	6	NAN
+330	to reside	reside	13	478515
+331	to run	run	15	6323
+332	to say	say	10	6075
+333	to scratch	scratch	12	6047
+334	to see	see	18	6003
+335	to sell	sell	15	6439
+336	to sew	sew	11	6073
+337	to shoot	shoot	15	522875
+338	to sing	sing	12	5540
+339	to sit	sit	8	6022
+340	to sit down	sit down	7	6785
+341	to sleep	sleep	19	6519
+342	to smell	smell	17	6520
+342	to smell	smell	17	6521
+343	to spit	spit	17	6051
+344	to split	split	8	6048
+345	to squeeze	squeeze	7	6017
+346	to stab	stab	7	6045
+347	to stand	stand	19	6053
+348	to steal	steal	15	336072
+349	to suck	suck	11	6027
+350	to sweat	sweat	13	1250835
+351	to swell	swell	16	6454
+352	to swim	swim	7	6050
+353	to think (reflect)	think (reflect)	14	6021
+354	to throw	throw	15	6072
+355	to tie into a bundle	tie ina bundle	6	844574
+356	to tie up	tie up	7	844574
+357	to turn	turn	7	6526
+358	to turn around	turn around	7	1584109
+359	to turn one's head to the back	turn one's head back	6	1584109
+360	to turn over	turn over	7	6526
+361	to vomit	vomit	18	5617
+362	to walk	walk	14	6054
+363	to warm oneself	warm oneself	8	542675
+364	to warm oneself warm	warm oneself warm	542675	5485
+365	to wash something	wash something	15	6069
+366	to weave	weave	15	1280854
+367	to wind	wind	7	4160
+368	to wipe	wipe	16	6070
+369	to wring	wring	6	6017
+370	tomorrow night	tomorrow night	7	NAN
+371	twenty	twenty	14	7013
+372	two	two	15	6248
+373	warm	warm	12	5485
+374	we	we	14	5455
+375	we (inclusive)	we (inclusive)	13	496905
+376	we two	we two	10	NAN
+377	wet	wet	12	7027
+378	what?	what?	14	5491
+379	when?	when?	7	5493
+380	where?	where?	14	5492
+381	white	white	12	5825
+382	who?	who?	15	5490
+383	wide	wide	14	5502
+384	yellow	yellow	11	6031
+385	yesterday night	yesterday night	7	NAN
+386	you	you	12	5456
+387	you two	you two	8	NAN
