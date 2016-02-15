@@ -11,33 +11,24 @@ Weblinks
 * 
 * Link to our issue tracker: https://github.com/LinguList/burmish/issues
 
-Things to be kept in mind (based on closed issues)
-==================================================
+News
+====
 
-We have 
+Added full support for the languages now, that is, we have all glottocodes, the sources in STEDT, etc. 
+I also added an automatically generated [geographic map](https://github.com/LinguList/burmish/blob/master/json/languages.geojson) that shows all languages on github, for which coordinates could be found on Glottolog.
 
-* problems handling brackets or "variants" in the data, where people use the form "a(x)" to denote that both the form "a" and the form "ax" may be attested (or what was their original intention?)
-* the initial automatic procedure of extracting words by similar meaning and cleanign entries for segmentation ignore that the semi-colon is also used as a separator between dictionary entries. These cases have now been cleaned manually, but this means that some intereseting word forms (there are after all 39 cases in which a semi-colon was used), may not be in the data right now. However, all data can be retrieved by checking the "original entry" column of the data, which is what should anyway be done when dealing with doubtful cases.
+All languages in the sample along with meta-data, and additional information can now be found [under this link](https://github.com/dighl/burmish/blob/master/tsv/doculects.tsv). Note that both Hpun and Marma are not really in the current sample, since we need to map their concepts first to the list of 250 concepts we have selected (and potentially also to the larger list to be selected later).
 
 Workflow
 ========
 
-The workflow is not fixed at the moment and will change, depending on problems we face during the reconstruction procedure. 
-At the moment, are in the stage of 
+We need to re-arrange our workflow as follows:
 
-* SEGMENTATION (phonological and morphological)
+1. update three missing concepts in the data which were now added to the Sino-Tibetan database (calculation already done, update pending, but not difficult)
+2. decide for a larger list of concepts on the basis of TBL data (since this is the largest source)
+3. (potentially at the same time with 2) check all phonetic entries in the current data, there by 
+4. carry out a full morpheme analysis for each of the languages in the sample. That means: Assign for all morphemes in the word entries which ones are internally cognate.
+5. carry out partial cognate assignment, potentially with help of automatic preparsing procedure. This has been partially done in the past, but we need to check to which degree it is consistent, and we need to merge this with the language-internal morphological analysis, which is indispensible for all further tasks.
 
-Before that, some initial steps were conducted, including:
 
-* SEMANTIC TAGGING
-* AUTOMATIC COGNATE ASSIGNMENT
-* INITIAL (MANUAL) COGNATE ASSIGNMENT
-* AUTOMATIC ALIGNMENT OF PARTIAL COGNATES
-
-The next step after SEGMENTATION will be to remove DUPLICATES (due to the fact that data came from multiple sources for particular "doculects") and refine SEMANTIC TAGGING (there are some errors in the current version).
-
-Generally, we try to more or less take the following workflow as orientation:
-
-![Workflow](https://raw.githubusercontent.com/LinguList/burmish/master/workflow.jpg)
-
-This workflow is basically iterative, so we will jump back and forth whenever needed. In all steps, we will first try to find automatic solutions and then apply manual corrections afterwards. So this workflow is computer-guided, not automatic!
+Further steps we need
