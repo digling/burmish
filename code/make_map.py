@@ -10,6 +10,10 @@ languages = csv2list('../tsv/doculects.tsv')
 points = []
 for line in languages[1:]:
     lang = line[3]
+    if line[0].startswith('*'):
+        color = '#00ff00'
+    else:
+        color = '#ff0000'
     try:
         lat, lon = L[lang]['coordinates']['latitude'], L[lang]['coordinates']['longitude']
         point = geojson.Point((lon, lat))
@@ -19,7 +23,8 @@ for line in languages[1:]:
                     "glottolog" : lang,
                     "group" : line[5],
                     "source" : line[6],
-                    "entries" : line[7]
+                    "entries" : line[7],
+                    "marker-color" : color
                     }
                 )
         points += [feature]
