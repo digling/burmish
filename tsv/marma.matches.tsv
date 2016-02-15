@@ -1,0 +1,503 @@
+NUMBER	GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	MATCH_QUALITY
+1	above	above	1741	0731	0	???	8
+
+2	all	all	98	0962	9	all	1
+
+3	the ant	the ant	587	0365	17	ant	3
+
+4	the armpit	the armpit	1886	0092	21	armpit	3
+
+5	bad	bad	1292	1053	34	bad	1
+
+6	the bamboo	the bamboo	1927	0389	38	bamboo	3
+
+7	the barley (tibetan or highland)	the barley (tibetan or highland)	932	0411	44	barley	3
+
+8	to be alive	to be alive	1422	1087	8	alive	3
+
+9	the belly	the belly	1251	0096	58	belly / stomach	3
+
+10	below, under	below, under	1485	0732	0	???	8
+
+11	big	big	1202	0964	62	big	1
+
+12	the bird	the bird	937	0326	65	bird	3
+
+13	to bite	to bite	1403	1753	67	bite	3
+
+14	black	black	163	1005	69	black	1
+
+15	the blood	the blood	946	0129	74	blood	3
+
+16	to blow (of wind)	to blow (of wind)	175	1738	75	blow (of wind)	3
+
+17	the body hair (hair or fur)	the body hair (hair or fur)	189	0266	83	body hair	3
+
+18	the bone	the bone	1394	0133	85	bone	3
+
+19	the branch	the branch	1531	0374	92	branch	3
+
+20	the breast (female)	the breast (female)	1402	0094	132	chest / breast	3
+
+21	to burn [intransitive]	to burn [intransitive]	1428	1269	109	burn	3
+
+22	to buy	to buy	1869	1516	113	buy	3
+
+23	to chew	to chew	321	1424	133	chew	3
+
+24	the child (young human)	the child (young human)	1304	0169	134	child	3
+
+25	the cloud	the cloud	1489	0007	143	cloud	3
+
+26	cold (of temperature)	cold (of temperature)	1287	1063	148	cold	2
+
+27	to come	to come	1446	1491	153	come	3
+
+28	correct (right)	correct (right)	1725	1045	161	correct	2
+
+29	to count	to count	1420	1640	163	count	3
+
+30	to cry (weep)	to cry (weep)	1839	1485	172	cry (of animal) / bark	3
+
+31	dark	dark	706	1013	181	dark	1
+
+32	the daughter	the daughter	1357	0222	182	daughter	3
+
+33	the dew	the dew	1977	0015	0	???	8
+
+34	to die	to die	1494	1651	194	die	3
+
+35	to dig	to dig	1418	1698	195	dig	3
+
+36	dirty	dirty	1230	1086	198	dirty	1
+
+37	the dog	the dog	2009	0289	202	dog	3
+
+38	the dream	the dream	2374	0699	208	dream	3
+
+39	to drink	to drink	1401	1370	210	drink	3
+
+40	dry	dry	1398	1028	212	dry	1
+40	dry	dry	1398	1028	214	dry up	5
+40	dry	dry	1398	1028	???	???	8
+
+41	the dust	the dust	2	0045	218	dust	3
+
+42	the ear	the ear	1247	0081	221	ear	3
+
+43	early	early	672	1018	222	early	1
+
+44	the earth (soil)	the earth (soil)	1228	0040	0	???	8
+
+45	the earthworm	the earthworm	2350	0363	223	earthworm	3
+
+46	to eat	to eat	1336	1198	226	eat	3
+
+47	the egg	the egg	744	0450	227	egg	3
+
+48	eight	eight	1705	0804	229	eight	1
+
+49	the eye	the eye	1248	0079	241	eye	3
+
+50	far	far	1406	0974	251	far	1
+
+51	the father	the father	1217	0218	256	father	3
+
+52	the feather	the feather	1201	0299	260	feather	3
+
+53	to fight	to fight	1423	1234	0	???	8
+
+54	the fire	the fire	221	0018	271	fire	3
+
+55	firewood	firewood	10	0534	0	???	8
+
+56	the fish	the fish	227	0351	274	fish	3
+
+57	five	small	493	0801	278	five	1
+
+58	the flea	the flea	232	0355	280	flea	3
+
+59	to float	to float	1574	1553	283	float	3
+
+60	to flow	to flow	2003	1502	284	flow	3
+
+61	the flower	the flower	239	0377	285	flower	3
+
+62	to fly (move through air)	to fly (move through air)	1441	1318	286	fly	3
+
+63	the fog	the fog	249	0016	288	fog	3
+
+64	the foot	the foot	1301	0103	291	foot	3
+
+65	the forest	the forest	420	0050	338	grove / forest	3
+
+66	to forget	forget	1523	1704	293	forget	3
+
+67	four	four	1500	0800	296	four	1
+
+68	the fox	the fox	1312	0325	298	fox	3
+
+69	the frog	the frog	503	0349	303	frog	3
+
+70	the front (front side)	the front (front side)	2194	0712	304	front	3
+
+71	the frost	the frost	2034	0014	0	???	8
+
+72	the fruit	the fruit	1507	0378	305	fruit	3
+
+73	full	there	1429	0984	306	full	1
+
+74	to give	to give	1447	1345	320	give	3
+
+75	the goat	the goat	1502	0276	327	goat	3
+
+76	good	good	1035	1052	330	good	1
+
+77	the grass	the grass	606	0436	335	grass	3
+
+78	green	green	1425	1009	337	green	1
+
+79	the hail	the hail	609	0013	0	???	8
+
+80	the hair (of the head)	the hair (of the head)	1040	0075	152	comb hair	5
+
+81	the hand	the hand	1277	0107	347	hand	3
+
+82	hard	hard	1884	1034	350	hard	1
+
+83	he or she [third person singular]	he or she [third person singular]	262	0934	354	he	2
+
+84	the head	the head	1256	0074	355	head	3
+
+85	to hear	to hear	1408	1682	357	hear	3
+
+86	the heart	the heart	1223	0144	358	heart	3
+
+87	heavy	heavy	1210	1014	360	heavy	1
+
+88	here	here	136	0944	363	here	1
+
+89	to hide (conceal)	to hide (conceal)	602	1169	365	hide	3
+
+90	high / tall	high / tall	1265	0968	366	high	2
+
+91	to hold	to hold	1448	1709	0	???	8
+
+92	the hoof	the hoof	152	0264	375	hoof	3
+
+93	horizontal	horizontal	2376	1001	376	horizontal	1
+
+94	the horn (keratinized skin)	the horn (keratinized skin)	1393	0263	377	horn	3
+
+95	the horse	the horse	615	0268	378	horse	3
+
+96	hot	hot	1286	1062	379	hot	1
+
+97	the house	the house	1252	0494	381	house	3
+
+98	hundred	hundred	1634	0824	386	hundred	1
+
+99	to hunt	to hunt	1435	1230	389	hunt	3
+
+100	the husband	the husband	1200	0247	390	husband	3
+
+101	I [first person singular]	I [first person singular]	1209	0928	392	I / me	2
+
+102	the ice	the ice	617	0017	393	ice	3
+
+103	inside	inside	1606	0715	0	???	8
+
+104	to kill	to kill	1417	1602	413	kill	3
+
+105	to knead	knead	274	1594	0	???	8
+
+106	the knee	the knee	1371	0101	418	knee	3
+
+107	knife	knife	1352	0549	419	knife	1
+
+108	to know (something)	to know	1410	1798	421	know	3
+
+109	the lake	the lake	624	0031	423	lake / pond	3
+
+110	late	late	477	1019	429	late	1
+
+111	to laugh	to laugh	1355	1735	430	laugh	3
+
+112	the leaf	the leaf	628	0376	434	leaf	3
+
+113	to learn	learn	504	1742	0	???	8
+
+114	left	left	244	0710	435	left	1
+
+115	to lick	to lick	319	1674	439	lick	3
+
+116	to lie down	to lie down	215	1661	441	lie down	3
+
+117	light (of weight)	good	1052	1052	442	light	2
+
+118	the lip (the lips)	the lip (the lips)	478	0085	448	lip	3
+
+119	the liver	the liver	1224	0145	452	liver	3
+
+120	long	long	1203	0972	453	long	1
+
+121	the louse	the louse	1392	0356	457	louse	3
+
+122	the lung	the lung	688	0143	459	lung	3
+
+123	the man (male human)	the man (male human)	2106	0173	466	male / man	3
+
+124	many	many	1198	0987	469	many / numerous	2
+
+125	to marry (a man marries a woman)	marry (a man marries a woman)	2164	1578	471	marry (of a man)	3
+
+126	the meat	the meat	634	0443	475	meat	3
+
+127	middle	middle	1093	0708	480	middle	1
+
+128	the moon	the moon	1313	0004	492	moon	3
+
+129	morning	morning	1339	0749	494	morning	1
+
+130	the mosquito	the mosquito	1509	0360	496	mosquito	3
+
+131	the mother	the mother	1216	0219	499	mother	3
+
+132	the mountain	the mountain	639	0023	503	mountain	3
+
+133	the mouse or rat	the mouse or rat	2139	0320	607	rat / mouse	3
+
+134	the mouth	the mouth	674	0084	507	mouth	3
+
+135	the mud	the mud	640	0046	509	mud	3
+
+136	the nail (fingernail or claw)	the nail (fingernail or claw)	2128	0113	513	nail	3
+
+137	the name	the name	1405	0687	516	name	3
+
+138	narrow	narrow	1267	0977	518	narrow	1
+
+139	near	near	1942	0975	521	near	1
+
+140	the neck	the neck	1333	0089	522	neck	3
+
+141	the needle (for sewing)	the needle (for sewing)	1382	0578	523	needle	3
+
+142	new	new	1231	1050	528	new	1
+
+143	nine	nine	1483	0805	533	nine	1
+
+144	the nit	the nit	267	0357	0	???	8
+
+145	noon	noon	12	0750	536	noon	1
+
+146	the nose	the nose	1221	0080	538	nose	3
+
+147	old (of person)	old (of person)	2112	1058	7	aged / old (of people)	2
+
+148	one	one	1493	0797	554	one	1
+
+149	the otter	the otter	15	0317	558	otter	3
+
+150	outside	outside	762	0714	559	outside	1
+
+151	the pig	the pig	1337	0284	576	pig	3
+
+152	to plant (vegetals, rice)	to plant (vegetals, rice)	1486	1774	617	rice plant	5
+
+153	to play	to play	1413	1703	581	play	3
+
+154	to pull	to pull	1455	1568	591	pull	3
+
+155	to push	to push	1452	1689	594	push	3
+
+156	the rain	the rain	658	0010	603	rain	3
+
+157	the rainbow	the rainbow	1733	0011	604	rainbow	3
+
+158	red	red	156	1007	609	red	1
+
+159	to reside (live)	to reside (live)	1099	1452	0	???	8
+
+160	the rice plant	the rice plant	2026	0439	617	rice plant	3
+
+161	right	right	1019	0711	621	right (lit. rice-eat-arm)	2
+
+162	the river	the river	666	0030	623	river	3
+
+163	the road	the road	667	0038	624	road	3
+
+164	the root	the root	670	0375	628	root	3
+
+165	the rope	the rope	1218	0619	0	???	8
+
+166	round	round	1395	0990	0	???	8
+
+167	to run	run	1519	1544	???	???	8
+
+168	the salt	the salt	1274	0061	0	???	8
+
+169	salty	salty	1091	1076	0	???	8
+
+170	the sand	the sand	671	0044	0	???	8
+
+171	to scratch	to scratch	1436	1530	0	???	8
+
+172	the sea	the sea	1474	0032	0	???	8
+
+173	to see	to see	1409	1471	0	???	8
+
+174	the seed	the seed	714	0405	0	???	8
+
+175	seven	seven	1704	0803	0	???	8
+
+176	sharp	sharp	1396	1020	0	???	8
+
+177	the sheep	the sheep	1331	0275	0	???	8
+
+178	to shoot (an arrow)	to shoot (an arrow)	1172	1611	???	???	8
+
+179	short	short	1645	0973	0	???	8
+
+180	the shoulder	the shoulder	1482	0090			5
+
+181	shy	shy	487	1365	0	???	8
+
+182	the sickle	the sickle	341	0624	0	???	8
+
+183	to sing	to sing	1261	1184	0	???	8
+
+184	six	six	1703	0802	0	???	8
+
+185	the skin	the skin	763	0120	0	???	8
+
+186	the sky	the sky	1732	0001	0	???	8
+
+187	to sleep	to sleep	1585	1646	0	???	8
+
+188	small	small	1246	0965	0	???	8
+
+189	to smell (perceive odor) [transitive]	to smell (perceive odor) [transitive]	1586	1707			3
+
+190	the smoke	the smoke	778	0019	0	???	8
+
+191	smooth	smooth	1234	1037	0	???	8
+
+192	the snake	the snake	730	0347	0	???	8
+
+193	the snow	the snow	784	0012	0	???	8
+
+194	soft	soft	1856	1035	0	???	8
+
+195	the son	the son	1620	0220	???	???	8
+
+196	the sparrow	the sparrow	1854	0336	0	???	8
+
+197	the spider	the spider	843	0361	0	???	8
+
+198	to spit	to spit	1440	1688	0	???	8
+
+199	to stand	to stand	1442	1784	0	???	8
+
+200	the star	the star	1430	0005	0	???	8
+
+201	to steal	to steal	713	1686	0	???	8
+
+202	the stick	the stick	1295	0586	0	???	8
+
+203	the stone (a piece of)	???	857	0043	0	???	8
+
+204	straight	straight	1404	1003	0	???	8
+
+205	the sun	the sun	1343	0002	0	???	8
+
+206	the tail	the tail	1220	0267	0	???	8
+
+207	ten	ten	1515	0806	0	???	8
+
+208	that	that	78	0947	0	???	8
+
+209	there	there	1937	0950	0	???	8
+
+210	thick	thick	1244	0980	0	???	8
+
+211	the thigh	the thigh	800	0100	0	???	8
+
+212	thin (object)	this	2307	0981	0	???	8
+
+213	to think (reflect)	to think (reflect)	1415	1726	0	???	8
+
+214	this	this	1214	0942	368	hither / this way	5
+
+215	thou [second person singular]	thou [second person singular]	1215	0931	0	???	8
+
+216	three	three	492	0799	0	???	8
+
+217	to throw	to throw	1456	1687	0	???	8
+
+218	the thunder	the thunder	1150	0008	0	???	8
+
+219	the tiger	the tiger	846	0304	0	???	8
+
+220	today	today	1283	0738	0	???	8
+
+221	tomorrow	tomorrow	1329	0742	0	???	8
+
+222	the tongue	the tongue	1205	0139	0	???	8
+
+223	the tooth (front)	the tooth (front)	1380	0137	0	???	8
+
+224	the tree	the tree	906	0372	0	???	8
+
+225	twenty	twenty	1710	0816	0	???	8
+
+226	two	two	1498	0798	0	???	8
+
+227	to vomit	to vomit	1278	1535	0	???	8
+
+228	to walk	to walk	1443	1815	0	???	8
+
+229	the water	the water	948	0047	207	draw / scoop water	5
+
+230	we [first person plural inclusive]	we [first person plural inclusive]	1131	0930	0	???	8
+
+231	wet	wet	1726	1029	0	???	8
+
+232	what	what	1236	0954	0	???	8
+
+233	the wheat	the wheat	1077	0410	0	???	8
+
+234	where	where	1237	0955	0	???	8
+
+235	white	white	1335	1006	0	???	8
+
+236	who	who	1235	0953	0	???	8
+
+237	the wife	the wife	1199	0248	0	???	8
+
+238	the wind	the wind	960	0009	0	???	8
+
+239	the wing	the wing	1257	0298	0	???	8
+
+240	to wipe	to wipe	1454	1163	0	???	8
+
+241	the wolf	to pull	522	0324	0	???	8
+
+242	the woman	the woman	962	0174	261	female / woman	3
+
+243	the wood (material)	the wood (material)	1803	0511	0	???	8
+
+244	to sow (broadcast, scatter seeds)	???	748	1597	0	???	8
+
+245	the year	the year	1226	0777	0	???	8
+
+246	yellow	yellow	1424	1008	0	???	8
+
+247	yesterday	yesterday	1174	0739	0	???	8
+
+248	you [second person plural]	you [second person plural]	1213	0933	0	???	8
+
+249	young	young	1207	1059	0	???	8
+
+250	the shit	???	676	0151	0	???	8
+
