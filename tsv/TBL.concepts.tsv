@@ -1,0 +1,2600 @@
+2	0001	sky
+3	0002	sun
+4	0003	light
+5	0004	moon
+6	0005	star
+7	0006	weather
+8	0007	cloud
+9	0008	thunder
+10	0009	wind
+11	0010	rain
+12	0011	rainbow
+13	0012	snow
+14	0013	hail
+15	0014	frost
+16	0015	dew
+17	0016	fog
+18	0017	ice
+19	0018	fire
+20	0019	smoke
+21	0020	air
+22	0020	air; breath
+23	0020	breath
+24	0020	breathe (exhale)
+25	0021	steam
+26	0022	earth / ground
+27	0023	hill / mountain
+28	0024	hillside / mountain slope
+29	0025	valley
+30	0026	cliff
+31	0027	rock
+32	0028	cave (mountain)
+33	0029	cave / hole
+34	0030	river
+35	0030	river (big)
+36	0030	river (small)
+37	0031	lake
+38	0032	sea
+39	0033	pond
+40	0034	ditch / gully
+41	0035	well
+42	0036	pit
+43	0037	dike / embankment
+44	0038	road
+45	0039	flatland
+46	0039	flatland (grassland)
+47	0040	soil / earth
+48	0041	fields (wheat etc.)
+49	0041	fields (wheat etc., slashed)
+50	0042	paddy field
+51	0042	paddy fields
+52	0043	stone
+53	0044	sand
+54	0045	dust
+55	0046	mud
+56	0047	water
+57	0047	water (in a river, well)
+58	0047	water (in a vessel)
+59	0048	wave
+60	0049	spring (water)
+61	0050	forest
+62	0051	gold
+63	0052	silver
+64	0053	brass
+65	0053	copper
+66	0053	copper (brass, red (pure))
+67	0053	copper (cupronickel)
+68	0053	copper (red; pure copper)
+69	0054	iron
+70	0055	tin
+71	0056	rust
+72	0056	rust (copper, silver)
+73	0056	rust (iron)
+74	0057	aluminum
+75	0058	coal
+76	0059	charcoal
+77	0060	sulphur
+78	0061	salt
+79	0062	alkali / soda
+80	0063	plant ash
+81	0064	place
+82	0065	street
+83	0066	village
+84	0067	household
+85	0067	others (people)
+86	0068	prison
+87	0069	temple
+88	0070	bridge
+89	0070	bridge (made of a few pieces of wood)
+90	0070	bridge (small)
+91	0070	bridge (vine)
+92	0071	tomb
+93	0072	tower / pagoda
+94	0072	tower / pagoda (big)
+95	0072	tower / pagoda (for spirit worship)
+96	0073	body
+97	0073	body (back)
+98	0073	body (front)
+99	0074	head
+100	0075	hair
+101	0076	braid / plait
+102	0076	braid / plait (female's)
+103	0077	forehead
+104	0078	eyebrow
+105	0079	eye
+106	0080	nose
+107	0081	ear
+108	0082	face
+109	0082	face (features of)
+110	0082	face (self-respect)
+111	0083	cheek
+112	0084	mouth
+113	0084	mouth (opening)
+114	0085	lip
+115	0086	beard / moustache / goatee
+116	0086	beard / moustache / goatee (chin)
+117	0087	beard
+118	0088	chin
+119	0089	neck
+120	0089	neck (back of, hindneck, nape)
+121	0090	shoulder
+122	0091	back
+123	0092	armpit
+124	0093	chest
+125	0094	breast
+126	0095	milk
+127	0095	milk (cow's)
+128	0096	belly
+129	0097	navel
+130	0098	waist
+131	0099	buttocks
+132	0100	thigh
+133	0100	thigh (of animal)
+134	0100	thigh (of human)
+135	0101	knee
+136	0102	calf
+137	0103	foot
+138	0104	ankle
+139	0105	arm
+140	0105	arm (forearm and postbrachium)
+141	0105	forearm
+142	0106	elbow
+143	0107	hand
+144	0108	wrist
+145	0109	finger
+146	0110	thumb
+147	0111	finger (middle)
+148	0112	finger (little)
+149	0113	nail
+150	0114	fist
+151	0114	fist (hollow, empty)
+152	0114	fist (solid)
+153	0115	anus
+154	0116	genitals (male)
+155	0117	testicle
+156	0118	genitals (female)
+157	0119	placenta
+158	0120	skin
+159	0121	wrinkle
+160	0121	wrinkle (on face)
+161	0121	wrinkle (on forehead)
+162	0122	mole
+163	0122	wart
+164	0123	sore / boil
+165	0124	wound
+166	0125	scar
+167	0126	measles
+168	0127	tinea
+169	0127	tinea (erythrasma)
+170	0127	tinea alba
+171	0128	flesh / muscle
+172	0129	blood
+173	0130	tendon / sinew
+174	0131	pulse (wrist)
+175	0132	brains
+176	0133	bone
+177	0134	spine / backbone
+178	0135	rib
+179	0136	joint
+180	0137	tooth
+181	0138	gum
+182	0139	tongue
+183	0140	uvula
+184	0141	throat
+185	0142	Adam's apple
+186	0143	lung
+187	0144	heart
+188	0145	liver
+189	0146	kidney
+190	0147	gall bladder
+191	0148	stomach
+192	0148	stomach (cow, goat)
+193	0148	stomach (person)
+194	0149	intestine
+195	0150	bladder
+196	0151	excrement
+197	0152	urine
+198	0153	fart
+199	0154	sweat
+200	0155	sputum
+201	0156	saliva
+202	0157	mucus (nasal)
+203	0158	tears
+204	0159	pus
+205	0160	dirt / filth
+206	0161	sound
+207	0162	corpse
+208	0163	life
+209	0164	life span
+210	0165	Chinese (Han)
+211	0166	Tibetan
+212	0166	Tibetan (called 'Gami' locally)
+213	0166	Tibetan (from Tibet (Xizang))
+214	0166	Tibetan (of Pumi language)
+215	0167	human being
+216	0168	adult
+217	0168	adult (female)
+218	0168	adult (male)
+219	0169	child
+220	0170	baby
+221	0171	old man
+222	0172	old lady
+223	0173	man
+224	0174	woman
+225	0175	lad / chap (young)
+226	0176	girl
+227	0177	common people
+228	0178	peasant
+229	0179	soldier
+230	0180	merchant
+231	0181	doctor
+232	0182	leader in a (stockaded) village
+233	0182	leader in a (stockaded) village ('official')
+234	0182	leader in a (stockaded) village (Mand. 'tu3si1')
+235	0182	leader in a stockaded village
+236	0183	servant
+237	0183	servant (female)
+238	0183	servant (hired)
+239	0183	servant (male)
+240	0183	servant (slave)
+241	0184	shepherd boy
+242	0185	carpenter
+243	0186	blacksmith
+244	0187	boatman
+245	0188	hunter
+246	0189	monk
+247	0190	nun (Buddhist)
+248	0190	nun (Buddhist) (female lama)
+249	0191	wizard / sorcerer
+250	0191	wizard / sorcerer (local area)
+251	0191	wizard / sorcerer (pastoral area)
+252	0192	dance
+253	0192	witch / sorceress
+254	0193	beggar
+255	0194	thief
+256	0195	robber
+257	0196	patient
+258	0197	enemy (personal) / antagonizer
+259	0198	emperor
+260	0199	official (government)
+261	0200	king
+262	0200	king (chieftain (Mand. 'tu3si1'))
+263	0200	king (chieftain (Mand. 'tusi'))
+264	0200	king (emperor)
+265	0201	friend
+266	0201	friend (female-to-female)
+267	0201	friend (male-to-male)
+268	0202	blind person
+269	0202	blind person (both eyes)
+270	0202	blind person (half-blind)
+271	0202	blind person (one eye)
+272	0203	lame person
+273	0204	deaf person
+274	0205	baldhead
+275	0206	person w / pockmarked face
+276	0206	person w / pockmarked face (as an insult)
+277	0207	hunchback
+278	0208	fool / blockhead
+279	0208	fool / blockhead (female)
+280	0208	fool / blockhead (male)
+281	0209	lunatic
+282	0210	stutterer
+283	0211	mute
+284	0211	mute (female)
+285	0211	mute (male)
+286	0212	host
+287	0212	host / master
+288	0212	master
+289	0213	guest
+290	0214	pal / partner
+291	0214	pal / partner (plural)
+292	0214	pal / partner (singular)
+293	0215	ancestors / forebears
+294	0216	grandfather
+295	0216	grandfather (address)
+296	0216	grandfather (reference)
+297	0217	grandmother
+298	0217	grandmother (address)
+299	0217	grandmother (by marriage)
+300	0217	grandmother (reference)
+301	0217	grandmother (used by women of her gen.)
+302	0218	father
+303	0218	father (address)
+304	0218	father (reference)
+305	0219	mother
+306	0219	mother (address)
+307	0219	mother (reference)
+308	0220	son
+309	0220	son (general term)
+310	0220	son (honorific)
+311	0220	son (intimate)
+312	0221	daughter-in-law
+313	0221	daughter-in-law (address)
+314	0221	daughter-in-law (reference)
+315	0222	daughter
+316	0223	son-in-law
+317	0223	son-in-law (comes calling)
+318	0223	son-in-law (doesn't come calling)
+319	0224	grandson
+320	0225	granddaughter
+321	0226	elder brother
+322	0226	elder brother (address)
+323	0226	elder brother (addressed by y. brother)
+324	0226	elder brother (addressed by y. sister)
+325	0226	elder brother (reference by y. brother)
+326	0226	elder brother (reference by y. sister)
+327	0226	elder brother (reference)
+328	0227	elder sister
+329	0227	elder sister (address by y. brother)
+330	0227	elder sister (address by y. sister)
+331	0227	elder sister (address)
+332	0227	elder sister (reference by y. brother)
+333	0227	elder sister (reference by y. sister)
+334	0227	elder sister (reference)
+335	0228	younger brother
+336	0228	younger brother (address by o. brother)
+337	0228	younger brother (address by o. sister)
+338	0228	younger brother (address)
+339	0228	younger brother (addressby o. sister)
+340	0228	younger brother (reference)
+341	0229	younger sister
+342	0229	younger sister (address by o. brother)
+343	0229	younger sister (address by o. sister)
+344	0229	younger sister (address)
+345	0229	younger sister (reference by brothers)
+346	0230	uncle <father's elder brother>
+347	0230	uncle <father's elder brother> (address)
+348	0231	aunt <wife of father's elder brother>
+349	0231	aunt <wife of father's elder brother> (address)
+350	0232	aunt <wife of father's younger brother>
+351	0232	uncle <father's younger brother>
+352	0233	aunt <wife of father's younger brother>
+353	0234	nephew <brother's son>
+354	0235	brothers
+355	0235	brothers (also 'sisters', 'brothers and sisters')
+356	0236	sisters
+357	0236	sisters (reference by brothers)
+358	0237	sister-in-law <elder brother's
+359	0238	uncle <mother's brother>
+360	0238	uncle <mother's older brother>
+361	0238	uncle <mother's younger brother>
+362	0239	aunt <mother's brother's wife>
+363	0239	aunt <mother's older brother's wife>
+364	0239	aunt <mother's younger brother's wife>
+365	0240	uncle <mother's older sister's husband>
+366	0240	uncle <mother's sister's husba (= as 'mom's br.')
+367	0240	uncle <mother's sister's husband>
+368	0240	uncle <mother's younger sister's husband>
+369	0241	aunt <mother's older sister>
+370	0241	aunt <mother's sister>
+371	0241	aunt <mother's sister> (= wife of mom's bro)
+372	0241	aunt <mother's younger sister>
+373	0242	uncle <father's older sister's husba
+374	0242	uncle <father's sister's husba
+375	0242	uncle <father's sister's husba (= father's o. bro)
+376	0242	uncle <father's sister's husband>
+377	0242	uncle <father's younger sister's husba
+378	0243	aunt <father's older sister>
+379	0243	aunt <father's sister>
+380	0243	aunt <father's sister> (= 'wife of f's o. bro')
+381	0243	aunt <father's younger sister>
+382	0244	father-in-law
+383	0244	relatives
+384	0245	father-in-law
+385	0245	mother-in-law
+386	0246	mother-in-law
+387	0247	husband
+388	0247	husband (address)
+389	0247	husband (proper, honorable)
+390	0247	husband (reference)
+391	0247	husband (vulgo)
+392	0248	wife
+393	0248	wife (address)
+394	0248	wife (proper, honorable)
+395	0248	wife (reference)
+396	0248	wife (vulgo)
+397	0249	stepmother
+398	0249	stepmother (older than birth mother)
+399	0249	stepmother (younger than birth mother)
+400	0250	stepfather
+401	0250	stepfather (older than birth father)
+402	0250	stepfather (younger than birth father)
+403	0251	widow
+404	0252	orphan
+405	0253	livestock / animal (domestic)
+406	0254	cattle
+407	0255	cattle (common)
+408	0255	cattle (common, female)
+409	0255	cattle (common, male)
+410	0256	buffalo
+411	0257	yak
+412	0257	yak (female)
+413	0257	yak (male)
+414	0258	cattle (bull-yak crossbreed)
+415	0258	cattle (bull-yak crossbreed, female)
+416	0258	cattle (bull-yak crossbreed, male)
+417	0258	yak
+418	0259	calf
+419	0259	calf (bull-yak crossbreed)
+420	0259	calf (common or bull-yak crossbreed)
+421	0259	calf (common)
+422	0259	calf (yak)
+423	0260	bull
+424	0261	cow
+425	0262	dung (cow)
+426	0262	dung (cow) (dry)
+427	0262	dung (cow) (wet)
+428	0263	horn
+429	0264	hoof
+430	0264	hoof (even number)
+431	0264	hoof (odd number)
+432	0265	skin
+433	0265	skin (leather, hide)
+434	0265	skin (with hair)
+435	0266	hair / down
+436	0266	hair / down (of yak)
+437	0267	bee
+438	0267	tail
+439	0268	horse
+440	0269	pony
+441	0270	stallion
+442	0271	mare
+443	0272	mane (horse)
+444	0273	dung (horse)
+445	0274	sheep (general)
+446	0275	sheep
+447	0276	goat
+448	0276	goat (female)
+449	0276	goat (male)
+450	0277	lamb
+451	0278	kid
+452	0279	wool / fleece
+453	0279	wool / fleece (goat)
+454	0279	wool / fleece (sheep)
+455	0280	dung (goat)
+456	0280	dung (goat, sheep)
+457	0280	dung (sheep)
+458	0281	mule
+459	0282	donkey
+460	0283	camel
+461	0284	pig
+462	0285	boar
+463	0286	sow
+464	0287	piglet
+465	0288	dung (pig)
+466	0289	dog
+467	0290	hound
+468	0291	cat
+469	0292	rabbit
+470	0293	chicken
+471	0294	cock
+472	0295	hen
+473	0296	chick
+474	0296	chick (newly hatched)
+475	0297	cockscomb
+476	0298	wing
+477	0299	feather / plume
+478	0299	feather / plume (bird)
+479	0299	feather / plume (chicken)
+480	0300	duck
+481	0300	duck (domestic)
+482	0300	duck (mallard)
+483	0301	goose
+484	0302	dove
+485	0303	animal / beast
+486	0303	animal / beast (carnivore)
+487	0303	animal / beast (herbivore)
+488	0304	tiger
+489	0305	lion
+490	0306	dragon
+491	0306	dragon (sky)
+492	0306	dragon (water)
+493	0307	claw / talon
+494	0307	claw / talon (chicken's rear claws)
+495	0308	monkey
+496	0309	elephant
+497	0310	leopard / panther
+498	0311	bear
+499	0312	boar (wild)
+500	0313	deer
+501	0313	deer (female)
+502	0313	deer (male)
+503	0314	muntjac / deer (barking)
+504	0314	muntjac / deer (barking) (blue-green)
+505	0314	muntjac / deer (barking) (yellow)
+506	0315	deer (river)
+507	0315	deer (river) (female)
+508	0315	deer (river) (male)
+509	0316	musk
+510	0317	otter
+511	0318	porcupine
+512	0319	hedgehog
+513	0320	mouse
+514	0321	squirrel
+515	0322	weasel (yellow)
+516	0323	jackal
+517	0324	wolf
+518	0325	fox
+519	0326	bird
+520	0327	nest (bird)
+521	0328	kite (black-eared) / hawk
+522	0329	sparrow hawk
+523	0330	eagle / vulture
+524	0331	eagle, vulture
+525	0331	vulture (cinereous)
+526	0332	owl
+527	0333	swallow
+528	0334	goose (wild)
+529	0335	crane
+530	0335	wild goose
+531	0336	sparrow
+532	0337	bat
+533	0338	magpie
+534	0339	crow
+535	0339	pheasant
+536	0340	pheasant
+537	0340	pheasant (long-tailed)
+538	0340	pheasant (short-tailed)
+539	0341	parrot
+540	0342	turtledove
+541	0343	woodpecker
+542	0344	cuckoo
+543	0345	peacock
+544	0346	peacock
+545	0346	tortoise
+546	0347	snake
+547	0348	lizard
+548	0349	frog
+549	0350	tadpole
+550	0351	fish
+551	0352	scale
+552	0353	insect / worm
+553	0353	insect / worm (crawling)
+554	0353	insect / worm (flying)
+555	0354	bedbug
+556	0355	flea
+557	0356	louse
+558	0357	nit
+559	0358	fly
+560	0359	maggot
+561	0359	maggot (dung)
+562	0359	maggot (meat)
+563	0360	mosquito
+564	0360	mosquito (relatively large)
+565	0360	mosquito (relatively small)
+566	0361	spider
+567	0362	centipede
+568	0363	earthworm
+569	0364	leech
+570	0364	leech (mountain, arid area)
+571	0364	leech (water)
+572	0365	ant
+573	0366	silkworm
+574	0367	bee
+575	0368	locust
+576	0369	dragonfly
+577	0370	butterfly
+578	0371	snail
+579	0372	tree
+580	0373	tree
+581	0373	trunk
+582	0374	branch / twig
+583	0375	root
+584	0376	leaf
+585	0377	flower
+586	0378	fruit
+587	0378	fruit (lit. 'pear peach apricot')
+588	0379	pit / stone
+589	0380	sprout / shoot
+590	0381	bud
+591	0382	willow
+592	0383	poplar
+593	0384	fir (China)
+594	0384	fir (China) (high-elevation spruce)
+595	0384	fir (China) (mid-elevation 'hanging' fir)
+596	0385	pine
+597	0385	pine (said by elderly)
+598	0385	pine (said by youth)
+599	0386	cypress
+600	0386	cypress (big)
+601	0386	cypress (small)
+602	0386	pine
+603	0387	resin / colophony
+604	0387	resin / colophony (of a qiang1 pine tree)
+605	0388	torches (pine)
+606	0389	bamboo
+607	0389	bamboo (thick, coarse)
+608	0389	bamboo (thin, fine)
+609	0390	cane / vine
+610	0390	cane / vine (black)
+611	0390	cane / vine (for making rattan chairs)
+612	0390	cane / vine (herba fibraureae recisae)
+613	0390	cane / vine (tendrilled)
+614	0390	vine (melon)
+615	0391	thorn / splinter
+616	0392	peach
+617	0393	pear
+618	0393	pear (flat: Ch. 'bian3 li2')
+619	0393	pear (small yellow)
+620	0394	tangerine
+621	0395	persimmon
+622	0395	persimmon (big)
+623	0395	persimmon (dried)
+624	0395	persimmon (fresh)
+625	0395	persimmon (small)
+626	0396	grape
+627	0397	chestnut (Chinese)
+628	0398	banana (plantain)
+629	0399	sugarcane
+630	0400	walnut
+631	0401	crops
+632	0402	foodstuff / grain
+633	0403	rice (paddy)
+634	0404	rice (glutinous)
+635	0405	seed
+636	0406	seedling (rice)
+637	0407	ear / spike
+638	0408	straw (rice)
+639	0408	straw (rice) (standing stalks)
+640	0409	rice (unhusked)
+641	0410	wheat
+642	0411	barley
+643	0412	barley (highland)
+644	0413	buckwheat
+645	0413	buckwheat (flower)
+646	0413	buckwheat (sweet)
+647	0413	buckwheat (tartary, hulless, duck wheat)
+648	0414	straw (wheat)
+649	0415	awn of wheat
+650	0416	maize / corn
+651	0417	millet
+652	0418	cotton
+653	0419	hemp
+654	0420	vegetable
+655	0420	vegetable (cooked)
+656	0420	vegetable (uncooked)
+657	0421	radish
+658	0422	pepper (hot) / chili
+659	0423	onion / scallion
+660	0424	garlic
+661	0425	ginger
+662	0426	potato
+663	0427	melon / gourd
+664	0428	pumpkin
+665	0429	cucumber
+666	0430	pea / bean
+667	0431	soya bean
+668	0432	bean (broad)
+669	0433	pea
+670	0434	peanut
+671	0435	sesame
+672	0436	grass
+673	0436	grass (eaten by draught animals)
+674	0436	grass (long-stemmed)
+675	0436	grass (not eaten by draught animals)
+676	0436	grass (small)
+677	0437	mushroom
+678	0437	mushroom (white)
+679	0437	mushroom (yellow)
+680	0438	fungus (edible)
+681	0438	fungus (edible) (lit. 'mouse's ear')
+682	0438	fungus (edible) (lit. 'old person's ear')
+683	0439	rice
+684	0440	meal
+685	0440	rice (cooked)
+686	0441	gruel / porridge
+687	0442	flour
+688	0443	meat
+689	0444	meat (lean)
+690	0445	oil (animal)
+691	0445	oil (animal) (cooked lard)
+692	0445	oil (animal) (flead; leaf fat; leaf lard)
+693	0445	oil (animal) (intestine)
+694	0445	oil (animal) (lard)
+695	0446	oil (vegetable)
+696	0447	animal oil
+697	0447	butter
+698	0448	seed of Chinese prickly ash
+699	0449	sugar
+700	0449	sugar (brown)
+701	0449	sugar (honey)
+702	0450	egg
+703	0451	soup
+704	0451	soup (vegetable)
+705	0452	alcoholic beverage
+706	0452	alcoholic beverage (corn)
+707	0452	alcoholic beverage (highland barley)
+708	0452	alcoholic beverage (sorghum / maize)
+709	0452	alcoholic beverage (yellow rice / millet / Shaoxing)
+710	0453	water (boiled)
+711	0454	tea
+712	0455	cigarette / tobacco
+713	0456	medicine
+714	0457	chaff / bran
+715	0457	chaff / bran (highland barley)
+716	0457	chaff / bran (wheat)
+717	0458	wheat bran
+718	0459	feed (pig) / pigwash
+719	0460	fodder / feed (horse)
+720	0461	cloth
+721	0461	thread
+722	0461	thread (knitting wool)
+723	0462	cloth
+724	0463	silk
+725	0463	silk thread
+726	0464	fabric (silk)
+727	0465	fabric (satin)
+728	0466	cloth (woollen)
+729	0466	cloth (woollen) (tweed native to area)
+730	0467	clothing / garment
+731	0468	collar
+732	0469	sleeve
+733	0470	button
+734	0470	pants / trousers
+735	0471	pants / trousers
+736	0471	pants / trousers (female's)
+737	0471	pants / trousers (male's)
+738	0472	apron
+739	0472	skirt
+740	0472	skirt (male's)
+741	0473	cloth (colorful, worn on the head)
+742	0473	cloth (colorful, worn on the head) (for women)
+743	0473	skirt
+744	0474	head-cloth / turban
+745	0474	head-cloth / turban (for men)
+746	0475	hat
+747	0475	hat (men's)
+748	0475	hat (women's long-tubed hat)
+749	0476	belt / girdle
+750	0476	belt / girdle (hard)
+751	0476	belt / girdle (soft)
+752	0477	puttee
+753	0478	sock / stocking
+754	0479	shoe
+755	0480	boot
+756	0480	boot (made of 'pulu', Tibetan woolen fabric)
+757	0480	shoe
+758	0481	comb
+759	0482	treasured object / treasure
+760	0483	coral
+761	0484	earrings
+762	0484	earrings (big)
+763	0484	earrings (female's)
+764	0484	earrings (male's)
+765	0484	earrings (small)
+766	0485	necklace / necklet
+767	0485	necklace / necklet (chain)
+768	0485	necklace / necklet (female's)
+769	0485	necklace / necklet (male's)
+770	0486	ring
+771	0487	bracelet
+772	0488	blanket (felt)
+773	0489	cloth (Tibetan, woollen)
+774	0490	pillow
+775	0491	mat
+776	0491	mat (for drying things in the sun)
+777	0491	mat (grass, straw)
+778	0491	mat (woven bamboo)
+779	0492	pad / cushion
+780	0493	cape (for rain, of straw or palm bark)
+781	0494	house
+782	0495	roof
+783	0496	eaves
+784	0497	foundation
+785	0498	kitchen
+786	0499	building
+787	0500	upstairs
+788	0500	upstairs (second floor, where people live)
+789	0501	downstairs
+790	0501	downstairs (first floor, the draught animal pen)
+791	0502	warehouse / storehouse
+792	0503	shed (cow) / fence (ox)
+793	0504	pigsty / pen (hog)
+794	0505	stable / fence (horse)
+795	0506	sheepfold / pen (sheep)
+796	0507	pen (chicken)
+797	0507	shed (chicken)
+798	0508	brick
+799	0509	shingle
+800	0509	tile
+801	0510	wall
+802	0510	wall (earthen, cob wall)
+803	0510	wall (stone)
+804	0511	wood / log
+805	0512	plank / board
+806	0512	plank / board (coffin)
+807	0512	plank / board (small)
+808	0513	pillar / column
+809	0514	door
+810	0515	threshold
+811	0516	door (front) / door (entrance)
+812	0517	window
+813	0518	beam (of building)
+814	0518	beam (of building) (big)
+815	0518	beam (of building) (small)
+816	0519	flight of steps
+817	0519	rafter (of building)
+818	0520	flight of steps
+819	0521	fence (bamboo / twig)
+820	0522	garden (plot)
+821	0523	thing
+822	0524	table
+823	0524	table (word used by elderly)
+824	0524	table (word used by younger people)
+825	0525	stool / bench
+826	0526	bed
+827	0526	bed (with bedding)
+828	0526	bed (without bedding)
+829	0527	chest / box / trunk
+830	0528	cupboard / cabinet
+831	0529	box / case
+832	0529	cupboard, cabinet
+833	0530	soap
+834	0531	mirror
+835	0532	broom
+836	0533	light / lamp
+837	0533	light / lamp (butter)
+838	0533	light / lamp (oil)
+839	0533	light / lamp (pine torch)
+840	0534	firewood
+841	0535	charcoal (live)
+842	0535	charcoal (live) (burned out by wood)
+843	0536	flint
+844	0537	tinder
+845	0538	steel (for flint)
+846	0539	match
+847	0540	torch
+848	0541	joss stick / incense
+849	0542	garbage / rubbish
+850	0543	dye (stuff)
+851	0544	stove (cooking) / range (kitchen)
+852	0544	wok (large, iron) / pan
+853	0545	wok (large, iron) / pan
+854	0546	wok (frying)
+855	0547	lid / cover
+856	0548	steamer (of bamboo, for food)
+857	0548	steamer (rice)
+858	0549	knife
+859	0549	knife (long)
+860	0550	handle (of a knife)
+861	0550	handle (specifically of a knife)
+862	0551	ladle
+863	0551	ladle (bamboo)
+864	0551	ladle (iron)
+865	0552	ladle
+866	0552	spoon
+867	0553	bowl
+868	0553	bowl (porcelain)
+869	0553	bowl (tea)
+870	0553	bowl (wooden)
+871	0554	plate / dish
+872	0555	chopsticks
+873	0555	chopsticks (term used by old people)
+874	0555	chopsticks (term used by younger people)
+875	0556	bottle
+876	0557	bottle
+877	0557	pot / jar / tin
+878	0557	pot / jar / tin (big)
+879	0557	pot / jar / tin (copper)
+880	0557	pot / jar / tin (earthenware)
+881	0557	pot / jar / tin (water)
+882	0558	jar (earthen)
+883	0559	kettle / pot
+884	0559	kettle / pot (generic term)
+885	0559	kettle / pot (glossy porcelain)
+886	0560	kettle / pot
+887	0560	vat / jar
+888	0560	vat / jar (copper)
+889	0560	vat / jar (pottery / earthenware)
+890	0560	vat / jar (stone)
+891	0561	bucket
+892	0561	bucket (for carrying water on back)
+893	0561	bucket (red copper)
+894	0562	tray (wooden)
+895	0563	hoop / band
+896	0563	hoop / band (bamboo)
+897	0563	hoop / band (iron)
+898	0564	ladle (gourd) / dipper (calabash)
+899	0564	ladle (gourd) / dipper (copper)
+900	0564	ladle (gourd) / dipper (wooden)
+901	0564	wooden tray
+902	0565	trivet
+903	0566	tongs (fire)
+904	0567	tube (bamboo) for blowing on a fire
+905	0567	tube (sheepskin pantsleg) for blowing on a fire
+906	0568	sect. of bamboo used as cont. (rice, salt, liquor)
+907	0568	sect. of bamboo used as cont. (to serve tea in)
+908	0568	section of bamboo used as container
+909	0568	section of bamboo used as container (for water)
+910	0569	piece of cloth w.s.f.c.a.t. (piece of its inside)
+911	0569	piece of cloth w.s.f.c.a.t. (piece of its outside)
+912	0569	piece of cloth with straps for carrying a toddler
+913	0570	steelyard / scales
+914	0570	steelyard / scales (big)
+915	0570	steelyard / scales (small)
+916	0571	container for measuring grain (=1 decaliter)
+917	0572	container (measuring, 1-liter-volume)
+918	0573	money
+919	0573	money (lit 'paper money')
+920	0573	money (lit. 'conch shell')
+921	0573	money (lit. 'copper coin')
+922	0573	money (lit. 'paper money')
+923	0573	money (lit. 'silver')
+924	0574	capital / principal
+925	0575	goods / merchandise
+926	0575	interest (financial)
+927	0576	interest (financial)
+928	0577	ruler (measure)
+929	0578	needle
+930	0579	awl
+931	0580	nail / tack
+932	0581	scissors
+933	0582	ladder
+934	0583	umbrella
+935	0583	umbrella (lit. 'cloth hat')
+936	0584	lock
+937	0585	key
+938	0586	rod / stick
+939	0587	wheel
+940	0588	saddle
+941	0589	halter / bridle
+942	0590	bellyband
+943	0590	bellyband (front part of belly)
+944	0591	bit (for horse)
+945	0592	stirrup
+946	0593	horseshoe
+947	0594	manger
+948	0595	crupper-strap
+949	0595	manger
+950	0596	reins
+951	0597	whip
+952	0597	whip (for urging a cow)
+953	0597	whip (for urging a horse)
+954	0598	rack (pack)
+955	0598	whip
+956	0599	yoke
+957	0600	ring in cow's nose used to lead it about
+958	0601	ring in a cow's nose (used to lead it about)
+959	0601	string (oxhide)
+960	0601	string (oxhide) (thick / coarse)
+961	0601	string (oxhide) (thin / fine)
+962	0602	boat / ship
+963	0602	boat / ship (cowhide)
+964	0602	boat / ship (wooden)
+965	0603	raft
+966	0603	raft (bamboo)
+967	0604	tool
+968	0605	axe
+969	0606	hammer
+970	0606	hammer (big)
+971	0606	hammer (small)
+972	0607	chisel
+973	0607	chisel (round)
+974	0607	chisel (square)
+975	0608	saw
+976	0609	drill / auger
+977	0610	file (tool)
+978	0611	plane (tool)
+979	0612	marker (ink, carpenter's)
+980	0612	plane
+981	0613	glue / gum
+982	0614	plow
+983	0615	plowshare
+984	0616	rake
+985	0616	rake (iron-toothed)
+986	0616	rake (wooden)
+987	0617	hoe
+988	0617	hoe (digging)
+989	0617	hoe (pointed)
+990	0617	hoe (small)
+991	0618	pole (carrying / shoulder)
+992	0619	rope / string
+993	0620	wedge
+994	0620	wedge (wooden)
+995	0621	grip / handle
+996	0622	basket carried on the back
+997	0622	basket carried on the back (dense strips)
+998	0622	basket carried on the back (dense, uniform-sized)
+999	0622	basket carried on the back (sharp-bottomed)
+1000	0622	basket carried on the back (sparse strips )
+1001	0622	basket carried on the back (sparse strips)
+1002	0622	basket carried on the back (square-mouthed)
+1003	0623	fertilizer / manure
+1004	0624	net
+1005	0624	sickle
+1006	0625	conduit (open, for water)
+1007	0626	trip-hammer for hulling rice
+1008	0626	trip-hammer for hulling rice (stone)
+1009	0626	trip-hammer for hulling rice (wooden)
+1010	0627	mortar
+1011	0627	mortar (rice)
+1012	0627	mortar (rice-hulling trip-hammer)
+1013	0627	mortar (salt)
+1014	0627	mortar (stone)
+1015	0627	mortar (wooden)
+1016	0628	pestle
+1017	0628	pestle (big, wooden)
+1018	0628	pestle (rice-hulling trip-hammer)
+1019	0628	pestle (salt mortar)
+1020	0628	pestle (small, stone)
+1021	0629	sieve / sifter
+1022	0629	sieve / sifter (coarse)
+1023	0629	sieve / sifter (fine)
+1024	0630	fan (winnowing)
+1025	0631	millstones
+1026	0631	millstones (small mill)
+1027	0631	water mill
+1028	0632	loom
+1029	0633	chopper
+1030	0634	sheath / scabbard
+1031	0635	gun / rifle
+1032	0636	bow (for arrow)
+1033	0637	arrow
+1034	0637	arrow (poison, bamboo)
+1035	0637	arrow (poison, with iron clusters)
+1036	0638	snare / trap
+1037	0638	snare / trap (cow hair rope)
+1038	0638	snare / trap (for catching birds)
+1039	0638	snare / trap (made of metal)
+1040	0639	trap / pitfall
+1041	0640	gunpowder
+1042	0641	poison / toxin
+1043	0642	net
+1044	0643	character / word
+1045	0644	letter
+1046	0645	letter
+1047	0645	painting
+1048	0646	book
+1049	0646	book (Tibetan style long strips)
+1050	0646	book (published using modern printing)
+1051	0647	paper
+1052	0648	pen (writing instrument)
+1053	0648	pen (writing instrument) (bamboo)
+1054	0648	pen (writing instrument) (brush)
+1055	0648	pencil
+1056	0649	ink (Chinese)
+1057	0650	learning / knowledge
+1058	0651	speech / words
+1059	0652	story
+1060	0653	proverb / saying
+1061	0653	story
+1062	0654	joke / jest
+1063	0655	riddle
+1064	0656	song
+1065	0656	song (antiphonal)
+1066	0656	song (folk)
+1067	0656	song (folk, sung in fields during or after work)
+1068	0656	song and dance
+1069	0657	dance
+1070	0657	dance (guo1zhuang1, a Tibetan dance)
+1071	0657	dance (step, tap)
+1072	0657	dance (xian2zi dance, 3-stringed plucked instr)
+1073	0658	chess
+1074	0658	drum
+1075	0659	drum
+1076	0659	drum (big)
+1077	0659	drum (small, hand-drum)
+1078	0659	gong
+1079	0660	gong
+1080	0661	cymbals
+1081	0662	chime
+1082	0663	flute (bamboo)
+1083	0664	flute (bamboo, vertical)
+1084	0664	flute (bamboo, vertical, of reed or rice stalks)
+1085	0664	flute (bamboo,vertical)
+1086	0665	instrument (two-stringed, bowed)
+1087	0666	bell
+1088	0666	bell (copper)
+1089	0666	bell (hung in a temple)
+1090	0666	bell (iron, hung over necks of draught animals)
+1091	0666	bell (small)
+1092	0667	horn (woodwind)
+1093	0667	horn (woodwind) (long)
+1094	0667	horn (woodwind) (made of human bone)
+1095	0667	horn (woodwind) (suo3na4--Mand. term)
+1096	0668	celestial being
+1097	0669	ghost / spirit
+1098	0670	spirit (evil) / demon
+1099	0670	spirit (evil) / demon (woman)
+1100	0671	god of rain / Dragon King
+1101	0672	Buddha
+1102	0673	soul / spirit
+1103	0673	soul / spirit (lit. 'ghost spirit')
+1104	0674	fortune / luck
+1105	0675	strength (physical)
+1106	0676	idea / opinion
+1107	0677	matter / affair
+1108	0678	means / solution
+1109	0679	temper
+1110	0680	news / message
+1111	0681	mark / sign
+1112	0682	birthday
+1113	0683	life / livelihood
+1114	0684	gift / present
+1115	0684	gift / present (offered as a gift)
+1116	0684	gift / present (offered as tribute)
+1117	0685	age
+1118	0686	surname / name (family)
+1119	0686	surname / name (family) (lit. 'house name')
+1120	0687	name
+1121	0688	pain / agony
+1122	0688	pain / agony (emotional)
+1123	0689	mistake / error
+1124	0690	danger
+1125	0691	difference / distinction
+1126	0692	part / portion / share
+1127	0692	part / portion / share (lit. 'share')
+1128	0693	gap / crevice
+1129	0694	crack / rift / fissure
+1130	0694	crack / rift / fissure (in a board, stone, wall, etc.)
+1131	0695	mark / trace / track
+1132	0696	dregs / sediment
+1133	0697	shape / appearance
+1134	0698	shadow
+1135	0699	dream
+1136	0700	advantage / benefit
+1137	0701	use
+1138	0702	color
+1139	0703	direction / orientation
+1140	0704	east
+1141	0704	east (lit. 'sun rise place')
+1142	0705	south
+1143	0706	west
+1144	0706	west (lit. 'sun set place')
+1145	0707	north
+1146	0708	middle
+1147	0709	side
+1148	0710	left
+1149	0711	right
+1150	0712	front
+1151	0713	back
+1152	0714	outside
+1153	0714	outside (distal)
+1154	0714	outside (proximal)
+1155	0715	inside
+1156	0715	inside (a room)
+1157	0715	inside (the sea, a well)
+1158	0716	corner / angle
+1159	0716	corner / angle (edge, convex)
+1160	0716	corner / angle (nook, concave)
+1161	0717	point / tip
+1162	0718	edge / rim / margin
+1163	0719	surroundings
+1164	0719	surroundings (of a room)
+1165	0719	surroundings (of a village)
+1166	0720	vicinity / nearby
+1167	0720	vicinity / nearby (of a village)
+1168	0721	boundary line / demarcation line
+1169	0722	upper part of / upper reaches
+1170	0722	upper part of / upper reaches (distal)
+1171	0722	upper part of / upper reaches (headwaters)
+1172	0722	upper part of / upper reaches (proximal)
+1173	0723	lower part of / lower reaches
+1174	0723	lower part of / lower reaches (downstream)
+1175	0724	on (the table)
+1176	0725	under (the table)
+1177	0726	in (the sky)
+1178	0727	under (the sky)
+1179	0728	on (the wall)
+1180	0729	on top (of a mountain)
+1181	0729	on top (of the roof)
+1182	0730	at the bottom of (a hill)
+1183	0731	over / above
+1184	0732	below / under
+1185	0733	upwards
+1186	0734	downwards
+1187	0735	upper half of the body
+1188	0736	lower half of the body
+1189	0737	time
+1190	0738	today
+1191	0739	yesterday
+1192	0740	day before yesterday
+1193	0741	three days ago
+1194	0742	tomorrow
+1195	0743	day after tomorrow
+1196	0744	three days from now
+1197	0745	tonight
+1198	0746	tomorrow night / evening
+1199	0747	yesterday evening / last night
+1200	0748	day (time)
+1201	0749	morning
+1202	0750	noon
+1203	0751	dusk / twilight
+1204	0752	night, at / evening, in the
+1205	0753	night, at
+1206	0754	midnight
+1207	0755	year of the mouse
+1208	0756	year of the ox
+1209	0757	year of the tiger
+1210	0758	year of the rabbit
+1211	0759	year of the dragon
+1212	0760	year of the snake
+1213	0761	year of the horse
+1214	0762	year of the ram
+1215	0763	year of the monkey
+1216	0764	year of the chicken
+1217	0765	year of the dog
+1218	0766	year of the pig
+1219	0767	animals (twelve) (different system but analogous)
+1220	0767	animals (twelve) representing the twelve years
+1221	0768	date (time)
+1222	0769	day (first of lunar month)
+1223	0770	day (second of lunar month)
+1224	0771	month
+1225	0772	January
+1226	0772	January (year in which New Year is celebrated)
+1227	0773	February
+1228	0773	February (lit. 'second month')
+1229	0774	beginning of a month
+1230	0775	middle of a month
+1231	0776	end of a month
+1232	0777	year
+1233	0778	this year
+1234	0779	last year
+1235	0780	year before last
+1236	0781	next year
+1237	0782	year after next
+1238	0783	past, in the
+1239	0784	ancient times, in
+1240	0785	present, the (time)
+1241	0786	recently / lately
+1242	0787	future
+1243	0787	future (near)
+1244	0788	initially / beginning, in the
+1245	0789	Monday
+1246	0790	Tuesday
+1247	0791	spring (season)
+1248	0791	spring (season) (lit. 'second, third months')
+1249	0792	summer
+1250	0792	summer (lit. 'hot moon')
+1251	0792	summer (lit. 'rainy season')
+1252	0793	fall / autumn
+1253	0794	winter
+1254	0794	winter (lit. 'dry season')
+1255	0795	New Year's Day
+1256	0795	New Year's Day (in Burmese system, around April)
+1257	0796	festival
+1258	0797	one
+1259	0798	two
+1260	0799	three
+1261	0800	four
+1262	0801	five
+1263	0802	six
+1264	0803	seven
+1265	0804	eight
+1266	0805	nine
+1267	0806	ten
+1268	0807	eleven
+1269	0808	twelve
+1270	0809	thirteen
+1271	0810	fourteen
+1272	0811	fifteen
+1273	0812	sixteen
+1274	0813	seventeen
+1275	0814	eighteen
+1276	0815	nineteen
+1277	0816	twenty
+1278	0817	thirty
+1279	0818	forty
+1280	0819	fifty
+1281	0820	sixty
+1282	0821	seventy
+1283	0822	eighty
+1284	0823	ninety
+1285	0824	hundred
+1286	0825	one hundred and one
+1287	0826	thousand
+1288	0827	ten thousand
+1289	0828	one hundred thousand
+1290	0829	million
+1291	0830	ten million
+1292	0831	billion
+1293	0832	half
+1294	0833	first
+1295	0834	second
+1296	0835	classifier for people
+1297	0836	classifier for bowls
+1298	0837	classifier for river
+1299	0838	classifier for rope
+1300	0839	sheet (of hide)
+1301	0839	sheet (of paper)
+1302	0840	page
+1303	0841	classifier for eggs
+1304	0842	classifier for birds
+1305	0842	classifier for two birds
+1306	0843	classifier for sticks
+1307	0843	classifier for sticks (big)
+1308	0843	classifier for sticks (small)
+1309	0844	blade (of grass)
+1310	0845	grain (of rice)
+1311	0846	classifier for brooms
+1312	0847	classifier for knives
+1313	0848	classifier for trees
+1314	0849	classifier for books
+1315	0849	classifier for two books
+1316	0850	line (of wheat)
+1317	0851	classifier for bridges
+1318	0852	bunch / bundle (of vegetable)
+1319	0853	handful (of rice)
+1320	0854	classifier for pens
+1321	0855	pile (of excrement)
+1322	0856	bucket (of water)
+1323	0857	bowl (of cooked rice)
+1324	0858	patch (of ground / field)
+1325	0859	classifier for rocks, stones
+1326	0860	classifier for leaves
+1327	0861	classifier for flowers
+1328	0862	sentence (of speech)
+1329	0863	classifier for songs
+1330	0864	classifier for garments
+1331	0865	pair (of shoes)
+1332	0866	pair (of rabbits)
+1333	0867	flock (of sheep)
+1334	0867	load (of firewood) on the back
+1335	0868	section (of road / journey)
+1336	0869	section (of bamboo between two joints)
+1337	0870	day's (journey)
+1338	0871	classifier for one of a pair
+1339	0872	roll (of cloth)
+1340	0873	bolt (of cloth)
+1341	0874	square (area unit for selling cloth)
+1342	0875	basketful (of vegetable)
+1343	0875	basketful (of vegetable) (carried on back)
+1344	0876	load (of firewood) on the back
+1345	0877	bundle / sheaf
+1346	0878	load of cupped-hands
+1347	0879	classifier for age of animals
+1348	0879	classifier for age of animals (cows)
+1349	0879	classifier for age of animals (horses)
+1350	0880	load on an animal's back
+1351	0881	bowl (of tobacco)
+1352	0881	bowl (of tobacco) (lit. 'pole / shaft')
+1353	0882	team / line (of people (&animals))
+1354	0883	row (of houses)
+1355	0884	string (of beads)
+1356	0885	drop (of oil)
+1357	0886	classifier for flags
+1358	0886	classifier for flags (lit. 'pole / shaft')
+1359	0887	story (of building)
+1360	0888	classifier for letters
+1361	0889	classifier for rooms
+1362	0890	parcel / sack (of medicine)
+1363	0890	parcel / sack (of presents)
+1364	0890	parcel / sack (of things)
+1365	0890	parcel / sack (of vegetables)
+1366	0891	bottle (of wine)
+1367	0892	puddle (of mud)
+1368	0893	measure of weight (=1 / 2 kilogram)
+1369	0893	measure of weight (Tibetan 'big')
+1370	0893	measure of weight (Tibetan 'small')
+1371	0894	tael (= .01 of Burmese jin1 (catty), =16.46g)
+1372	0894	tael (=50 grams)
+1373	0895	m.o.w. borrowed from Eng. 'ounce' (=0.1 tael)
+1374	0895	measure of weight (=0.1 tael)
+1375	0896	unit of dry measure for grain (=1 decaliter)
+1376	0896	unit of dry measure for grain (lit. 'small liter')
+1377	0897	liter
+1378	0898	mile (=0.5 kilometer)
+1379	0898	mile (=0.5 kilometer) (borr. from Ch. 'gong1li3')
+1380	0898	mile (=0.5 kilometer) (borr. from Eng. 'mile')
+1381	0899	fathom
+1382	0900	foot (=1 / 3 meter)
+1383	0901	span (thumb to index finger)
+1384	0901	span (thumb to middle finger)
+1385	0902	fingersbreadth
+1386	0903	cubit
+1387	0904	team (of oxen)
+1388	0904	team (of oxen) (lit. 'pair', from Ch. 'shuang1')
+1389	0905	inch
+1390	0906	yuan (Chinese money)
+1391	0906	yuan (Chinese money) (lit. = clf. for flat obj.)
+1392	0906	yuan (Chinese money) (renminbi)
+1393	0906	yuan (Chinese money) (silver dollar)
+1394	0907	ten cents
+1395	0908	hectare, 1 / 15 of
+1396	0909	while, a
+1397	0910	day's (work)
+1398	0911	night's (work)
+1399	0912	month's (work)
+1400	0913	year's (work)
+1401	0914	classifier for age
+1402	0915	lifetime
+1403	0916	step / stride
+1404	0917	time / instance (of going somewhere)
+1405	0918	meal
+1406	0919	shout
+1407	0920	time / instance (of hitting)
+1408	0921	time / instance (of kicking)
+1409	0922	time / instance (of biting)
+1410	0923	some
+1411	0924	several / few, a
+1412	0924	several / few, a (people)
+1413	0924	several / few, a (things)
+1414	0925	every day
+1415	0926	each / every
+1416	0926	each / every (person)
+1417	0926	each / every (thing)
+1418	0927	double / twice
+1419	0928	I
+1420	0929	we (two)
+1421	0930	we
+1422	0931	you
+1423	0932	you two
+1424	0933	you (pl.)
+1425	0934	he
+1426	0935	they two
+1427	0936	they
+1428	0937	we (inclusive)
+1429	0938	we (dual, inclusive)
+1430	0939	we all
+1431	0940	himself / herself
+1432	0940	myself
+1433	0940	oneself
+1434	0940	yourself
+1435	0941	other person(s)
+1436	0941	other person(s) (lit. 'person home')
+1437	0941	other persons
+1438	0942	this
+1439	0943	these
+1440	0943	these (people)
+1441	0943	these (things)
+1442	0944	here
+1443	0945	this side / here
+1444	0946	thus / this (way) / (like) this
+1445	0947	that
+1446	0948	that (over yonder)
+1447	0949	those
+1448	0949	those (people)
+1449	0949	those (things)
+1450	0950	there
+1451	0951	that side / there
+1452	0952	that (way) / (like) that
+1453	0953	who
+1454	0954	what
+1455	0955	where
+1456	0956	when
+1457	0957	how
+1458	0958	how many / how much
+1459	0959	how many (a small number)
+1460	0959	how many (a small number) (people)
+1461	0959	how many (a small number) (things)
+1462	0960	others / miscellaneous
+1463	0961	respective / individual / each
+1464	0962	all / everything
+1465	0963	all / whole, the
+1466	0964	big / large
+1467	0965	small
+1468	0966	wide (in diameter) / coarse
+1469	0966	wide (in diameter) / coarse (of a rope)
+1470	0966	wide (in diameter) / coarse (of roasted barley)
+1471	0966	wide (in diameter) / coarse (of texture)
+1472	0967	thin (in diameter) / fine / tiny
+1473	0967	thin (in diameter) / fine / tiny (of a rope)
+1474	0967	thin (in diameter) / fine / tiny (of roasted barley)
+1475	0967	thin (in diameter) / fine / tiny (of texture)
+1476	0968	high / tall
+1477	0968	high / tall (of person's physique)
+1478	0968	high / tall (of trees)
+1479	0969	low / short
+1480	0969	low / short (person)
+1481	0970	protruding / raised
+1482	0971	sunken / dented
+1483	0972	long
+1484	0973	short
+1485	0974	far / distant
+1486	0975	near
+1487	0976	wide / broad
+1488	0976	wide / broad (clothing)
+1489	0976	wide / broad (road)
+1490	0977	narrow
+1491	0978	spacious / commodious
+1492	0979	cramped / narrow
+1493	0980	thick
+1494	0981	thin
+1495	0982	deep
+1496	0983	shallow
+1497	0984	full
+1498	0985	empty
+1499	0986	shrivelled / shrunken
+1500	0987	many / much
+1501	0988	few / little
+1502	0989	square / rectangular
+1503	0989	square / rectangular (lit. 'four corners')
+1504	0989	square / rectangular (lit. 'four face four corner')
+1505	0989	square / rectangular (lit. 'four sides')
+1506	0989	square / rectangular (lit. 'four square body')
+1507	0990	circle / circular
+1508	0990	circle / circular (planar)
+1509	0990	circle / circular (spherical)
+1510	0990	circle / circular (tubular)
+1511	0991	flat / shallow
+1512	0992	pointed
+1513	0993	bald / bare
+1514	0993	bald / bare (head)
+1515	0993	bald / bare (lit. 'bald mountain package')
+1516	0993	bald / bare (mountain)
+1517	0993	bald / bare (tail)
+1518	0994	level / flat
+1519	0995	wrinkled / creased
+1520	0996	right / obverse side
+1521	0996	right / obverse side (lit. 'outside side')
+1522	0997	reverse side
+1523	0998	hit sthg on the target
+1524	0999	slanting / leaning
+1525	1000	askew / awry / slanting
+1526	1001	horizontal
+1527	1002	vertical
+1528	1003	straight
+1529	1003	straight (horizontal)
+1530	1003	straight (vertical)
+1531	1004	curved / crooked / bent
+1532	1005	black
+1533	1005	black (of faces)
+1534	1006	white
+1535	1007	red
+1536	1008	yellow
+1537	1009	green
+1538	1010	blue
+1539	1010	blue (lit. 'sky color')
+1540	1011	grey
+1541	1011	grey (deep)
+1542	1011	grey (lit. 'pigeon color')
+1543	1012	bright
+1544	1013	dark
+1545	1014	heavy
+1546	1015	light (weight)
+1547	1016	quick / fast
+1548	1016	quick / fast (body movement)
+1549	1016	quick / fast (speed)
+1550	1017	slow
+1551	1017	slow (body movement)
+1552	1017	slow (travel)
+1553	1018	early
+1554	1019	late
+1555	1020	sharp
+1556	1021	blunt / dull
+1557	1022	clear (water)
+1558	1023	muddy / turbid
+1559	1024	fat
+1560	1024	fat (adult)
+1561	1024	fat (infant)
+1562	1025	fat (adult pig)
+1563	1025	fat (pig)
+1564	1025	fat (young pig)
+1565	1026	thin
+1566	1027	poor (land)
+1567	1028	dry
+1568	1028	dry (inside of object)
+1569	1028	dry (of damp objects: become dry)
+1570	1029	wet
+1571	1030	thick (porridge)
+1572	1031	watery / thin (porridge)
+1573	1032	woven, tightly (fabric)
+1574	1033	thin (fabric)
+1575	1033	thin (hair)
+1576	1034	hard
+1577	1035	soft
+1578	1035	soft / spongy / loose
+1579	1036	sticky / glutinous
+1580	1037	smooth / glossy / sleek
+1581	1038	rough / coarse
+1582	1039	slippery (road)
+1583	1040	tense / tight / taut
+1584	1041	lax / fluffy / puffy
+1585	1041	lax / loose / slack
+1586	1042	crisp / brittle
+1587	1043	solid
+1588	1043	solid (of objects)
+1589	1043	solid (of the body)
+1590	1044	chaotic / disorderly / messy
+1591	1045	right / correct
+1592	1046	wrong
+1593	1047	true
+1594	1047	true (words)
+1595	1048	fake (goods)
+1596	1048	false
+1597	1048	false (words)
+1598	1049	uncooked / raw
+1599	1050	new
+1600	1051	used / old
+1601	1051	used / old (of things)
+1602	1052	good
+1603	1052	good (quality of material)
+1604	1052	good (thought)
+1605	1053	bad
+1606	1053	bad (things)
+1607	1053	bad (words)
+1608	1054	expensive
+1609	1055	cheap
+1610	1056	overgrown (plant)
+1611	1057	tender young (plant)
+1612	1058	old / elderly
+1613	1059	young
+1614	1060	beautiful
+1615	1060	beautiful, grow to be
+1616	1061	ugly
+1617	1061	ugly (bad)
+1618	1061	ugly (looking)
+1619	1062	hot
+1620	1062	hot (water)
+1621	1062	hot (weather)
+1622	1063	cold (water)
+1623	1063	cold (weather)
+1624	1063	cold (weather, water)
+1625	1064	lukewarm (water)
+1626	1065	warm
+1627	1066	cool, pleasantly
+1628	1067	difficult
+1629	1068	easy
+1630	1069	fragrant (smell)
+1631	1070	stinking / smelly
+1632	1071	savory / appetizing
+1633	1072	sour
+1634	1073	sweet
+1635	1074	bitter
+1636	1075	hot / spicy
+1637	1076	salty
+1638	1077	tasteless / insipid
+1639	1078	astringent
+1640	1079	fishy-smelling
+1641	1080	bored
+1642	1080	greasy / oily
+1643	1080	greasy / oily (food)
+1644	1081	idle / not busy
+1645	1082	busy
+1646	1083	rich
+1647	1084	poor
+1648	1085	clean
+1649	1086	dirty
+1650	1087	living (adj.)
+1651	1087	living (adj.) (animals)
+1652	1087	living (adj.) (plants)
+1653	1088	fresh
+1654	1089	dead
+1655	1090	clear / lucid
+1656	1091	tasty / delicious
+1657	1092	pleasant to the ears
+1658	1093	beautiful / pleasant to the eyes
+1659	1094	loud
+1660	1095	hard / laborious
+1661	1096	bored
+1662	1097	hurriedly / hastily
+1663	1098	multicolored / patterned (cloth)
+1664	1099	clever
+1665	1100	stupid
+1666	1100	stupid (male)
+1667	1101	honest / well-behaved
+1668	1102	sly / cunning
+1669	1103	careful / attentive
+1670	1104	gentle / amiable
+1671	1105	arrogant / conceited
+1672	1106	suitable
+1673	1107	fierce / ferocious
+1674	1108	severe / fierce / sharp
+1675	1108	severe / fierce / sharp (potent liquor)
+1676	1108	severe / fierce / sharp (temper)
+1677	1109	polite / courteous
+1678	1110	stingy
+1679	1111	industrious / hardworking
+1680	1112	lazy
+1681	1113	clumsy / awkward
+1682	1114	well-behaved / lovable (child)
+1683	1115	hardworking / exerting oneself
+1684	1116	pitiable / pitiful
+1685	1117	happy / excited
+1686	1118	blissful
+1687	1119	safe and sound
+1688	1120	sad
+1689	1121	affectionate / intimate
+1690	1122	bothersome / disagreeable
+1691	1123	alone
+1692	1124	cliffy / precipitous
+1693	1125	near / close to
+1694	1126	love / like
+1695	1126	love / like (one's child)
+1696	1127	like (to eat)
+1697	1128	install
+1698	1129	press (with palm or finger)
+1699	1129	press (with palm or finger) (a bell)
+1700	1130	decoct (herbal medicine)
+1701	1130	decoct (porridge / conjee)
+1702	1131	pull up (weeds)
+1703	1131	thin out (seedlings)
+1704	1132	rake (the fields)
+1705	1133	grasp (with the fingers and thumb of both hands)
+1706	1134	put in order / arrange
+1707	1134	put in order / arrange (things w / out legs)
+1708	1134	put in order / arrange (things with legs)
+1709	1135	swing / sway
+1710	1136	lose / defeated
+1711	1137	worship / make obeisance to
+1712	1138	move (house)
+1713	1139	move (a stool)
+1714	1140	help
+1715	1141	bind / tie up
+1716	1142	wrap
+1717	1143	shell (melon seeds)
+1718	1143	shell (peanuts)
+1719	1143	strip off sticky things
+1720	1144	skin (cattle)
+1721	1145	peel off (paint)
+1722	1146	secret, keep
+1723	1147	protect
+1724	1148	eaten one's fill, have
+1725	1149	hug / hold in the arms
+1726	1149	hug / hold in the arms (a child)
+1727	1150	dig
+1728	1151	carry (a child) on the back)
+1729	1152	spout / burst forth
+1730	1153	force / compel
+1731	1154	compare
+1732	1154	compare ('than'--functor)
+1733	1155	close (the mouth)
+1734	1156	plait
+1735	1157	weave (a basket)
+1736	1158	change
+1737	1159	alter
+1738	1160	ill, to be
+1739	1161	patch (clothing)
+1740	1162	tinker (pans)
+1741	1163	wipe (the table)
+1742	1164	wipe away / erase
+1743	1165	guess (a riddle)
+1744	1166	guessed right, have
+1745	1167	cut (cloth)
+1746	1167	cut (paper)
+1747	1167	cut (paper, cloth)
+1748	1168	step on / tread
+1749	1169	hide (sthg.)
+1750	1170	scratch (an itch against sthg.)
+1751	1171	poke (a sign into earth) / insert
+1752	1172	transplant (rice seedlings)
+1753	1173	audit (accounts)
+1754	1174	unseam (clothing)
+1755	1174	unseam (clothing) (causative)
+1756	1174	unseam (clothing) (simplex)
+1757	1175	pull down (a house)
+1758	1176	fall down (a house) / collapse
+1759	1177	support s.b. with one's hand
+1760	1177	support s.b. with one's hand (causative)
+1761	1177	support s.b. with one's hand (simplex)
+1762	1178	add water
+1763	1178	dilute / add water
+1764	1178	dilute water
+1765	1179	wind (thread onto a keel)
+1766	1180	want to eat (meat) badly
+1767	1181	gluttonous
+1768	1182	taste ('have a look')
+1769	1182	taste / try the flavor of
+1770	1183	repay
+1771	1184	sing
+1772	1184	sing (Han songs)
+1773	1184	sing (own songs)
+1774	1185	make a row, racket
+1775	1185	make a row, racket ('yell at each other')
+1776	1186	stir-fry
+1777	1186	stir-fry (grain)
+1778	1187	sink
+1779	1188	weigh (food)
+1780	1189	commend / praise
+1781	1190	prop up / support
+1782	1191	open (an umbrella)
+1783	1192	done, be / accomplished
+1784	1193	accomplish / succeed
+1785	1194	fill (a bowl with porridge)
+1786	1194	fill (a bowl with rice)
+1787	1195	hold, can
+1788	1196	admit
+1789	1197	clarify / clear up
+1790	1198	eat
+1791	1198	eat (meat, corn, etc.)
+1792	1198	eat (rice, etc.)
+1793	1199	charge / sprint (in the front)
+1794	1200	rinse / flush
+1795	1200	rinse / flush ('sprinkle, splash')
+1796	1201	pestle / pound
+1797	1202	take out (from in between, a part from a whole)
+1798	1203	smoke (a cigarette)
+1799	1203	smoke (an opium cigarette)
+1800	1204	whip / thrash
+1801	1205	produce
+1802	1206	go out
+1803	1206	go out (future)
+1804	1206	go out (past)
+1805	1207	come out (the sun)
+1806	1208	come out
+1807	1208	come out (future)
+1808	1208	come out (past)
+1809	1209	withdraw / take out
+1810	1210	hoe up (weeds)
+1811	1211	wear (a garment)
+1812	1212	put on (shoes)
+1813	1213	thread (a needle)
+1814	1214	puncture (sthg.)
+1815	1215	punch a hole / perforate
+1816	1216	hand down (to posterity)
+1817	1217	infect
+1818	1218	blow (the trumpet)
+1819	1219	blow away (a speck of dust)
+1820	1220	beat / thump
+1821	1221	jab / poke / stab
+1822	1222	pierce through
+1823	1223	hurt by stinging
+1824	1224	urge / hurry / speed up
+1825	1225	twist (hemp fibers) between the palms
+1826	1226	wrong, be
+1827	1227	promise / consent
+1828	1228	hit (a person)
+1829	1228	hit (a person) (with a fist)
+1830	1229	gesticulate
+1831	1230	hunt
+1832	1231	fire (a shot)
+1833	1232	hit, have (the target)
+1834	1233	war, go to / battle
+1835	1234	fight
+1836	1234	fight ('mutually hit')
+1837	1235	break up / scatter
+1838	1236	separated accidentally and lose contact with, get
+1839	1237	overthrow / down with
+1840	1237	overthrow / down with (traitors)
+1841	1238	fetch / draw (water)
+1842	1239	chop (firewood)
+1843	1239	gather (firewood)
+1844	1240	bet
+1845	1241	thresh grain
+1846	1241	thresh grain (lit. 'hit chain cangue')
+1847	1242	doze / nod off
+1848	1243	yawn
+1849	1244	hiccup
+1850	1245	belch
+1851	1246	open
+1852	1246	open (chest, trunk)
+1853	1246	open (door, lock)
+1854	1247	break (thunderbolt)
+1855	1248	thunder
+1856	1249	carry (money) on one
+1857	1250	bring up (children)
+1858	1251	lead (the way) / guide
+1859	1251	lead (the way) / guide (lit. 'lead head')
+1860	1252	wear (a hat)
+1861	1253	wear (a turban)
+1862	1254	wear (a bracelet)
+1863	1255	hold up / delay
+1864	1256	block (the wind)
+1865	1257	fall down (a wall) / topple
+1866	1258	topple / tear down (a wall)
+1867	1259	pound to pieces
+1868	1260	reverse
+1869	1261	pour or throw out (water)
+1870	1262	arrive
+1871	1262	arrive (2nd / 3rd person singular)
+1872	1263	get / acquire
+1873	1264	wait
+1874	1265	quake (earth)
+1875	1266	lower (the head)
+1876	1267	nod
+1877	1268	light (a fire)
+1878	1269	burn
+1879	1270	light (a light)
+1880	1271	pad
+1881	1272	wither
+1882	1273	hold danglingly in the mouth
+1883	1274	drop
+1884	1275	hang
+1885	1276	fish
+1886	1277	fall over / down
+1887	1278	fold up (a quilt)
+1888	1279	bite (mosquito)
+1889	1280	hammer in (a nail
+1890	1280	hammer in (a nail)
+1891	1281	lose / mislay
+1892	1282	understand / grasp
+1893	1283	freeze (meat)
+1894	1284	frostbitten, be (hand)
+1895	1285	move
+1896	1286	stir / budge
+1897	1287	read
+1898	1288	block up / plug
+1899	1289	cross (a river)
+1900	1290	snap (thread)
+1901	1291	snap (a thread)
+1902	1292	break / snap (stick)
+1903	1293	snap / break (a stick)
+1904	1294	heap / stack (hay, grass)
+1905	1295	hide oneself
+1906	1296	chop / cut (meat)
+1907	1297	stamp (one's foot)
+1908	1298	hungry, be
+1909	1299	occur / happen
+1910	1300	develop (career / undertaking)
+1911	1301	develop (a career / undertaking)
+1912	1302	swear / vow
+1913	1303	shiver / tremble
+1914	1303	shiver / tremble (from cold)
+1915	1303	shiver / tremble (from fear)
+1916	1304	ferment
+1917	1305	fever, have
+1918	1306	worry / anxious, be
+1919	1307	germinate / sprout
+1920	1308	punish
+1921	1309	turn inside out (clothing) or the reverse
+1922	1310	turn over (on bed)
+1923	1311	oppose
+1924	1312	ruminate
+1925	1312	ruminate (cow)
+1926	1313	spin (into yarn)
+1927	1314	put sthg. somewhere
+1928	1315	put in (salt)
+1929	1316	put out to pasture
+1930	1316	put out to pasture (cows)
+1931	1316	put out to pasture (sheep)
+1932	1317	set on fire
+1933	1318	fly
+1934	1319	divide / share (things)
+1935	1320	divide family property and live apart (offspring)
+1936	1321	separate
+1937	1322	separate (cause to)
+1938	1323	crazy, become
+1939	1324	sew (up)
+1940	1325	apply (ointment)
+1941	1326	hatch / incubate
+1942	1327	put one's hand on (sthg.) for
+1943	1328	satisfy (conditions, requireme
+1944	1329	conform (cause to) / satisfy
+1945	1330	rot
+1946	1331	put (soil) on
+1947	1332	pull (a quilt) over (causative)
+1948	1332	pull (a quilt) over oneself
+1949	1332	pull (a quilt) over oneself (simplex)
+1950	1333	dry, be
+1951	1334	go (to market / a fair)
+1952	1335	dare
+1953	1336	work / labor
+1954	1337	tell
+1955	1338	complain about s.b. to his sup
+1956	1339	cut (meat)
+1957	1340	sever (a rope)
+1958	1341	cut off / sever
+1959	1341	cut off / sever (intransitive)
+1960	1341	cut off / sever (transitive)
+1961	1342	mow / cut (grass)
+1962	1343	on the other side (of a riv
+1963	1344	hurt (the foot from grit in the shoe)
+1964	1344	hurt (the foot from grit in the shoe) (causative)
+1965	1344	hurt (the foot from grit in the shoe) (simplex)
+1966	1345	give
+1967	1345	give (as a gift)
+1968	1345	give (hand over)
+1969	1346	follow
+1970	1347	plough / till
+1971	1348	hook
+1972	1349	enough, be
+1973	1350	assess / estimate
+1974	1351	hire / employ
+1975	1351	hire / employ (a draught animal)
+1976	1351	hire / employ (a person)
+1977	1352	shave (hairs) / scrape
+1978	1353	blow (whirlwind)
+1979	1353	blow (wind)
+1980	1354	hang (on the wall)
+1981	1355	hung, be
+1982	1356	close (the door)
+1983	1357	pen in (sheep)
+1984	1358	manage
+1985	1358	manage / control
+1986	1359	fill (with medicine)
+1987	1359	fill (with water)
+1988	1359	fill (with water) (field)
+1989	1359	fill (with water) (kettle)
+1990	1360	kneel
+1991	1361	roll
+1992	1361	roll (intransitive)
+1993	1361	roll (transitive)
+1994	1362	celebrate (the New Year)
+1995	1363	cross (a bridge)
+1996	1364	go by (two years) / pass
+1997	1365	shy, be / bashful
+1998	1366	afraid, be
+1999	1367	ask s.b. to come here / fetch
+2000	1368	yell / shout
+2001	1369	weld / solder
+2002	1370	drink
+2003	1371	suitable
+2004	1372	close (a book)
+2005	1373	hate
+2006	1374	dry by fire
+2007	1375	coax / fool
+2008	1376	regret
+2009	1377	paddle / row
+2010	1378	draw (a picture)
+2011	1379	pregnant, be
+2012	1379	pregnant, be (person)
+2013	1380	doubt
+2014	1381	repay (a debt)
+2015	1382	return (a pen)
+2016	1383	change
+2017	1383	take (a breath)
+2018	1384	wave / wield
+2019	1385	return
+2020	1385	return (come back)
+2021	1385	return (future)
+2022	1385	return (go back)
+2023	1385	return (past)
+2024	1386	return, cause to
+2025	1387	turn one's head to the back
+2026	1388	recall / recollect
+2027	1389	answer / reply
+2028	1390	destroy / exterminate
+2029	1391	destroy (cause to)
+2030	1392	know (to write)
+2031	1393	mix / blend / mingle
+2032	1393	mix / blend / mingle (cows, horses, etc.)
+2033	1393	mix / blend / mingle (rice, bread, etc.)
+2034	1394	mix (cause to)
+2035	1394	mix (cause to) (cows, horses, etc.)
+2036	1394	mix (cause to) (rice, bread, etc.)
+2037	1395	muddle (the water)
+2038	1396	alive, become / active
+2039	1396	alive, become / active (people)
+2040	1396	revive (vi.) (animals)
+2041	1396	survive (plants)
+2042	1397	support / raise
+2043	1398	get / gain
+2044	1399	mix (powder) with water
+2045	1399	mix (powder) with water (stomp w / feet)
+2046	1400	gather ( of water) / build up
+2047	1401	accumulate
+2048	1402	gather / assemble
+2049	1403	assemble / muster (a team)
+2050	1404	press (a tube of toothpaste)
+2051	1405	squeeze (for milk)
+2052	1406	pinch (of a shoe)
+2053	1407	remember
+2054	1408	deposit / leave with
+2055	1409	send (a letter)
+2056	1410	envy
+2057	1411	avoid certain food (because of
+2058	1412	buckle up / fasten (a belt)
+2059	1413	pick up (food with chopsticks)
+2060	1414	pick up
+2061	1415	reduce
+2062	1416	scissor
+2063	1416	scissor (for cutting cloth)
+2064	1416	scissor (paper)
+2065	1416	scissor (wool, hair)
+2066	1417	tell (a story)
+2067	1418	land / descend
+2068	1418	land / descend (causative)
+2069	1418	land / descend (simplex)
+2070	1419	exchange
+2071	1420	turn / hand over / consign
+2072	1421	make friends with
+2073	1421	make friends with (sbj. = female)
+2074	1421	make friends with (sbj. = male)
+2075	1422	water / sprinkle / irrigate
+2076	1422	water / sprinkle / irrigate (earth)
+2077	1422	water / sprinkle / irrigate (flowers)
+2078	1423	burnt / scorched
+2079	1424	chew
+2080	1425	teach
+2081	1426	crow (of cocks)
+2082	1427	crow (of hens)
+2083	1428	meow
+2084	1429	bray
+2085	1430	neigh
+2086	1431	moo
+2087	1431	moo ((female) cow)
+2088	1431	moo (bull)
+2089	1432	bark
+2090	1433	grunt (of pigs)
+2091	1434	baa / bleat
+2092	1435	growl (of tigers)
+2093	1435	growl (of wild animals)
+2094	1436	howl (of wolves)
+2095	1436	howl (of wolves) (lit. 'cry')
+2096	1436	howl (of wolves) (lit. 'groan / moan')
+2097	1437	called, be / named
+2098	1437	called, be / named (lit. = copula)
+2099	1438	lift (the lid)
+2100	1439	bear (fruit)
+2101	1440	freeze / ice up
+2102	1441	marry
+2103	1441	marry (lit. 'drink liquor')
+2104	1441	marry (lit. 'hold wedding ceremony')
+2105	1441	marry (of a man)
+2106	1441	marry (of a woman)
+2107	1442	borrow (money)
+2108	1442	lend (money)
+2109	1443	borrow (tools)
+2110	1443	lend (tools)
+2111	1444	soak / steep
+2112	1445	ban / forbid / prohibit
+2113	1446	immerse / submerge
+2114	1447	enter (a house)
+2115	1447	enter (a house) (future)
+2116	1447	enter (a house) (past)
+2117	1448	pass / go by
+2118	1449	startle / disturb
+2119	1450	startled, be / shy (of animals)
+2120	1451	rescue / save
+2121	1452	live / reside
+2122	1452	live / reside (lit. 'be at')
+2123	1452	live / reside (lit. 'sit')
+2124	1453	raise (the hand)
+2125	1454	saw
+2126	1455	get together, all / assemble
+2127	1456	roll up (cloth)
+2128	1456	roll up (sleeve)
+2129	1457	huddle / curl up
+2130	1458	dig / excavate
+2131	1459	block / obstruct
+2132	1459	block / obstruct (by a rock)
+2133	1459	block / obstruct (by a thorn)
+2134	1460	obstruct (cause to) / block
+2135	1461	open (a door)
+2136	1462	boiling, be (water)
+2137	1463	blossom (of flowers)
+2138	1464	start / drive (a car)
+2139	1465	start / begin
+2140	1466	open up wasteland
+2141	1467	chop (firewood, bamboo)
+2142	1467	chop (wood)
+2143	1467	chop down (trees)
+2144	1468	chop / hew
+2145	1469	watch
+2146	1470	let s.b. see / show
+2147	1471	see
+2148	1472	see ( a doctor)
+2149	1473	shoulder
+2150	1474	roast (meat)
+2151	1474	warm oneself by (a fire)
+2152	1475	rely / depend on
+2153	1476	kowtow
+2154	1477	cough
+2155	1478	thirsty, be
+2156	1479	carve / engrave
+2157	1479	woodcut
+2158	1480	agree / consent
+2159	1481	gnaw / nibble
+2160	1482	dig out with finger
+2161	1483	buckle / button up
+2162	1484	idle, be / unoccupied
+2163	1485	cry
+2164	1486	sleepy, be
+2165	1487	pull / tug
+2166	1488	empty the bowels
+2167	1489	peppery
+2168	1490	leave sthg. behind
+2169	1491	come
+2170	1491	come (1sg)
+2171	1491	come (future)
+2172	1491	come (imperative)
+2173	1491	come (past)
+2174	1492	drag for / dredge up
+2175	1493	old, be
+2176	1494	rein in
+2177	1495	tired, be / fatigued
+2178	1496	connect / join
+2179	1497	measure
+2180	1497	measure (length)
+2181	1497	measure (with a grain measure (Ch. 'dou3')
+2182	1497	measure (with the hands)
+2183	1498	dry (clothes) in the air
+2184	1499	chat
+2185	1500	split open / rend
+2186	1500	split open / rend (earth, melon, etc.)
+2187	1500	split open / rend (wooden things)
+2188	1501	drench
+2189	1502	flow (of water)
+2190	1503	reserve (seeds)
+2191	1504	deaf, be
+2192	1505	cuddle / embrace
+2193	1506	leak
+2194	1506	leak (iron pot)
+2195	1506	leak (room)
+2196	1506	leak (stone pot)
+2197	1507	s.b.'s turn
+2198	1508	filter / strain
+2199	1508	old / elderly
+2200	1509	messy, be / in chaos
+2201	1510	mess up
+2202	1511	pile / stack up
+2203	1511	pile / stack up (books, quilts, etc.)
+2204	1511	pile / stack up (firewood)
+2205	1512	set (of the sun)
+2206	1513	numb, be
+2207	1513	numb, be (foot)
+2208	1513	numb, be (hand)
+2209	1513	numb, be (mouth)
+2210	1514	scold
+2211	1515	bury
+2212	1516	buy
+2213	1517	sell
+2214	1518	full, be / filled up
+2215	1519	have, do not
+2216	1519	there isn't / aren't
+2217	1520	cover up (objects)
+2218	1521	cry / chirp (of birds)
+2219	1522	die out (of fire)
+2220	1523	close (the mouth) lightly
+2221	1524	understand
+2222	1525	stroke / touch
+2223	1526	whet (a knife)
+2224	1527	grind (flour)
+2225	1528	take / hold / get
+2226	1529	taken hold of, have / gotten
+2227	1530	scratch (an itch)
+2228	1531	can
+2229	1532	shrivel up / wither
+2230	1533	twist (a towel)
+2231	1534	solidify / congeal
+2232	1535	throw up / vomit
+2233	1536	crawl (of babies)
+2234	1536	crawl (of people)
+2235	1536	crawl (upwards)
+2236	1537	crawl (of insects)
+2237	1537	crawl (of insects, horizontally)
+2238	1537	crawl (of insects, upwards)
+2239	1538	climb (a mountain)
+2240	1539	climb up (a tree)
+2241	1540	strike (the table)
+2242	1541	line up
+2243	1542	send / dispatch (a person)
+2244	1543	circle / hover / wheel
+2245	1544	run
+2246	1545	make (tea)
+2247	1545	pickle (vegetables)
+2248	1546	compensate
+2249	1547	sustain losses (in business)
+2250	1548	wear / bear
+2251	1549	expand / swell
+2252	1550	collide / run into
+2253	1551	drape (a garment) over one's shoulders
+2254	1552	chop (firewood)
+2255	1553	float
+2256	1554	splash / sprinkle
+2257	1555	split up (bamboo strips)
+2258	1556	become worn through (clothing)
+2259	1557	split up (bamboo pole)
+2260	1558	damaged, be (house) / cave in
+2261	1559	broken (bowls)
+2262	1559	broken, be (bowls)
+2263	1560	break / smash (a bowl)
+2264	1561	cut / rip open
+2265	1562	pave / lay
+2266	1563	bully / treat s.b. rough
+2267	1564	deceive / cheat
+2268	1564	deceive / cheat (people)
+2269	1564	deceived, be / cheated, be
+2270	1565	build (stove) by laying bricks, stones, etc.
+2271	1565	build (wall) by laying bricks, stones, etc.
+2272	1565	build by laying bricks, stones, etc.
+2273	1566	ride (a horse)
+2274	1567	get up (out of bed)
+2275	1567	rise / stand up
+2276	1568	pull / lead (a cow) along
+2277	1569	owe (money)
+2278	1570	rob / loot
+2279	1571	knock / strike
+2280	1572	raise (the tail)
+2281	1572	warped, be (e.g. wooden boards)
+2282	1573	prize / pry
+2283	1574	cut up (meat)
+2284	1574	cut up (melon)
+2285	1574	cut up (vegetable)
+2286	1575	embrace a child cheek to cheek
+2287	1576	drive out / expel
+2288	1577	get / fetch
+2289	1578	marry (a woman)
+2290	1579	go / leave
+2291	1579	go / leave (future)
+2292	1579	go / leave (past)
+2293	1580	recover, fully (from an illness)
+2294	1581	healed, have (of a wound)
+2295	1582	chip (the rim)
+2296	1583	complete, be
+2297	1584	dye
+2298	1585	shout / yell
+2299	1586	make way for / give way
+2300	1587	fry (cold rice)
+2301	1587	heat up (cold rice)
+2302	1587	steam (cold rice)
+2303	1588	endure / be patient
+2304	1589	look at and distinguish (characters)
+2305	1590	recognize
+2306	1591	throw / toss
+2307	1591	throw / toss (away from speaker)
+2308	1591	throw / toss (towards speaker)
+2309	1592	dissolve
+2310	1593	dissolve (cause to)
+2311	1594	knead (dough)
+2312	1595	sprinkle / spray
+2313	1596	piss / pee
+2314	1597	scatter (seeds)
+2315	1598	break up (meeting) / end
+2316	1599	come loose (shoelace)
+2317	1600	untie / undo
+2318	1601	sweep
+2319	1602	kill
+2320	1602	kill (a person)
+2321	1602	kill / slaughter (an animal)
+2322	1603	sieve / sift
+2323	1604	dry (clothes) in the sun
+2324	1604	dry (grain) in the sun
+2325	1605	sunbathe
+2326	1606	lightning
+2327	1607	injure / hurt (the arm)
+2328	1607	injure / hurt (the arm, by chopping)
+2329	1608	consult / discuss
+2330	1609	go upstairs
+2331	1609	go upstairs (future)
+2332	1609	go upstairs (past)
+2333	1610	burn the grass on wasteland
+2334	1611	shoot (an arrow)
+2335	1612	shot, have (the target)
+2336	1613	stretch out (the arm)
+2337	1613	stretch out (the foot)
+2338	1613	stretch out (the waist)
+2339	1614	extend / elongate
+2340	1615	draw out / stretch
+2341	1615	draw out / stretchdraw out / stret
+2342	1616	seep into / permeate
+2343	1617	grow
+2344	1617	grow (appear)
+2345	1617	grow (mature)
+2346	1618	rust
+2347	1618	rust (copper)
+2348	1618	rust (iron)
+2349	1618	rust (lit. 'eat mud')
+2350	1619	grow (a boil)
+2351	1620	birth, give to
+2352	1621	angry, be / take offense
+2353	1622	left over, be / remain
+2354	1623	rise / go up
+2355	1624	lose (sthg.)
+2356	1625	make / cause
+2357	1626	release / set free
+2358	1627	try / attempt
+2359	1628	be
+2360	1628	be (1st person)
+2361	1628	be (3rd person)
+2362	1629	harvest / reap
+2363	1629	harvest / reap (the ear / tassel)
+2364	1629	harvest / reap (the root)
+2365	1630	receive
+2366	1631	close (an umbrella)
+2367	1632	put in order / tidy
+2368	1632	put in order / tidy (crops)
+2369	1632	put in order / tidy (things)
+2370	1633	guard / defend
+2371	1634	comb
+2372	1635	lose (a fight)
+2373	1635	lose (a game)
+2374	1635	lose (a game) (gambling)
+2375	1636	familiar with, be / know sthg. o
+2376	1637	cooked, be (rice) / done
+2377	1638	ripe, be (corn, beans, etc.)
+2378	1638	ripe, be (fruit)
+2379	1638	ripe, be (melons, nuts, etc.)
+2380	1638	ripe, be (paddies, etc.)
+2381	1639	thinner, get (body)
+2382	1639	thinner, get (body) (livestock)
+2383	1639	thinner, get (body) (people)
+2384	1640	count (numbers)
+2385	1641	rinse (the mouth)
+2386	1642	fall / tumble down
+2387	1643	fling / toss
+2388	1644	bolt (the door)
+2389	1645	tie (a cow) to
+2390	1646	sleep
+2391	1647	asleep, fall
+2392	1648	suck
+2393	1649	speak
+2394	1650	tear up / rip
+2395	1651	die
+2396	1652	calculate
+2397	1653	break to pieces (grain)
+2398	1654	crush to pieces
+2399	1655	damage / spoil
+2400	1655	damage / spoil (intransitive)
+2401	1655	damage / spoil (simplex)
+2402	1655	damage / spoil (transitive)
+2403	1656	lock (the door)
+2404	1657	collapse / cave in / fall down
+2405	1658	step on / trample / stamp
+2406	1659	lift up / carry
+2407	1660	shed (tears)
+2408	1661	lie down
+2409	1662	scald / burn (the hand)
+2410	1663	escape / run away
+2411	1664	beg (for food)
+2412	1665	put on (another layer of cloth
+2413	1666	ache (head)
+2414	1666	wound
+2415	1667	kick
+2416	1668	shave (the head)
+2417	1669	cloudy, be (sky) / overcast
+2418	1670	clear, be (weather) / sunny
+2419	1671	dawn (the day)
+2420	1672	dark, get
+2421	1673	fill up (a hollow)
+2422	1674	lick / lap
+2423	1675	choose / pick
+2424	1676	carry (sthg.) with a pole on t
+2425	1677	dance
+2426	1677	dance (the 'guo1zhuang1')
+2427	1678	jump
+2428	1679	pulse / beat
+2429	1680	paste / stick / glue
+2430	1681	listen
+2431	1682	hear
+2432	1683	stop / cease
+2433	1684	throw out (one's chest)
+2434	1685	notify / inform
+2435	1686	steal
+2436	1687	throw / hurl
+2437	1688	spit
+2438	1689	push / shove
+2439	1689	push / shove (people, cars)
+2440	1689	turn a mill / grindstone
+2441	1690	refuse by making excuses
+2442	1691	back up / retreat
+2443	1692	swallow
+2444	1693	slough off (of a snake)
+2445	1694	pull / drag (a log)
+2446	1695	take off (clothes)
+2447	1696	dislocate (a joint)
+2448	1697	carry (loads; of pack animals)
+2449	1698	dig / scoop out
+2450	1699	cut / gouge out
+2451	1700	bend at the waist
+2452	1700	curved, become / bent
+2453	1701	bend
+2454	1702	finish / be over
+2455	1703	play / amuse oneself
+2456	1704	forget
+2457	1705	violate / breach
+2458	1706	breastfeed / suckle
+2459	1707	smell
+2460	1708	ask / question
+2461	1709	hold (a pen)
+2462	1710	cover (the mouth)
+2463	1711	inhale
+2464	1712	accustomed to, be / habit of, ha
+2465	1713	wash (clothes)
+2466	1714	like / love
+2467	1715	blind, be
+2468	1715	blind, be (acquired / postnatally)
+2469	1715	blind, be (congenitally)
+2470	1716	go downstairs
+2471	1717	birth, give to (piglets)
+2472	1718	lay (eggs)
+2473	1718	lay (eggs)q
+2474	1719	fall (rain)
+2475	1720	hang down / droop
+2476	1721	frighten / scare
+2477	1722	cave in / sink
+2478	1723	offer / dedicate
+2479	1724	admire and envy
+2480	1725	believe / trust
+2481	1726	think
+2482	1727	recall / remember
+2483	1728	want (to go)
+2484	1729	look like / resemble
+2485	1730	digest
+2486	1731	disappear / vanish
+2487	1731	disappear / vanish (lit. 'not seen anymore')
+2488	1732	subside (of swelling)
+2489	1733	pare / peel with a knife
+2490	1734	careful, be / cautious
+2491	1735	laugh / smile
+2492	1736	write
+2493	1737	diarrhea, have
+2494	1738	blow (one's nose)
+2495	1739	sober up
+2496	1739	wake up
+2497	1739	wake up (from sleep when it's loud)
+2498	1739	wake up (from sleep)
+2499	1740	rest
+2500	1740	rest (from work)
+2501	1740	rest (while on the road)
+2502	1741	embroider
+2503	1742	learn
+2504	1743	smoke / fumigate
+2505	1743	smoke / fumigate (with a cypress branch)
+2506	1744	display structure
+2507	1744	find / look for
+2508	1745	press / push down
+2509	1746	castrate (cocks)
+2510	1747	grind / pestle (medicine)
+2511	1748	winnow
+2512	1749	itch / tickle
+2513	1750	raise (chickens)
+2514	1751	rock / sway
+2515	1752	shake (one's head)
+2516	1753	bite
+2517	1753	bite (of draught animals, wild animals)
+2518	1753	bite (of snakes)
+2519	1753	grit one's teeth
+2520	1754	scoop up (water) / ladle out
+2521	1755	want / need
+2522	1756	lead the way
+2523	1757	rely / lean on
+2524	1758	overflow / spill
+2525	1759	withhold the facts / conceal
+2526	1760	win
+2527	1761	welcome, bid s.b. / greet
+2528	1762	embrace / hug
+2529	1763	swim
+2530	1764	have (money)
+2531	1765	there are (people)
+2532	1766	there are (trees on the mountain)
+2533	1767	have (eyes)
+2534	1768	there is (water in the bowl)
+2535	1769	meet / come across
+2536	1770	agree on / arrange
+2537	1771	cross / pass
+2538	1772	dizzy, feel / giddy
+2539	1773	permit / allow
+2540	1774	plant (trees)
+2541	1775	be (in the house)
+2542	1776	increase / gain
+2543	1777	chisel / bore (a hole)
+2544	1778	stick into / stab
+2545	1779	pricked, be (on a thorn)
+2546	1780	blink / wink
+2547	1781	extract (oil)
+2548	1782	pick (fruit)
+2549	1782	pluck (flowers)
+2550	1783	stick down (an envelope)
+2551	1784	stand
+2552	1785	open (the mouth)
+2553	1786	grow up
+2554	1786	grow up (of animals)
+2555	1786	grow up (of plants)
+2556	1787	go up (water level) / rise
+2557	1788	bloated, feel (of the stomach)
+2558	1789	catch (fire) / be (on fire)
+2559	1789	catch (fire) / be (on fire) (a house)
+2560	1789	catch (fire) / be (on fire) (on mountain)
+2561	1790	catch cold
+2562	1791	call together / convene
+2563	1792	found / located
+2564	1793	sting (of wasps)
+2565	1794	cover / hide from view
+2566	1795	shake / quake
+2567	1796	fight / vie for
+2568	1796	fight / vie for (contend)
+2569	1797	steam
+2570	1798	know
+2571	1799	weave / knit
+2572	1800	point at / to / out
+2573	1801	plant / raise (wheat)
+2574	1801	plant / raise (wheat) (dibbling)
+2575	1801	plant / raise (wheat) (scatter)
+2576	1802	swell (of tissue)
+2577	1803	use or lean on (a walking stic
+2578	1804	cook / boil
+2579	1804	cook / boil (rice)
+2580	1804	cook / boil (water, meat)
+2581	1805	grab / seize / catch
+2582	1806	turn around
+2583	1807	turn (a corner)
+2584	1808	turn (round and round)
+2585	1809	turn (cause to)
+2586	1810	put into a container / pack
+2587	1811	chase after
+2588	1812	prepare / get ready / intend
+2589	1813	catch / capture
+2590	1814	peck at (rice; of a chicken)
+2591	1815	walk
+2592	1816	bore / drill (a hole)
+2593	1817	drill
+2594	1818	drunk, be
+2595	1818	drunk, get
+2596	1819	sit down
+2597	1820	do / make
+2598	1820	do / make (future)
+2599	1820	do / make (past)
+2600	1821	dream
+2601	1822	do / be in business
