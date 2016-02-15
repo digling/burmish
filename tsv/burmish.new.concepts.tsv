@@ -1,4 +1,4 @@
-STDB_ID	STDB_GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID
+NUMBER	GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID
 1	above	above	1741	0731
 2	all	all	98	0962
 3	the ant	the ant	587	0365
@@ -74,6 +74,7 @@ STDB_ID	STDB_GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID
 73	full	there	1429	0984
 74	to give	to give	1447	1345
 75	the goat	the goat	1502	0276
+76	good	good	1035	1052
 77	the grass	the grass	606	0436
 78	green	green	1425	1009
 79	the hail	the hail	609	0013

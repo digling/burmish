@@ -1591,7 +1591,7 @@ ID	ORIGINAL_TAXNAME	TOKENS	DOCULECT	CONCEPT	POS	STEDT_SRCID	COGID	STEDT_RN	STEDT
 4478	Achang (Xiandao) TBL	x a i ⁵⁵	Xiandao	this	other	0942.29	574	393493	xai⁵⁵	0942		TBL	this	xai⁵⁵	xai⁵⁵  | 0942.29	this dem
 4479	Burmese (Written) ZMYYC	s a ñ	Old_Burmese	this	other	?	579	?		?		HILL/ZMYYC	this	sañ	sañ | ?	this
 5559		tθ i ²²	Rangoon	this	other	0942.27	579	393491	tθi²²	0942		TBL	this	tθi²²		
-5560		d i ²² 	Rangoon	this	other	0942.27	579	393516	(di²²)	0942		TBL	this	(di²²)		
+5560		d i ²²	Rangoon	this	other	0942.27	579	393516	(di²²)	0942		TBL	this	(di²²)		
 5996		tθ ɑ ȵ ²	Written_Burmese	this	other	0942.26	579	393490	tθɑȵ²	0942		TBL	this	tθɑȵ²		
 #
 4524	Achang (Longchuan) TBL	s u m ³¹	Achang_Longchuan	three	other	0799.28	582	386156	sum³¹	0799		TBL	three	sum³¹	sum³¹  | 0799.28	three num
