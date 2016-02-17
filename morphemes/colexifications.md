@@ -1,4 +1,5 @@
-# Partial Colexifications in the Burmese Data| concept 1 | concept 2 | language | word 1 | word 2 |
+# Partial Colexifications in the Burmese Data
+| concept 1 | concept 2 | language | word 1 | word 2 |
 | --------- | --------- | -------- | ------ | ------ |
 | I [first person singular] | we [first person plural inclusive] | Achang_Longchuan | **ŋ ɔ ⁵⁵** | **ŋ ɔ ⁵⁵** ◦ t u ʔ ³¹
  |
