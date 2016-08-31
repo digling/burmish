@@ -1,4 +1,4 @@
-NUMBER	GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID
+STDB_ID	STDB_GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID
 1	above	above	1741	0731
 2	all	all	98	0962
 3	the ant	the ant	587	0365
@@ -210,7 +210,7 @@ NUMBER	GLOSS	BURMISH_GLOSS	CONCEPTICON_ID	TBL_ID
 209	there	there	1937	0950
 210	thick	thick	1244	0980
 211	the thigh	the thigh	800	0100
-212	thin (object)	this	2307	0981
+212	thin (object)	thin	2307	0981
 213	to think (reflect)	to think (reflect)	1415	1726
 214	this	this	1214	0942
 215	thou [second person singular]	thou [second person singular]	1215	0931
