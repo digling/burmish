@@ -29,21 +29,31 @@ sounds = {}
 for row in _sounds:
     sounds[row[0], row[4]] = row[1]
     if row[1] =='?':
-        sounds[row[0], row[4]] = '_'+row[0]
-    if row[2].strip():
-        if row[1].strip() == '?':
-            target = '_'+row[1]
-        else:
-            target = row[1]
-        sounds[row[2], row[4]] = target
+        sounds[row[0], row[4]] = '_'+row[0].strip()
+    #if row[2].strip():
+    #    if row[1].strip() == '?':
+    #        target = '_'+row[1].strip()
+    #    else:
+    #        target = row[1].strip()
+    #    sounds[row[2], row[4]] = target
+    if row[4] == 'Written_Burmese':
+        if row[0] == 's':
+            print(row)
+            print(sounds[row[0]
+            input()
+
+
 for k in db:
-    taxon, alignments = db[k, 'doculect'], db[k, 'alignment']
+    taxon, alignments, tokens = db[k, 'doculect'], db[k, 'alignment'], db[k, 'tokens']
     alm = []
+    if not alignments:
+        alignments = tokens
+        
     for token in alignments.split(' '):
         alm += [sounds.get((token, taxon), '_'+token if token not in '()-' else
             token)]
-
     db[k][db.header['alignment']] = ' '.join(alm)
+    db[k][db.header['tokens']] = ' '.join([x for x in alm if x not in '()-'])
 
 for k in db:
     if db[k, 'language'] in ['Old_Burmese', 'Burmese']:
@@ -59,11 +69,11 @@ for line in sheet1[1:]:
     if not tokens:
         pass
     else:
-        alm = []
-        for t in tokens.split(' '):
-            alm += sounds.get((token, taxon), '_'+token if token not in '()-'
-                    else token)
-        D[idx] = [taxon, concept, tokens.replace(' ', ''), tokens, alm]
+        #alm = []
+        #for t in tokens.split(' '):
+        #    alm += [sounds.get((t, 'Written_Burmese'), '_'+t if t not in '()-'
+        #            else t)]
+        D[idx] = [taxon, concept, tokens.replace(' ', ''), alm, alm]
         idx += 1
 D[0] = ['doculect', 'concept', 'ipa', 'tokens', 'alignment']
 wl = Wordlist(D)
@@ -84,7 +94,7 @@ for line in sheet2[1:]:
             alm += [sounds.get((t, 'Written_Burmese'), '_'+t if t not in '()-'
                 else t)]
         D[idx] = ['Burmese', concept, line[5].replace(' ',''), 
-                line[5], ' '.join(alm), line[7]]
+                ' '.join([x for x in alm if x not in '()-']), ' '.join(alm), line[7]]
         idx += 1
     if line[6].strip():
         alm = []
@@ -92,7 +102,7 @@ for line in sheet2[1:]:
             alm += [sounds.get((t, 'Written_Burmese'), '_'+t if t not in '()-'
                 else t)]
         D[idx] = ['Old_Burmese', concept, line[6].replace(' ',''), 
-                line[6], ' '.join(alm), line[7]]
+                ' '.join([x for x in alm if x != '-']), ' '.join(alm), line[7]]
         idx += 1
 db.add_data(Wordlist(D))
 
@@ -117,7 +127,7 @@ for line in tbl[1:]:
         lang = line[6].strip()
         if lang in doculects and tbl in new_concepts:
             doc = doculects[lang]
-            tokens = syllabify(ipa2tokens(reflex, 
+            tokens = syllabify(ipa2tokens(reflex.replace(' ', '_'), 
                     merge_vowels=False, expand_nasals=True,
                     semi_diacritics='shɕʑʃʒʐʂ'))
             ipa = ''.join(tokens)
@@ -127,7 +137,6 @@ for line in tbl[1:]:
             alm = ' '.join(alm)
             tokens = ' '.join(tokens)
             concept = new_concepts[tbl][0]
-            print(doc, alm, concept)
             if reflex.strip() == '*':
                 pass
             else:
@@ -135,7 +144,7 @@ for line in tbl[1:]:
                         reflex,
                         gloss,
                         ipa,
-                        tokens,
+                        alm,
                         alm,
                         concept,
                         lang,
@@ -163,9 +172,11 @@ for k in db:
         db.blacklist += [k]
     if db[k, 'doculect'] == 'Hpun':
         db.blacklist += [k]
+print(len(db.blacklist))
 db.add_entries('concepticon_id', 'concept', lambda x:
         concepts.get(x, {}).get('CONCEPTICON_ID', ''))
-
-db.create('burmish', ignore=['concept_id'])
+#db.update('burmish')
+#
+#db.create('burmish', ignore=['concept_id'])
 
         
