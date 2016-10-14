@@ -3,7 +3,12 @@ import os
 from pyconcepticon.api import Concepticon
 from functools import partial
 from lingpy._plugins.lpserver.lexibase import LexiBase
+from lingpy import *
 from collections import OrderedDict
+from urllib import request
+import zlib
+
+from pyburmish.data import url
 
 def load_concepticon():
 
@@ -19,16 +24,32 @@ def burmish_path(*comps):
     """
     return os.path.join(os.path.dirname(__file__), os.pardir, *comps)
 
-def load_burmish(remote=False):
+def load_burmish(remote=False, sqlite=True):
     
-    if not remote:
-        db = LexiBase('burmish', dbase=burmish_path('sqlite', 'burmish.sqlite3'))
+    if sqlite:
+        if not remote:
+            db = LexiBase('burmish', dbase=burmish_path('sqlite', 'burmish.sqlite3'))
+        else:
+            db = LexiBase('burmish', dbase=burmish_path('sqlite',
+                'burmish.sqlite3'), 
+                url='burmish.sqlite3')
+        return db
     else:
-        db = LexiBase('burmish', dbase=burmish_path('sqlite',
-            'burmish.sqlite3'), 
-            url='burmish.sqlite3')
-    return db
+        if not remote:
+            wl = Wordlist(burmish_path('dumps', 'burmish.tsv'),
+                    conf=burmish_path('conf', 'wordlist.rc'))
+            return wl
+        else:
+            download()
+            return load_burmish(remote=False, sqlite=False)
 
+def download(target='url'):
+    if target == 'url':
+        with request.urlopen(url) as f:
+            data = f.read().decode('utf-8')
+        with open(burmish_path('dumps', 'burmish.tsv'), 'w') as f:
+            f.write(data)
+            
 def load_concepts(idf):
     with UnicodeReader(burmish_path('concepts', idf+'-concepts.tsv'), delimiter='\t') as reader:
         data = list(reader)
@@ -42,3 +63,15 @@ def load_concepts(idf):
 def load_csv(*paths, delimiter='\t'):
     with UnicodeReader(burmish_path(*paths), delimiter=delimiter) as reader:
         return list(reader)
+
+def check_burmish():
+    wl = load_burmish(sqlite=False, remote=False)
+    print('Database has {0} words for {1} languages and {2} concepts.'.format(
+        len(wl), wl.width, wl.height))
+
+def language_coverage():
+    wl = load_burmish(sqlite=False, remote=False)
+    for key, value in sorted(wl.coverage().items()):
+        print('{0:20}: {1}'.format(key, value))
+
+
