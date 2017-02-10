@@ -1,3 +1,14 @@
+This bookchapter, of 
+* 38 pages, 
+
+contains information about the Maru language. 
+There is a
+* 17 page vocabulary 
+which I estimate to have 
+* circa 714 vocabulary items
+
+The bibtex details
+
 * Incollection{Dai2004c,
 * Title                    = {Làngsùyǔ},
 * Author                   = {{Dài Qìngxià 戴庆厦} and {徐悉艰 Xú Xījiān}},
