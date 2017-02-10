@@ -1,0 +1,8 @@
+* Book{Dai2005,
+* title     = {Làngsùyǔ yánjiū},
+* publisher = {民族出版社 Mínzú chūbǎnshè},
+* year      = {2005},
+* author    = {{Dài Qìngxià 戴慶廈}},
+* iso_code  = {mhx},
+* usera     = {A study of the Langsu language},
+* userb     = {浪速语研究},
