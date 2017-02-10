@@ -1,14 +1,10 @@
 This book chapter, of 
-* xxx pages, 
-contains information about xxx dialects of Lashi, viz. 
-* xxx
-* xxx
-and
-* xxx. 
+* 31 pages, 
+contains information about the Lashi language. 
 There is a
-* xxx page vocabulary 
+* 18 page vocabulary 
 which I estimate to have 
-* circa xxx vocabulary items
+* circa 756 vocabulary items
 
 The bibtex details
 * Incollection{Dai2004a,
