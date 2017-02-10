@@ -1,5 +1,6 @@
 This bookchapter, of 
 * 49 pages, 
+
 contains information about the Bola language. 
 There is a
 * 17 page vocabulary 
