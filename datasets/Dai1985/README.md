@@ -5,7 +5,10 @@ contains information about three dialects of Āchāng, viz.
 * 架河方言
 and
 * 潞西方言. 
-
+There is a
+* 36 page vocabulary 
+which I estimate to have 
+* circa 648 vocabulary items
 
 The bibtex details
 * @Book{Dai1985,
