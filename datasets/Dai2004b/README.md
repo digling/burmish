@@ -1,4 +1,16 @@
+This book, of 
+* xxx pages, 
+contains information about three dialects of Āchāng, viz. 
+* xxx
+* xxx
+and
+* xxx. 
+There is a
+* xxx page vocabulary 
+which I estimate to have 
+* circa xxx vocabulary items
 
+The bibtex details
 
 * Incollection{Dai2004b,
 * Title                    = {Bōlāyŭ},
