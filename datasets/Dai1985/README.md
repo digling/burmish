@@ -1,3 +1,11 @@
+This book, of 
+* 144 pages, 
+contains information about three dialects of Āchāng, viz. 
+* 陇川方言
+* 架河方言
+and
+* 潞西方言. 
+
 
 The bibtex details
 * @Book{Dai1985,
