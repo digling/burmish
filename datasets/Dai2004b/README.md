@@ -1,14 +1,10 @@
-This book, of 
-* xxx pages, 
-contains information about three dialects of Āchāng, viz. 
-* xxx
-* xxx
-and
-* xxx. 
+This bookchapter, of 
+* 49 pages, 
+contains information about the Bola language. 
 There is a
-* xxx page vocabulary 
+* 17 page vocabulary 
 which I estimate to have 
-* circa xxx vocabulary items
+* circa 714 vocabulary items
 
 The bibtex details
 
