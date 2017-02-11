@@ -4,8 +4,10 @@ This book, of
 contains information about the Lashi language. 
 There is a
 * 19 page vocabulary 
-which has numbered entries, the total is 
-* xxx vocabulary items
+which has  
+* 736 vocabulary items
+
+according to our mapping of it to the concepticon. 
 
 The bibtex details
 
