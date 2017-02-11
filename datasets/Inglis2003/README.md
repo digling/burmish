@@ -14,5 +14,5 @@ The bibtex details
 * Address                  = {Chiang Mai},
 * Author                   = {Inglis, Douglas and Connie Inglis},
 * Publisher                = {Payap University, Graduate School, Linguistics Department.},
-* iso_code  = {lsi},
+* iso_code  = {acn},
 * Year                     = {2003}
