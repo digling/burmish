@@ -26,4 +26,8 @@ Using our Bibtex keys these works are.
 * Dai1991
 
 The comparative vocabulary includes
-* xxx vocabulary items
+* 359 vocabulary items
+
+according to the version we have typed off in a Goggledoc 
+
+* N.B. Nishi1999 only offers comparisons at the morpheme and not at the word level
