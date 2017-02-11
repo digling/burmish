@@ -1,4 +1,4 @@
-This bbok, of 
+This book, of 
 * 344 pages, 
 
 contains information about the Lashi language. 
