@@ -1,10 +1,10 @@
 This bbok, of 
-* xx pages, 
+* 344 pages, 
 contains information about the Lashi language. 
 There is a
-* x page vocabulary 
-which I estimate to have 
-* circa xxx vocabulary items
+* 54 page vocabulary 
+which has numbered entries, the total is 
+* 2125 vocabulary items
 
 The bibtex details
 
