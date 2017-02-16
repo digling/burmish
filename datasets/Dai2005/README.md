@@ -1,3 +1,5 @@
+## Summary
+
 This book, of 
 * 274 pages, 
 
@@ -7,8 +9,41 @@ There is a
 which I estimate to have 
 * circa 2,646 vocabulary items
 
-The bibtex details
+## Doculects
 
+BED | Dai2005 | Abbreviation | Source | Note on Source
+--- | --- | --- | --- | ---
+Maru | 浪速 | M | Dai2005 | 
+
+## Notes on Sources
+
+* none 
+
+## Notes on Concept List
+
+* Concepticon: dataset is not yet mapped to the Concepticon
+
+## Notes on Arrangement
+
+The chapter contains
+
+* xxx
+* xxx
+* xxx 
+
+## Notes on Reconstruction
+
+* NA
+
+## Digitization Information
+
+* Digitized by Astrid Otto, delivered on xxx January 2017.
+
+## Notes on Orthography Profile
+
+* Orthography profile has not yet been produced
+
+## The bibtex details
 * Book{Dai2005,
 * title     = {Làngsùyǔ yánjiū},
 * publisher = {民族出版社 Mínzú chūbǎnshè},
