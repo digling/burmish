@@ -1,9 +1,6 @@
 ## Summary
 
-This book, of 
-* 274 pages, 
-
-contains information about the Maru language. 
+This book, of 274 pages, contains information about the Maru language. 
 There is a
 * 39 page vocabulary 
 which I estimate to have 
