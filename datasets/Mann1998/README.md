@@ -35,3 +35,21 @@ The data is arranged in different form. The thesis contains
 ## Notes on Reconstruction
 
 * N.B. Mann1998 reconstructs morphemes rather than words, but does provide discussion of multimorphemic words (unlike Nishi1999)
+
+## Digitization Information
+
+NWH typed off the data and the sound inventories. JML corrected the data and created the orthography profile.
+
+## Notes on Orthography Profile
+
+* The profile is created for all languages in the data in one file. 
+* Spelling errors in the digitized version were corrected in this profile, as well as IPA lookalikes, like, e.g., `[ɂ]` which is now represented as `[ʔ]` throughout, or the use of `[ö]` instead of `[ø]` in the original.
+* Nasalization is only indicated in syllables not ending in nasals.
+* A general syllable template of "i m n N c t" is assumed ("N" denotes the second vowel in clusters). Potential exceptions, like consonant cluster `[ŋk]` are represented as "c".
+* Nasal vowels are represented as "n c", unless the syllable in question ends in an extra coda.
+* Exceptional cases, like the cluster `[kʔ/k]` in Hpun, which also occurs in the source, are respelled as `[kʔ/k]`, thus indicating that we interpret them as `[k]`, but we retain the initial information in our segmentation.
+* Nasality is only indicated on the nucleus.
+* Creaky voice is represented following IPA conventions, only on the nucleus, not on all vowels in the syllable.
+* pragmatic decisions were made for the dipthong "ui" which is interpreted as "n N" rather than "m n", as there's no information on the real pronunciation.
+* In the source, we find `[vʷ]` for Maru and Bola, which we treat as `[v]`, as no other sound is indicated in the source inventory. 
+* Mann notes in the text, that the Hpun transcription contains instances like `[c]` and `[ch]` which he transcribes to `[tʃ]` etc. In his word list, this principle is not consequently being followed. As a result, we correct for this in our orthography profile.
