@@ -17,6 +17,15 @@ Lashi           | Leqi            | Huang1992 | LEQ          |
 Maru            | Langsu          | Huang1992 |
 Bola            | Bola            | Huang1992 | BOL          |
 
+## Notes on Orthography Profile
+
+* many basic changes were made to the data, such as representing aspiration as superscript `[h]` rather than normal `[h]`
+* creaky voice is only displayed on main vowel
+* template for syllables is "i m n N c t"
+* compounds are not given in data, but are indicated by dashes, we retain this for comparison with other sources by replacing dash witn `+`
+* some questionable cases which were not regular are represented in our "source/target" form, which is also used to indicate when Nishi1999 is not sure about a certain sound or cognate, indicating this with question marks
+* correction of `[c]` and `[ch]` in the source, as none of the languages should have this sound
+
 ## Source Information
 
 On his data sources he offers the following explanation (pp. 96-97). 
