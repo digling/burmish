@@ -1,0 +1,1765 @@
+ID	DOCULECT	LANGUAGE_IS	CONCEPT	CONCEPT_ID	CONCEPTICON_ID	IPA	COGID_IS	PARTIAL_IDS	TOKENS	COGID	ALIGNMENT
+617	Maru		abdomen	139	1251	duk³²	139b	210	d u k ³²	212	d u - k ³²
+618	Achang		abdomen	139	1251	wom³+dau³	139a 139b	211 210	w o m ³ + d a u ³	211	w o - m ³ + d a u - ³
+619	Lashi		abdomen	139	1251	wɛm³+dau³²	139a 139b	211 210	w ɛ m ³ + d a u ³²	211	w ɛ - m ³ + d a u - ³²
+620	Atsi		abdomen	139	1251	βʷam³+dau³¹	139a 139b	211 210	βʷ a m ³ + d a u ³¹	211	βʷ a - m ³ + d a u - ³¹
+621	Bola		abdomen	139	1251	xuĩ³+tau⁵²	139a 139b	211 210	x u ĩ ∼ ³ + t a u ⁵²	211	x u ĩ ∼ ³ + t a u - ⁵²
+1141	Maru		afraid	259	1419	gjæuɂ⁴³	259a	389	g j æ u ʔ ⁴³	400	g j æ u ʔ ⁴³
+1142	Achang		afraid	259	1419	gjuk⁴²	259a	389	g j u k ⁴²	400	g j u - k ⁴²
+1143	Lashi		afraid	259	1419	gjok³²	259a	389	g j o k ³²	400	g j o - k ³²
+1144	Atsi		afraid	259	1419	gjuɂ³²	259a	389	g j u ʔ ³²	400	g j u - ʔ ³²
+1479	Achang		all	335	98	ŋan⁵	335a	488	ŋ a n ⁵	501	ŋ a - n ⁵
+1480	Lashi		all	335	98	ŋãɪ²⁴	335a	488	ŋ ã ɪ ²⁴	501	ŋ ã ɪ - ²⁴
+1145	Maru		angry	260	1826	nạk⁵⁴+jo³⁵	260a 260b	390 391	n a̰ k ⁵⁴ + j o ³⁵	401	n a̰ - k ⁵⁴ + j o ³⁵
+1146	Achang		angry	260	1826	nạị⁵³+jɔ̣³²	260a 260b	390 391	n a̰ i ⁵³ + j ɔ̰ ³²	401	n a̰ i - ⁵³ + j ɔ̰ ³²
+1147	Lashi		angry	260	1826	nək³²+jɔ²¹	260a 260b	390 391	n ə k ³² + j ɔ ²¹	401	n ə - k ³² + j ɔ ²¹
+1148	Atsi		angry	260	1826	nɪk⁵+jɔ⁵¹	260a 260b	390 391	n ɪ k ⁵ + j ɔ ⁵¹	401	n ɪ - k ⁵ + j ɔ ⁵¹
+1149	Bola		angry	260	1826	nạk⁵²+ja⁵²	260a 260b	390 391	n a̰ k ⁵² + j a ⁵²	401	n a̰ - k ⁵² + j a ⁵²
+320	Achang		animal	072	619	gau³⁴+njæ̣ụɂ⁵²	072a 072b	113 114	g a u ³⁴ + n j æ̰ u ʔ ⁵²	116	g a u ³⁴ + n j æ̰ u ʔ ⁵²
+321	Lashi		animal	072	619	kau²+njauk⁵³	072a 072b	113 114	k a u ² + n j a u k ⁵³	116	k a u ² + n j a u k ⁵³
+1099	Maru		answer	248	1275	duk⁵+da⁴³	248a 248b	370 371	d u k ⁵ + d a ⁴³	384	d u - k ⁵ + d a - ⁴³
+1100	Achang		answer	248	1275	pʰuk⁵³	248c	372	pʰ u k ⁵³	385	pʰ u k ⁵³
+1101	Lashi		answer	248	1275	duɛm³²+deɂ³²	248a 248b	370 371	d u ɛ m ³² + d e ʔ ³²	384	d u ɛ m ³² + d e ʔ ³²
+1102	Atsi		answer	248	1275	tạụ³¹	248a	370	t a̰ u ³¹	383	t a̰ u - ³¹
+1103	Hpun		answer	248	1275	tʰu³¹	248a	370	tʰ u ³¹	383	tʰ u - - ³¹
+657	Maru		armpit	147	1886	tʃʰɛɂ⁴³+kʰæuŋ⁴²	147a 147b	222 223	tʃʰ ɛ ʔ ⁴³ + kʰ æ u ŋ ⁴²	222	tʃʰ ɛ ʔ ⁴³ + kʰ æ u ŋ ⁴²
+658	Lashi		armpit	147	1886	tʃʰæp⁵³+kʰjoŋ⁴	147a 147b	222 223	tʃʰ æ p ⁵³ + kʰ j o ŋ ⁴	222	tʃʰ æ p ⁵³ + kʰ j o ŋ ⁴
+972	Maru		arrow	219	977	mi³	219a	332	m i ³	343	m - i - ³
+973	Achang		arrow	219	977	njɔ̃³	219a	332	n j ɔ̃ ∼ ³	343	n j ɔ̃ ∼ ³
+974	Lashi		arrow	219	977	mjɔ̃³	219a	332	m j ɔ̃ ∼ ³	343	m j ɔ̃ ∼ ³
+975	Atsi		arrow	219	977	mjɔ³¹	219a	332	m j ɔ ³¹	343	m j ɔ - ³¹
+976	Hpun		arrow	219	977	mja³¹	219a	332	m j a ³¹	343	m j a - ³¹
+950	Maru		ashes	213	646	kʰjum⁴³	213a	324	kʰ j u m ⁴³	335	kʰ j u m ⁴³
+951	Achang		ashes	213	646	jap⁴²	213b	325	j a p ⁴²	336	j a p ⁴²
+952	Lashi		ashes	213	646	jæp³	213b	325	j æ p ³	336	j æ p ³
+953	Atsi		ashes	213	646	vap⁵	213b	325	v a p ⁵	336	v a p ⁵
+613	Achang		back	138	1291	noŋ⁵+kʰoŋ³	138a 138b	208 209	n o ŋ ⁵ + kʰ o ŋ ³	209	n o ŋ ⁵ + kʰ o ŋ ³
+614	Lashi		back	138	1291	noŋ⁴⁵+kʰoŋ³¹	138a 138b	208 209	n o ŋ ⁴⁵ + kʰ o ŋ ³¹	209	n o ŋ ⁴⁵ + kʰ o ŋ ³¹
+615	Atsi		back	138	1291	kʰuŋ⁵³	138b	209	kʰ u ŋ ⁵³	210	kʰ u ŋ ⁵³
+616	Hpun		back	138	1291	tʰaŋ	138b	209	tʰ a ŋ	210	tʰ a ŋ -
+1737	Maru		bald	396	1125	kjɛ̣t⁵³+ŋa³⁴	396b 396c	564 565	k j ɛ̰ t ⁵³ + ŋ a ³⁴	583	k j ɛ̰ t ⁵³ + ŋ a - ³⁴
+1738	Achang		bald	396	1125	la³	396a	566	l a ³	580	l a - ³
+1739	Lashi		bald	396	1125	gjɛ³¹	396b	564	g j ɛ ³¹	582	g j ɛ - ³¹
+1740	Atsi		bald	396	1125	laŋ³+ŋɔt³²	396a 396c	566 565	l a ŋ ³ + ŋ ɔ t ³²	581	l a ŋ ³ + ŋ ɔ t ³²
+224	Maru		bamboo	048	1927	vo⁴	048a	76	v o ⁴	78	v o ⁴
+225	Achang		bamboo	048	1927	wu³⁴	048a	76	w u ³⁴	78	w u ³⁴
+226	Lashi		bamboo	048	1927	wɔ³	048a	76	w ɔ ³	78	w ɔ ³
+227	Atsi		bamboo	048	1927	wa³¹	048a	76	w a ³¹	78	w a ³¹
+228	Hpun		bamboo	048	1927	wa³¹	048a	76	w a ³¹	78	w a ³¹
+229	Maru		bamboo shoot	049	2494	mạk⁴²	049a	77	m a̰ k ⁴²	79	m - a̰ k ⁴²
+230	Achang		bamboo shoot	049	2494	njiɂ⁴	049a	77	n j i ʔ ⁴	79	n j i ʔ ⁴
+231	Lashi		bamboo shoot	049	2494	mjuk³	049a	77	m j u k ³	79	m j u k ³
+232	Atsi		bamboo shoot	049	2494	nik³²	049a	77	n i k ³²	79	n - i k ³²
+233	Hpun		bamboo shoot	049	2494	maiɂ³¹	049a	77	m ai ʔ ³¹	79	m - ai ʔ ³¹
+258	Maru		banana	057	868	ŋoɂ³+mjæuɂ³²	057a 057b	87 88	ŋ o ʔ ³ + m j æ u ʔ ³²	88	ŋ o ʔ ³ + m j æ u ʔ ³²
+259	Achang		banana	057	868	ŋɔɂ³+njụk³⁵	057a 057b	87 88	ŋ ɔ ʔ ³ + n j ṵ k ³⁵	88	ŋ ɔ ʔ ³ + n j ṵ - k ³⁵
+260	Lashi		banana	057	868	ŋɔ³+mjok⁵⁴	057a 057b	87 88	ŋ ɔ ³ + m j o k ⁵⁴	88	ŋ ɔ - ³ + m j o - k ⁵⁴
+261	Atsi		banana	057	868	ŋɔ⁴⁵+mjuɂ⁵³	057a 057b	87 88	ŋ ɔ ⁴⁵ + m j u ʔ ⁵³	88	ŋ ɔ - ⁴⁵ + m j u - ʔ ⁵³
+262	Hpun		banana	057	868	ŋuɂ³¹	057a	87	ŋ u ʔ ³¹	87	ŋ u ʔ ³¹
+180	Maru		bark	040	1206	kạụɂ⁵⁴	040a	65	k a̰ u ʔ ⁵⁴	66	k a̰ u ʔ ⁵⁴
+181	Achang		bark	040	1206	kụk⁵⁴	040a	65	k ṵ k ⁵⁴	66	k ṵ - k ⁵⁴
+182	Lashi		bark	040	1206	gok⁵³	040a	65	g o k ⁵³	66	g o - k ⁵³
+183	Atsi		bark	040	1206	kụɂ⁵	040a	65	k ṵ ʔ ⁵	66	k ṵ - ʔ ⁵
+184	Hpun		bark	040	1206	kʰue⁵⁵	040a	65	kʰ u e ⁵⁵	66	kʰ u e - ⁵⁵
+361	Maru		bark2	082	1206	ɣeɂ³	082b	129	ɣ e ʔ ³	134	ɣ - e ʔ ³
+362	Achang		bark2	082	1206	dʒjæp⁴²	082b	129	dʒ j æ p ⁴²	134	dʒ j æ p ⁴²
+363	Lashi		bark2	082	1206	gjæp³	082b	129	g j æ p ³	134	g j æ p ³
+364	Atsi		bark2	082	1206	kʰui³²	082a	130	kʰ u i ³²	133	kʰ u i ³²
+365	Hpun		bark2	082	1206	kʰue⁵⁵	082a	130	kʰ u e ⁵⁵	133	kʰ u e ⁵⁵
+1290	Maru		bathe	294	138	gauŋ³¹	294a	432	g au ŋ ³¹	444	g au ŋ ³¹
+1291	Achang		bathe	294	138	guŋ⁴³	294a	432	g u ŋ ⁴³	444	g u ŋ ⁴³
+1292	Lashi		bathe	294	138	goŋ³¹	294a	432	g o ŋ ³¹	444	g o ŋ ³¹
+1293	Atsi		bathe	294	138	guŋ³	294a	432	g u ŋ ³	444	g u ŋ ³
+1041	Maru		be drunk	233	1463	ʒit³⁵	233a	349	ʒ i t ³⁵	361	ʒ i t ³⁵
+1042	Achang		be drunk	233	1463	jɛt³¹	233a	349	j ɛ t ³¹	361	j ɛ t ³¹
+1043	Lashi		be drunk	233	1463	jeɂ³	233a	349	j e ʔ ³	361	j e ʔ ³
+1044	Hpun		be drunk	233	1463	ze³¹	233a	349	z e ³¹	361	z e - ³¹
+328	Maru		bear	074	1820	we⁴¹	074a	119	w e ⁴¹	122	w e - ⁴¹
+329	Achang		bear	074	1820	wɔm³¹	074a	119	w ɔ m ³¹	122	w ɔ m ³¹
+330	Lashi		bear	074	1820	wuɂ³⁴	074a	119	w u ʔ ³⁴	122	w u ʔ ³⁴
+331	Atsi		bear	074	1820	vam³¹	074a	119	v a m ³¹	122	v a m ³¹
+332	Hpun		bear	074	1820	we⁵⁵	074a	119	w e ⁵⁵	122	w e - ⁵⁵
+606	Maru		beard	136	678	nạịɂ⁵⁴+mọk⁴	136a 136b	205 206	n a̰ ḭ ʔ ⁵⁴ + m o̰ k ⁴	207	n a̰ ḭ ʔ ⁵⁴ + m - o̰ k ⁴
+607	Achang		beard	136	678	nɔ̣t⁵⁴+mi⁴²	136a 136b	205 206	n ɔ̰ t ⁵⁴ + m i ⁴²	207	n ɔ̰ - t ⁵⁴ + m - i - ⁴²
+608	Lashi		beard	136	678	nọịɂ⁵³+mɨ³²	136a 136b	205 206	n o̰ ḭ ʔ ⁵³ + m ɨ ³²	207	n o̰ ḭ ʔ ⁵³ + m - ɨ - ³²
+609	Atsi		beard	136	678	nʊ̣t⁵+mui³¹	136a 136b	205 206	n ʊ̰ t ⁵ + m u i ³¹	207	n ʊ̰ - t ⁵ + m u i - ³¹
+610	Bola		beard	136	678	nau⁵²+mjɛ⁵²	136a 136b	205 206	n a u ⁵² + m j ɛ ⁵²	207	n a u - ⁵² + m j ɛ - ⁵²
+507	Maru		bee	115	665	bjɔ²	115a	170	b j ɔ ²	175	b j ɔ ²
+508	Achang		bee	115	665	djɔ³	115a	170	d j ɔ ³	175	d j ɔ ³
+509	Lashi		bee	115	665	bjɔ³	115a	170	b j ɔ ³	175	b j ɔ ³
+510	Atsi		bee	115	665	bjɔ³¹	115a	170	b j ɔ ³¹	175	b j ɔ ³¹
+511	Bola		bee	115	665	pja⁵²	115a	170	p j a ⁵²	175	p j a ⁵²
+251	Achang		betel nut	054	217	tʃʰa³	054a	84	tʃʰ a ³	84	tʃʰ a ³
+252	Lashi		betel nut	054	217	tʃʰa⁵⁴	054a	84	tʃʰ a ⁵⁴	84	tʃʰ a ⁵⁴
+1493	Maru		big	339	1202	ɣi³⁵	339a	495	ɣ i ³⁵	508	ɣ i ³⁵
+1494	Achang		big	339	1202	gu⁵⁴	339a	495	g u ⁵⁴	508	g u ⁵⁴
+1495	Lashi		big	339	1202	ge³	339a	495	g e ³	508	g e ³
+1496	Atsi		big	339	1202	kɔ̣⁵³	339a	495	k ɔ̰ ⁵³	508	k ɔ̰ ⁵³
+1497	Bola		big	339	1202	kọ²³	339a	495	k o̰ ²³	508	k o̰ ²³
+1498	Hpun		big	339	1202	cʰi³¹	339a	495	tʃʰ i ³¹	508	tʃʰ i ³¹
+414	Maru		bird	093	937	ŋɔ̣ɂ⁵⁴	093a	143	ŋ ɔ̰ ʔ ⁵⁴	148	ŋ ɔ̰ ʔ ⁵⁴
+415	Achang		bird	093	937	ŋɔ̣ɂ⁵²	093a	143	ŋ ɔ̰ ʔ ⁵²	148	ŋ ɔ̰ ʔ ⁵²
+416	Lashi		bird	093	937	ŋɔ̣ɂ⁵²	093a	143	ŋ ɔ̰ ʔ ⁵²	148	ŋ ɔ̰ ʔ ⁵²
+417	Atsi		bird	093	937	ŋɔ̣ɂ⁵⁴	093a	143	ŋ ɔ̰ ʔ ⁵⁴	148	ŋ ɔ̰ ʔ ⁵⁴
+418	Bola		bird	093	937	ŋạɂ⁵²	093a	143	ŋ a̰ ʔ ⁵²	148	ŋ a̰ ʔ ⁵²
+419	Hpun		bird	093	937	ŋa³¹	093a	143	ŋ a ³¹	148	ŋ a - ³¹
+420	Maru		bird nest	094	539	sait⁵⁴	094a	144	s a i t ⁵⁴	149	s a i t ⁵⁴
+421	Achang		bird nest	094	539	suat⁵⁴	094a	144	s u a t ⁵⁴	149	s u a t ⁵⁴
+422	Lashi		bird nest	094	539	soiɂ⁵³	094a	144	s o i ʔ ⁵³	149	s o i ʔ ⁵³
+423	Atsi		bird nest	094	539	sʊt⁵	094a	144	s ʊ t ⁵	149	s ʊ - t ⁵
+424	Hpun		bird nest	094	539	ʃaɂ³¹	094a	144	ʃ a ʔ ³¹	149	ʃ a - ʔ ³¹
+366	Maru		bite	083	1403	na³²	083a	131	n a ³²	135	n a - - ³²
+367	Achang		bite	083	1403	ŋat³¹	083a	131	ŋ a t ³¹	135	ŋ a - t ³¹
+368	Lashi		bite	083	1403	ŋait³	083a	131	ŋ a i t ³	135	ŋ a i t ³
+369	Atsi		bite	083	1403	ŋat³²	083a	131	ŋ a t ³²	135	ŋ a - t ³²
+1667	Maru		bitter	376	887	kʰo⁵	376a	540	kʰ o ⁵	555	kʰ o ⁵
+1668	Achang		bitter	376	887	kʰɔ⁵	376a	540	kʰ ɔ ⁵	555	kʰ ɔ ⁵
+1669	Lashi		bitter	376	887	kʰɔ⁴	376a	540	kʰ ɔ ⁴	555	kʰ ɔ ⁴
+1670	Atsi		bitter	376	887	kʰɔ⁵³	376a	540	kʰ ɔ ⁵³	555	kʰ ɔ ⁵³
+1671	Bola		bitter	376	887	kʰa²³	376a	540	kʰ a ²³	555	kʰ a ²³
+1672	Hpun		bitter	376	887	kʰa³¹	376a	540	kʰ a ³¹	555	kʰ a ³¹
+1604	Maru		black	362	163	noɂ²¹	362a	522	n o ʔ ²¹	537	n o ʔ ²¹
+1605	Achang		black	362	163	nɔɂ³¹	362a	522	n ɔ ʔ ³¹	537	n ɔ ʔ ³¹
+1606	Lashi		black	362	163	nɔ̃ɂ³	362a	522	n ɔ̃ ʔ ³	537	n ɔ̃ ʔ ³
+1607	Atsi		black	362	163	nɔɂ³	362a	522	n ɔ ʔ ³	537	n ɔ ʔ ³
+1608	Bola		black	362	163	naɂ⁵²	362a	522	n a ʔ ⁵²	537	n a ʔ ⁵²
+1609	Hpun		black	362	163	nuɂ³¹	362a	522	n u ʔ ³¹	537	n u ʔ ³¹
+872	Maru		blanket	194	806	mai³²+pʰoɂ⁴	194a 194b	297 298	m a i ³² + pʰ o ʔ ⁴	307	m a i ³² + pʰ o ʔ ⁴
+873	Achang		blanket	194	806	mi³¹	194a	297	m i ³¹	306	m i - ³¹
+874	Lashi		blanket	194	806	mẹị⁵¹	194a	297	m ḛ ḭ ⁵¹	306	m ḛ ḭ ⁵¹
+875	Atsi		blanket	194	806	pʰə³+dʒɔŋ³⁴	194b 194c	298 299	pʰ ə ³ + dʒ ɔ ŋ ³⁴	308	pʰ ə - ³ + dʒ ɔ ŋ ³⁴
+1732	Maru		blind	394	1653	dʒit⁵³	394a	563	dʒ i t ⁵³	579	dʒ i t ⁵³
+1733	Achang		blind	394	1653	dʒɛt³¹	394a	563	dʒ ɛ t ³¹	579	dʒ ɛ t ³¹
+1734	Lashi		blind	394	1653	dʒe⁴⁵	394a	563	dʒ e ⁴⁵	579	dʒ e - ⁴⁵
+1735	Atsi		blind	394	1653	dʒɪt³²	394a	563	dʒ ɪ t ³²	579	dʒ ɪ t ³²
+1736	Hpun		blind	394	1653	sʰi³¹	394a	563	sʰ i ³¹	579	sʰ i - ³¹
+723	Maru		blood	164	946	sa²	164a	245	s a ²	246	s a - ²
+724	Achang		blood	164	946	sui⁵	164a	245	s u i ⁵	246	s u i ⁵
+725	Lashi		blood	164	946	soi⁵	164a	245	s o i ⁵	246	s o i ⁵
+726	Atsi		blood	164	946	sui⁴²	164a	245	s u i ⁴²	246	s u i ⁴²
+727	Bola		blood	164	946	sui²³	164a	245	s u i ²³	246	s u i ²³
+728	Hpun		blood	164	946	ʃui³¹	164a	245	ʃ u i ³¹	246	ʃ u i ³¹
+1702	Achang		blunt	385	379	duam³	385a	551	d u a m ³	566	d u a m ³
+832	Maru		boat	185	1844	lạ³¹+ɣit²	185a 185b	284 285	l a̰ ³¹ + ɣ i t ²	294	l a̰ - ³¹ + ɣ i t ²
+833	Lashi		boat	185	1844	lẹɂ⁵⁴	185a	284	l ḛ ʔ ⁵⁴	293	l ḛ ʔ ⁵⁴
+834	Atsi		boat	185	1844	lạị⁵³+wi³	185a 185b	284 285	l a̰ i ⁵³ + w i ³	294	l a̰ i ⁵³ + w i - ³
+835	Hpun		boat	185	1844	liɂ⁵⁵	185a	284	l i ʔ ⁵⁵	293	l i ʔ ⁵⁵
+1344	Maru		boil	307	2493	dzạụ⁴	307a	450	dz a̰ u ⁴	462	dz a̰ - u ⁴
+1345	Achang		boil	307	2493	tsụɂ⁵²	307a	450	ts ṵ ʔ ⁵²	462	ts ṵ ʔ - ⁵²
+1346	Lashi		boil	307	2493	dzu³²	307a	450	dz u ³²	462	dz u - - ³²
+1347	Atsi		boil	307	2493	dʒɔɂ⁵⁴	307a	450	dʒ ɔ ʔ ⁵⁴	462	dʒ ɔ ʔ - ⁵⁴
+700	Maru		bone	159	1394	ʃɪ⁴³+ɣok³	159a 159b	237 238	ʃ ɪ ⁴³ + ɣ o k ³	238	ʃ ɪ ⁴³ + ɣ o - k ³
+701	Achang		bone	159	1394	ʃe³+jæu³	159a 159b	237 238	ʃ e ³ + j æ u ³	238	ʃ e ³ + j æ u - ³
+702	Lashi		bone	159	1394	ʃe⁵⁴+jau⁴¹	159a 159b	237 238	ʃ e ⁵⁴ + j a u ⁴¹	238	ʃ e ⁵⁴ + j a u - ⁴¹
+703	Atsi		bone	159	1394	ʃə⁴³+wị³²	159a 159b	237 238	ʃ ə ⁴³ + w ḭ ³²	238	ʃ ə ⁴³ + w ḭ - - ³²
+704	Bola		bone	159	1394	ʃʰu	159a	237	ʃʰ u	237	ʃʰ u -
+705	Hpun		bone	159	1394	ɹu³¹	159b	238	ɹ u ³¹	239	ɹ u - - ³¹
+537	Maru		brain	121	1583	ɂau³+nauɂ⁴²	121a 121b	183 184	ʔ a u ³ + n au ʔ ⁴²	187	ʔ a u ³ + n au ʔ ⁴²
+538	Achang		brain	121	1583	ɂu⁴⁵+nuk⁴²	121a 121b	183 184	ʔ u ⁴⁵ + n u k ⁴²	187	ʔ u - ⁴⁵ + n u k ⁴²
+539	Lashi		brain	121	1583	wə⁵+noɂ⁵¹	121a 121b	183 184	w ə ⁵ + n o ʔ ⁵¹	187	w ə - ⁵ + n o ʔ ⁵¹
+540	Atsi		brain	121	1583	ɂu³⁴+nuɂ⁵	121a 121b	183 184	ʔ u ³⁴ + n u ʔ ⁵	187	ʔ u - ³⁴ + n u ʔ ⁵
+541	Bola		brain	121	1583	ɂu+nauɂ²³	121a 121b	183 184	ʔ u + n au ʔ ²³	187	ʔ u - - + n au ʔ ²³
+542	Hpun		brain	121	1583	ɂo³¹+nokɂ³¹	121a 121b	183 184	ʔ o ³¹ + n o kʔ/k ³¹	187	ʔ o - ³¹ + n o kʔ/k ³¹
+175	Maru		branch	039	1531	gɔŋ³¹	039a	64	g ɔ ŋ ³¹	65	g ɔ ŋ ³¹
+176	Achang		branch	039	1531	kɔ̣³¹	039a	64	k ɔ̰ ³¹	65	k ɔ̰ - ³¹
+177	Lashi		branch	039	1531	goŋ³	039a	64	g o ŋ ³	65	g o ŋ ³
+178	Atsi		branch	039	1531	kɔɂ⁵⁴	039a	64	k ɔ ʔ ⁵⁴	65	k ɔ ʔ ⁵⁴
+179	Hpun		branch	039	1531	kʰo³¹	039a	64	kʰ o ³¹	65	kʰ o - ³¹
+1065	Maru		breathe	239	1407	sɔɂ⁵⁴+ʃɛ³¹	239a 239b	358 359	s ɔ ʔ ⁵⁴ + ʃ ɛ ³¹	371	s ɔ ʔ ⁵⁴ + ʃ ɛ - ³¹
+1066	Achang		breathe	239	1407	sɔɂ⁵³+ʃɛt³¹	239a 239b	358 359	s ɔ ʔ ⁵³ + ʃ ɛ t ³¹	371	s ɔ ʔ ⁵³ + ʃ ɛ t ³¹
+1067	Lashi		breathe	239	1407	sɔɂ⁵³+ʃɛ³¹	239a 239b	358 359	s ɔ ʔ ⁵³ + ʃ ɛ ³¹	371	s ɔ ʔ ⁵³ + ʃ ɛ - ³¹
+1068	Atsi		breathe	239	1407	sɔɂ⁵⁴+ʃe³¹	239a 239b	358 359	s ɔ ʔ ⁵⁴ + ʃ e ³¹	371	s ɔ ʔ ⁵⁴ + ʃ e - ³¹
+1069	Hpun		breathe	239	1407	ʃet	239b	359	ʃ e t	372	ʃ e t -
+1647	Maru		bright	371	679	bo³⁴	371a	535	b o ³⁴	550	b o - ³⁴
+1648	Achang		bright	371	679	baŋ³¹	371a	535	b a ŋ ³¹	550	b a ŋ ³¹
+1649	Lashi		bright	371	679	baŋ³¹	371a	535	b a ŋ ³¹	550	b a ŋ ³¹
+1650	Atsi		bright	371	679	bɔ³	371a	535	b ɔ ³	550	b ɔ - ³
+388	Maru		buffalo	088	934	lӧi³	088a	136	l ø i ³	140	l ø i ³
+389	Achang		buffalo	088	934	lui⁴	088a	136	l u i ⁴	140	l u i ⁴
+390	Lashi		buffalo	088	934	li³	088a	136	l i ³	140	l i - ³
+391	Atsi		buffalo	088	934	lui³¹	088a	136	l u i ³¹	140	l u i ³¹
+392	Bola		buffalo	088	934	lui⁵²	088a	136	l u i ⁵²	140	l u i ⁵²
+393	Hpun		buffalo	088	934	li³¹	088a	136	l i ³¹	140	l i - ³¹
+394	Maru		buffalo horn	089	1393	kʰjoɂ⁵²	089a	137	kʰ j o ʔ ⁵²	141	kʰ j o ʔ ⁵²
+395	Achang		buffalo horn	089	1393	kʰjæu³	089a	137	kʰ j æ u ³	141	kʰ j æ u ³
+396	Lashi		buffalo horn	089	1393	kʰjau³²³	089a	137	kʰ j a u ³²³	141	kʰ j a u ³²³
+397	Atsi		buffalo horn	089	1393	kʰjui⁵³	089a	137	kʰ j u i ⁵³	141	kʰ j u i ⁵³
+398	Bola		buffalo horn	089	1393	kʰju³	089a	137	kʰ j u ³	141	kʰ j u - ³
+1348	Maru		burn	308	2102	ŋa⁴⁵	308a	451	ŋ a ⁴⁵	463	ŋ - a - ⁴⁵
+1349	Achang		burn	308	2102	ŋæ̣ɂ³¹	308a	451	ŋ æ̰ ʔ ³¹	463	ŋ - æ̰ ʔ ³¹
+1350	Lashi		burn	308	2102	ŋe⁴	308a	451	ŋ e ⁴	463	ŋ - e - ⁴
+1351	Atsi		burn	308	2102	njɛ̣⁵³	308a	451	n j ɛ̰ ⁵³	463	n j ɛ̰ - ⁵³
+1321	Maru		burnt (corpse)	302	1719	njạp⁵	302a	444	n j ạ p ⁵	456	n j ạ p ⁵
+1322	Achang		burnt (corpse)	302	1719	njɔ̣p⁵²	302a	444	n j ɔ̰ p ⁵²	456	n j ɔ̰ p ⁵²
+1323	Lashi		burnt (corpse)	302	1719	njøp⁵³	302a	444	n j ø p ⁵³	456	n j ø p ⁵³
+1324	Atsi		burnt (corpse)	302	1719	mjụp⁵⁴	302a	444	m j ụ p ⁵⁴	456	m j ụ p ⁵⁴
+1325	Bola		burnt (corpse)	302	1719	njæ̣p⁵²	302a	444	n j æ̰ p ⁵²	456	n j æ̰ p ⁵²
+1326	Hpun		burnt (corpse)	302	1719	mjaɂ³¹	302a	444	m j a ʔ ³¹	456	m j a ʔ ³¹
+1385	Maru		but	317	1869	wai³	317a	464	w a i ³	475	w a i ³
+1386	Achang		but	317	1869	wi³¹	317a	464	w i ³¹	475	w i - ³¹
+1387	Lashi		but	317	1869	ɣɨ³¹	317a	464	ɣ ɨ ³¹	475	ɣ ɨ - ³¹
+1388	Atsi		but	317	1869	βʷi³	317a	464	βʷ i ³	475	βʷ i - ³
+1389	Bola		but	317	1869	ve³	317a	464	v e ³	475	v e - ³
+1390	Hpun		but	317	1869	wiɂ⁵⁵	317a	464	w i ʔ ⁵⁵	475	w i ʔ ⁵⁵
+517	Maru		butterfly	117	1791	pʰət³²+le³¹	117a 117b	173 174	pʰ ə t ³² + l e ³¹	178	pʰ ə t ³² + - l e - ³¹
+518	Achang		butterfly	117	1791	pʰə³+djam³	117a 117b	173 174	pʰ ə ³ + d j a m ³	178	pʰ ə - ³ + d j a m ³
+519	Lashi		butterfly	117	1791	pʰə⁵³+læm²¹	117a 117b	173 174	pʰ ə ⁵³ + l æ m ²¹	178	pʰ ə - ⁵³ + - l æ m ²¹
+520	Atsi		butterfly	117	1791	pʰət⁵+lạm⁵³	117a 117b	173 174	pʰ ə t ⁵ + l ạ m ⁵³	178	pʰ ə t ⁵ + - l ạ m ⁵³
+521	Bola		butterfly	117	1791	pʰə³+lẽ³	117a 117b	173 174	pʰ ə ³ + l ẽ ∼ ³	178	pʰ ə - ³ + - l ẽ ∼ ³
+522	Hpun		butterfly	117	1791	pja⁵⁵	117c	175	p j a ⁵⁵	179	p j a ⁵⁵
+670	Achang		buttocks	151	834	tʃʰoɂ⁵³	151a	226	tʃʰ o ʔ ⁵³	225	tʃʰ o ʔ ⁵³
+671	Lashi		buttocks	151	834	tʃʰoŋ⁵³	151a	226	tʃʰ o ŋ ⁵³	225	tʃʰ o ŋ ⁵³
+672	Atsi		buttocks	151	834	tʃʰə⁵	151a	226	tʃʰ ə ⁵	225	tʃʰ ə - ⁵
+682	Maru		calf	155	1989	bau³	155a	232	b a u ³	231	b a u - ³
+683	Achang		calf	155	1989	pụɂ⁵⁴	155a	232	p ṵ ʔ ⁵⁴	231	p ṵ - ʔ ⁵⁴
+684	Lashi		calf	155	1989	buɂ⁵³	155a	232	b u ʔ ⁵³	231	b u - ʔ ⁵³
+685	Atsi		calf	155	1989	bu³	155a	232	b u ³	231	b u - - ³
+960	Maru		candle	215	1273	tsạŋ⁴¹	215b	327	ts ạ ŋ ⁴¹	340	ts ạ ŋ ⁴¹
+961	Achang		candle	215	1273	pʰə³+jæuŋ⁵	215a 215c	328 329	pʰ ə ³ + j æ u ŋ ⁵	339	pʰ - ə ³ + j æ u ŋ ⁵
+962	Lashi		candle	215	1273	dzəŋ⁵¹	215b	327	dz ə ŋ ⁵¹	340	dz ə ŋ ⁵¹
+963	Atsi		candle	215	1273	bjɔ³+dziŋ⁵	215a 215b	328 327	b j ɔ ³ + dz i ŋ ⁵	338	b j ɔ ³ + dz i ŋ ⁵
+162	Maru		cave	036	1155	lauk³²+ɂạụk⁵	036a 036c	56 57	l a u k ³² + ʔ a̰ u k ⁵	59	l a u k ³² + ʔ a̰ u k ⁵
+163	Achang		cave	036	1155	luk³²+kʰjuŋ³²	036a 036b	56 58	l u k ³² + kʰ j u ŋ ³²	58	l u - k ³² + kʰ j u ŋ ³²
+164	Lashi		cave	036	1155	loɂ³⁴+ɂoɂ⁵³	036a 036c	56 57	l o ʔ ³⁴ + ʔ o ʔ ⁵³	59	l o - ʔ ³⁴ + ʔ o - ʔ ⁵³
+165	Atsi		cave	036	1155	lʊp³+kʰjuŋ⁵³	036a 036b	56 58	l ʊ p ³ + kʰ j u ŋ ⁵³	58	l ʊ - p ³ + kʰ j u ŋ ⁵³
+572	Maru		cheek	128	1730	bə³²	128a	193	b ə ³²	195	b ə ³²
+573	Achang		cheek	128	1730	bə⁴+lɔt⁴³	128a 128b	193 194	b ə ⁴ + l ɔ t ⁴³	196	b ə ⁴ + l ɔ - t ⁴³
+574	Lashi		cheek	128	1730	bə³+loiɂ³²	128a 128b	193 194	b ə ³ + l o i ʔ ³²	196	b ə ³ + l o i ʔ ³²
+575	Atsi		cheek	128	1730	bu³	128a	193	b u ³	195	b u ³
+576	Hpun		cheek	128	1730	pa³¹	128a	193	p a ³¹	195	p a ³¹
+445	Maru		chicken	099	1318	ɣɔɂ³²	099a	150	ɣ ɔ ʔ ³²	155	ɣ - ɔ ʔ ³²
+446	Achang		chicken	099	1318	gjɔɂ³¹	099a	150	g j ɔ ʔ ³¹	155	g j ɔ ʔ ³¹
+447	Lashi		chicken	099	1318	gjɔɂ³²	099a	150	g j ɔ ʔ ³²	155	g j ɔ ʔ ³²
+448	Atsi		chicken	099	1318	βʷɔɂ³²	099a	150	βʷ ɔ ʔ ³²	155	- βʷ ɔ ʔ ³²
+449	Bola		chicken	099	1318	ɣɔɂ²³	099a	150	ɣ ɔ ʔ ²³	155	ɣ - ɔ ʔ ²³
+772	Maru		child	174	2099	dzo³²	174b	262	dz o ³²	270	dz o ³²
+773	Achang		child	174	2099	ʃaŋ³+lə³	174a 174c	263 264	ʃ a ŋ ³ + l ə ³	269	ʃ a ŋ ³ + l ə ³
+774	Lashi		child	174	2099	dzu⁴	174b	262	dz u ⁴	270	dz u ⁴
+775	Atsi		child	174	2099	ʃaŋ⁵³+dʒə³	174a 174b	263 262	ʃ a ŋ ⁵³ + dʒ ə ³	268	ʃ a ŋ ⁵³ + dʒ ə ³
+776	Hpun		child	174	2099	sə	174a	263	s ə	267	s ə - -
+602	Maru		chin	135	1510	ɂe³²	135a	203	ʔ e ³²	205	ʔ e - ³²
+603	Achang		chin	135	1510	ɂam³+tʃʰam⁵	135a 135b	203 204	ʔ a m ³ + tʃʰ a m ⁵	206	ʔ a m ³ + tʃʰ a m ⁵
+604	Lashi		chin	135	1510	ɂæm³+tʃʰæm⁴	135a 135b	203 204	ʔ æ m ³ + tʃʰ æ m ⁴	206	ʔ æ m ³ + tʃʰ æ m ⁴
+605	Atsi		chin	135	1510	ɂam⁵+tʰaŋ⁵³	135a 135b	203 204	ʔ a m ⁵ + tʰ a ŋ ⁵³	206	ʔ a m ⁵ + tʰ a ŋ ⁵³
+1124	Maru		choose	254	1750	kʰɪn⁴³+ju³	254a 254b	380 381	kʰ ɪ n ⁴³ + j u ³	393	kʰ - ɪ n ⁴³ + j u ³
+1125	Achang		choose	254	1750	kʰjɛn³	254a	380	kʰ j ɛ n ³	392	kʰ j ɛ n ³
+1126	Lashi		choose	254	1750	kʰje⁴³+ju³¹	254a 254b	380 381	kʰ j e ⁴³ + j u ³¹	393	kʰ j e - ⁴³ + j u ³¹
+1127	Atsi		choose	254	1750	kʰɪn⁴²	254a	380	kʰ ɪ n ⁴²	392	kʰ - ɪ n ⁴²
+876	Maru		clothing	195	1895	bau²	195a	300	b a u ²	309	b a u ²
+877	Atsi		clothing	195	1895	bu³¹	195a	300	b u ³¹	309	b u - ³¹
+878	Bola		clothing	195	1895	pụ⁵²	195a	300	p ṵ ⁵²	309	p ṵ - ⁵²
+23	Maru		cloud	005	1489	dʒạm³¹	005a	7	dʒ ạ m ³¹	7	dʒ ạ m ³¹
+24	Achang		cloud	005	1489	dʒə³²	005a	7	dʒ ə ³²	7	dʒ ə - ³²
+25	Lashi		cloud	005	1489	dʒɛ⁵³	005a	7	dʒ ɛ ⁵³	7	dʒ ɛ - ⁵³
+26	Atsi		cloud	005	1489	dum⁴²	005a	7	d u m ⁴²	7	d u m ⁴²
+27	Bola		cloud	005	1489	tsạm³	005a	7	ts ạ m ³	7	ts ạ m ³
+494	Maru		cockroach	112	1575	pʰjɔ³¹	112a	166	pʰ j ɔ ³¹	172	pʰ j ɔ ³¹
+495	Achang		cockroach	112	1575	tʰjɔ⁴²	112a	166	tʰ j ɔ ⁴²	172	tʰ j ɔ ⁴²
+496	Lashi		cockroach	112	1575	pʰjɔ⁴²	112a	166	pʰ j ɔ ⁴²	172	pʰ j ɔ ⁴²
+497	Atsi		cockroach	112	1575	pʰjɔ⁵³	112a	166	pʰ j ɔ ⁵³	172	pʰ j ɔ ⁵³
+498	Bola		cockroach	112	1575	pʰja³	112a	166	pʰ j a ³	172	pʰ j a ³
+267	Maru		coconut	061	970	ɂʊn⁴²	061a	91	ʔ ʊ n ⁴²	90	ʔ ʊ n ⁴²
+268	Achang		coconut	061	970	ɂun³¹	061a	91	ʔ u n ³¹	90	ʔ u n ³¹
+269	Atsi		coconut	061	970	ɂʊn⁵³	061a	91	ʔ ʊ n ⁵³	90	ʔ ʊ n ⁵³
+270	Hpun		coconut	061	970	ɂʊn³¹	061a	91	ʔ ʊ n ³¹	90	ʔ ʊ n ³¹
+1694	Maru		cold	383	1287	gjoɂ³²	383a	548	g j o ʔ ³²	563	g j o ʔ ³²
+1695	Achang		cold	383	1287	dʒam³	383b	549	dʒ a m ³	564	dʒ a m ³
+1696	Lashi		cold	383	1287	dʒæm⁵⁴	383b	549	dʒ æ m ⁵⁴	564	dʒ æ m ⁵⁴
+905	Maru		comb	202	1475	bje³²	202a	309	b j e ³²	319	b j e ³²
+906	Achang		comb	202	1475	tjẹ⁵	202a	309	t j ḛ ⁵	319	t j ḛ ⁵
+907	Lashi		comb	202	1475	bi⁵	202a	309	b i ⁵	319	b - i ⁵
+908	Atsi		comb	202	1475	da³	202a	309	d a ³	319	d - a ³
+909	Bola		comb	202	1475	tụị²³	202a	309	t ṵ i ²³	319	t ṵ i ²³
+910	Hpun		comb	202	1475	pʰje³¹	202a	309	pʰ j e ³¹	319	pʰ j e ³¹
+1339	Maru		cook (rice)	306	1100	dzɔ³²	306a	449	dz ɔ ³²	461	dz ɔ - - ³²
+1340	Achang		cook (rice)	306	1100	dʒauɂ³¹	306a	449	dʒ au ʔ ³¹	461	dʒ au - ʔ ³¹
+1341	Lashi		cook (rice)	306	1100	dʒaụɂ⁵³	306a	449	dʒ a̰ u ʔ ⁵³	461	dʒ a̰ u ʔ ⁵³
+1342	Atsi		cook (rice)	306	1100	dzaŋ³	306a	449	dz a ŋ ³	461	dz a - ŋ ³
+1343	Bola		cook (rice)	306	1100	tsạɂ⁵²	306a	449	ts a̰ ʔ ⁵²	461	ts a̰ - ʔ ⁵²
+305	Maru		cooked rice	069	1191	dzo³¹	069b	107	dz o ³¹	109	dz o - ³¹
+306	Achang		cooked rice	069	1191	wɔm³	069a	108	w ɔ m ³	108	w ɔ m ³
+307	Lashi		cooked rice	069	1191	wøm²	069a	108	w ø m ²	108	w ø m ²
+308	Atsi		cooked rice	069	1191	dzaŋ³¹	069b	107	dz a ŋ ³¹	109	dz a ŋ ³¹
+915	Maru		cooking pot	205	1462	ɂọk⁵⁴	205a	313	ʔ o̰ k ⁵⁴	322	ʔ o̰ k - ⁵⁴
+916	Achang		cooking pot	205	1462	ɂau⁵	205a	313	ʔ a u ⁵	322	ʔ a - u ⁵
+917	Lashi		cooking pot	205	1462	ɂau⁵	205a	313	ʔ a u ⁵	322	ʔ a - u ⁵
+918	Hpun		cooking pot	205	1462	oɂ⁵⁵	205a	313	o ʔ ⁵⁵	322	- o ʔ - ⁵⁵
+297	Achang		corn	067	506	la³+mi⁵	067a 067b	104 105	l a ³ + m i ⁵	106	l a - ³ + m i - ⁵
+298	Lashi		corn	067	506	la²+mɯ̃⁵²	067a 067b	104 105	l a ² + m ɯ̃ ∼ ⁵²	106	l a - ² + m ɯ̃ ∼ ⁵²
+299	Atsi		corn	067	506	lum⁴	067a	104	l u m ⁴	105	l u m ⁴
+1052	Maru		cough	236	879	kʰjæuŋ³+dzọɂ⁵⁴	236a 236b	353 354	kʰ j æ u ŋ ³ + dz o̰ ʔ ⁵⁴	366	kʰ j æ u ŋ ³ + dz o̰ - ʔ ⁵⁴
+1053	Achang		cough	236	879	tsạụ⁵	236b	354	ts a̰ u ⁵	367	ts a̰ u - ⁵
+1054	Lashi		cough	236	879	kʰjoŋ⁵+dzau⁵³	236a 236b	353 354	kʰ j o ŋ ⁵ + dz a u ⁵³	366	kʰ j o - ŋ ⁵ + dz a u - ⁵³
+1055	Atsi		cough	236	879	kʰɹuŋ³+dzau³²	236a 236b	353 354	kʰ ɹ u ŋ ³ + dz a u ³²	366	kʰ ɹ u - ŋ ³ + dz a u - ³²
+1056	Hpun		cough	236	879	xɔŋ³¹+sʰo³¹	236a 236b	353 354	x ɔ ŋ ³¹ + sʰ o ³¹	366	x - ɔ - ŋ ³¹ + sʰ o - - ³¹
+1136	Maru		count	258	1420	ŋịɂ⁵	258b	387	ŋ ḭ ʔ ⁵	399	ŋ - ḭ ʔ ⁵
+1137	Achang		count	258	1420	suan³	258a	388	s u a n ³	398	s u a n ³
+1138	Lashi		count	258	1420	soe³	258a	388	s o e ³	398	s o e - ³
+1139	Atsi		count	258	1420	ŋạp⁵⁴	258b	387	ŋ ạ p ⁵⁴	399	ŋ - ạ p ⁵⁴
+1140	Bola		count	258	1420	ŋwɛ̣ɂ	258b	387	ŋ w ɛ̰ ʔ	399	ŋ w ɛ̰ ʔ -
+376	Maru		cow	086	1007	noŋ⁴+dʒauŋ⁵¹	086a 086b	133 134	n o ŋ ⁴ + dʒ au ŋ ⁵¹	138	n - o ŋ ⁴ + dʒ au ŋ ⁵¹
+377	Achang		cow	086	1007	nju³	086a	133	n j u ³	137	n j u - ³
+378	Lashi		cow	086	1007	nũ³	086a	133	n ũ ∼ ³	137	n - ũ ∼ ³
+379	Atsi		cow	086	1007	nɔ³+dʒuŋ⁵³	086a 086b	133 134	n ɔ ³ + dʒ u ŋ ⁵³	138	n - ɔ - ³ + dʒ u ŋ ⁵³
+380	Bola		cow	086	1007	nau⁵²	086a	133	n a u ⁵²	137	n - a u ⁵²
+381	Hpun		cow	086	1007	nu³¹	086a	133	n u ³¹	137	n - u - ³¹
+1218	Maru		crawl	275	96	du⁴²	275a	409	d u ⁴²	420	d u - ⁴²
+1219	Achang		crawl	275	96	du³	275a	409	d u ³	420	d u - ³
+1220	Lashi		crawl	275	96	dɔ²	275a	409	d ɔ ²	420	d ɔ - ²
+1221	Atsi		crawl	275	96	dɔ³²	275a	409	d ɔ ³²	420	d ɔ - ³²
+1222	Bola		crawl	275	96	tạụ⁵²	275a	409	t a̰ u ⁵²	420	t a̰ u ⁵²
+465	Achang		crocodile	105	1857	man³¹	105a	156	m a n ³¹	161	m a n ³¹
+466	Hpun		crocodile	105	1857	mi³¹	105a	156	m i ³¹	161	m i - ³¹
+968	Maru		crossbow	218	994	la³	218a	331	l a ³	342	- l a - ³
+969	Achang		crossbow	218	994	djei³	218a	331	d j e i ³	342	d j e i ³
+970	Lashi		crossbow	218	994	le³	218a	331	l e ³	342	- l e - ³
+971	Atsi		crossbow	218	994	lai³	218a	331	l a i ³	342	- l a i ³
+1302	Maru		cut (hair)	297	2155	mjæụk⁵³	297b	437	m j æ̰ u k ⁵³	450	m j æ̰ u k ⁵³
+1303	Achang		cut (hair)	297	2155	tsʰam³	297a	438	tsʰ a m ³	449	tsʰ a m ³
+1304	Lashi		cut (hair)	297	2155	njæ̃m⁵⁴	297b	437	n j æ m ⁵⁴	450	n j æ - m ⁵⁴
+1305	Bola		cut (hair)	297	2155	xam³	297a	438	x a m ³	449	x a m ³
+1362	Maru		dance	312	1879	go³⁴	312a	457	g o ³⁴	468	g o ³⁴
+1363	Achang		dance	312	1879	gɔ⁵	312a	457	g ɔ ⁵	468	g ɔ ⁵
+1364	Lashi		dance	312	1879	gɔ⁴	312a	457	g ɔ ⁴	468	g ɔ ⁴
+1365	Atsi		dance	312	1879	gɔ³	312a	457	g ɔ ³	468	g ɔ ³
+1366	Hpun		dance	312	1879	ga³¹	312a	457	g a ³¹	468	g a ³¹
+1642	Maru		dark	370	706	noɂ³⁴	370c	532	n o ʔ ³⁴	549	n o ʔ ³⁴
+1643	Achang		dark	370	706	tʃʰuat⁵⁴	370a	533	tʃʰ u a t ⁵⁴	547	tʃʰ u a t ⁵⁴
+1644	Lashi		dark	370	706	tʃʰoiɂ⁵³+mau²	370a 370b	533 534	tʃʰ o i ʔ ⁵³ + m a u ²	548	tʃʰ o i ʔ ⁵³ + m a u ²
+1645	Atsi		dark	370	706	tʃʰut⁵⁴+ma³²	370a 370b	533 534	tʃʰ u t ⁵⁴ + m a ³²	548	tʃʰ u - t ⁵⁴ + m a - ³²
+1646	Hpun		dark	370	706	ɲo⁵⁵	370c	532	ɲ o ⁵⁵	549	ɲ o - ⁵⁵
+53	Maru		day	013	1225	na³¹	013a	19	n a ³¹	21	n - a - ³¹
+54	Achang		day	013	1225	njei⁴⁵	013a	19	n j e i ⁴⁵	21	n j e i ⁴⁵
+55	Lashi		day	013	1225	njē⁵	013a	19	n j ẽ ⁵	21	n j ẽ - ⁵
+56	Atsi		day	013	1225	ni⁴⁵	013a	19	n i ⁴⁵	21	n - i - ⁴⁵
+57	Bola		day	013	1225	neɂ⁵²	013a	19	n e ʔ ⁵²	21	n - e ʔ ⁵²
+58	Hpun		day	013	1225	ni³¹	013a	19	n i ³¹	21	n - i - ³¹
+1552	Maru		deep	351	1593	noɂ⁴³	351a	507	n o ʔ ⁴³	521	n o ʔ ⁴³
+1553	Achang		deep	351	1593	nɔɂ³²	351a	507	n ɔ ʔ ³²	521	n ɔ ʔ ³²
+1554	Lashi		deep	351	1593	nɔ̃ɂ³	351a	507	n ɔ̃ ʔ ³	521	n ɔ̃ ʔ ³
+1555	Atsi		deep	351	1593	nɪk³²	351a	507	n ɪ k ³²	521	n ɪ k ³²
+1556	Hpun		deep	351	1593	nʊɂ³¹	351a	507	n ʊ ʔ ³¹	521	n ʊ ʔ ³¹
+333	Achang		deer	075	1936	tsʰat⁵³	075a	120	tsʰ a t ⁵³	123	tsʰ a - t ⁵³
+334	Lashi		deer	075	1936	tsạịɂ⁵¹	075a	120	ts a̰ ḭ ʔ ⁵¹	123	ts a̰ ḭ ʔ ⁵¹
+335	Atsi		deer	075	1936	tsʰə³	075a	120	tsʰ ə ³	123	tsʰ ə - - ³
+336	Hpun		deer	075	1936	chi⁵⁵	075a	120	tʃʰ i ⁵⁵	123	tʃʰ i - - ⁵⁵
+1190	Maru		die	269	1494	ʃit⁵⁴	269a	402	ʃ i t ⁵⁴	413	ʃ i t ⁵⁴
+1191	Achang		die	269	1494	ʃei³	269a	402	ʃ e i ³	413	ʃ e i ³
+1192	Lashi		die	269	1494	ʃe³²	269a	402	ʃ e ³²	413	ʃ e - ³²
+1193	Atsi		die	269	1494	ʃi⁴³	269a	402	ʃ i ⁴³	413	ʃ i - ⁴³
+1194	Hpun		die	269	1494	ʃiɂ⁵⁵	269a	402	ʃ i ʔ ⁵⁵	413	ʃ i ʔ ⁵⁵
+1655	Maru		different	373	2504	gə²	373a	537	g ə ²	552	g ə ²
+1656	Lashi		different	373	2504	gə⁵	373a	537	g ə ⁵	552	g ə ⁵
+1316	Maru		dig	301	1418	daut⁴	301a	443	d a u t ⁴	455	d a u t ⁴
+1317	Achang		dig	301	1418	du³	301a	443	d u ³	455	d u - - ³
+1318	Lashi		dig	301	1418	du³	301a	443	d u ³	455	d u - - ³
+1319	Atsi		dig	301	1418	du⁵³	301a	443	d u ⁵³	455	d u - - ⁵³
+1320	Hpun		dig	301	1418	tu³¹	301a	443	t u ³¹	455	t u - - ³¹
+1630	Maru		dirty	367	1230	lạk⁵³	367b	527	l a̰ k ⁵³	544	l a̰ k ⁵³
+1631	Achang		dirty	367	1230	tʃʰɔɂ⁵⁴+lauɂ³¹	367a 367b	528 527	tʃʰ ɔ ʔ ⁵⁴ + l au ʔ ³¹	543	tʃʰ ɔ ʔ ⁵⁴ + l au ʔ ³¹
+1632	Lashi		dirty	367	1230	tʃʰɔɂ⁵³	367a	528	tʃʰ ɔ ʔ ⁵³	542	tʃʰ ɔ ʔ ⁵³
+1633	Atsi		dirty	367	1230	tʃʰa⁵	367a	528	tʃʰ a ⁵	542	tʃʰ a - ⁵
+1634	Bola		dirty	367	1230	lu²³	367b	527	l u ²³	544	l u - ²³
+355	Maru		dog	081	2009	kʰa²+lə	081a 081b	127 128	kʰ a ² + l ə	132	kʰ a - ² + l ə -
+356	Achang		dog	081	2009	kʰui⁴⁵	081a	127	kʰ u i ⁴⁵	131	kʰ u i ⁴⁵
+357	Lashi		dog	081	2009	kʰue³²+la⁵³	081a 081b	127 128	kʰ u e ³² + l a ⁵³	132	kʰ u e ³² + l a ⁵³
+358	Atsi		dog	081	2009	kʰui³¹	081a	127	kʰ u i ³¹	131	kʰ u i ³¹
+359	Bola		dog	081	2009	kʰui²³	081a	127	kʰ u i ²³	131	kʰ u i ²³
+360	Hpun		dog	081	2009	kʰui³¹	081a	127	kʰ u i ³¹	131	kʰ u i ³¹
+842	Maru		door	187	1567	kʰam³	187a	287	kʰ a m ³	296	kʰ a - m ³
+843	Achang		door	187	1567	kʰuam⁵	187a	287	kʰ u a m ⁵	296	kʰ u a m ⁵
+844	Lashi		door	187	1567	kʰæm⁴	187a	287	kʰ æ m ⁴	296	kʰ æ - m ⁴
+845	Atsi		door	187	1567	kʰum³¹	187a	287	kʰ u m ³¹	296	kʰ u - m ³¹
+846	Bola		door	187	1567	kʰam²³	187a	287	kʰ a m ²³	296	kʰ a - m ²³
+1160	Maru		dream	263	1920	moɂ³²	263a	395	m o ʔ ³²	406	m o ʔ ³²
+1161	Achang		dream	263	1920	mɔɂ³¹	263a	395	m ɔ ʔ ³¹	406	m ɔ ʔ ³¹
+1162	Lashi		dream	263	1920	mɔɂ²¹	263a	395	m ɔ ʔ ²¹	406	m ɔ ʔ ²¹
+1163	Atsi		dream	263	1920	mɔɂ⁵²	263a	395	m ɔ ʔ ⁵²	406	m ɔ ʔ ⁵²
+1164	Bola		dream	263	1920	ma⁵²	263a	395	m a ⁵²	406	m a - ⁵²
+1165	Hpun		dream	263	1920	mʊɂ³¹	263a	395	m ʊ ʔ ³¹	406	m ʊ ʔ ³¹
+1035	Maru		drink	232	1401	ʃaut⁵³	232a	348	ʃ a u t ⁵³	360	ʃ a u t ⁵³
+1036	Achang		drink	232	1401	ʃok⁵²	232a	348	ʃ o k ⁵²	360	ʃ o - k ⁵²
+1037	Lashi		drink	232	1401	ʃioɂ³¹	232a	348	ʃ i o ʔ ³¹	360	ʃ i o ʔ ³¹
+1038	Atsi		drink	232	1401	ʃuɂ⁵	232a	348	ʃ u ʔ ⁵	360	ʃ u - ʔ ⁵
+1039	Bola		drink	232	1401	ʃau²³	232a	348	ʃ a u ²³	360	ʃ a u - ²³
+1040	Hpun		drink	232	1401	ʃoɂ³¹	232a	348	ʃ o ʔ ³¹	360	ʃ o - ʔ ³¹
+1682	Maru		dry	380	1398	kjạụɂ⁵³	380a	544	k j a̰ u ʔ ⁵³	559	k j a̰ u ʔ ⁵³
+1683	Achang		dry	380	1398	kjụk⁵⁴	380a	544	k j ṵ k ⁵⁴	559	k j ṵ - k ⁵⁴
+1684	Lashi		dry	380	1398	kjọɂ⁵³	380a	544	k j o̰ ʔ ⁵³	559	k j o̰ - ʔ ⁵³
+1685	Atsi		dry	380	1398	kjụɂ⁵⁴	380a	544	k j ṵ ʔ ⁵⁴	559	k j ṵ - ʔ ⁵⁴
+1686	Hpun		dry	380	1398	xoɂ³¹	380a	544	x o ʔ ³¹	559	x - o - ʔ ³¹
+450	Achang		duck	100	1360	bɛ³	100a	151	b ɛ ³	156	b ɛ ³
+451	Lashi		duck	100	1360	bə³	100a	151	b ə ³	156	b ə ³
+121	Maru		dust	028	2	bət³	028a	42	b ə t ³	43	b ə t ³
+122	Achang		dust	028	2	pʰə⁵+lạụ⁵¹	028a 028b	42 43	pʰ ə ⁵ + l a̰ u ⁵¹	44	pʰ ə - ⁵ + l a̰ u ⁵¹
+123	Lashi		dust	028	2	pʰə⁵+lau⁵¹	028a 028b	42 43	pʰ ə ⁵ + l a u ⁵¹	44	pʰ ə - ⁵ + l a u ⁵¹
+124	Atsi		dust	028	2	pʰui²+lau⁵³	028a 028b	42 43	pʰ u i ² + l a u ⁵³	44	pʰ u i ² + l a u ⁵³
+885	Maru		dye (cloth)	197	157	tsʰo⁵⁴	197a	303	tsʰ o ⁵⁴	313	tsʰ o - - ⁵⁴
+886	Achang		dye (cloth)	197	157	tsʰau⁵	197a	303	tsʰ a u ⁵	313	tsʰ a u - ⁵
+887	Lashi		dye (cloth)	197	157	tʃụɛ̣m⁴¹	197a	303	tʃ u ɛ̰ m ⁴¹	313	tʃ u ɛ̰ m ⁴¹
+888	Hpun		dye (cloth)	197	157	ʃo³¹	197a	303	ʃ o ³¹	313	ʃ o - - ³¹
+577	Maru		ear	129	1247	no³	129a	195	n o ³	197	n o - ³
+578	Achang		ear	129	1247	nɔ³	129a	195	n ɔ ³	197	n ɔ - ³
+579	Lashi		ear	129	1247	nai³+kʰjæp⁵³	129a 129b	195 196	n a i ³ + kʰ j æ p ⁵³	198	n a i ³ + kʰ j æ p ⁵³
+580	Atsi		ear	129	1247	nɔ³+kʰjæp⁵	129a 129b	195 196	n ɔ ³ + kʰ j æ p ⁵	198	n ɔ - ³ + kʰ j æ p ⁵
+581	Bola		ear	129	1247	ne³+kjɛ²³	129a 129b	195 196	n e ³ + k j ɛ ²³	198	n e - ³ + k j ɛ - ²³
+582	Hpun		ear	129	1247	na³¹	129a	195	n a ³¹	197	n a - ³¹
+111	Maru		earth, soil	026	1228	miɂ³	026b	38	m i ʔ ³	40	m - i ʔ ³
+112	Achang		earth, soil	026	1228	dzɔ⁴⁵	026a	39	dz ɔ ⁴⁵	38	dz ɔ - ⁴⁵
+113	Lashi		earth, soil	026	1228	dʒoŋ⁵¹+mjẹ⁵³	026a 026b	39 38	dʒ o ŋ ⁵¹ + m j ḛ ⁵³	39	dʒ o ŋ ⁵¹ + m j ḛ - ⁵³
+114	Atsi		earth, soil	026	1228	dzɛ³¹+mit⁵	026a 026b	39 38	dz ɛ ³¹ + m i t ⁵	39	dz ɛ - ³¹ + m - i t ⁵
+115	Bola		earth, soil	026	1228	tsai²³+mi³	026a 026b	39 38	ts a i ²³ + m i ³	39	ts a i ²³ + m - i - ³
+116	Hpun		earth, soil	026	1228	mji⁵⁵	026b	38	m j i ⁵⁵	40	m j i - ⁵⁵
+82	Maru		east	019	1877	ba³¹+tʰuk⁵	019a 019b	28 29	b a ³¹ + tʰ u k ⁵	30	b a - ³¹ + tʰ u - k ⁵
+83	Achang		east	019	1877	bui⁴²+tʰuɂ⁵⁴	019a 019b	28 29	b u i ⁴² + tʰ u ʔ ⁵⁴	30	b u i ⁴² + tʰ u - ʔ ⁵⁴
+84	Lashi		east	019	1877	bø⁵³+tʰuɂ⁵²	019a 019b	28 29	b ø ⁵³ + tʰ u ʔ ⁵²	30	b ø - ⁵³ + tʰ u - ʔ ⁵²
+85	Atsi		east	019	1877	ba³¹+tʰɔɂ⁵	019a 019b	28 29	b a ³¹ + tʰ ɔ ʔ ⁵	30	b a - ³¹ + tʰ ɔ - ʔ ⁵
+86	Bola		east	019	1877	pui³+tʰau⁵²	019a 019b	28 29	p u i ³ + tʰ a u ⁵²	30	p u i ³ + tʰ a u - ⁵²
+1012	Maru		eat	227	1336	dzo⁴	227a	342	dz o ⁴	353	dz o ⁴
+1013	Achang		eat	227	1336	dzɔ³	227a	342	dz ɔ ³	353	dz ɔ ³
+1014	Lashi		eat	227	1336	dzɔ³	227a	342	dz ɔ ³	353	dz ɔ ³
+1015	Atsi		eat	227	1336	dzɔ⁵³	227a	342	dz ɔ ⁵³	353	dz ɔ ⁵³
+1016	Bola		eat	227	1336	ta⁵²	227a	342	t a ⁵²	353	t a ⁵²
+1017	Hpun		eat	227	1336	sa³¹	227a	342	s a ³¹	353	s a ³¹
+439	Maru		egg	098	744	au⁵⁴	098a	149	a u ⁵⁴	154	a - u - ⁵⁴
+440	Achang		egg	098	744	ɂuɂ⁵³	098a	149	ʔ u ʔ ⁵³	154	- ʔ u ʔ ⁵³
+441	Lashi		egg	098	744	wɨ̣ɂ⁵³	098a	149	w ɨ̣ ʔ ⁵³	154	- w ɨ̣ ʔ ⁵³
+442	Atsi		egg	098	744	ɂu³	098a	149	ʔ u ³	154	- ʔ u - ³
+443	Bola		egg	098	744	ɣụ²³	098a	149	ɣ ṵ ²³	154	- ɣ ṵ - ²³
+444	Hpun		egg	098	744	ɂu³¹	098a	149	ʔ u ³¹	154	- ʔ u - ³¹
+271	Maru		eggplant	062	1146	kʰət³+le⁴	062a 062b	92 93	kʰ ə t ³ + l e ⁴	91	kʰ ə t ³ + l e - ⁴
+272	Achang		eggplant	062	1146	kʰə³+lạm⁵	062a 062b	92 93	kʰ ə ³ + l ạ m ⁵	91	kʰ ə - ³ + l ạ m ⁵
+273	Lashi		eggplant	062	1146	kʰə⁵+læm⁵	062a 062b	92 93	kʰ ə ⁵ + l æ m ⁵	91	kʰ ə - ⁵ + l æ m ⁵
+274	Atsi		eggplant	062	1146	kʰət⁵+lam⁵⁴	062a 062b	92 93	kʰ ə t ⁵ + l a m ⁵⁴	91	kʰ ə t ⁵ + l a m ⁵⁴
+275	Hpun		eggplant	062	1146	ɹɛ³¹	062b	93	ɹ ɛ ³¹	92	ɹ ɛ - ³¹
+1448	Maru		eight(ppl)	329	1705	ʃöɂ⁵	329a	479	ʃ ö ʔ ⁵	492	ʃ - ö ʔ ⁵
+1449	Achang		eight(ppl)	329	1705	xjɛ⁵³	329a	479	x j ɛ ⁵³	492	x j ɛ - ⁵³
+1450	Lashi		eight(ppl)	329	1705	ʃet⁵³	329a	479	ʃ e t ⁵³	492	ʃ - e t ⁵³
+1451	Atsi		eight(ppl)	329	1705	ʃɪ̣t⁵	329a	479	ʃ ɪ̰ t ⁵	492	ʃ - ɪ̰ t ⁵
+1452	Bola		eight(ppl)	329	1705	ʃɛt⁵²	329a	479	ʃ ɛ t ⁵²	492	ʃ - ɛ t ⁵²
+1453	Hpun		eight(ppl)	329	1705	ʃiɂ³¹+jɔŋ⁵⁵	329a 329b	479 480	ʃ i ʔ ³¹ + j ɔ ŋ ⁵⁵	493	ʃ - i ʔ ³¹ + j ɔ ŋ ⁵⁵
+653	Maru		elbow	146	981	mạịt⁵+tʰauŋ²	146a 146b	219 220	m a̰ i t ⁵ + tʰ au ŋ ²	220	m a̰ i t ⁵ + tʰ au ŋ ²
+654	Achang		elbow	146	981	man⁵+tʰuŋ⁵+gue³	146a 146b 146c	219 220 221	m a n ⁵ + tʰ u ŋ ⁵ + g u e ³	221	m a - n ⁵ + tʰ u ŋ ⁵ + g u e ³
+655	Lashi		elbow	146	981	moi⁴⁵+tʰuŋ⁵³+gue⁵³	146a 146b 146c	219 220 221	m o i ⁴⁵ + tʰ u ŋ ⁵³ + g u e ⁵³	221	m o i - ⁴⁵ + tʰ u ŋ ⁵³ + g u e ⁵³
+656	Atsi		elbow	146	981	mun³⁴+tʰuŋ⁴	146a 146b	219 220	m u n ³⁴ + tʰ u ŋ ⁴	220	m u - n ³⁴ + tʰ u ŋ ⁴
+799	Maru		elder sibling	179	405	jə²+ma²	179a 179b	274 275	j ə ² + m a ²	281	j ə ² + m a - ²
+800	Achang		elder sibling	179	405	ɂa³+maŋ³	179a 179b	274 275	ʔ a ³ + m a ŋ ³	281	ʔ a ³ + m a ŋ ³
+801	Lashi		elder sibling	179	405	ɂa⁴+maŋ⁴	179a 179b	274 275	ʔ a ⁴ + m a ŋ ⁴	281	ʔ a ⁴ + m a ŋ ⁴
+802	Atsi		elder sibling	179	405	ɂa⁴⁵+maŋ⁵³	179a 179b	274 275	ʔ a ⁴⁵ + m a ŋ ⁵³	281	ʔ a ⁴⁵ + m a ŋ ⁵³
+803	Bola		elder sibling	179	405	ɂa³	179a	274	ʔ a ³	280	ʔ a ³
+804	Hpun		elder sibling	179	405	mo³¹	179b	275	m o ³¹	282	m o - ³¹
+405	Maru		elephant	091	1290	tsʰa⁵³	091a	141	tsʰ a ⁵³	146	tsʰ a - ⁵³
+406	Achang		elephant	091	1290	tsʰaŋ³	091a	141	tsʰ a ŋ ³	146	tsʰ a ŋ ³
+407	Lashi		elephant	091	1290	tsʰaŋ²	091a	141	tsʰ a ŋ ²	146	tsʰ a ŋ ²
+408	Maru		elephant tusk	092	2495	dzӧi³¹	092a	142	dz ø i ³¹	147	dz ø i ³¹
+409	Achang		elephant tusk	092	2495	dzui³¹	092a	142	dz u i ³¹	147	dz u i ³¹
+410	Lashi		elephant tusk	092	2495	dzi⁵² (tusk)/tsɨ̣⁵²(tooth)	092a	142	dz i ⁵²	147	dz - i ⁵²
+411	Atsi		elephant tusk	092	2495	dzui³¹	092a	142	dz u i ³¹	147	dz u i ³¹
+412	Bola		elephant tusk	092	2495	tui³	092a	142	t u i ³	147	t u i ³
+413	Hpun		elephant tusk	092	2495	sʰui⁵⁵	092a	142	sʰ u i ⁵⁵	147	sʰ u i ⁵⁵
+1228	Maru		enter	277	749	wa³²	277a	411	w a ³²	422	w - a - ³²
+1229	Achang		enter	277	749	waŋ³¹	277a	411	w a ŋ ³¹	422	w - a ŋ ³¹
+1230	Lashi		enter	277	749	waŋ³¹	277a	411	w a ŋ ³¹	422	w - a ŋ ³¹
+1231	Hpun		enter	277	749	vɹo⁵⁵	277a	411	v ɹ o ⁵⁵	422	v ɹ o - ⁵⁵
+1397	Maru		exchange	319	2509	tʰa⁴³	319a	466	tʰ a ⁴³	477	tʰ a - - ⁴³
+1398	Achang		exchange	319	2509	tʰaiɂ³¹	319a	466	tʰ ai ʔ ³¹	477	tʰ ai - ʔ ³¹
+1399	Lashi		exchange	319	2509	tʰe⁵³	319a	466	tʰ e ⁵³	477	tʰ e - - ⁵³
+1400	Atsi		exchange	319	2509	tʰai⁵⁴+lum⁵³	319a 319b	466 467	tʰ a i ⁵⁴ + l u m ⁵³	478	tʰ a i - ⁵⁴ + l u m ⁵³
+737	Maru		excrement	167	675	kʰiɂ⁵⁴	167a	249	kʰ i ʔ ⁵⁴	251	kʰ - i ʔ ⁵⁴
+738	Achang		excrement	167	675	kʰjei⁵	167a	249	kʰ j e i ⁵	251	kʰ j e i ⁵
+739	Lashi		excrement	167	675	kʰei⁵	167a	249	kʰ e i ⁵	251	kʰ - e i ⁵
+740	Atsi		excrement	167	675	kʰi³¹	167a	249	kʰ i ³¹	251	kʰ - i - ³¹
+1352	Maru		extinguish	309	127	seɂ⁵⁴+mi⁴	309a 309b	452 453	s e ʔ ⁵⁴ + m i ⁴	465	s e - ʔ ⁵⁴ + m i ⁴
+1353	Lashi		extinguish	309	127	sai⁵²	309a	452	s a i ⁵²	464	s a i - ⁵²
+1354	Atsi		extinguish	309	127	sat⁵⁴+mi³	309a 309b	452 453	s a t ⁵⁴ + m i ³	465	s a - t ⁵⁴ + m i ³
+557	Maru		eye	125	1248	mjɔɂ³²	125a	189	m j ɔ ʔ ³²	191	m j ɔ ʔ ³²
+558	Achang		eye	125	1248	njɔɂ³+dʒi⁴³	125a 125b	189 190	n j ɔ ʔ ³ + dʒ i ⁴³	192	n j ɔ ʔ ³ + dʒ i ⁴³
+559	Lashi		eye	125	1248	mjɔ̃ɂ⁴	125a	189	m j ɔ̃ ʔ ⁴	191	m j ɔ̃ ʔ ⁴
+560	Atsi		eye	125	1248	mjɔɂ³²+dʒi³	125a 125b	189 190	m j ɔ ʔ ³² + dʒ i ³	192	m j ɔ ʔ ³² + dʒ i ³
+561	Bola		eye	125	1248	mja²³+tsi²³	125a 125b	189 190	m j a ²³ + ts i ²³	192	m j a - ²³ + ts i ²³
+562	Hpun		eye	125	1248	juɂ³¹+si³¹	125a 125b	189 190	j u ʔ ³¹ + s i ³¹	192	- j u ʔ ³¹ + s i ³¹
+553	Achang		eyebrow	124	1173	mi³²	124a	188	m i ³²	190	m i - ³²
+554	Lashi		eyebrow	124	1173	mɨ³	124a	188	m ɨ ³	190	m ɨ - ³
+555	Atsi		eyebrow	124	1173	mau³	124a	188	m a u ³	190	m a u ³
+556	Bola		eyebrow	124	1173	mauŋ²³	124a	188	m au ŋ ²³	190	m au ŋ ²³
+563	Achang		eyelid	126	17	kụk⁵⁴	126a	191	k ṵ k ⁵⁴	193	k ṵ k ⁵⁴
+564	Lashi		eyelid	126	17	gok⁵³	126a	191	g o k ⁵³	193	g o k ⁵³
+565	Atsi		eyelid	126	17	kụɂ⁵	126a	191	k ṵ ʔ ⁵	193	k ṵ ʔ ⁵
+532	Maru		face	120	1560	mjɔɂ³+nɔ³	120a 120b	181 182	m j ɔ ʔ ³ + n ɔ ³	186	m j ɔ ʔ ³ + n ɔ - ³
+533	Achang		face	120	1560	njɔɂ⁴³+nɔ̣³¹	120a 120b	181 182	n j ɔ ʔ ⁴³ + n ɔ̰ ³¹	186	n j ɔ ʔ ⁴³ + n ɔ̰ - ³¹
+534	Lashi		face	120	1560	mjɔ̃ɂ⁴+nɔ̃³	120a 120b	181 182	m j ɔ̃ ʔ ⁴ + n ɔ̃ ∼ ³	186	m j ɔ̃ ʔ ⁴ + n ɔ̃ ∼ ³
+535	Atsi		face	120	1560	mjɔɂ³²	120a	181	m j ɔ ʔ ³²	185	m j ɔ ʔ ³²
+536	Bola		face	120	1560	mjaɂ²³	120a	181	m j a ʔ ²³	185	m j a ʔ ²³
+1252	Maru		fall	283	1280	gjo⁵	283a	419	g j o ⁵	431	g j o ⁵
+1253	Achang		fall	283	1280	gjɔ⁴³	283a	419	g j ɔ ⁴³	431	g j ɔ ⁴³
+1254	Lashi		fall	283	1280	gjɔ⁴	283a	419	g j ɔ ⁴	431	g j ɔ ⁴
+1255	Bola		fall	283	1280	kja²³	283a	419	k j a ²³	431	k j a ²³
+1581	Maru		far	358	1406	wa³⁴	358a	516	w a ³⁴	530	w a ³⁴
+1582	Achang		far	358	1406	wɛ³	358a	516	w ɛ ³	530	w ɛ ³
+1583	Lashi		far	358	1406	we²	358a	516	w e ²	530	w e ²
+1584	Atsi		far	358	1406	ve⁵³	358a	516	v e ⁵³	530	v e ⁵³
+1585	Bola		far	358	1406	ve⁵²	358a	516	v e ⁵²	530	v e ⁵²
+1586	Hpun		far	358	1406	we³¹	358a	516	w e ³¹	530	w e ³¹
+1713	Achang		fast	389	1631	njap⁴²	389a	556	n j a p ⁴²	572	n j a p ⁴²
+1714	Lashi		fast	389	1631	mjæp³	389a	556	m j æ p ³	572	m j æ p ³
+715	Maru		fat	162	1279	tsʰau³¹+tsʰau³²	162a 347a	242 243	tsʰ a u ³¹ + tsʰ a u ³²	244	tsʰ a u - ³¹ + tsʰ a u ³²
+716	Achang		fat	162	1279	tsʰɨu³+tsʰɨu³	162a 347a	242 243	tsʰ ɨ u ³ + tsʰ ɨ u ³	244	tsʰ ɨ u - ³ + tsʰ ɨ u ³
+717	Lashi		fat	162	1279	tsʰu³²+tsʰu³²	162a 347a	242 243	tsʰ u ³² + tsʰ u ³²	244	tsʰ u - - ³² + tsʰ u - ³²
+718	Atsi		fat	162	1279	tsʰu⁴³	347a	243	tsʰ u ⁴³	517	tsʰ u - ⁴³
+719	Hpun		fat	162	1279	ʃaiŋ⁵⁵	162a	242	ʃ ai ŋ ⁵⁵	243	ʃ ai - ŋ ⁵⁵
+1534	Maru		fat	347	1279	tsʰau³¹+tsʰau³²	162a 347a	242 243	tsʰ a u ³¹ + tsʰ a u ³²	244	tsʰ a u - ³¹ + tsʰ a u ³²
+1535	Achang		fat	347	1279	tsʰɨu³+tsʰɨu³	162a 347a	242 243	tsʰ ɨ u ³ + tsʰ ɨ u ³	244	tsʰ ɨ u - ³ + tsʰ ɨ u ³
+1536	Lashi		fat	347	1279	tsʰu³²+tsʰu³²	162a 347a	242 243	tsʰ u ³² + tsʰ u ³²	244	tsʰ u - - ³² + tsʰ u - ³²
+1537	Atsi		fat	347	1279	tsʰu⁴³	347a	243	tsʰ u ⁴³	517	tsʰ u - ⁴³
+1538	Hpun		fat	347	1279	ʃaiŋ⁵⁵	162a	242	ʃ ai ŋ ⁵⁵	243	ʃ ai - ŋ ⁵⁵
+761	Maru		father	172	1217	jɪp²+pʰɔ⁴³	172a 172b	257 258	j ɪ p ² + pʰ ɔ ⁴³	262	j ɪ p ² + pʰ ɔ - ⁴³
+762	Achang		father	172	1217	ɂa³+ba⁵	172a 172b	257 258	ʔ a ³ + b a ⁵	262	ʔ a - ³ + b a - ⁵
+763	Lashi		father	172	1217	ɂa³+pʰoɂ⁵³	172a 172b	257 258	ʔ a ³ + pʰ o ʔ ⁵³	262	ʔ a - ³ + pʰ o ʔ ⁵³
+764	Atsi		father	172	1217	ɂə	172a	257	ʔ ə	261	ʔ ə - -
+765	Bola		father	172	1217	ɂa+va³	172a 172b	257 258	ʔ a + v a ³	262	ʔ a - - + v a - ³
+766	Hpun		father	172	1217	ɂə+pʰa	172a 172b	257 258	ʔ ə + pʰ a	262	ʔ ə - - + pʰ a - -
+430	Maru		feather	096	1201	mọk⁵	096a	146	m o̰ k ⁵	151	m - - o̰ k ⁵
+431	Achang		feather	096	1201	mau⁴⁵	096a	146	m a u ⁴⁵	151	m - a u - ⁴⁵
+432	Lashi		feather	096	1201	mau³⁵+ɂa³	096a 096b	146 147	m a u ³⁵ + ʔ a ³	152	m - a u - ³⁵ + ʔ a ³
+433	Atsi		feather	096	1201	mau³¹	096a	146	m a u ³¹	151	m - a u - ³¹
+434	Hpun		feather	096	1201	mjai	096a	146	m j a i	151	m j a i - -
+1484	Maru		few	337	1242	mo³²	337a	490	m o ³²	503	m o - ³²
+1485	Achang		few	337	1242	mạụ⁵	337a	490	m a̰ u ⁵	503	m a̰ u ⁵
+1486	Lashi		few	337	1242	dʒit⁵	337b	491	dʒ i t ⁵	504	dʒ i t ⁵
+1487	Atsi		few	337	1242	dʒɪ̣t⁵	337b	491	dʒ ɪ̰ t ⁵	504	dʒ ɪ̰ t ⁵
+1488	Hpun		few	337	1242	ne³¹	337c	492	n e ³¹	505	n e ³¹
+1382	Lashi		fight	316	1423	pjæ̣p³¹	316a	463	p j æ̰ p ³¹	474	p j æ̰ p ³¹
+1383	Atsi		fight	316	1423	bjɔɂ³	316a	463	b j ɔ ʔ ³	474	b j ɔ ʔ ³
+1384	Bola		fight	316	1423	pẹɂ²³	316a	463	p ḛ ʔ ²³	474	p - ḛ ʔ ²³
+659	Maru		finger	149	1303	njọɂ⁵	149a	224	n j o̰ ʔ ⁵	223	n j o̰ - ʔ ⁵
+660	Achang		finger	149	1303	njæ̣ụ⁵	149a	224	n j æ̰ u ⁵	223	n j æ̰ u - ⁵
+661	Lashi		finger	149	1303	njạụ⁵	149a	224	n j a̰ u ⁵	223	n j a̰ u - ⁵
+662	Atsi		finger	149	1303	njui³¹	149a	224	n j u i ³¹	223	n j u i - ³¹
+663	Bola		finger	149	1303	njạụŋ²³	149a	224	n j a̰ u ŋ ²³	223	n j a̰ u ŋ ²³
+944	Maru		fire	212	221	mi⁴³	212a	323	m i ⁴³	334	m - i ⁴³
+945	Achang		fire	212	221	nji³	212a	323	n j i ³	334	n j i ³
+946	Lashi		fire	212	221	mɪ⁴	212a	323	m ɪ ⁴	334	m - ɪ ⁴
+947	Atsi		fire	212	221	mị³¹	212a	323	m ḭ ³¹	334	m - ḭ ³¹
+948	Bola		fire	212	221	mi⁵²	212a	323	m i ⁵²	334	m - i ⁵²
+949	Hpun		fire	212	221	mi³¹	212a	323	m i ³¹	334	m - i ³¹
+939	Maru		firewood	211	10	tʰa³²	211a	322	tʰ a ³²	333	tʰ a - ³²
+940	Achang		firewood	211	10	tʰaŋ⁵	211a	322	tʰ a ŋ ⁵	333	tʰ a ŋ ⁵
+941	Lashi		firewood	211	10	tʰaŋ⁴	211a	322	tʰ a ŋ ⁴	333	tʰ a ŋ ⁴
+942	Atsi		firewood	211	10	tʰaŋ³¹	211a	322	tʰ a ŋ ³¹	333	tʰ a ŋ ³¹
+943	Hpun		firewood	211	10	tʰo³¹	211a	322	tʰ o ³¹	333	tʰ o - ³¹
+452	Maru		fish	101	227	ŋo³	101a	152	ŋ o ³	157	ŋ o - ³
+453	Achang		fish	101	227	n⁴³	101a	152	n ⁴³	157	n - - ⁴³
+454	Lashi		fish	101	227	ŋə³	101a	152	ŋ ə ³	157	ŋ ə - ³
+455	Atsi		fish	101	227	ŋɔt³	101a	152	ŋ ɔ t ³	157	ŋ ɔ t ³
+456	Bola		fish	101	227	ŋə	101a	152	ŋ ə	157	ŋ ə - -
+457	Hpun		fish	101	227	ŋa³¹	101a	152	ŋ a ³¹	157	ŋ a - ³¹
+1432	Maru		five(ppl)	326	493	ŋɔ³⁵	326a	476	ŋ ɔ ³⁵	489	ŋ ɔ ³⁵
+1433	Achang		five(ppl)	326	493	ŋ³	326a	476	ŋ ³	489	ŋ - ³
+1434	Lashi		five(ppl)	326	493	m³	326a	476	m ³	489	m - ³
+1435	Atsi		five(ppl)	326	493	ŋɔ³²	326a	476	ŋ ɔ ³²	489	ŋ ɔ ³²
+1436	Bola		five(ppl)	326	493	ŋa⁵²	326a	476	ŋ a ⁵²	489	ŋ a ⁵²
+710	Maru		flesh	161	2259	ʃɔ³²	161a	241	ʃ ɔ ³²	242	ʃ ɔ ³²
+711	Achang		flesh	161	2259	ʃɔ⁵	161a	241	ʃ ɔ ⁵	242	ʃ ɔ ⁵
+712	Lashi		flesh	161	2259	ʃu⁵	161a	241	ʃ u ⁵	242	ʃ u ⁵
+713	Atsi		flesh	161	2259	ʃɔ³¹	161a	241	ʃ ɔ ³¹	242	ʃ ɔ ³¹
+714	Hpun		flesh	161	2259	ʃa³¹	161a	241	ʃ a ³¹	242	ʃ a ³¹
+1257	Maru		float	285	1574	mjuŋ⁵⁴	285a	421	m j u ŋ ⁵⁴	433	m j u ŋ ⁵⁴
+1258	Lashi		float	285	1574	mjũ³	285a	421	m j ũ ∼ ³	433	m j ũ ∼ ³
+1264	Maru		flow	287	2003	jọk⁵+na⁴³	287a 287b	424 425	j o̰ k ⁵ + n a ⁴³	437	j o̰ k - ⁵ + n - - a ⁴³
+1265	Achang		flow	287	2003	jau³¹	287a	424	j a u ³¹	436	j a - u ³¹
+1266	Lashi		flow	287	2003	jau³¹+njɛ²¹	287a 287b	424 425	j a u ³¹ + n j ɛ ²¹	437	j a - u ³¹ + n j - ɛ ²¹
+1267	Atsi		flow	287	2003	ɂʊ̣t⁵+mjui²¹	287a 287b	424 425	ʔ ʊ̰ t ⁵ + m j u i ²¹	437	ʔ ʊ̰ t - ⁵ + m j u i ²¹
+201	Maru		flower	044	239	pẹn⁴	044a	70	p ḛ n ⁴	71	p - ḛ n ⁴
+202	Achang		flower	044	239	pan³⁴	044a	70	p a n ³⁴	71	p - a n ³⁴
+203	Lashi		flower	044	239	bain⁴	044a	70	b a i n ⁴	71	b a i n ⁴
+204	Atsi		flower	044	239	ban³²	044a	70	b a n ³²	71	b - a n ³²
+205	Bola		flower	044	239	pje⁵²	044a	70	p j e ⁵²	71	p j e - ⁵²
+206	Hpun		flower	044	239	pɛ³¹	044a	70	p ɛ ³¹	71	p - ɛ - ³¹
+435	Maru		fly	097	1441	da⁴	097a	148	d a ⁴	153	d a - ⁴
+436	Achang		fly	097	1441	daŋ³	097a	148	d a ŋ ³	153	d a ŋ ³
+437	Lashi		fly	097	1441	daŋ³	097a	148	d a ŋ ³	153	d a ŋ ³
+438	Atsi		fly	097	1441	daŋ⁵³	097a	148	d a ŋ ⁵³	153	d a ŋ ⁵³
+512	Achang		fly (insect)	116	1504	jaŋ³+kʰuŋ⁵	116a 116b	171 172	j a ŋ ³ + kʰ u ŋ ⁵	177	j a ŋ ³ + kʰ u ŋ ⁵
+513	Lashi		fly (insect)	116	1504	jaŋ³+kʰoŋ⁵	116a 116b	171 172	j a ŋ ³ + kʰ o ŋ ⁵	177	j a ŋ ³ + kʰ o ŋ ⁵
+514	Atsi		fly (insect)	116	1504	jaŋ³²+kʰuŋ³¹	116a 116b	171 172	j a ŋ ³² + kʰ u ŋ ³¹	177	j a ŋ ³² + kʰ u ŋ ³¹
+515	Bola		fly (insect)	116	1504	joŋ	116a	171	j o ŋ	176	j o ŋ -
+516	Hpun		fly (insect)	116	1504	jo⁵⁵+kə	116a 116b	171 172	j o ⁵⁵ + k ə	177	j o - ⁵⁵ + k ə - -
+690	Maru		foot	157	1301	kʰit⁵³	157a	235	kʰ i t ⁵³	235	kʰ - i t ⁵³
+691	Achang		foot	157	1301	kʰjei³	157a	235	kʰ j e i ³	235	kʰ j e i ³
+692	Lashi		foot	157	1301	kʰje⁵³	157a	235	kʰ j e ⁵³	235	kʰ j e - ⁵³
+693	Atsi		foot	157	1301	kʰji⁵³	157a	235	kʰ j i ⁵³	235	kʰ j i - ⁵³
+694	Bola		foot	157	1301	kʰi³	157a	235	kʰ i ³	235	kʰ - i - ³
+695	Hpun		foot	157	1301	kʰi⁵⁵	157a	235	kʰ i ⁵⁵	235	kʰ - i - ⁵⁵
+549	Maru		forehead	123	123	ŋa³+la²	123a 123b	186 187	ŋ a ³ + l a ²	189	ŋ a - ³ + l a - ²
+550	Achang		forehead	123	123	ŋa³+laŋ³	123a 123b	186 187	ŋ a ³ + l a ŋ ³	189	ŋ a - ³ + l a ŋ ³
+551	Lashi		forehead	123	123	ŋə³+laŋ³	123a 123b	186 187	ŋ ə ³ + l a ŋ ³	189	ŋ ə - ³ + l a ŋ ³
+552	Atsi		forehead	123	123	ŋɔt³+laŋ³¹	123a 123b	186 187	ŋ ɔ t ³ + l a ŋ ³¹	189	ŋ ɔ t ³ + l a ŋ ³¹
+166	Maru		forest	037	420	dʒam⁴+tʰa⁴	037a 037c	59 60	dʒ a m ⁴ + tʰ a ⁴	61	- dʒ a m ⁴ + tʰ a ⁴
+167	Achang		forest	037	420	kʰjam⁴¹	037b	61	kʰ j a m ⁴¹	62	kʰ j a - m ⁴¹
+168	Lashi		forest	037	420	gjɛm⁵³+kʰau³²	037a 037b	59 61	g j ɛ m ⁵³ + kʰ a u ³²	60	g j ɛ m ⁵³ + kʰ - a u - ³²
+1120	Maru		forget	253	1523	tọɂ⁵+mịt⁵⁴	253a 253b	378 379	t o̰ ʔ ⁵ + m ḭ t ⁵⁴	391	t o̰ ʔ ⁵ + m - ḭ t ⁵⁴
+1121	Achang		forget	253	1523	tɔ̣⁴⁵+njẹk⁵²	253a 253b	378 379	t ɔ̰ ⁴⁵ + n j ḛ k ⁵²	391	t ɔ̰ - ⁴⁵ + n j ḛ k ⁵²
+1122	Lashi		forget	253	1523	dɔ³⁴+mjɛ̣ɂ⁵²	253a 253b	378 379	d ɔ ³⁴ + m j ɛ̰ ʔ ⁵²	391	d ɔ - ³⁴ + m j ɛ̰ ʔ ⁵²
+1123	Atsi		forget	253	1523	tɔ̣⁵⁴+mị⁵³	253a 253b	378 379	t ɔ̰ ⁵⁴ + m ḭ ⁵³	391	t ɔ̰ - ⁵⁴ + m - ḭ - ⁵³
+1427	Achang		four(ppl)	325	1500	njei³	325a	475	n j e i ³	488	n j e i ³
+1428	Lashi		four(ppl)	325	1500	mje⁴	325a	475	m j e ⁴	488	m j e - ⁴
+1429	Atsi		four(ppl)	325	1500	mi³²	325a	475	m i ³²	488	m - i - ³²
+1430	Bola		four(ppl)	325	1500	mi⁵²	325a	475	m i ⁵²	488	m - i - ⁵²
+1431	Hpun		four(ppl)	325	1500	ɲi³¹	325a	475	ɲ i ³¹	488	ɲ - i - ³¹
+809	Maru		friend	181	1325	bjɪn²¹+tʃʰa²	181a 181b	277 278	b j ɪ n ²¹ + tʃʰ a ²	285	b j ɪ n ²¹ + tʃʰ a - ²
+810	Achang		friend	181	1325	djɛn³¹+tʃʰaŋ⁵	181a 181b	277 278	d j ɛ n ³¹ + tʃʰ a ŋ ⁵	285	d j ɛ n ³¹ + tʃʰ a ŋ ⁵
+811	Lashi		friend	181	1325	bjeŋ⁵³+tʃʰaŋ⁵	181a 181b	277 278	b j e ŋ ⁵³ + tʃʰ a ŋ ⁵	285	b j e ŋ ⁵³ + tʃʰ a ŋ ⁵
+812	Atsi		friend	181	1325	dzum³	181b	278	dz u m ³	286	dz u m ³
+813	Bola		friend	181	1325	pui³	181a	277	p u i ³	284	p u i - ³
+467	Maru		frog	106	503	pọ³	106a	157	p o̰ ³	162	p o̰ ³
+468	Achang		frog	106	503	pụ⁵	106a	157	p ṵ ⁵	162	p ṵ ⁵
+469	Lashi		frog	106	503	pu⁵	106a	157	p u ⁵	162	p u ⁵
+470	Atsi		frog	106	503	bɔ³¹	106a	157	b ɔ ³¹	162	b ɔ ³¹
+471	Bola		frog	106	503	pa²³	106a	157	p a ²³	162	p a ²³
+472	Hpun		frog	106	503	pa³¹	106a	157	p a ³¹	162	p a ³¹
+207	Maru		fruit	045	1507	ʃi⁴³	045a	71	ʃ i ⁴³	72	ʃ i ⁴³
+208	Achang		fruit	045	1507	ʃi⁵	045a	71	ʃ i ⁵	72	ʃ i ⁵
+209	Lashi		fruit	045	1507	ʃi⁴	045a	71	ʃ i ⁴	72	ʃ i ⁴
+210	Atsi		fruit	045	1507	ʃi³¹	045a	71	ʃ i ³¹	72	ʃ i ³¹
+211	Hpun		fruit	045	1507	ʃi³¹	045a	71	ʃ i ³¹	72	ʃ i ³¹
+1564	Maru		full	354	1429	bjaŋ³⁴	354a	510	b j a ŋ ³⁴	524	b j a ŋ ³⁴
+1565	Achang		full	354	1429	djeŋ⁵	354a	510	d j e ŋ ⁵	524	d j e ŋ ⁵
+1566	Lashi		full	354	1429	bjəŋ⁴	354a	510	b j ə ŋ ⁴	524	b j ə ŋ ⁴
+1567	Atsi		full	354	1429	biŋ³⁴	354a	510	b i ŋ ³⁴	524	b - i ŋ ³⁴
+1568	Hpun		full	354	1429	pjaiŋ³¹	354a	510	p j ai ŋ ³¹	524	p j ai ŋ ³¹
+1028	Maru		full, satisfied	230	1429	kʰi⁵⁴	230a	346	kʰ i ⁵⁴	358	kʰ i ⁵⁴
+1029	Lashi		full, satisfied	230	1429	gi³	230a	346	g i ³	358	g i ³
+1030	Atsi		full, satisfied	230	1429	gi³¹	230a	346	g i ³¹	358	g i ³¹
+287	Maru		garlic	065	2368	hau³+pʰju⁵¹	065a 065c	99 100	h a u ³ + pʰ j u ⁵¹	100	h a u ³ + pʰ j u ⁵¹
+288	Achang		garlic	065	2368	hu⁵+son³	065a 065b	99 101	h u ⁵ + s o n ³	98	h u - ⁵ + s - o - n ³
+289	Lashi		garlic	065	2368	hø⁵+soin⁴²+pʰju²¹	065a 065b 065c	99 101 100	h ø ⁵ + s o i n ⁴² + pʰ j u ²¹	99	h ø - ⁵ + s - o i n ⁴² + pʰ j u ²¹
+290	Atsi		garlic	065	2368	hu³+sʊn⁵⁴+pʰju⁵¹	065a 065b 065c	99 101 100	h u ³ + s ʊ n ⁵⁴ + pʰ j u ⁵¹	99	h u - ³ + s - ʊ - n ⁵⁴ + pʰ j u ⁵¹
+291	Bola		garlic	065	2368	saun²³	065b	101	s a u n ²³	101	s - a u n ²³
+292	Hpun		garlic	065	2368	ʃwe³¹+pʰju⁵⁵	065b 065c	101 100	ʃ w e ³¹ + pʰ j u ⁵⁵	102	ʃ w e - - ³¹ + pʰ j u ⁵⁵
+1195	Maru		ghost	270	1175	səp²+bjɔ³¹	270a 270b	403 404	s ə p ² + b j ɔ ³¹	414	s ə p ² + b j ɔ - ³¹
+1196	Achang		ghost	270	1175	si³+djɔ³¹	270a 270b	403 404	s i ³ + d j ɔ ³¹	414	s i - ³ + d j ɔ - ³¹
+1197	Lashi		ghost	270	1175	sə³+bju³¹	270a 270b	403 404	s ə ³ + b j u ³¹	414	s ə - ³ + b j u - ³¹
+1198	Atsi		ghost	270	1175	ʃə⁴+bjɔ⁵¹	270a 270b	403 404	ʃ ə ⁴ + b j ɔ ⁵¹	414	ʃ ə - ⁴ + b j ɔ - ⁵¹
+1199	Bola		ghost	270	1175	jui³	270b	404	j u i ³	415	- j u i ³
+343	Lashi		gibbon	077	2511	nɔ̃ɂ³¹	077a	123	n ɔ̃ ʔ ³¹	126	n ɔ̃ ʔ ³¹
+344	Atsi		gibbon	077	2511	nɔɂ³²	077a	123	n ɔ ʔ ³²	126	n ɔ ʔ ³²
+281	Maru		ginger	064	2500	tʃʰa³+kọɂ⁵⁴	064a 064b	97 98	tʃʰ a ³ + k o̰ ʔ ⁵⁴	97	tʃʰ a - ³ + k o̰ ʔ ⁵⁴
+282	Achang		ginger	064	2500	tʃʰaŋ⁵	064a	97	tʃʰ a ŋ ⁵	96	tʃʰ a ŋ ⁵
+283	Lashi		ginger	064	2500	tʃʰaŋ⁵⁴+gɔɂ⁵²	064a 064b	97 98	tʃʰ a ŋ ⁵⁴ + g ɔ ʔ ⁵²	97	tʃʰ a ŋ ⁵⁴ + g ɔ ʔ ⁵²
+284	Atsi		ginger	064	2500	tʃʰaŋ³¹	064a	97	tʃʰ a ŋ ³¹	96	tʃʰ a ŋ ³¹
+285	Bola		ginger	064	2500	tʃʰaŋ²³	064a	97	tʃʰ a ŋ ²³	96	tʃʰ a ŋ ²³
+286	Hpun		ginger	064	2500	ʃo³¹+kə	064a 064b	97 98	ʃ o ³¹ + k ə	97	ʃ o - ³¹ + k ə - -
+1268	Maru		give	288	1447	pjit⁵⁴	288a	426	p j i t ⁵⁴	438	p j i t ⁵⁴
+1269	Achang		give	288	1447	dje³	288a	426	d j e ³	438	d j e - ³
+1270	Lashi		give	288	1447	bje³	288a	426	b j e ³	438	b j e - ³
+1271	Atsi		give	288	1447	bi⁵³	288a	426	b i ⁵³	438	b - i - ⁵³
+1272	Hpun		give	288	1447	pe³¹	288a	426	p e ³¹	438	p - e - ³¹
+1223	Maru		go; return	276	581	lo³	276a	410	l o ³	421	l o - ³
+1224	Achang		go; return	276	581	lɔ³¹	276a	410	l ɔ ³¹	421	l ɔ - ³¹
+1225	Lashi		go; return	276	581	lɔ³¹	276a	410	l ɔ ³¹	421	l ɔ - ³¹
+1226	Atsi		go; return	276	581	le⁴³	276a	410	l e ⁴³	421	l e - ⁴³
+1227	Hpun		go; return	276	581	ɹʊɂ	276a	410	ɹ ʊ ʔ	421	ɹ ʊ ʔ -
+140	Maru		gold	032	1369	xaŋ⁴²	032a	50	x a ŋ ⁴²	51	x - a ŋ ⁴²
+141	Achang		gold	032	1369	xjen³	032a	50	x j e n ³	51	x j e n ³
+142	Lashi		gold	032	1369	ʃəŋ⁵²	032a	50	ʃ ə ŋ ⁵²	51	ʃ - ə ŋ ⁵²
+143	Atsi		gold	032	1369	hɯŋ⁵³	032a	50	h ɯ ŋ ⁵³	51	h - ɯ ŋ ⁵³
+144	Bola		gold	032	1369	xaŋ³	032a	50	x a ŋ ³	51	x - a ŋ ³
+145	Hpun		gold	032	1369	ʃaiŋ⁵⁵	032a	50	ʃ ai ŋ ⁵⁵	51	ʃ - ai ŋ ⁵⁵
+964	Maru		gong	217	2502	ma³⁴³	217a	330	m a ³⁴³	341	m a - ³⁴³
+965	Achang		gong	217	2502	maŋ⁵	217a	330	m a ŋ ⁵	341	m a ŋ ⁵
+966	Lashi		gong	217	2502	maŋ³⁴	217a	330	m a ŋ ³⁴	341	m a ŋ ³⁴
+967	Hpun		gong	217	2502	mɔŋ³¹	217a	330	m ɔ ŋ ³¹	341	m ɔ ŋ ³¹
+1745	Maru		good	398	1035	gai²	398a	568	g a i ²	585	g a i ²
+1746	Achang		good	398	1035	gi³¹	398a	568	g i ³¹	585	g i - ³¹
+1747	Lashi		good	398	1035	ge³¹	398a	568	g e ³¹	585	g e - ³¹
+1748	Atsi		good	398	1035	ge³¹	398a	568	g e ³¹	585	g e - ³¹
+1749	Hpun		good	398	1035	kɔŋ³¹	398a	568	k ɔ ŋ ³¹	585	k ɔ ŋ ³¹
+218	Maru		grass	047	606	mjoɂ²⁴	047a	75	m j o ʔ ²⁴	77	m j o ʔ ²⁴
+219	Achang		grass	047	606	mạn²⁵	047a	75	m a̰ n ²⁵	77	m - a̰ n ²⁵
+220	Lashi		grass	047	606	mjɔɂ²	047a	75	m j ɔ ʔ ²	77	m j ɔ ʔ ²
+221	Atsi		grass	047	606	mjɔɂ³¹	047a	75	m j ɔ ʔ ³¹	77	m j ɔ ʔ ³¹
+222	Bola		grass	047	606	mẹ²³	047a	75	m ḛ ²³	77	m - ḛ - ²³
+223	Hpun		grass	047	606	mjoɂ³¹	047a	75	m j o ʔ ³¹	77	m j o ʔ ³¹
+1622	Maru		green	365	1425	njọɂ⁴²	365a	525	n j o̰ ʔ ⁴²	540	n j o̰ - ʔ ⁴²
+1623	Achang		green	365	1425	njæu³¹	365a	525	n j æ u ³¹	540	n j æ u - ³¹
+1624	Lashi		green	365	1425	njau³¹	365a	525	n j a u ³¹	540	n j a u - ³¹
+1625	Atsi		green	365	1425	njui³²	365a	525	n j u i ³²	540	n j u i - ³²
+1626	Bola		green	365	1425	njụŋ³	365a	525	n j ṵ ŋ ³	540	n j ṵ - ŋ ³
+1310	Lashi		grind	299	1033	lə̣ŋ³²	299a	440	l ə̰ ŋ ³²	452	l ə̰ - ŋ ³²
+1311	Bola		grind	299	1033	lui²³	299a	440	l u i ²³	452	l u i - ²³
+600	Maru		gums	134	139	njɛn³¹	134a	202	n j ɛ n ³¹	204	n j ɛ n ³¹
+601	Achang		gums	134	139	njeŋ³¹	134a	202	n j e ŋ ³¹	204	n j e ŋ ³¹
+543	Maru		hair	122	1040	tsʰe⁴¹	122a	185	tsʰ e ⁴¹	188	tsʰ e - ⁴¹
+544	Achang		hair	122	1040	tsʰam³	122a	185	tsʰ a m ³	188	tsʰ a m ³
+545	Lashi		hair	122	1040	tsʰæm⁵³	122a	185	tsʰ æ m ⁵³	188	tsʰ æ m ⁵³
+546	Atsi		hair	122	1040	tsʰam⁵³	122a	185	tsʰ a m ⁵³	188	tsʰ a m ⁵³
+547	Bola		hair	122	1040	tsʰi³	122a	185	tsʰ i ³	188	tsʰ i - ³
+548	Hpun		hair	122	1040	sʰɛ⁵⁵	122a	185	sʰ ɛ ⁵⁵	188	sʰ ɛ - ⁵⁵
+1489	Maru		half	338	816	gauŋ³+ɣi³⁵	338a 338b	493 494	g au ŋ ³ + ɣ i ³⁵	506	g au ŋ ³ + ɣ i ³⁵
+1490	Achang		half	338	816	gɔ⁵+ji⁵	338a 338b	493 494	g ɔ ⁵ + j i ⁵	506	g ɔ - ⁵ + j i ⁵
+1491	Lashi		half	338	816	gɔ³+ji³	338a 338b	493 494	g ɔ ³ + j i ³	506	g ɔ - ³ + j i ³
+1492	Atsi		half	338	816	βʷi⁴	338b	494	βʷ i ⁴	507	βʷ i ⁴
+647	Maru		hand	145	1277	loɂ³²	145a	218	l o ʔ ³²	219	l o ʔ ³²
+648	Achang		hand	145	1277	lɔɂ⁴²	145a	218	l ɔ ʔ ⁴²	219	l ɔ ʔ ⁴²
+649	Lashi		hand	145	1277	lɔ̣ɂ³	145a	218	l ɔ̰ ʔ ³	219	l ɔ̰ ʔ ³
+650	Atsi		hand	145	1277	lɔɂ³²	145a	218	l ɔ ʔ ³²	219	l ɔ ʔ ³²
+651	Bola		hand	145	1277	lạ⁵²	145a	218	l a̰ ⁵²	219	l a̰ - ⁵²
+652	Hpun		hand	145	1277	lʊɂ³¹	145a	218	l ʊ ʔ ³¹	219	l ʊ ʔ ³¹
+1706	Achang		hard	387	1884	tʰan³	387a	553	tʰ a n ³	568	tʰ a - n ³
+1707	Lashi		hard	387	1884	tʰãɪ²	387a	553	tʰ ã ɪ ²	568	tʰ ã ɪ - ²
+1708	Atsi		hard	387	1884	tʰan³²	387a	553	tʰ a n ³²	568	tʰ a - n ³²
+1130	Lashi		hate	256	1607	ɂa²	256a	384	ʔ a ²	395	ʔ a ²
+1131	Atsi		hate	256	1607	ɂa²	256a	384	ʔ a ²	395	ʔ a ²
+527	Maru		head	119	1256	ɂau²	119a	179	ʔ a u ²	183	ʔ a u ²
+528	Achang		head	119	1256	ɂut⁵+lɔm⁵³	119a 119b	179 180	ʔ u t ⁵ + l ɔ m ⁵³	184	ʔ u t ⁵ + l ɔ m ⁵³
+529	Lashi		head	119	1256	wə⁵+lø̃m⁵¹	119a 119b	179 180	w ə ⁵ + l ø m ⁵¹	184	w ə - ⁵ + l ø m ⁵¹
+530	Atsi		head	119	1256	ɂʊt³²+lụm³¹	119a 119b	179 180	ʔ ʊ t ³² + l ṵ m ³¹	184	ʔ ʊ t ³² + l ṵ m ³¹
+531	Bola		head	119	1256	ɂu³+lam⁵²	119a 119b	179 180	ʔ u ³ + l a m ⁵²	184	ʔ u - ³ + l a m ⁵²
+987	Maru		hear	222	1408	gjo⁵	222b	335	g j o ⁵	347	g j o ⁵
+988	Achang		hear	222	1408	hjæu⁵+gjɔ⁴¹	222a 222b	336 335	h j æ u ⁵ + g j ɔ ⁴¹	346	h j æ u ⁵ + g j ɔ ⁴¹
+989	Lashi		hear	222	1408	ʃau⁵+gjɔ³¹	222a 222b	336 335	ʃ a u ⁵ + g j ɔ ³¹	346	ʃ - a u ⁵ + g j ɔ ³¹
+990	Atsi		hear	222	1408	wɔ⁴+gjɔ⁵³	222a 222b	336 335	w ɔ ⁴ + g j ɔ ⁵³	346	- w ɔ - ⁴ + g j ɔ ⁵³
+991	Bola		hear	222	1408	kjạ⁵²+kja	222a 222b	336 335	k j a̰ ⁵² + k j a	346	k j a̰ - ⁵² + k j a -
+627	Achang		heart	141	1223	nạịk⁵⁴+lam³²	141a 141b	213 214	n a̰ i k ⁵⁴ + l a m ³²	214	n a̰ i k ⁵⁴ + l a m ³²
+628	Lashi		heart	141	1223	nək⁵⁴+lɛm²	141a 141b	213 214	n ə k ⁵⁴ + l ɛ m ²	214	n ə - k ⁵⁴ + l ɛ m ²
+629	Atsi		heart	141	1223	nɪ̣k⁵+lum³¹	141a 141b	213 214	n ɪ̰ k ⁵ + l u m ³¹	214	n ɪ̰ - k ⁵ + l u m ³¹
+630	Bola		heart	141	1223	nak⁵²+lam⁵²	141a 141b	213 214	n a k ⁵² + l a m ⁵²	214	n a - k ⁵² + l a m ⁵²
+631	Hpun		heart	141	1223	laŋ³¹	141b	214	l a ŋ ³¹	215	l a ŋ ³¹
+1703	Maru		heavy	386	1210	la⁵	386a	552	l a ⁵	567	l a - ⁵
+1704	Lashi		heavy	386	1210	le³²	386a	552	l e ³²	567	l e - ³²
+1705	Atsi		heavy	386	1210	lai⁵³	386a	552	l a i ⁵³	567	l a i ⁵³
+696	Maru		heel	158	980	tʰauŋ²	158a	236	tʰ au ŋ ²	236	tʰ au ŋ ²
+697	Lashi		heel	158	980	tʰuŋ⁴	158a	236	tʰ u ŋ ⁴	236	tʰ u ŋ ⁴
+698	Atsi		heel	158	980	tʰaŋ⁴³	158a	236	tʰ a ŋ ⁴³	236	tʰ a ŋ ⁴³
+699	Hpun		heel	158	980	tʰaŋ³¹	158a	236	tʰ a ŋ ³¹	236	tʰ a ŋ ³¹
+1294	Maru		hit	295	1433	bẹtɂ⁵⁴	295a	433	b ḛ ʔ ⁵⁴	445	b ḛ ʔ ⁵⁴
+1295	Achang		hit	295	1433	bat³¹	295a	433	b a t ³¹	445	b a t ³¹
+1296	Lashi		hit	295	1433	jøk³	295b	434	j ø k ³	446	j ø k ³
+1297	Atsi		hit	295	1433	tʰui⁵³	295c	435	tʰ u i ⁵³	447	tʰ u i ⁵³
+1690	Maru		hot	382	1286	lauŋ³	382b	546	l au ŋ ³	562	l au ŋ ³
+1691	Achang		hot	382	1286	ŋɛ⁵	382a	547	ŋ ɛ ⁵	561	ŋ - ɛ ⁵
+1692	Lashi		hot	382	1286	loŋ⁵¹	382b	546	l o ŋ ⁵¹	562	l o ŋ ⁵¹
+1693	Atsi		hot	382	1286	njɛ³²	382a	547	n j ɛ ³²	561	n j ɛ ³²
+836	Maru		house	186	1252	jạm³¹	186a	286	j ạ m ³¹	295	- j ạ m ³¹
+837	Achang		house	186	1252	jẹn³	186a	286	j ḛ n ³	295	- j ḛ n ³
+838	Lashi		house	186	1252	jɛ̣m⁴	186a	286	j ɛ̰ m ⁴	295	- j ɛ̰ m ⁴
+839	Atsi		house	186	1252	ɂjụm⁵³	186a	286	ʔ j ṵ m ⁵³	295	ʔ j ṵ m ⁵³
+840	Bola		house	186	1252	jạm²³	186a	286	j ạ m ²³	295	- j ạ m ²³
+841	Hpun		house	186	1252	ɂaiŋ⁵⁵	186a	286	ʔ ai ŋ ⁵⁵	295	- ʔ ai ŋ ⁵⁵
+463	Lashi		house lizard	103	632	dʒɛ⁵	103a	155	dʒ ɛ ⁵	160	dʒ ɛ - ⁵
+464	Atsi		house lizard	103	632	dzuŋ³	103a	155	dz u ŋ ³	160	dz u ŋ ³
+1764	Achang		how many?	406	822	njɔ̣ɂ⁵³	406a	577	n j ɔ̰ ʔ ⁵³	595	n j ɔ̰ ʔ ⁵³
+1465	Achang		hundred(ppl)	332	1634	xjɔ³	332a	483	x j ɔ ³	496	x j ɔ - ³
+1466	Lashi		hundred(ppl)	332	1634	ʃo⁴²	332a	483	ʃ o ⁴²	496	ʃ - o - ⁴²
+1467	Atsi		hundred(ppl)	332	1634	ʃɔ⁵³	332a	483	ʃ ɔ ⁵³	496	ʃ - ɔ - ⁵³
+1468	Hpun		hundred(ppl)	332	1634	jaɂ⁵⁵	332a	483	j a ʔ ⁵⁵	496	- j a ʔ ⁵⁵
+1023	Maru		hungry	229	1533	vʷe³⁴+mọ̈ɂ⁵⁴	229a 229b	344 345	v e ³⁴ + m ø̰ ʔ ⁵⁴	356	v e - - ³⁴ + m - ø̰ ʔ ⁵⁴
+1024	Achang		hungry	229	1533	juat⁴²	229a	344	j u a t ⁴²	355	j u a t ⁴²
+1025	Lashi		hungry	229	1533	joiɂ²	229a	344	j o i ʔ ²	355	j o i ʔ ²
+1026	Atsi		hungry	229	1533	mʊt³²	229b	345	m ʊ t ³²	357	m - ʊ t ³²
+1027	Hpun		hungry	229	1533	mjeɂ³¹	229b	345	m j e ʔ ³¹	357	m j e ʔ ³¹
+1370	Maru		hunt	314	1435	ʃɪ⁵⁴	314a	459	ʃ ɪ ⁵⁴	470	ʃ ɪ ⁵⁴
+1371	Achang		hunt	314	1435	ʃo⁵+kʰat⁵²	314a 314b	459 460	ʃ o ⁵ + kʰ a t ⁵²	471	ʃ o ⁵ + kʰ a - t ⁵²
+1372	Lashi		hunt	314	1435	ʃo⁵+kʰạiɂ⁵¹	314a 314b	459 460	ʃ o ⁵ + kʰ a̰ i ʔ ⁵¹	471	ʃ o ⁵ + kʰ a̰ i ʔ ⁵¹
+1373	Atsi		hunt	314	1435	ʃɔ³+kʰat⁵⁴	314a 314b	459 460	ʃ ɔ ³ + kʰ a t ⁵⁴	471	ʃ ɔ ³ + kʰ a - t ⁵⁴
+1374	Bola		hunt	314	1435	su⁵²	314a	459	s u ⁵²	470	s u ⁵²
+1375	Hpun		hunt	314	1435	cʰo	314a	459	tʃʰ o	470	tʃʰ o -
+782	Maru		husband	176	1200	jạm³²+saŋ²¹+pʰo³	176a 176b 176d	267 268 269	j ạ m ³² + s a ŋ ²¹ + pʰ o ³	274	j ạ m ³² + s a - ŋ ²¹ + pʰ o - ³
+783	Achang		husband	176	1200	jɛ̣n⁴+sain⁴³+pʰɔɂ³¹	176a 176b 176d	267 268 269	j ɛ̰ n ⁴ + s a i n ⁴³ + pʰ ɔ ʔ ³¹	274	j ɛ̰ n ⁴ + s a i n ⁴³ + pʰ ɔ ʔ ³¹
+784	Lashi		husband	176	1200	jok³	176a	267	j o k ³	273	j o k ³
+785	Atsi		husband	176	1200	jạŋ³+laŋ⁵³	176a 176c	267 270	j ạ ŋ ³ + l a ŋ ⁵³	275	j ạ ŋ ³ + l a ŋ ⁵³
+786	Bola		husband	176	1200	loŋ³	176c	270	l o ŋ ³	276	l o ŋ ³
+787	Hpun		husband	176	1200	lo⁵⁵	176c	270	l o ⁵⁵	276	l o - ⁵⁵
+473	Achang		insect	107	620	bau³	107a	158	b a u ³	163	b a u ³
+474	Atsi		insect	107	620	bau³¹	107a	158	b a u ³¹	163	b a u ³¹
+475	Hpun		insect	107	620	pu³¹	107a	158	p u ³¹	163	p u - ³¹
+642	Maru		intestines	144	1991	ɂau³¹	144a	217	ʔ a u ³¹	218	ʔ a u ³¹
+643	Achang		intestines	144	1991	ɂu³	144a	217	ʔ u ³	218	ʔ u - ³
+644	Lashi		intestines	144	1991	wu⁴	144a	217	w u ⁴	218	w u - ⁴
+645	Atsi		intestines	144	1991	ɂu⁵¹	144a	217	ʔ u ⁵¹	218	ʔ u - ⁵¹
+646	Bola		intestines	144	1991	wu³	144a	217	w u ³	218	w u - ³
+151	Maru		iron	034	621	tọɂ⁵⁴+dʒoɂ³²	034a 034b	52 53	t o̰ ʔ ⁵⁴ + dʒ o ʔ ³²	54	t - o̰ ʔ ⁵⁴ + dʒ o ʔ ³²
+152	Achang		iron	034	621	tʰjɛɂ⁴²	034a	52	tʰ j ɛ ʔ ⁴²	53	tʰ j ɛ ʔ ⁴²
+153	Lashi		iron	034	621	dɔɂ⁵²+dʒɔɂ³	034a 034b	52 53	d ɔ ʔ ⁵² + dʒ ɔ ʔ ³	54	d - ɔ ʔ ⁵² + dʒ ɔ ʔ ³
+154	Atsi		iron	034	621	dɔɂ⁵+ʃam⁵⁴	034a 034c	52 54	d ɔ ʔ ⁵ + ʃ a m ⁵⁴	55	d - ɔ ʔ ⁵ + ʃ a m ⁵⁴
+155	Bola		iron	034	621	tạɂ⁵²	034a	52	t a̰ ʔ ⁵²	53	t - a̰ ʔ ⁵²
+156	Hpun		iron	034	621	se⁵⁵	034c	54	s e ⁵⁵	56	s e - ⁵⁵
+243	Maru		kapok	052	2499	lə²+pẹ⁴²	052a 052b	80 81	l ə ² + p ḛ ⁴²	82	l ə ² + p ḛ - ⁴²
+244	Lashi		kapok	052	2499	la³²+bæm³¹	052a 052b	80 81	l a ³² + b æ m ³¹	82	l a ³² + b æ m ³¹
+245	Atsi		kapok	052	2499	lə²+ban⁵³	052a 052b	80 81	l ə ² + b a n ⁵³	82	l ə ² + b a n ⁵³
+1245	Maru		kick	281	1135	tʰauŋ⁴	281a	416	tʰ au ŋ ⁴	428	tʰ au ŋ ⁴
+1246	Achang		kick	281	1135	tʰəɂ⁵³	281a	416	tʰ ə ʔ ⁵³	428	tʰ ə ʔ ⁵³
+1247	Lashi		kick	281	1135	tʰɨɂ⁴²	281a	416	tʰ ɨ ʔ ⁴²	428	tʰ ɨ ʔ ⁴²
+1376	Maru		kill	315	1417	sẹɂ⁵⁴+pjẹ⁵⁴	315a 315b	461 462	s ḛ ʔ ⁵⁴ + p j ḛ ⁵⁴	473	s ḛ - ʔ ⁵⁴ + p j ḛ ⁵⁴
+1377	Achang		kill	315	1417	sat⁵²	315a	461	s a t ⁵²	472	s a - t ⁵²
+1378	Lashi		kill	315	1417	sạiɂ⁴²	315a	461	s a̰ i ʔ ⁴²	472	s a̰ i ʔ ⁴²
+1379	Atsi		kill	315	1417	sat⁵	315a	461	s a t ⁵	472	s a - t ⁵
+1380	Bola		kill	315	1417	sẹɂ⁵²	315a	461	s ḛ ʔ ⁵²	472	s ḛ - ʔ ⁵²
+1381	Hpun		kill	315	1417	ʃiɂ⁵⁵	315a	461	ʃ i ʔ ⁵⁵	472	ʃ i - ʔ ⁵⁵
+678	Maru		knee	154	1371	pạt⁵+lauɂ³	154a 154b	229 230	p a̰ t ⁵ + l au ʔ ³	228	p a̰ t ⁵ + l au ʔ ³
+679	Achang		knee	154	1371	pʰə⁵+luk⁵⁴+tʃʰap⁵⁴	154a 154b 154c	229 230 231	pʰ ə ⁵ + l u k ⁵⁴ + tʃʰ a p ⁵⁴	229	pʰ ə - ⁵ + l u k ⁵⁴ + tʃʰ a p ⁵⁴
+680	Lashi		knee	154	1371	bue⁵³+loɂ³²	154a 154b	229 230	b u e ⁵³ + l o ʔ ³²	228	b u e ⁵³ + l o ʔ ³²
+681	Hpun		knee	154	1371	chiɂ⁵⁵	154c	231	tʃʰ i ʔ ⁵⁵	230	tʃʰ i ʔ ⁵⁵
+1209	Maru		kneel	273	66	tʰauk⁵⁴	273a	407	tʰ a u k ⁵⁴	418	tʰ a u k ⁵⁴
+1210	Achang		kneel	273	66	tʰuk⁵³	273a	407	tʰ u k ⁵³	418	tʰ u - k ⁵³
+1211	Lashi		kneel	273	66	tʰoɂ⁵³	273a	407	tʰ o ʔ ⁵³	418	tʰ o - ʔ ⁵³
+1212	Atsi		kneel	273	66	tʰuɂ⁴³	273a	407	tʰ u ʔ ⁴³	418	tʰ u - ʔ ⁴³
+982	Maru		knife	221	1352	ʃjɛ³	221a	334	ʃ j ɛ ³	345	ʃ j ɛ - ³
+983	Achang		knife	221	1352	ʃam³	221a	334	ʃ a m ³	345	ʃ - a m ³
+984	Lashi		knife	221	1352	ʃæm³	221a	334	ʃ æ m ³	345	ʃ - æ m ³
+985	Atsi		knife	221	1352	ʃam⁵³	221a	334	ʃ a m ⁵³	345	ʃ - a m ⁵³
+986	Bola		knife	221	1352	ʃʰị²³	221a	334	ʃʰ ḭ ²³	345	ʃʰ - ḭ - ²³
+1115	Achang		know	252	1410	sɛɂ⁵³	252a	377	s ɛ ʔ ⁵³	390	s - ɛ ʔ ⁵³
+1116	Lashi		know	252	1410	sɛɂ⁵²	252a	377	s ɛ ʔ ⁵²	390	s - ɛ ʔ ⁵²
+1117	Atsi		know	252	1410	se⁵³	252a	377	s e ⁵³	390	s - e - ⁵³
+1118	Bola		know	252	1410	sjɛ²³	252a	377	s j ɛ ²³	390	s j ɛ - ²³
+1119	Hpun		know	252	1410	ʃi	252a	377	ʃ i	390	ʃ - i - -
+919	Achang		ladle	206	2657	mɔət⁴¹	206a	314	m ɔ ə t ⁴¹	323	m ɔ ə t ⁴¹
+920	Lashi		ladle	206	2657	mọịɂ³	206a	314	m o̰ ḭ ʔ ³	323	m o̰ ḭ ʔ ³
+921	Atsi		ladle	206	2657	mə³	206a	314	m ə ³	323	m ə - - ³
+922	Hpun		ladle	206	2657	mui³¹	206a	314	m u i ³¹	323	m u i - ³¹
+1081	Maru		laugh	244	1355	ɣi²	244a	363	ɣ i ²	376	ɣ i - ²
+1082	Achang		laugh	244	1355	ji³¹	244a	363	j i ³¹	376	j i - ³¹
+1083	Lashi		laugh	244	1355	jị³¹	244a	363	j ḭ ³¹	376	j ḭ - ³¹
+1084	Atsi		laugh	244	1355	βʷi³	244a	363	βʷ i ³	376	βʷ i - ³
+1085	Bola		laugh	244	1355	ɣị²³	244a	363	ɣ ḭ ²³	376	ɣ ḭ - ²³
+1086	Hpun		laugh	244	1355	ɹiɂ⁵⁵	244a	363	ɹ i ʔ ⁵⁵	376	ɹ i ʔ ⁵⁵
+196	Maru		leaf	043	628	foɂ⁵	043a	69	f o ʔ ⁵	70	f o ʔ ⁵
+197	Achang		leaf	043	628	huɂ⁵	043a	69	h u ʔ ⁵	70	h u ʔ ⁵
+198	Lashi		leaf	043	628	foɂ⁵³	043a	69	f o ʔ ⁵³	70	f o ʔ ⁵³
+199	Atsi		leaf	043	628	haɂ⁵	043a	69	h a ʔ ⁵	70	h a ʔ ⁵
+200	Bola		leaf	043	628	faɂ⁵²	043a	69	f a ʔ ⁵²	70	f a ʔ ⁵²
+1574	Maru		left side	356	244	kauŋ³	356a	513	k au ŋ ³	527	k au ŋ ³
+1575	Achang		left side	356	244	wi³⁴	356b	514	w i ³⁴	528	w i ³⁴
+1576	Lashi		left side	356	244	goŋ⁵	356a	513	g o ŋ ⁵	527	g o ŋ ⁵
+1077	Maru		lick	242	319	jɔɂ³²	242a	362	j ɔ ʔ ³²	375	- j ɔ ʔ ³²
+1078	Achang		lick	242	319	djɔɂ³¹	242a	362	d j ɔ ʔ ³¹	375	d j ɔ ʔ ³¹
+1079	Lashi		lick	242	319	jɔ̣ɂ³²	242a	362	j ɔ̰ ʔ ³²	375	- j ɔ̰ ʔ ³²
+1080	Atsi		lick	242	319	jɔɂ³²	242a	362	j ɔ ʔ ³²	375	- j ɔ ʔ ³²
+1104	Maru		lie, fib	249	601	mọk⁵⁴	249a	373	m o̰ k ⁵⁴	386	m o̰ - k ⁵⁴
+1105	Lashi		lie, fib	249	601	mauɂ³¹	249a	373	m au ʔ ³¹	386	m au - ʔ ³¹
+1106	Atsi		lie, fib	249	601	mạụ⁵²	249a	373	m a̰ u ⁵²	386	m a̰ u - ⁵²
+39	Lashi		lightning	009	1654	læ̣p⁵³	009a	14	l æ̰ p ⁵³	15	l æ̰ p ⁵³
+40	Atsi		lightning	009	1654	lạp⁴	009a	14	l ạ p ⁴	15	l ạ p ⁴
+137	Achang		lime(betel)	031	982	ʃə⁴³+hui⁵	031a 031b	48 49	ʃ ə ⁴³ + h u i ⁵	50	ʃ ə ⁴³ + h u i ⁵
+138	Lashi		lime(betel)	031	982	ʃo⁵³+hẹi⁴²	031a 031b	48 49	ʃ o ⁵³ + h ḛ i ⁴²	50	ʃ o ⁵³ + h ḛ i ⁴²
+139	Atsi		lime(betel)	031	982	tʃʰɔ³²+hui³	031a 031b	48 49	tʃʰ ɔ ³² + h u i ³	50	tʃʰ ɔ ³² + h u i ³
+254	Maru		liquor	056	842	ɂịɂ⁵⁴	056a	86	ʔ ḭ ʔ ⁵⁴	86	ʔ ḭ - ʔ ⁵⁴
+255	Achang		liquor	056	842	jei³	056a	86	j e i ³	86	j e i - ³
+256	Lashi		liquor	056	842	jēŋ⁴	056a	86	j e ŋ ⁴	86	j e - ŋ ⁴
+257	Atsi		liquor	056	842	ɂi⁵	056a	86	ʔ i ⁵	86	ʔ i - - ⁵
+636	Maru		liver	143	1224	saŋ³²	143a	216	s a ŋ ³²	217	s - a ŋ ³²
+637	Achang		liver	143	1224	tjɛ̣n⁵	143a	216	t j ɛ̰ n ⁵	217	t j ɛ̰ n ⁵
+638	Lashi		liver	143	1224	səŋ⁵	143a	216	s ə ŋ ⁵	217	s - ə ŋ ⁵
+639	Atsi		liver	143	1224	sin⁴²	143a	216	s i n ⁴²	217	s - i n ⁴²
+640	Bola		liver	143	1224	saŋ²³	143a	216	s a ŋ ²³	217	s - a ŋ ²³
+641	Hpun		liver	143	1224	ʃaiŋ³¹	143a	216	ʃ ai ŋ ³¹	217	ʃ - ai ŋ ³¹
+1504	Maru		long	341	1203	xaŋ³	341a	497	x a ŋ ³	510	x - a ŋ ³
+1505	Achang		long	341	1203	xjeŋ³	341a	497	x j e ŋ ³	510	x j e ŋ ³
+1506	Lashi		long	341	1203	ʃjəŋ⁴³	341a	497	ʃ j ə ŋ ⁴³	510	ʃ j ə ŋ ⁴³
+1507	Atsi		long	341	1203	hɯŋ⁴³	341a	497	h ɯ ŋ ⁴³	510	h - ɯ ŋ ⁴³
+1508	Bola		long	341	1203	xaŋ²³	341a	497	x a ŋ ²³	510	x - a ŋ ²³
+1509	Hpun		long	341	1203	xraiŋ⁵⁵	341a	497	x r ai ŋ ⁵⁵	510	x r ai ŋ ⁵⁵
+485	Maru		louse	110	1392	ʃɪn²	110a	163	ʃ ɪ n ²	169	ʃ ɪ - n ²
+486	Lashi		louse	110	1392	ʃen⁵	110a	163	ʃ e n ⁵	169	ʃ e - n ⁵
+487	Atsi		louse	110	1392	ʃɪn³¹	110a	163	ʃ ɪ n ³¹	169	ʃ ɪ - n ³¹
+488	Bola		louse	110	1392	ʃaun²³	110a	163	ʃ a u n ²³	169	ʃ a u n ²³
+1128	Maru		love	255	923	dʒit⁵+de³²	255a 255b	382 383	dʒ i t ⁵ + d e ³²	394	dʒ i t ⁵ + d e - ³²
+1129	Achang		love	255	923	dʒɛt⁵⁴+dap³¹	255a 255b	382 383	dʒ ɛ t ⁵⁴ + d a p ³¹	394	dʒ ɛ t ⁵⁴ + d a p ³¹
+632	Achang		lungs	142	688	tsʰɔt⁵³	142a	215	tsʰ ɔ t ⁵³	216	tsʰ - ɔ t ⁵³
+633	Lashi		lungs	142	688	tsọịɂ⁵³	142a	215	ts o̰ ḭ ʔ ⁵³	216	ts o̰ ḭ ʔ ⁵³
+634	Bola		lungs	142	688	tsạɂ⁵²	142a	215	ts a̰ ʔ ⁵²	216	ts - a̰ ʔ ⁵²
+635	Hpun		lungs	142	688	ʃwaiɂ³¹	142a	215	ʃ w ai ʔ ³¹	216	ʃ w ai ʔ ³¹
+746	Maru		man	169	1554	gai³¹	169b	252	g a i ³¹	257	g a i ³¹
+747	Lashi		man	169	1554	ge⁵¹	169b	252	g e ⁵¹	257	g e - ⁵¹
+748	Atsi		man	169	1554	juɂ⁴+ge³¹	169a 169b	253 252	j u ʔ ⁴ + g e ³¹	256	j u ʔ ⁴ + g e - ³¹
+749	Bola		man	169	1554	jauɂ⁵²+kai⁵²	169a 169b	253 252	j au ʔ ⁵² + k a i ⁵²	256	j au ʔ ⁵² + k a i ⁵²
+750	Hpun		man	169	1554	jok⁵⁵	169a	253	j o k ⁵⁵	255	j o k ⁵⁵
+1474	Maru		many(ppl)	334	428	mjɔ⁴⁵	334a	486	m j ɔ ⁴⁵	499	m j ɔ - ⁴⁵
+1475	Achang		many(ppl)	334	428	njɔ³⁵+ʃɔ³⁵	334a 334b	486 487	n j ɔ ³⁵ + ʃ ɔ ³⁵	500	n j ɔ - ³⁵ + ʃ ɔ - ³⁵
+1476	Lashi		many(ppl)	334	428	mjõ³⁵+ʃɔɂ⁵³	334a 334b	486 487	m j õ ∼ ³⁵ + ʃ ɔ ʔ ⁵³	500	m j õ ∼ ³⁵ + ʃ ɔ ʔ ⁵³
+1477	Atsi		many(ppl)	334	428	mjɔ³	334a	486	m j ɔ ³	499	m j ɔ - ³
+1478	Bola		many(ppl)	334	428	mja⁵²	334a	486	m j a ⁵²	499	m j a - ⁵²
+863	Maru		mat	192	195	tʰɪn⁴¹	192a	293	tʰ ɪ n ⁴¹	302	tʰ ɪ n ⁴¹
+864	Achang		mat	192	195	tʰan³	192a	293	tʰ a n ³	302	tʰ a n ³
+865	Lashi		mat	192	195	tʰãɪ⁵²	192a	293	tʰ ã ɪ ⁵²	302	tʰ ã ɪ ⁵²
+866	Atsi		mat	192	195	tʃʰə⁴+pʰjɔ⁵³	192a 192b	293 294	tʃʰ ə ⁴ + pʰ j ɔ ⁵³	303	tʃʰ ə - ⁴ + pʰ j ɔ ⁵³
+1171	Maru		medicine	265	1372	mə²+tʃʰit⁵⁴	265a 265b	397 398	m ə ² + tʃʰ i t ⁵⁴	408	m ə ² + tʃʰ i t ⁵⁴
+1172	Achang		medicine	265	1372	mɛ³+tʃʰei⁵	265a 265b	397 398	m ɛ ³ + tʃʰ e i ⁵	408	m ɛ ³ + tʃʰ e i ⁵
+1173	Lashi		medicine	265	1372	mə³+tʃʰe⁵	265a 265b	397 398	m ə ³ + tʃʰ e ⁵	408	m ə ³ + tʃʰ e - ⁵
+1174	Atsi		medicine	265	1372	tʃʰi³¹	265b	398	tʃʰ i ³¹	409	tʃʰ i - ³¹
+1175	Bola		medicine	265	1372	mạ³+tʃʰə²³	265a 265b	397 398	m a̰ ³ + tʃʰ ə ²³	408	m a̰ ³ + tʃʰ ə - ²³
+1176	Hpun		medicine	265	1372	ʃiɂ³¹	265b	398	ʃ i ʔ ³¹	409	ʃ i ʔ ³¹
+382	Maru		milk	087	635	noŋ³	087a	135	n o ŋ ³	139	n o - ŋ ³
+383	Achang		milk	087	635	nau⁵	087a	135	n a u ⁵	139	n a u - ⁵
+384	Lashi		milk	087	635	nau⁴	087a	135	n a u ⁴	139	n a u - ⁴
+385	Atsi		milk	087	635	nau³	087a	135	n a u ³	139	n a u - ³
+386	Bola		milk	087	635	nau²³	087a	135	n a u ²³	139	n a u - ²³
+387	Hpun		milk	087	635	nu³¹	087a	135	n u ³¹	139	n u - - ³¹
+28	Maru		mist	006	249	ŋɪn⁴²+tʃʰe⁴³	006a 006b	8 9	ŋ ɪ n ⁴² + tʃʰ e ⁴³	9	ŋ ɪ - n ⁴² + tʃʰ e - ⁴³
+29	Achang		mist	006	249	dʒue⁴⁵	006b	9	dʒ u e ⁴⁵	10	dʒ u e ⁴⁵
+30	Lashi		mist	006	249	ŋãɪ³	006a	8	ŋ ã ɪ ³	8	ŋ ã ɪ - ³
+31	Atsi		mist	006	249	ŋạn⁵³	006a	8	ŋ a̰ n ⁵³	8	ŋ a̰ - n ⁵³
+337	Maru		monkey	076	1350	mjæuɂ³¹	076b	121	m j æ u ʔ ³¹	125	m j æ u ʔ ³¹
+338	Achang		monkey	076	1350	lai³⁴+njuk⁴²	076a 076b	122 121	l a i ³⁴ + n j u k ⁴²	124	l a i ³⁴ + n j u - k ⁴²
+339	Lashi		monkey	076	1350	la³+mjok³²	076a 076b	122 121	l a ³ + m j o k ³²	124	l a - ³ + m j o - k ³²
+340	Atsi		monkey	076	1350	lə³+mjuɂ³²	076a 076b	122 121	l ə ³ + m j u ʔ ³²	124	l ə - ³ + m j u - ʔ ³²
+341	Bola		monkey	076	1350	mjauɂ⁵²	076b	121	m j au ʔ ⁵²	125	m j au - ʔ ⁵²
+342	Hpun		monkey	076	1350	mjaiŋ⁵⁵	076b	121	m j ai ŋ ⁵⁵	125	m j ai - ŋ ⁵⁵
+12	Maru		moon	003	1313	lọ⁴³	003a	4	l o̰ ⁴³	4	l o̰ ⁴³
+13	Achang		moon	003	1313	lạ⁵+mụ⁵	003a 003b	4 5	l a̰ ⁵ + m ṵ ⁵	5	l a̰ ⁵ + m ṵ ⁵
+14	Lashi		moon	003	1313	la⁵+mɔ⁵³	003a 003b	4 5	l a ⁵ + m ɔ ⁵³	5	l a ⁵ + m ɔ ⁵³
+15	Atsi		moon	003	1313	lə⁴+mɔ⁴	003a 003b	4 5	l ə ⁴ + m ɔ ⁴	5	l ə ⁴ + m ɔ ⁴
+16	Bola		moon	003	1313	lẹ²³+mə⁵²	003a 003b	4 5	l ḛ ²³ + m ə ⁵²	5	l ḛ ²³ + m ə ⁵²
+17	Hpun		moon	003	1313	la³¹	003a	4	l a ³¹	4	l a ³¹
+59	Maru		morning	014	1339	nɛɂ³²+ga³¹	014a 014b	20 21	n ɛ ʔ ³² + g a ³¹	23	n ɛ ʔ ³² + g - a - ³¹
+60	Achang		morning	014	1339	nap³	014a	20	n a p ³	22	n a p ³
+61	Lashi		morning	014	1339	næp³²+gjot⁵²	014a 014b	20 21	n æ p ³² + g j o t ⁵²	23	n æ p ³² + g j o t ⁵²
+62	Atsi		morning	014	1339	nap³+gjɔ⁴	014a 014b	20 21	n a p ³ + g j ɔ ⁴	23	n a p ³ + g j ɔ - ⁴
+63	Bola		morning	014	1339	ne²³+kaŋ³	014a 014b	20 21	n e ²³ + k a ŋ ³	23	n e - ²³ + k - a ŋ ³
+923	Maru		mortar	207	224	tsʰam⁴¹	207a	315	tsʰ a m ⁴¹	324	tsʰ a m ⁴¹
+924	Achang		mortar	207	224	tsʰɔm³	207a	315	tsʰ ɔ m ³	324	tsʰ ɔ m ³
+925	Lashi		mortar	207	224	tsʰæm⁴³	207a	315	tsʰ æ m ⁴³	324	tsʰ æ m ⁴³
+926	Atsi		mortar	207	224	tsʰum⁵³	207a	315	tsʰ u m ⁵³	324	tsʰ u m ⁵³
+502	Maru		mosquito	114	1509	gjạ²¹	114a	169	g j a̰ ²¹	174	g j a̰ - ²¹
+503	Achang		mosquito	114	1509	kjạŋ³	114a	169	k j ạ ŋ ³	174	k j ạ ŋ ³
+504	Lashi		mosquito	114	1509	kjạŋ⁵²	114a	169	k j ạ ŋ ⁵²	174	k j ạ ŋ ⁵²
+505	Atsi		mosquito	114	1509	kjạŋ⁵³	114a	169	k j ạ ŋ ⁵³	174	k j ạ ŋ ⁵³
+506	Bola		mosquito	114	1509	kjạŋ³	114a	169	k j ạ ŋ ³	174	k j ạ ŋ ³
+767	Maru		mother	173	1216	jɪp²+mị⁴²	173b 173c	259 260	j ɪ p ² + m ḭ ⁴²	266	j ɪ p ² + m ḭ - ⁴²
+768	Achang		mother	173	1216	ɂuŋ³+wɛ³¹	173a 173b	261 259	ʔ u ŋ ³ + w ɛ ³¹	264	ʔ u ŋ ³ + w ɛ - ³¹
+769	Lashi		mother	173	1216	ɂa³+jẹɂ⁵³+noŋ	173a 173b 173c	261 259 260	ʔ a ³ + j ḛ ʔ ⁵³ + n o ŋ	265	ʔ a - ³ + j ḛ ʔ ⁵³ + n o ŋ -
+770	Bola		mother	173	1216	ɂa	173a	261	ʔ a	263	ʔ a - -
+771	Hpun		mother	173	1216	ɂə+ji³¹	173a 173b	261 259	ʔ ə + j i ³¹	264	ʔ ə - - + j i - ³¹
+157	Maru		mountain	035	639	bam³¹	035a	55	b a m ³¹	57	b a - m ³¹
+158	Achang		mountain	035	639	buɔm³¹	035a	55	b u ɔ m ³¹	57	b u ɔ m ³¹
+159	Lashi		mountain	035	639	bɛm⁵¹	035a	55	b ɛ m ⁵¹	57	b ɛ - m ⁵¹
+160	Atsi		mountain	035	639	bum³¹	035a	55	b u m ³¹	57	b u - m ³¹
+161	Bola		mountain	035	639	pam²³	035a	55	p a m ²³	57	p a - m ²³
+583	Maru		mouth	130	674	nạt⁵⁴	130a	197	n a̰ t ⁵⁴	199	n a̰ - t ⁵⁴
+584	Achang		mouth	130	674	nụə̣t⁵⁴	130a	197	n ụə̣ t ⁵⁴	199	n ụə̣ - t ⁵⁴
+585	Lashi		mouth	130	674	nọịɂ⁵²	130a	197	n o̰ ḭ ʔ ⁵²	199	n o̰ ḭ ʔ ⁵²
+586	Atsi		mouth	130	674	nʊ̣t⁵	130a	197	n ʊ̰ t ⁵	199	n ʊ̰ - t ⁵
+117	Maru		mud	027	640	tʰam³²+bap³²	027a 027b	40 41	tʰ a m ³² + b a p ³²	41	tʰ a m ³² + b a p ³²
+118	Achang		mud	027	640	tʰɔm⁵+bɔp⁴³	027a 027b	40 41	tʰ ɔ m ⁵ + b ɔ p ⁴³	41	tʰ ɔ m ⁵ + b ɔ p ⁴³
+119	Lashi		mud	027	640	tʰøm⁵+bøp²¹	027a 027b	40 41	tʰ ø m ⁵ + b ø p ²¹	41	tʰ ø m ⁵ + b ø p ²¹
+120	Atsi		mud	027	640	bɔ³	027b	41	b ɔ ³	42	b ɔ - ³
+234	Maru		mushroom	050	641	mok⁴³	050a	78	m o k ⁴³	80	m o k ⁴³
+235	Achang		mushroom	050	641	mau³¹	050a	78	m a u ³¹	80	m a u ³¹
+236	Lashi		mushroom	050	641	mau³¹	050a	78	m a u ³¹	80	m a u ³¹
+237	Atsi		mushroom	050	641	mai³	050a	78	m a i ³	80	m a i ³
+238	Hpun		mushroom	050	641	mu⁵⁵	050a	78	m u ⁵⁵	80	m u - ⁵⁵
+664	Maru		nail	150	1896	saŋ⁴³	150a	225	s a ŋ ⁴³	224	s a - ŋ ⁴³
+665	Achang		nail	150	1896	sai⁵	150a	225	s a i ⁵	224	s a i - ⁵
+666	Lashi		nail	150	1896	səŋ⁴	150a	225	s ə ŋ ⁴	224	s ə - ŋ ⁴
+667	Atsi		nail	150	1896	siŋ³¹	150a	225	s i ŋ ³¹	224	s i - ŋ ³¹
+668	Bola		nail	150	1896	saŋ²³	150a	225	s a ŋ ²³	224	s a - ŋ ²³
+669	Hpun		nail	150	1896	ʃaiŋ³¹	150a	225	ʃ ai ŋ ³¹	224	ʃ ai - ŋ ³¹
+1741	Maru		naked	397	590	dʒɛ̣t⁵	397a	567	dʒ ɛ̰ t ⁵	584	dʒ - ɛ̰ t ⁵
+1742	Achang		naked	397	590	tʃʰjɛn³	397a	567	tʃʰ j ɛ n ³	584	tʃʰ j ɛ n ³
+1743	Lashi		naked	397	590	tʃʰen³²	397a	567	tʃʰ e n ³²	584	tʃʰ - e n ³²
+1744	Atsi		naked	397	590	tʃʰɪn⁵³	397a	567	tʃʰ ɪ n ⁵³	584	tʃʰ - ɪ n ⁵³
+814	Maru		name	182	1405	mạŋ³¹	182a	279	m ạ ŋ ³¹	287	m - ạ ŋ ³¹
+815	Achang		name	182	1405	njeŋ³¹	182a	279	n j e ŋ ³¹	287	n j e ŋ ³¹
+816	Lashi		name	182	1405	mjəŋ³¹	182a	279	m j ə ŋ ³¹	287	m j ə ŋ ³¹
+817	Atsi		name	182	1405	mjɪŋ³¹	182a	279	m j ɪ ŋ ³¹	287	m j ɪ ŋ ³¹
+818	Bola		name	182	1405	maŋ²³	182a	279	m a ŋ ²³	287	m - a ŋ ²³
+819	Hpun		name	182	1405	maiŋ⁵⁵	182a	279	m ai ŋ ⁵⁵	287	m - ai ŋ ⁵⁵
+1547	Achang		narrow	350	1267	dzə³¹	350a	506	dz ə ³¹	520	dz ə - ³¹
+1548	Lashi		narrow	350	1267	dʒæp⁵³	350a	506	dʒ æ p ⁵³	520	dʒ æ p ⁵³
+1549	Atsi		narrow	350	1267	dʒap⁵⁴	350a	506	dʒ a p ⁵⁴	520	dʒ a p ⁵⁴
+1550	Bola		narrow	350	1267	tsẹɂ⁵²	350a	506	ts ḛ ʔ ⁵²	520	ts ḛ ʔ ⁵²
+1551	Hpun		narrow	350	1267	ʃaŋ⁵⁵	350a	506	ʃ a ŋ ⁵⁵	520	ʃ a ŋ ⁵⁵
+622	Maru		navel	140	1838	tʃʰoɂ⁵⁴	140a	212	tʃʰ o ʔ ⁵⁴	213	tʃʰ o ʔ ⁵⁴
+623	Achang		navel	140	1838	tʃʰɔɂ⁵⁴	140a	212	tʃʰ ɔ ʔ ⁵⁴	213	tʃʰ ɔ ʔ ⁵⁴
+624	Lashi		navel	140	1838	tʃʰɔɂ⁵³	140a	212	tʃʰ ɔ ʔ ⁵³	213	tʃʰ ɔ ʔ ⁵³
+625	Atsi		navel	140	1838	tʃʰɔɂ⁵⁴	140a	212	tʃʰ ɔ ʔ ⁵⁴	213	tʃʰ ɔ ʔ ⁵⁴
+626	Hpun		navel	140	1838	sʰɛɂ³¹	140a	212	sʰ ɛ ʔ ³¹	213	sʰ ɛ ʔ ³¹
+1587	Maru		near	359	1942	dʒa³⁴	359a	517	dʒ a ³⁴	531	dʒ a - ³⁴
+1588	Achang		near	359	1942	ni³	359b	518	n i ³	532	n i ³
+1589	Lashi		near	359	1942	dʒaŋk⁵³	359a	517	dʒ a ŋk ⁵³	531	dʒ a ŋk ⁵³
+1590	Atsi		near	359	1942	dʒạŋ⁵³	359a	517	dʒ ạ ŋ ⁵³	531	dʒ ạ ŋ ⁵³
+1591	Bola		near	359	1942	tsõ²³	359a	517	ts õ ∼ ²³	531	ts õ ∼ ²³
+1592	Hpun		near	359	1942	ne³¹	359b	518	n e ³¹	532	n e ³¹
+900	Maru		needle	201	1382	ŋẹɂ⁵⁴	201a	308	ŋ ḛ ʔ ⁵⁴	318	ŋ ḛ - ʔ ⁵⁴
+901	Achang		needle	201	1382	ŋạp⁵⁴	201a	308	ŋ ạ p ⁵⁴	318	ŋ ạ - p ⁵⁴
+902	Lashi		needle	201	1382	ŋæ̃p⁵³	201a	308	ŋ æ̃ ∼ p ⁵³	318	ŋ æ̃ ∼ p ⁵³
+903	Atsi		needle	201	1382	ɂạp⁵	201a	308	ʔ ạ p ⁵	318	ʔ ạ - p ⁵
+904	Bola		needle	201	1382	neɂ⁵²	201a	308	n e ʔ ⁵²	318	n e - ʔ ⁵²
+1635	Maru		new	368	1231	ɂa²+sak⁵	368a 368b	529 530	ʔ a ² + s a k ⁵	545	ʔ a ² + s a - k ⁵
+1636	Achang		new	368	1231	ɂa³+saik⁵⁴	368a 368b	529 530	ʔ a ³ + s a i k ⁵⁴	545	ʔ a ³ + s a i k ⁵⁴
+1637	Lashi		new	368	1231	ɂa³+sək⁵³	368a 368b	529 530	ʔ a ³ + s ə k ⁵³	545	ʔ a ³ + s ə - k ⁵³
+1638	Atsi		new	368	1231	ɂə³+sɪk⁵⁴	368a 368b	529 530	ʔ ə ³ + s ɪ k ⁵⁴	545	ʔ ə ³ + s ɪ - k ⁵⁴
+47	Maru		night	012	1233	mị⁵	012a	18	m ḭ ⁵	20	m - ḭ - ⁵
+48	Achang		night	012	1233	njɛn³⁵	012a	18	n j ɛ n ³⁵	20	n j ɛ n ³⁵
+49	Lashi		night	012	1233	mjēŋ⁵	012a	18	m j e ŋ ⁵	20	m j e ŋ ⁵
+50	Atsi		night	012	1233	mjɪn³⁴	012a	18	m j ɪ n ³⁴	20	m j ɪ n ³⁴
+51	Bola		night	012	1233	mjan²³	012a	18	m j a n ²³	20	m j a n ²³
+52	Hpun		night	012	1233	meɪ³¹	012a	18	m e ɪ ³¹	20	m - e ɪ ³¹
+1454	Maru		nine(ppl)	330	1483	gok⁴³	330a	481	g o k ⁴³	494	g o - k ⁴³
+1455	Achang		nine(ppl)	330	1483	gau³⁴	330a	481	g a u ³⁴	494	g a u - ³⁴
+1456	Lashi		nine(ppl)	330	1483	gau³	330a	481	g a u ³	494	g a u - ³
+1457	Atsi		nine(ppl)	330	1483	gau³²	330a	481	g a u ³²	494	g a u - ³²
+1458	Bola		nine(ppl)	330	1483	kau⁵²	330a	481	k a u ⁵²	494	k a u - ⁵²
+64	Maru		noon	015	12	gau³¹	015a	22	g a u ³¹	24	g a u - ³¹
+65	Achang		noon	015	12	kuŋ⁵¹	015a	22	k u ŋ ⁵¹	24	k u - ŋ ⁵¹
+66	Lashi		noon	015	12	goŋ⁵¹	015a	22	g o ŋ ⁵¹	24	g o - ŋ ⁵¹
+67	Atsi		noon	015	12	guŋ⁵³	015a	22	g u ŋ ⁵³	24	g u - ŋ ⁵³
+68	Bola		noon	015	12	kạ̄⁵²	015a	22	k ã̰ ∼ ⁵²	24	k ã̰ - ∼ ⁵²
+92	Achang		north	021	1598	dzọŋ³²	021a	31	dz o̰ ŋ ³²	32	dz o̰ ŋ ³²
+93	Lashi		north	021	1598	tsọŋ³²	021a	31	ts o̰ ŋ ³²	32	ts o̰ ŋ ³²
+94	Bola		north	021	1598	tsaŋ³	021a	31	ts a ŋ ³	32	ts a ŋ ³
+566	Maru		nose	127	1221	nọ⁴¹	127a	192	n o̰ ⁴¹	194	n o̰ - ⁴¹
+567	Achang		nose	127	1221	nɔ̣³	127a	192	n ɔ̰ ³	194	n ɔ̰ - ³
+568	Lashi		nose	127	1221	nũ³	127a	192	n ũ ∼ ³	194	n ũ ∼ ³
+569	Atsi		nose	127	1221	nɔ⁵³	127a	192	n ɔ ⁵³	194	n ɔ - ⁵³
+570	Bola		nose	127	1221	nã³	127a	192	n ã ∼ ³	194	n ã ∼ ³
+571	Hpun		nose	127	1221	naɂ⁵⁵	127a	192	n a ʔ ⁵⁵	194	n a ʔ ⁵⁵
+1639	Maru		old	369	1229	tsʰoɂ⁵⁴	369a	531	tsʰ o ʔ ⁵⁴	546	tsʰ o - ʔ ⁵⁴
+1640	Achang		old	369	1229	tsʰau⁵	369a	531	tsʰ a u ⁵	546	tsʰ a u - ⁵
+1641	Lashi		old	369	1229	tsʰau³	369a	531	tsʰ a u ³	546	tsʰ a u - ³
+1410	Maru		one(person)	322	1493	de³+jæuɂ⁴²	322a 322b	471 472	d e ³ + j æ u ʔ ⁴²	484	d e - ³ + j æ u ʔ ⁴²
+1411	Achang		one(person)	322	1493	dai³+juk³²	322a 322b	471 472	d a i ³ + j u k ³²	484	d a i ³ + j u - k ³²
+1412	Lashi		one(person)	322	1493	dai³+jok³²	322a 322b	471 472	d a i ³ + j o k ³²	484	d a i ³ + j o - k ³²
+1413	Atsi		one(person)	322	1493	juɂ³¹	322b	472	j u ʔ ³¹	485	j u - ʔ ³¹
+1414	Bola		one(person)	322	1493	ta⁵²	322a	471	t a ⁵²	483	t a - ⁵²
+1415	Hpun		one(person)	322	1493	toɂ³¹	322a	471	t o ʔ ³¹	483	t o ʔ ³¹
+253	Atsi		opium	055	2498	pʰɛn³	055a	85	pʰ ɛ n ³	85	pʰ ɛ n ³
+300	Maru		paddy rice	068	2026	gauk³²	068a	106	g a u k ³²	107	g a u k ³²
+301	Achang		paddy rice	068	2026	guk³	068a	106	g u k ³	107	g u - k ³
+302	Lashi		paddy rice	068	2026	kọk⁵³	068a	106	k o̰ k ⁵³	107	k o̰ - k ⁵³
+303	Atsi		paddy rice	068	2026	guɂ³²	068a	106	g u ʔ ³²	107	g u - ʔ ³²
+304	Hpun		paddy rice	068	2026	koɂ⁵⁵	068a	106	k o ʔ ⁵⁵	107	k o - ʔ ⁵⁵
+1166	Maru		painful	264	1129	no²³	264a	396	n o ²³	407	n o - ²³
+1167	Achang		painful	264	1129	nɔ³¹	264a	396	n ɔ ³¹	407	n ɔ - ³¹
+1168	Lashi		painful	264	1129	no²³	264a	396	n o ²³	407	n o - ²³
+1169	Atsi		painful	264	1129	nɔ³¹	264a	396	n ɔ ³¹	407	n ɔ - ³¹
+1170	Hpun		painful	264	1129	naɂ⁵⁵	264a	396	n a ʔ ⁵⁵	407	n a ʔ ⁵⁵
+263	Maru		papaya	058	2445	saŋ⁵²+pʰɔ⁵²	058a 058b	89 90	s a ŋ ⁵² + pʰ ɔ ⁵²	89	s a ŋ ⁵² + pʰ ɔ - ⁵²
+264	Achang		papaya	058	2445	saŋ³+pʰɔ³	058a 058b	89 90	s a ŋ ³ + pʰ ɔ ³	89	s a ŋ ³ + pʰ ɔ - ³
+265	Lashi		papaya	058	2445	saŋ⁵⁴+pʰɔɂ³	058a 058b	89 90	s a ŋ ⁵⁴ + pʰ ɔ ʔ ³	89	s a ŋ ⁵⁴ + pʰ ɔ ʔ ³
+266	Atsi		papaya	058	2445	seŋ⁴+pʰɔ⁵⁴	058a 058b	89 90	s e ŋ ⁴ + pʰ ɔ ⁵⁴	89	s e ŋ ⁴ + pʰ ɔ - ⁵⁴
+1401	Maru		pay	320	718	tʃʰi⁴+bịɂ⁵⁴	320a 320b	468 469	tʃʰ i ⁴ + b ḭ ʔ ⁵⁴	480	tʃʰ i - ⁴ + - b ḭ - ʔ ⁵⁴
+1402	Achang		pay	320	718	djei³	320b	469	d j e i ³	481	d j e i - ³
+1403	Lashi		pay	320	718	tʃʰiɛ²	320a	468	tʃʰ i ɛ ²	479	tʃʰ i ɛ ²
+1404	Atsi		pay	320	718	bi⁵³	320b	469	b i ⁵³	481	- b i - - ⁵³
+276	Maru		peanut	063	2364	mi²³	063a	94	m i ²³	93	m - i - ²³
+277	Achang		peanut	063	2364	mjɛ³+bɛ⁵	063a 063c	94 95	m j ɛ ³ + b ɛ ⁵	95	m j ɛ - ³ + b ɛ ⁵
+278	Lashi		peanut	063	2364	mjeŋ³²+nok³²	063a 063b	94 96	m j e ŋ ³² + n o k ³²	94	m j e ŋ ³² + n o k ³²
+279	Atsi		peanut	063	2364	mi³+nuɂ³⁵	063a 063b	94 96	m i ³ + n u ʔ ³⁵	94	m - i - ³ + n u ʔ ³⁵
+280	Bola		peanut	063	2364	me³+nak⁵²	063a 063b	94 96	m e ³ + n a k ⁵²	94	m - e - ³ + n a k ⁵²
+757	Maru		person	171	683	bju³¹	171a	256	b j u ³¹	260	b j u ³¹
+758	Achang		person	171	683	dju³¹	171a	256	d j u ³¹	260	d j u ³¹
+759	Lashi		person	171	683	bju⁵¹	171a	256	b j u ⁵¹	260	b j u ⁵¹
+760	Bola		person	171	683	pju³	171a	256	p j u ³	260	p j u ³
+927	Maru		pestle	208	225	tʃʰa³²	208a	316	tʃʰ a ³²	325	tʃʰ a - ³²
+928	Achang		pestle	208	225	tʰuŋ⁵+kjẹị³	208a 208b	316 317	tʰ u ŋ ⁵ + k j ḛ i ³	326	tʰ u ŋ ⁵ + k j ḛ i ³
+929	Lashi		pestle	208	225	tʃʰaŋ⁴⁵+ge³¹	208a 208b	316 317	tʃʰ a ŋ ⁴⁵ + g e ³¹	326	tʃʰ a ŋ ⁴⁵ + g - - e ³¹
+930	Atsi		pestle	208	225	tʰuŋ³⁴+gi⁵³	208a 208b	316 317	tʰ u ŋ ³⁴ + g i ⁵³	326	tʰ u ŋ ³⁴ + g - - i ⁵³
+931	Hpun		pestle	208	225	ci⁵⁵	208a	316	tʃ i ⁵⁵	325	tʃ i - ⁵⁵
+370	Maru		pig	085	1337	vɔɂ³²	085a	132	v ɔ ʔ ³²	136	v ɔ ʔ ³²
+371	Achang		pig	085	1337	wuɂ⁴²	085a	132	w u ʔ ⁴²	136	w u ʔ ⁴²
+372	Lashi		pig	085	1337	wuɂ³	085a	132	w u ʔ ³	136	w u ʔ ³
+373	Atsi		pig	085	1337	waɂ³¹	085a	132	w a ʔ ³¹	136	w a ʔ ³¹
+374	Bola		pig	085	1337	vʷa⁵²	085a	132	v a ⁵²	136	v a - ⁵²
+375	Hpun		pig	085	1337	wʊɂ³¹	085a	132	w ʊ ʔ ³¹	136	w ʊ ʔ ³¹
+867	Maru		pillow	193	1044	ɂau²+kʰau³	193a 193b	295 296	ʔ a u ² + kʰ a u ³	305	ʔ a u ² + kʰ a u - ³
+868	Achang		pillow	193	1044	ɂu⁵+kʰɨɂ⁵³	193a 193b	295 296	ʔ u ⁵ + kʰ ɨ ʔ ⁵³	305	ʔ u - ⁵ + kʰ ɨ - ʔ ⁵³
+869	Lashi		pillow	193	1044	wə⁵+kʰoɂ⁵³	193a 193b	295 296	w ə ⁵ + kʰ o ʔ ⁵³	305	w ə - ⁵ + kʰ o - ʔ ⁵³
+870	Atsi		pillow	193	1044	ɂu³+kʰuɂ⁵⁴	193a 193b	295 296	ʔ u ³ + kʰ u ʔ ⁵⁴	305	ʔ u - ³ + kʰ u - ʔ ⁵⁴
+871	Hpun		pillow	193	1044	ɂaiɂ³¹	193a	295	ʔ ai ʔ ³¹	304	ʔ ai ʔ ³¹
+1312	Maru		plant	300	653	dzạụɂ⁵³	300a	441	dz a̰ u ʔ ⁵³	453	dz a̰ u ʔ ⁵³
+1313	Achang		plant	300	653	xjɔ⁵	300b	442	x j ɔ ⁵	454	x j ɔ ⁵
+1314	Lashi		plant	300	653	dzoŋ⁴	300a	441	dz o ŋ ⁴	453	dz o - ŋ ⁴
+1315	Atsi		plant	300	653	hɔ⁵³	300b	442	h ɔ ⁵³	454	h - ɔ ⁵³
+935	Maru		plate	210	480	ban³¹+dzo³²	210a 210b	320 321	b a n ³¹ + dz o ³²	331	b a - n ³¹ + dz o - ³²
+936	Achang		plate	210	480	ban³¹	210a	320	b a n ³¹	330	b a - n ³¹
+937	Lashi		plate	210	480	bãɪ⁵¹	210a	320	b ã ɪ ⁵¹	330	b ã ɪ - ⁵¹
+938	Atsi		plate	210	480	dzaŋ³¹	210b	321	dz a ŋ ³¹	332	dz a ŋ ³¹
+1359	Achang		play	311	1413	lɨ̣ụ³	311a	456	l ɨ̰ u ³	467	l ɨ̰ u ³
+1360	Lashi		play	311	1413	lu³²	311a	456	l u ³²	467	l u - ³²
+1361	Bola		play	311	1413	li²³	311a	456	l i ²³	467	l i - ²³
+345	Maru		porcupine	079	2510	pjụ⁵²	079a	124	p j ṵ ⁵²	127	p j ṵ - ⁵²
+346	Achang		porcupine	079	2510	tjụ³	079a	124	t j ṵ ³	127	t j ṵ - ³
+347	Lashi		porcupine	079	2510	bju³	079a	124	b j u ³	127	b j u - ³
+348	Atsi		porcupine	079	2510	bju⁵³	079a	124	b j u ⁵³	127	b j u - ⁵³
+349	Hpun		porcupine	079	2510	pʰjuɂ⁵⁵	079a	124	pʰ j u ʔ ⁵⁵	127	pʰ j u ʔ ⁵⁵
+1334	Maru		pound(rice)	305	354	tʰaun⁵	305a	448	tʰ a u n ⁵	460	tʰ a u n ⁵
+1335	Achang		pound(rice)	305	354	tʰuŋ⁵	305a	448	tʰ u ŋ ⁵	460	tʰ u - ŋ ⁵
+1336	Lashi		pound(rice)	305	354	tʰoŋ⁴	305a	448	tʰ o ŋ ⁴	460	tʰ o - ŋ ⁴
+1337	Atsi		pound(rice)	305	354	tʰuŋ⁵³	305a	448	tʰ u ŋ ⁵³	460	tʰ u - ŋ ⁵³
+1338	Hpun		pound(rice)	305	354	tʰɔŋ³¹	305a	448	tʰ ɔ ŋ ³¹	460	tʰ ɔ - ŋ ³¹
+1241	Achang		pull	280	1455	laŋ³	280a	415	l a ŋ ³	427	l a ŋ ³
+1242	Lashi		pull	280	1455	laŋ²	280a	415	l a ŋ ²	427	l a ŋ ²
+1243	Atsi		pull	280	1455	laŋ⁵³	280a	415	l a ŋ ⁵³	427	l a ŋ ⁵³
+1244	Bola		pull	280	1455	lõ⁵²	280a	415	l õ ∼ ⁵²	427	l õ ∼ ⁵²
+735	Maru		pus	166	1808	fak⁵	166a	248	f a k ⁵	250	f a - k ⁵
+736	Lashi		pus	166	1808	fueɂ⁵³	166a	248	f u e ʔ ⁵³	250	f u e ʔ ⁵³
+1236	Maru		push	279	1452	dum⁵⁴	279a	414	d u m ⁵⁴	426	d u - m ⁵⁴
+1237	Achang		push	279	1452	duan³	279a	414	d u a n ³	426	d u a n ³
+1238	Lashi		push	279	1452	duen³	279a	414	d u e n ³	426	d u e n ³
+1239	Atsi		push	279	1452	dʒụn⁵	279a	414	dʒ ṵ n ⁵	426	dʒ ṵ - n ⁵
+1240	Bola		push	279	1452	tsạn²³	279a	414	ts a̰ n ²³	426	ts a̰ - n ²³
+32	Lashi		rain	007	658	wɔ⁵¹	007a	10	w ɔ ⁵¹	11	w ɔ - ⁵¹
+33	Hpun		rain	007	658	waɂ⁵⁵	007a	10	w a ʔ ⁵⁵	11	w a ʔ ⁵⁵
+34	Maru		rainbow	008	1733	saŋk⁵³+ja⁴¹+gen⁴	008a 008b 008c	11 12 13	s a ŋk ⁵³ + j a ⁴¹ + g e n ⁴	13	s a - ŋk ⁵³ + j a - ⁴¹ + g e n ⁴
+35	Achang		rainbow	008	1733	sai³⁵+jaŋ⁵³+kan²	008a 008b 008c	11 12 13	s a i ³⁵ + j a ŋ ⁵³ + k a n ²	13	s a i - ³⁵ + j a ŋ ⁵³ + k a n ²
+36	Lashi		rainbow	008	1733	səŋ⁴³+jɔɂ³¹	008a 008b	11 12	s ə ŋ ⁴³ + j ɔ ʔ ³¹	12	s ə - ŋ ⁴³ + j ɔ ʔ ³¹
+37	Atsi		rainbow	008	1733	βʷɔɂ³²+gan²	008b 008c	12 13	βʷ ɔ ʔ ³² + g a n ²	14	βʷ ɔ ʔ ³² + g a n ²
+38	Hpun		rainbow	008	1733	sə+jʊŋ	008a 008b	11 12	s ə + j ʊ ŋ	12	s ə - - - + j ʊ ŋ -
+350	Maru		rat	080	1490	ɣok³²	080a	125	ɣ o k ³²	128	ɣ - o k ³²
+351	Achang		rat	080	1490	gjuɂ⁴²	080a	125	g j u ʔ ⁴²	128	g j u ʔ ⁴²
+352	Lashi		rat	080	1490	gɛn³²+nɔ̃ɂ³	080a 080b	125 126	g ɛ n ³² + n ɔ̃ ʔ ³	129	g - ɛ n ³² + n ɔ̃ ʔ ³
+353	Atsi		rat	080	1490	ŋɔ³	080b	126	ŋ ɔ ³	130	ŋ ɔ - ³
+354	Bola		rat	080	1490	ɣo²³+naɂ⁵²	080a 080b	125 126	ɣ o ²³ + n a ʔ ⁵²	129	ɣ - o - ²³ + n a ʔ ⁵²
+239	Maru		rattan	051	2497	ɣam⁵¹	051a	79	ɣ a m ⁵¹	81	ɣ - a m ⁵¹
+240	Achang		rattan	051	2497	gjɛn⁴²	051a	79	g j ɛ n ⁴²	81	g j ɛ n ⁴²
+241	Lashi		rattan	051	2497	gjɛm⁵¹	051a	79	g j ɛ m ⁵¹	81	g j ɛ m ⁵¹
+242	Atsi		rattan	051	2497	gam⁵³	051a	79	g a m ⁵³	81	g - a m ⁵³
+1616	Maru		red	364	156	ne³	364a	524	n e ³	539	n e - ³
+1617	Achang		red	364	156	nɛ³¹	364a	524	n ɛ ³¹	539	n ɛ - ³¹
+1618	Lashi		red	364	156	ne³¹	364a	524	n e ³¹	539	n e - ³¹
+1619	Atsi		red	364	156	ne³²	364a	524	n e ³²	539	n e - ³²
+1620	Bola		red	364	156	nẽ³	364a	524	n ẽ ∼ ³	539	n ẽ ∼ ³
+1621	Hpun		red	364	156	nɛ³¹	364a	524	n ɛ ³¹	539	n ɛ - ³¹
+293	Maru		red pepper	066	919	pʰjak⁵	066b	102	pʰ j a k ⁵	104	pʰ j a k ⁵
+294	Achang		red pepper	066	919	la³	066a	103	l a ³	103	l a ³
+295	Lashi		red pepper	066	919	la²	066a	103	l a ²	103	l a ²
+296	Atsi		red pepper	066	919	pʰjik⁵	066b	102	pʰ j i k ⁵	104	pʰ j i k ⁵
+1232	Maru		return	278	581	dam³+tọk⁵⁴	278a 278b	412 413	d a m ³ + t o̰ k ⁵⁴	424	d a - m ³ + t o̰ - k ⁵⁴
+1233	Achang		return	278	581	tạụ⁵	278b	413	t a̰ u ⁵	425	t a̰ u - ⁵
+1234	Lashi		return	278	581	døm³¹	278a	412	d ø m ³¹	423	d ø - m ³¹
+1235	Atsi		return	278	581	dau	278a	412	d a u	423	d a u - -
+706	Maru		rib	160	801	nɛ³+tʃʰe⁴²	160a 160b	239 240	n ɛ ³ + tʃʰ e ⁴²	241	n ɛ - ³ + tʃʰ e - ⁴²
+707	Achang		rib	160	801	nam³¹	160a	239	n a m ³¹	240	n a m ³¹
+708	Lashi		rib	160	801	nam³¹+tʃʰam⁵⁴	160a 160b	239 240	n a m ³¹ + tʃʰ a m ⁵⁴	241	n a m ³¹ + tʃʰ a m ⁵⁴
+709	Atsi		rib	160	801	nam³²+tʃʰam³²	160a 160b	239 240	n a m ³² + tʃʰ a m ³²	241	n a m ³² + tʃʰ a m ³²
+309	Maru		rice husk	070	2501	pʰӧi³²	070a	109	pʰ ø i ³²	110	pʰ ø i ³²
+310	Achang		rice husk	070	2501	pʰə³+san³	070a 070c	109 110	pʰ ə ³ + s a n ³	112	pʰ ə - ³ + s a n ³
+311	Lashi		rice husk	070	2501	kọk⁵⁴+sɨ⁵	070b 070c	111 110	k o̰ k ⁵⁴ + s ɨ ⁵	113	k o̰ k ⁵⁴ + s ɨ - ⁵
+312	Atsi		rice husk	070	2501	tʃʰɪŋ⁵³	070c	110	tʃʰ ɪ ŋ ⁵³	114	tʃʰ ɪ ŋ ⁵³
+313	Hpun		rice husk	070	2501	pʰu+koɂ⁵⁵+ʃeɂ	070a 070b 070c	109 111 110	pʰ u + k o ʔ ⁵⁵ + ʃ e ʔ	111	pʰ u - - + k o ʔ ⁵⁵ + ʃ e ʔ -
+1569	Maru		right side	355	1019	loɂ³+jo³²	355a 355b	511 512	l o ʔ ³ + j o ³²	526	l o ʔ ³ + j o ³²
+1570	Achang		right side	355	1019	lɔɂ⁴³+jɔ⁴²	355a 355b	511 512	l ɔ ʔ ⁴³ + j ɔ ⁴²	526	l ɔ ʔ ⁴³ + j ɔ ⁴²
+1571	Lashi		right side	355	1019	lɔ̣ɂ³+ju⁴²	355a 355b	511 512	l ɔ̰ ʔ ³ + j u ⁴²	526	l ɔ̰ ʔ ³ + j u ⁴²
+1572	Atsi		right side	355	1019	lɔɂ³+jɔ³¹	355a 355b	511 512	l ɔ ʔ ³ + j ɔ ³¹	526	l ɔ ʔ ³ + j ɔ ³¹
+1573	Hpun		right side	355	1019	lʊɂ³¹	355a	511	l ʊ ʔ ³¹	525	l ʊ ʔ ³¹
+911	Maru		ring	203	1374	loɂ³²+pẹn²	203a 203b	310 311	l o ʔ ³² + p ḛ n ²	320	l o ʔ ³² + p ḛ - n ²
+912	Achang		ring	203	1374	lɔɂ³²+kjɔ̣p⁵³	203a 203c	310 312	l ɔ ʔ ³² + k j ɔ̰ p ⁵³	321	l ɔ ʔ ³² + k j ɔ̰ p ⁵³
+913	Lashi		ring	203	1374	lɔ̣ɂ³+bain⁴	203a 203b	310 311	l ɔ̰ ʔ ³ + b a i n ⁴	320	l ɔ̰ ʔ ³ + b a i n ⁴
+914	Atsi		ring	203	1374	lɔɂ³²+dʒɔp⁵⁴	203a 203c	310 312	l ɔ ʔ ³² + dʒ ɔ p ⁵⁴	321	l ɔ ʔ ³² + - dʒ ɔ p ⁵⁴
+104	Achang		river	024	666	laŋ³²	024a	35	l a ŋ ³²	36	l a ŋ ³²
+105	Lashi		river	024	666	lạŋ³¹	024a	35	l ạ ŋ ³¹	36	l ạ ŋ ³¹
+106	Atsi		river	024	666	laŋ³¹	024a	35	l a ŋ ³¹	36	l a ŋ ³¹
+107	Bola		river	024	666	laŋ⁵²	024a	35	l a ŋ ⁵²	36	l a ŋ ⁵²
+826	Maru		road, path	184	667	kʰjɔ⁵¹	184a	282	kʰ j ɔ ⁵¹	290	kʰ j ɔ ⁵¹
+827	Achang		road, path	184	667	lụ³	184b	283	l ṵ ³	292	l ṵ ³
+828	Lashi		road, path	184	667	kʰjɔ⁴	184a	282	kʰ j ɔ ⁴	290	kʰ j ɔ ⁴
+829	Atsi		road, path	184	667	kʰjɔ⁵³	184a	282	kʰ j ɔ ⁵³	290	kʰ j ɔ ⁵³
+830	Bola		road, path	184	667	kʰja⁵²	184a	282	kʰ j a ⁵²	290	kʰ j a ⁵²
+831	Hpun		road, path	184	667	kʰə+ɹi³¹	184a 184b	282 283	kʰ ə + ɹ i ³¹	291	kʰ - ə - + ɹ i ³¹
+850	Maru		roof	189	769	kʰauŋ³¹	189a	290	kʰ au ŋ ³¹	299	kʰ au ŋ ³¹
+851	Achang		roof	189	769	kʰoŋ³	189a	290	kʰ o ŋ ³	299	kʰ o ŋ ³
+852	Lashi		roof	189	769	kʰoŋ⁴²	189a	290	kʰ o ŋ ⁴²	299	kʰ o ŋ ⁴²
+853	Atsi		roof	189	769	kʰuŋ⁵³	189a	290	kʰ u ŋ ⁵³	299	kʰ u ŋ ⁵³
+854	Hpun		roof	189	769	kʰauŋ⁵⁵	189a	290	kʰ au ŋ ⁵⁵	299	kʰ au ŋ ⁵⁵
+190	Maru		root	042	670	gi²	042b	67	g i ²	69	g i ²
+191	Achang		root	042	670	njɛt³²	042a	68	n j ɛ t ³²	68	n j ɛ t ³²
+192	Lashi		root	042	670	gi²	042b	67	g i ²	69	g i ²
+193	Atsi		root	042	670	mɪt⁴³	042a	68	m ɪ t ⁴³	68	m - ɪ t ⁴³
+194	Bola		root	042	670	ki⁵²	042b	67	k i ⁵²	69	k i ⁵²
+195	Hpun		root	042	670	mjaiɂ³¹	042a	68	m j ai ʔ ³¹	68	m j ai ʔ ³¹
+1676	Maru		rotten	378	1728	bap³⁴	378a	542	b a p ³⁴	557	b a - p ³⁴
+1677	Achang		rotten	378	1728	buɔp³¹	378a	542	b u ɔ p ³¹	557	b u ɔ p ³¹
+1678	Lashi		rotten	378	1728	buɛp²	378a	542	b u ɛ p ²	557	b u ɛ p ²
+1679	Atsi		rotten	378	1728	bʊp³	378a	542	b ʊ p ³	557	b ʊ - p ³
+1282	Achang		rub, scrub	291	1449	tsʰaɂ⁴¹	291a	430	tsʰ a ʔ ⁴¹	442	tsʰ a - ʔ ⁴¹
+1283	Lashi		rub, scrub	291	1449	dʒoiɂ⁵	291a	430	dʒ o i ʔ ⁵	442	dʒ o i ʔ ⁵
+593	Maru		saliva	132	1503	kʰət³	132a	200	kʰ ə t ³	202	kʰ - ə t ³
+594	Achang		saliva	132	1503	dʒei⁵	132a	200	dʒ e i ⁵	202	dʒ e i - ⁵
+595	Lashi		saliva	132	1503	gain⁵³	132a	200	g a i n ⁵³	202	g a i n ⁵³
+596	Atsi		saliva	132	1503	kan³¹	132a	200	k a n ³¹	202	k a - n ³¹
+597	Bola		saliva	132	1503	kiɂ²³	132a	200	k i ʔ ²³	202	k - i ʔ ²³
+598	Hpun		saliva	132	1503	tʰwi	132a	200	tʰ w i	202	tʰ w i - -
+314	Maru		salt	071	1274	tsʰo⁴³	071a	112	tsʰ o ⁴³	115	tsʰ o ⁴³
+315	Achang		salt	071	1274	tsʰɔ⁵	071a	112	tsʰ ɔ ⁵	115	tsʰ ɔ ⁵
+316	Lashi		salt	071	1274	tsʰo⁵	071a	112	tsʰ o ⁵	115	tsʰ o ⁵
+317	Atsi		salt	071	1274	tsʰɔ³¹	071a	112	tsʰ ɔ ³¹	115	tsʰ ɔ ³¹
+318	Bola		salt	071	1274	tʰa²³	071a	112	tʰ a ²³	115	tʰ a ²³
+319	Hpun		salt	071	1274	sʰa³¹	071a	112	sʰ a ³¹	115	sʰ a ³¹
+1651	Maru		same	372	200	dau³	372a	536	d a u ³	551	d a u ³
+1652	Achang		same	372	200	de³	372a	536	d e ³	551	d e - ³
+1653	Lashi		same	372	200	du³¹	372a	536	d u ³¹	551	d u - ³¹
+1654	Atsi		same	372	200	tsụŋ⁵³	372a	536	ts ṵ ŋ ⁵³	551	ts ṵ ŋ ⁵³
+131	Maru		sand	030	671	tʃʰö³¹+ma³²	030b 030c	45 46	tʃʰ ø ³¹ + m a ³²	49	tʃʰ ø ³¹ + m - a - ³²
+132	Achang		sand	030	671	si⁵+ʃɔ³¹	030a 030b	47 45	s i ⁵ + ʃ ɔ ³¹	46	s i ⁵ + ʃ ɔ ³¹
+133	Lashi		sand	030	671	tʃʰo³¹+mjẹ⁴³	030b 030c	45 46	tʃʰ o ³¹ + m j ḛ ⁴³	49	tʃʰ o ³¹ + m j ḛ - ⁴³
+134	Atsi		sand	030	671	su³⁵+mui⁵²	030a 030c	47 46	s u ³⁵ + m u i ⁵²	47	s u ³⁵ + m - u i ⁵²
+135	Bola		sand	030	671	ʃa³	030b	45	ʃ a ³	48	ʃ a ³
+136	Hpun		sand	030	671	ʃe+mu	030b 030c	45 46	ʃ e + m u	49	ʃ e - + m - u - -
+889	Maru		sarong	198	1965	kạŋ³²	198b	304	k ạ ŋ ³²	315	k ạ ŋ ³²
+890	Achang		sarong	198	1965	lụ⁵	198a	305	l ṵ ⁵	314	l ṵ ⁵
+891	Lashi		sarong	198	1965	lo⁴	198a	305	l o ⁴	314	l o ⁴
+523	Achang		scorpion	118	1538	guŋ³¹+gau⁵	118a 118b	176 177	g u ŋ ³¹ + g a u ⁵	180	g u ŋ ³¹ + g a u ⁵
+524	Lashi		scorpion	118	1538	goŋ⁵²+gau⁵	118a 118b	176 177	g o ŋ ⁵² + g a u ⁵	180	g o ŋ ⁵² + g a u ⁵
+525	Atsi		scorpion	118	1538	gɔk⁴	118c	178	g ɔ k ⁴	182	g ɔ k ⁴
+526	Hpun		scorpion	118	1538	ko³¹	118b	177	k o ³¹	181	k o - ³¹
+1181	Maru		scratch	267	1436	gɪn⁴¹	267a	400	g ɪ n ⁴¹	411	g - ɪ n ⁴¹
+1182	Achang		scratch	267	1436	kjɛ̣n³	267a	400	k j ɛ̰ n ³	411	k j ɛ̰ n ³
+1183	Lashi		scratch	267	1436	gjẽŋ³²	267a	400	g j e ŋ ³²	411	g j e ŋ ³²
+1184	Atsi		scratch	267	1436	gin³¹	267a	400	g i n ³¹	411	g - i n ³¹
+108	Maru		sea	025	1474	baŋ³+lai³²	025a 025b	36 37	b a ŋ ³ + l a i ³²	37	b a ŋ ³ + l a i ³²
+109	Lashi		sea	025	1474	baŋ²³+lai³²	025a 025b	36 37	b a ŋ ²³ + l a i ³²	37	b a ŋ ²³ + l a i ³²
+110	Atsi		sea	025	1474	baŋ³+lai³¹	025a 025b	36 37	b a ŋ ³ + l a i ³¹	37	b a ŋ ³ + l a i ³¹
+997	Maru		see	224	1409	mja⁴	224a	338	m j a ⁴	349	m j a - ⁴
+998	Achang		see	224	1409	njaŋ³¹	224a	338	n j a ŋ ³¹	349	n j a ŋ ³¹
+999	Lashi		see	224	1409	mjaŋ³¹	224a	338	m j a ŋ ³¹	349	m j a ŋ ³¹
+1000	Atsi		see	224	1409	mjaŋ³¹	224a	338	m j a ŋ ³¹	349	m j a ŋ ³¹
+1001	Bola		see	224	1409	mjạŋ⁵²	224a	338	m j ạ ŋ ⁵²	349	m j ạ ŋ ⁵²
+1002	Hpun		see	224	1409	mjo⁵⁵	224a	338	m j o ⁵⁵	349	m j o - ⁵⁵
+212	Maru		seed	046	714	ɂa³+dʒit⁴⁵	046a 046b	72 73	ʔ a ³ + dʒ i t ⁴⁵	74	ʔ a ³ + dʒ i t ⁴⁵
+213	Achang		seed	046	714	ɂa³²+dʒei⁵⁴	046a 046b	72 73	ʔ a ³² + dʒ e i ⁵⁴	74	ʔ a ³² + dʒ e i ⁵⁴
+214	Lashi		seed	046	714	ɂa³+ʃi⁵	046a 046c	72 74	ʔ a ³ + ʃ i ⁵	75	ʔ a ³ + ʃ i ⁵
+215	Atsi		seed	046	714	dʒi⁴+ʃɪ³	046b 046c	73 74	dʒ i ⁴ + ʃ ɪ ³	76	dʒ i - ⁴ + ʃ ɪ ³
+216	Bola		seed	046	714	ɂa	046a	72	ʔ a	73	ʔ a -
+217	Hpun		seed	046	714	ɂa+si³¹	046a 046c	72 74	ʔ a + s i ³¹	75	ʔ a - + s i ³¹
+1391	Maru		sell	318	1571	ɂaun⁴	318a	465	ʔ a u n ⁴	476	ʔ a u n ⁴
+1392	Achang		sell	318	1571	ɂuŋ⁵	318a	465	ʔ u ŋ ⁵	476	ʔ u - ŋ ⁵
+1393	Lashi		sell	318	1571	ɂõŋ⁵⁴	318a	465	ʔ õ ŋ ⁵⁴	476	ʔ õ - ŋ ⁵⁴
+1394	Atsi		sell	318	1571	ɂụŋ⁵³	318a	465	ʔ ṵ ŋ ⁵³	476	ʔ ṵ - ŋ ⁵³
+1395	Bola		sell	318	1571	ɂaŋ³	318a	465	ʔ a ŋ ³	476	ʔ a - ŋ ³
+1396	Hpun		sell	318	1571	ɹɔŋ³¹	318a	465	ɹ ɔ ŋ ³¹	476	ɹ ɔ - ŋ ³¹
+1443	Maru		seven(ppl)	328	1704	nạịɂ⁵⁴	328a	478	n a̰ ḭ ʔ ⁵⁴	491	n a̰ ḭ ʔ ⁵⁴
+1444	Achang		seven(ppl)	328	1704	njɛ̣⁵³	328a	478	n j ɛ̰ ⁵³	491	n j ɛ̰ - ⁵³
+1445	Lashi		seven(ppl)	328	1704	njẽɂ⁵³	328a	478	n j ẽ ʔ ⁵³	491	n j ẽ ʔ ⁵³
+1446	Atsi		seven(ppl)	328	1704	njɪ̣t⁵	328a	478	n j ɪ̰ t ⁵	491	n j ɪ̰ t ⁵
+1447	Bola		seven(ppl)	328	1704	nạụt⁵²	328a	478	n a̰ u t ⁵²	491	n a̰ u t ⁵²
+895	Maru		sew	200	1457	kʰjæp⁵	200a	307	kʰ j æ p ⁵	317	kʰ j æ - p ⁵
+896	Achang		sew	200	1457	tʃʰoap⁵¹	200a	307	tʃʰ o a p ⁵¹	317	- tʃʰ o a p ⁵¹
+897	Lashi		sew	200	1457	tʃʰuɛp⁵³	200a	307	tʃʰ u ɛ p ⁵³	317	- tʃʰ u ɛ p ⁵³
+898	Atsi		sew	200	1457	kʰjup⁵⁴	200a	307	kʰ j u p ⁵⁴	317	kʰ j u - p ⁵⁴
+899	Hpun		sew	200	1457	xɹaɂ³¹	200a	307	x ɹ a ʔ ³¹	317	x ɹ a - ʔ ³¹
+43	Maru		shadow	011	1388	baɂ²¹	011b	16	b a ʔ ²¹	19	b a ʔ ²¹
+44	Achang		shadow	011	1388	jæt²¹	011a	17	j æ t ²¹	17	j æ t ²¹
+45	Lashi		shadow	011	1388	jø̣p³+paŋ⁵³	011a 011b	17 16	j ø̰ p ³ + p a ŋ ⁵³	18	j ø̰ p ³ + p a ŋ ⁵³
+46	Atsi		shadow	011	1388	vʊp³	011a	17	v ʊ p ³	17	v ʊ p ³
+1557	Achang		shallow	352	193	bu³¹	352a	508	b u ³¹	522	b u ³¹
+1558	Lashi		shallow	352	193	bɔ⁴	352a	508	b ɔ ⁴	522	b ɔ ⁴
+1697	Maru		sharp	384	1396	tʰoɂ⁵⁴	384a	550	tʰ o ʔ ⁵⁴	565	tʰ o ʔ ⁵⁴
+1698	Achang		sharp	384	1396	dzuɂ³¹	384a	550	dz u ʔ ³¹	565	dz u ʔ ³¹
+1699	Lashi		sharp	384	1396	tʰɔɂ⁵²	384a	550	tʰ ɔ ʔ ⁵²	565	tʰ ɔ ʔ ⁵²
+1700	Atsi		sharp	384	1396	tʰɔɂ⁵⁴	384a	550	tʰ ɔ ʔ ⁵⁴	565	tʰ ɔ ʔ ⁵⁴
+1701	Hpun		sharp	384	1396	tuɂ³¹	384a	550	t u ʔ ³¹	565	t u ʔ ³¹
+611	Achang		shave (beard)	137	231	juk⁴³	137a	207	j u k ⁴³	208	- j u k ⁴³
+612	Lashi		shave (beard)	137	231	gjɛt⁴	137a	207	g j ɛ t ⁴	208	g j ɛ t ⁴
+686	Maru		shin	156	186	mạ⁴+kạụŋ⁴	156a 156b	233 234	m a̰ ⁴ + k a̰ u ŋ ⁴	233	m - a̰ - ⁴ + k a̰ u ŋ ⁴
+687	Achang		shin	156	186	njạŋ⁵+kạŋ³	156a 156b	233 234	n j ạ ŋ ⁵ + k ạ ŋ ³	233	n j ạ ŋ ⁵ + k ạ - ŋ ³
+688	Lashi		shin	156	186	gaŋk⁵²	156b	234	g a ŋk ⁵²	234	g a - ŋk ⁵²
+689	Atsi		shin	156	186	mjạŋ³²	156a	233	m j ạ ŋ ³²	232	m j ạ ŋ ³²
+1185	Maru		shiver	268	52	nɪn⁵⁴	268a	401	n ɪ n ⁵⁴	412	n ɪ n - ⁵⁴
+1186	Achang		shiver	268	52	nan³¹	268a	401	n a n ³¹	412	n a n - ³¹
+1187	Lashi		shiver	268	52	nãɪ⁴	268a	401	n ã ∼ ɪ ⁴	412	n ã ∼ ɪ ⁴
+1188	Atsi		shiver	268	52	nạn³	268a	401	n a̰ n ³	412	n a̰ n - ³
+1189	Bola		shiver	268	52	ne²³	268a	401	n e ²³	412	n e - - ²³
+1367	Maru		shoot	313	1172	bak³²	313a	458	b a k ³²	469	b a k ³²
+1368	Achang		shoot	313	1172	baiɂ³¹	313a	458	b ai ʔ ³¹	469	b ai ʔ ³¹
+1369	Lashi		shoot	313	1172	bək²	313a	458	b ə k ²	469	b ə k ²
+1520	Maru		short (height)	344	2484	mjạm⁵	344a	501	m j ạ m ⁵	514	m j ạ m ⁵
+1521	Achang		short (height)	344	2484	njæ̣n⁴¹	344a	501	n j æ̰ n ⁴¹	514	n j æ̰ n ⁴¹
+1522	Lashi		short (height)	344	2484	njũɛ̃m³²	344a	501	n j ũɛ̃/ɛ̃ m ³²	514	n j ũɛ̃/ɛ̃ m ³²
+1523	Atsi		short (height)	344	2484	jụm⁴³	344a	501	j ṵ m ⁴³	514	- j ṵ m ⁴³
+1524	Bola		short (height)	344	2484	njạp⁵²	344a	501	n j ạ p ⁵²	514	n j ạ p ⁵²
+1510	Maru		short (length)	342	1645	laŋ³⁴	342b	498	l a ŋ ³⁴	512	- l a ŋ ³⁴
+1511	Achang		short (length)	342	1645	djuŋ³	342b	498	d j u ŋ ³	512	d j u ŋ ³
+1512	Lashi		short (length)	342	1645	ləŋ⁴	342b	498	l ə ŋ ⁴	512	- l ə ŋ ⁴
+1513	Atsi		short (length)	342	1645	dɔt⁵⁴	342a	499	d ɔ t ⁵⁴	511	d ɔ t ⁵⁴
+1514	Bola		short (length)	342	1645	laŋ²³	342b	498	l a ŋ ²³	512	- l a ŋ ²³
+1096	Maru		shout	247	715	geɂ⁴²+hok⁵⁴	247a 247b	368 369	g e ʔ ⁴² + h o k ⁵⁴	382	g e - ʔ ⁴² + h o k ⁵⁴
+1097	Achang		shout	247	715	kạịɂ⁵³	247a	368	k a̰ ḭ ʔ ⁵³	381	k a̰ ḭ ʔ ⁵³
+1098	Atsi		shout	247	715	gə³	247a	368	g ə ³	381	g ə - - ³
+146	Maru		silver	033	759	ŋoi⁴²	033a	51	ŋ o i ⁴²	52	ŋ o - i ⁴²
+147	Achang		silver	033	759	ŋui⁴²	033a	51	ŋ u i ⁴²	52	ŋ u - i ⁴²
+148	Lashi		silver	033	759	ŋ⁵²	033a	51	ŋ ⁵²	52	- - ŋ - ⁵²
+149	Atsi		silver	033	759	ŋun³¹	033a	51	ŋ u n ³¹	52	ŋ u n - ³¹
+150	Bola		silver	033	759	nui³	033a	51	n u i ³	52	n u - i ³
+1107	Maru		sing	250	1261	tʃʰæuŋ⁴³	250a	374	tʃʰ æ u ŋ ⁴³	387	tʃʰ æ u ŋ ⁴³
+1108	Achang		sing	250	1261	tʃʰuŋ⁵	250a	374	tʃʰ u ŋ ⁵	387	tʃʰ u - ŋ ⁵
+1109	Lashi		sing	250	1261	kʰoi⁴³	250b	375	kʰ o i ⁴³	388	kʰ o i - ⁴³
+1110	Bola		sing	250	1261	kjẹɂ³	250b	375	k j ḛ ʔ ³	388	k j ḛ ʔ ³
+1259	Maru		sink	286	1088	nap⁴+wa⁵⁴	286a 286b	422 423	n a p ⁴ + w a ⁵⁴	435	n - a p ⁴ + w a - ⁵⁴
+1260	Achang		sink	286	1088	njɔp⁴¹	286a	422	n j ɔ p ⁴¹	434	n j ɔ p ⁴¹
+1261	Lashi		sink	286	1088	mjok³²	286a	422	m j o k ³²	434	m j o k ³²
+1262	Atsi		sink	286	1088	mjup³⁴+waŋ³¹	286a 286b	422 423	m j u p ³⁴ + w a ŋ ³¹	435	m j u p ³⁴ + w a ŋ ³¹
+1263	Bola		sink	286	1088	nap⁵²	286a	422	n a p ⁵²	434	n - a p ⁵²
+1200	Maru		sit	271	1416	dzauŋ³	271a	405	dz au ŋ ³	416	dz au ŋ ³
+1201	Achang		sit	271	1416	dzọŋ³	271a	405	dz o̰ ŋ ³	416	dz o̰ ŋ ³
+1202	Lashi		sit	271	1416	dzoŋ²	271a	405	dz o ŋ ²	416	dz o ŋ ²
+1203	Atsi		sit	271	1416	dzuŋ³¹	271a	405	dz u ŋ ³¹	416	dz u ŋ ³¹
+1204	Bola		sit	271	1416	tsāŋ³	271a	405	ts a ŋ ³	416	ts a ŋ ³
+1437	Maru		six(ppl)	327	1703	kʰjæuk⁵⁴	327a	477	kʰ j æ u k ⁵⁴	490	kʰ j æ u k ⁵⁴
+1438	Achang		six(ppl)	327	1703	kʰjuk⁵³	327a	477	kʰ j u k ⁵³	490	kʰ j u - k ⁵³
+1439	Lashi		six(ppl)	327	1703	kʰjok⁵³	327a	477	kʰ j o k ⁵³	490	kʰ j o - k ⁵³
+1440	Atsi		six(ppl)	327	1703	kʰjuɂ⁵³	327a	477	kʰ j u ʔ ⁵³	490	kʰ j u - ʔ ⁵³
+1441	Bola		six(ppl)	327	1703	kʰjaup⁵²	327a	477	kʰ j a u p ⁵²	490	kʰ j a u p ⁵²
+1442	Hpun		six(ppl)	327	1703	kɔŋ⁵⁵	327a	477	k ɔ ŋ ⁵⁵	490	k - - ɔ ŋ ⁵⁵
+720	Achang		skin	163	763	jei³¹	163a	244	j e i ³¹	245	j e i ³¹
+721	Lashi		skin	163	763	je⁵¹	163a	244	j e ⁵¹	245	j e - ⁵¹
+722	Hpun		skin	163	763	ɹi	163a	244	ɹ i	245	ɹ i - -
+1539	Achang		skinny	348	1400	gji⁵	348a	504	g j i ⁵	518	g j i ⁵
+1540	Lashi		skinny	348	1400	gi⁴	348a	504	g i ⁴	518	g - i ⁴
+1541	Atsi		skinny	348	1400	gi⁴³	348a	504	g i ⁴³	518	g - i ⁴³
+1	Maru		sky	001	1732	moɂ³⁵+gauŋ⁵¹	001a 001b	1 2	m o ʔ ³⁵ + g au ŋ ⁵¹	2	m o ʔ ³⁵ + g au ŋ ⁵¹
+2	Achang		sky	001	1732	mau³⁴+kʰoŋ³²	001a 001b	1 2	m a u ³⁴ + kʰ o ŋ ³²	2	m a u ³⁴ + kʰ o ŋ ³²
+3	Lashi		sky	001	1732	mau³+kʰoŋ³¹	001a 001b	1 2	m a u ³ + kʰ o ŋ ³¹	2	m a u ³ + kʰ o ŋ ³¹
+4	Atsi		sky	001	1732	mau³+kʰuŋ⁵³	001a 001b	1 2	m a u ³ + kʰ u ŋ ⁵³	2	m a u ³ + kʰ u ŋ ⁵³
+5	Bola		sky	001	1732	mau⁵²	001a	1	m a u ⁵²	1	m a u ⁵²
+6	Hpun		sky	001	1732	mu³¹	001a	1	m u ³¹	1	m u - ³¹
+1150	Maru		sleep	261	1585	jạp⁵	261a	392	j ạ p ⁵	402	j ạ p ⁵
+1151	Achang		sleep	261	1585	jɛ̣t⁵³	261a	392	j ɛ̰ t ⁵³	402	j ɛ̰ t ⁵³
+1152	Lashi		sleep	261	1585	jøp⁴²	261a	392	j ø p ⁴²	402	j ø p ⁴²
+1153	Atsi		sleep	261	1585	jụp⁵	261a	392	j ụ p ⁵	402	j ụ p ⁵
+1154	Bola		sleep	261	1585	jạp³	261a	392	j ạ p ³	402	j ạ p ³
+1155	Hpun		sleep	261	1585	ɂaiɂ³¹	261a	392	ʔ ai ʔ ³¹	402	ʔ ai ʔ ³¹
+1715	Achang		slow	390	701	dzɔ⁵	390a	557	dz ɔ ⁵	573	dz ɔ ⁵
+1716	Lashi		slow	390	701	dzɔ⁴⁵+ɹɛ⁵³	390a 390b	557 558	dz ɔ ⁴⁵ + ɹ ɛ ⁵³	574	dz ɔ ⁴⁵ + ɹ ɛ ⁵³
+1717	Atsi		slow	390	701	jɔ̣⁴⁵	390b	558	j ɔ̰ ⁴⁵	575	j ɔ̰ ⁴⁵
+1718	Bola		slow	390	701	ta⁵²+je³	390a 390b	557 558	t a ⁵² + j e ³	574	t a ⁵² + j e ³
+1499	Maru		small	340	1246	ŋai²³	340a	496	ŋ a i ²³	509	ŋ a i ²³
+1500	Achang		small	340	1246	ŋi³¹	340a	496	ŋ i ³¹	509	ŋ - i ³¹
+1501	Lashi		small	340	1246	ŋe³¹	340a	496	ŋ e ³¹	509	ŋ - e ³¹
+1502	Bola		small	340	1246	ŋai³	340a	496	ŋ a i ³	509	ŋ a i ³
+1503	Hpun		small	340	1246	ŋji⁵⁵	340a	496	ŋ j i ⁵⁵	509	ŋ j i ⁵⁵
+992	Maru		smell	223	2124	nje³	223a	337	n j e ³	348	n j e - ³
+993	Achang		smell	223	2124	nam³¹	223a	337	n a m ³¹	348	n - a m ³¹
+994	Lashi		smell	223	2124	næm³¹	223a	337	n æ m ³¹	348	n - æ m ³¹
+995	Atsi		smell	223	2124	hɔm⁵³	223a	337	h ɔ m ⁵³	348	- h ɔ m ⁵³
+996	Hpun		smell	223	2124	nɛ⁵⁵	223a	337	n ɛ ⁵⁵	348	n - ɛ - ⁵⁵
+954	Maru		smoke	214	778	kʰoɂ⁵⁴	214b	326	kʰ o ʔ ⁵⁴	337	kʰ o ʔ ⁵⁴
+955	Achang		smoke	214	778	kʰau⁵	214b	326	kʰ a u ⁵	337	kʰ a u ⁵
+956	Lashi		smoke	214	778	kʰau⁵	214b	326	kʰ a u ⁵	337	kʰ a u ⁵
+957	Atsi		smoke	214	778	kʰau³¹	214b	326	kʰ a u ³¹	337	kʰ a u ³¹
+958	Bola		smoke	214	778	kʰau²³	214b	326	kʰ a u ²³	337	kʰ a u ²³
+959	Hpun		smoke	214	778	kʰu³¹	214b	326	kʰ u ³¹	337	kʰ u - ³¹
+1709	Maru		smooth	388	1234	jæuŋ⁴	388b	554	j æ u ŋ ⁴	571	j æ u ŋ ⁴
+1710	Achang		smooth	388	1234	dʒụạt⁵⁴	388a	555	dʒ u a̰ t ⁵⁴	569	dʒ u a̰ t ⁵⁴
+1711	Lashi		smooth	388	1234	dʒueɂ⁵³+joŋ³	388a 388b	555 554	dʒ u e ʔ ⁵³ + j o ŋ ³	570	dʒ u e ʔ ⁵³ + j o - ŋ ³
+1712	Atsi		smooth	388	1234	ɹa³	388b	554	ɹ a ³	571	ɹ a - - ³
+499	Maru		snail	113	1543	nə²+beɂ²¹	113a 113b	167 168	n ə ² + b e ʔ ²¹	173	n ə ² + b e - ʔ ²¹
+500	Achang		snail	113	1543	nə³+bap³¹	113a 113b	167 168	n ə ³ + b a p ³¹	173	n ə ³ + b a - p ³¹
+501	Lashi		snail	113	1543	nə³²+bait³²	113a 113b	167 168	n ə ³² + b a i t ³²	173	n ə ³² + b a i t ³²
+458	Maru		snake	102	730	lạ³+mọị³²	102a 102b	153 154	l a̰ ³ + m o̰ i ³²	158	l a̰ - ³ + m o̰ i - ³²
+459	Achang		snake	102	730	lạŋ³+nji³¹	102a 102b	153 154	l ạ ŋ ³ + n j i ³¹	158	l ạ ŋ ³ + n j i - ³¹
+460	Lashi		snake	102	730	lạŋ³⁴+mjũ⁴¹	102a 102b	153 154	l ạ ŋ ³⁴ + m j ũ ∼ ⁴¹	158	l ạ ŋ ³⁴ + m j ũ ∼ ⁴¹
+461	Atsi		snake	102	730	lạŋ⁵³+mui³¹	102a 102b	153 154	l ạ ŋ ⁵³ + m u i ³¹	158	l ạ ŋ ⁵³ + m u i - ³¹
+462	Bola		snake	102	730	me³	102b	154	m e ³	159	m e - - ³
+1057	Maru		sneeze	237	1621	tʃʰɔ³	237c	355	tʃʰ ɔ ³	369	tʃʰ ɔ ³
+1058	Achang		sneeze	237	1621	dʒei³	237a	356	dʒ e i ³	368	dʒ e i ³
+1059	Lashi		sneeze	237	1621	dʒe⁴³	237a	356	dʒ e ⁴³	368	dʒ e - ⁴³
+1060	Atsi		sneeze	237	1621	tʃʰɪ³²	237c	355	tʃʰ ɪ ³²	369	tʃʰ ɪ ³²
+1156	Maru		snore	262	1983	mjaŋ³	262a	393	m j a ŋ ³	403	m j a ŋ ³
+1157	Achang		snore	262	1983	nọ³+kʰuŋ³	262a 262b	393 394	n o̰ ³ + kʰ u ŋ ³	404	n - o̰ - ³ + kʰ u ŋ ³
+1158	Lashi		snore	262	1983	njɔ̃³¹	262a	393	n j ɔ̃ ∼ ³¹	403	n j ɔ̃ ∼ ³¹
+1159	Atsi		snore	262	1983	kʰɔk³²	262b	394	kʰ ɔ k ³²	405	kʰ ɔ k ³²
+1481	Achang		some	336	1241	jam⁵	336a	489	j a m ⁵	502	j a m ⁵
+1482	Lashi		some	336	1241	jæ̣m⁴	336a	489	j æ̰ m ⁴	502	j æ̰ m ⁴
+1483	Atsi		some	336	1241	ɂạm³¹	336a	489	ʔ ạ m ³¹	502	ʔ ạ m ³¹
+777	Maru		son-in-law	175	1056	ɂok⁴²	175b	265	ʔ o k ⁴²	272	ʔ o - k ⁴²
+778	Achang		son-in-law	175	1056	mɔɂ⁴³	175a	266	m ɔ ʔ ⁴³	271	m ɔ ʔ ⁴³
+779	Lashi		son-in-law	175	1056	mɔɂ⁴	175a	266	m ɔ ʔ ⁴	271	m ɔ ʔ ⁴
+780	Atsi		son-in-law	175	1056	ɂạụ⁵³	175b	265	ʔ a̰ u ⁵³	272	ʔ a̰ u - ⁵³
+781	Hpun		son-in-law	175	1056	moɂ³¹	175a	266	m o ʔ ³¹	271	m o ʔ ³¹
+1662	Maru		sour	375	1906	dʒɪn³²	375a	539	dʒ ɪ n ³²	554	dʒ - ɪ n - ³²
+1663	Achang		sour	375	1906	dʒjɛn³	375a	539	dʒ j ɛ n ³	554	dʒ j ɛ n - ³
+1664	Lashi		sour	375	1906	dʒeŋ³²	375a	539	dʒ e ŋ ³²	554	dʒ - e ŋ - ³²
+1665	Atsi		sour	375	1906	dʒɪn³¹	375a	539	dʒ ɪ n ³¹	554	dʒ - ɪ n - ³¹
+1666	Hpun		sour	375	1906	ʃei⁵⁵	375a	539	ʃ e i ⁵⁵	554	ʃ - e - i ⁵⁵
+95	Achang		south	022	1595	tị³²	022a	32	t ḭ ³²	33	t ḭ ³²
+96	Lashi		south	022	1595	bi³²	022a	32	b i ³²	33	b i ³²
+97	Bola		south	022	1595	pi³	022a	32	p i ³	33	p i ³
+1087	Maru		speak	245	1623	dʒau²	245b	364	dʒ a u ²	378	dʒ a u ²
+1088	Achang		speak	245	1623	tạịɂ⁵³	245a	365	t a̰ ḭ ʔ ⁵³	377	t a̰ ḭ ʔ ⁵³
+1089	Lashi		speak	245	1623	daŋ²	245a	365	d a ŋ ²	377	d a - ŋ ²
+1090	Atsi		speak	245	1623	daŋ⁴³	245a	365	d a ŋ ⁴³	377	d a - ŋ ⁴³
+1091	Bola		speak	245	1623	tị²³	245a	365	t ḭ ²³	377	t ḭ - - ²³
+977	Maru		spear	220	945	le³²	220a	333	l e ³²	344	l e - ³²
+978	Achang		spear	220	945	lạm³	220a	333	l ạ m ³	344	l ạ m ³
+979	Lashi		spear	220	945	læ̣m³	220a	333	l æ̰ m ³	344	l æ̰ m ³
+980	Atsi		spear	220	945	lạm⁵³	220a	333	l ạ m ⁵³	344	l ạ m ⁵³
+981	Hpun		spear	220	945	lɛ⁵⁵	220a	333	l ɛ ⁵⁵	344	l ɛ - ⁵⁵
+1559	Achang		spherical	353	1395	lai⁵	353a	509	l a i ⁵	523	l a i - ⁵
+1560	Lashi		spherical	353	1395	ləŋ⁴	353a	509	l ə ŋ ⁴	523	l ə - ŋ ⁴
+1561	Atsi		spherical	353	1395	liŋ³²	353a	509	l i ŋ ³²	523	l i - ŋ ³²
+1562	Bola		spherical	353	1395	laŋ²³	353a	509	l a ŋ ²³	523	l a - ŋ ²³
+1563	Hpun		spherical	353	1395	laŋ³¹	353a	509	l a ŋ ³¹	523	l a - ŋ ³¹
+1673	Maru		spicy	377	544	jak³	377a	541	j a k ³	556	- j a k ³
+1674	Lashi		spicy	377	544	pʰjək⁵³	377a	541	pʰ j ə k ⁵³	556	pʰ j ə k ⁵³
+1675	Atsi		spicy	377	544	pʰjɪk⁵	377a	541	pʰ j ɪ k ⁵	556	pʰ j ɪ k ⁵
+476	Maru		spider	108	843	ga³²	108b	159	g a ³²	166	g a - ³²
+477	Achang		spider	108	843	njɔ̣⁴²	108a	160	n j ɔ̰ ⁴²	164	n j ɔ̰ ⁴²
+478	Lashi		spider	108	843	mjɛ³+gaŋ³²	108a 108b	160 159	m j ɛ ³ + g a ŋ ³²	165	m j ɛ ³ + g a ŋ ³²
+479	Atsi		spider	108	843	mjạ⁴+gɔŋ³²	108a 108b	160 159	m j a̰ ⁴ + g ɔ ŋ ³²	165	m j a̰ ⁴ + g ɔ ŋ ³²
+480	Bola		spider	108	843	koŋ⁵²	108b	159	k o ŋ ⁵²	166	k o ŋ ⁵²
+481	Maru		spider web	109	1065	sait⁵	109a	161	s a i t ⁵	167	s a i t ⁵
+482	Achang		spider web	109	1065	sot⁵	109a	161	s o t ⁵	167	s o - t ⁵
+483	Lashi		spider web	109	1065	jɛm³	109b	162	j ɛ m ³	168	j ɛ m ³
+484	Atsi		spider web	109	1065	sʊt⁵	109a	161	s ʊ t ⁵	167	s ʊ - t ⁵
+1048	Maru		spit	235	1440	pʰö⁵	235b	351	pʰ ø ⁵	365	- pʰ ø - ⁵
+1049	Achang		spit	235	1440	djɛ⁵	235b	351	d j ɛ ⁵	365	d j ɛ - ⁵
+1050	Lashi		spit	235	1440	bi⁴⁵+pjạɂ⁵³	235a 235b	352 351	b i ⁴⁵ + p j a̰ ʔ ⁵³	364	b i ⁴⁵ + p j a̰ ʔ ⁵³
+1051	Atsi		spit	235	1440	be³²	235a	352	b e ³²	363	b e ³²
+1298	Maru		split	296	1437	kʰoɂ⁵⁴	296a	436	kʰ o ʔ ⁵⁴	448	kʰ - o ʔ ⁵⁴
+1299	Achang		split	296	1437	kʰjam⁵⁴	296a	436	kʰ j a m ⁵⁴	448	kʰ j a m ⁵⁴
+1300	Lashi		split	296	1437	kʰɔɂ⁵²	296a	436	kʰ ɔ ʔ ⁵²	448	kʰ - ɔ ʔ ⁵²
+1301	Atsi		split	296	1437	kʰɔɂ⁵	296a	436	kʰ ɔ ʔ ⁵	448	kʰ - ɔ ʔ ⁵
+932	Achang		spoon	209	1378	mɔt⁴²	209a	318	m ɔ t ⁴²	327	m ɔ - t ⁴²
+933	Lashi		spoon	209	1378	moiɂ³+dzɔ³	209a 209b	318 319	m o i ʔ ³ + dz ɔ ³	328	m o i ʔ ³ + dz ɔ ³
+934	Atsi		spoon	209	1378	dʒɔ⁵³	209b	319	dʒ ɔ ⁵³	329	dʒ ɔ ⁵³
+1306	Maru		stab	298	1434	tʰoɂ⁵	298a	439	tʰ o ʔ ⁵	451	tʰ o - ʔ ⁵
+1307	Achang		stab	298	1434	tʰau⁵	298a	439	tʰ a u ⁵	451	tʰ a u - ⁵
+1308	Lashi		stab	298	1434	tʰau⁴	298a	439	tʰ a u ⁴	451	tʰ a u - ⁴
+1309	Atsi		stab	298	1434	tʰau⁵²	298a	439	tʰ a u ⁵²	451	tʰ a u - ⁵²
+1205	Maru		stand	272	1442	jeɂ³	272a	406	j e ʔ ³	417	j e ʔ ³
+1206	Achang		stand	272	1442	jap³¹	272a	406	j a p ³¹	417	j a p ³¹
+1207	Atsi		stand	272	1442	jạp³¹	272a	406	j ạ p ³¹	417	j ạ p ³¹
+1208	Hpun		stand	272	1442	ɹeɂ⁵⁵	272a	406	ɹ e ʔ ⁵⁵	417	ɹ e ʔ ⁵⁵
+18	Maru		star	004	1430	gi⁵²	004a	6	g i ⁵²	6	g i ⁵²
+19	Achang		star	004	1430	gi²	004a	6	g i ²	6	g i ²
+20	Lashi		star	004	1430	kị⁵³	004a	6	k ḭ ⁵³	6	k ḭ ⁵³
+21	Atsi		star	004	1430	kị⁵³	004a	6	k ḭ ⁵³	6	k ḭ ⁵³
+22	Bola		star	004	1430	kị³	004a	6	k ḭ ³	6	k ḭ ³
+1405	Maru		steal	321	713	kʰoɂ⁵⁴	321a	470	kʰ o ʔ ⁵⁴	482	kʰ o - ʔ ⁵⁴
+1406	Achang		steal	321	713	kʰau⁵	321a	470	kʰ a u ⁵	482	kʰ a u - ⁵
+1407	Lashi		steal	321	713	kʰau³	321a	470	kʰ a u ³	482	kʰ a u - ³
+1408	Atsi		steal	321	713	kʰau⁵²	321a	470	kʰ a u ⁵²	482	kʰ a u - ⁵²
+1409	Hpun		steal	321	713	kʰo³¹	321a	470	kʰ o ³¹	482	kʰ o - - ³¹
+125	Maru		stone	029	857	lau⁴³	029a	44	l a u ⁴³	45	l a u - ⁴³
+126	Achang		stone	029	857	luk³	029a	44	l u k ³	45	l u - k ³
+127	Lashi		stone	029	857	lok³	029a	44	l o k ³	45	l o - k ³
+128	Atsi		stone	029	857	luɂ³	029a	44	l u ʔ ³	45	l u - ʔ ³
+129	Bola		stone	029	857	lauɂ²³	029a	44	l au ʔ ²³	45	l au - ʔ ²³
+130	Hpun		stone	029	857	loɂ³¹	029a	44	l o ʔ ³¹	45	l o - ʔ ³¹
+1577	Maru		straight	357	1404	dɪn⁴	357a	515	d ɪ n ⁴	529	d ɪ - n ⁴
+1578	Achang		straight	357	1404	dan³	357a	515	d a n ³	529	d a - n ³
+1579	Lashi		straight	357	1404	dain³	357a	515	d a i n ³	529	d a i n ³
+1580	Atsi		straight	357	1404	diŋ⁴	357a	515	d i ŋ ⁴	529	d i - ŋ ⁴
+1719	Maru		strong	391	785	ɣam³+bo³	391a 391b	559 560	ɣ a m ³ + b o ³	576	ɣ a m ³ + b o ³
+1720	Achang		strong	391	785	jɔm³+bɔ³¹	391a 391b	559 560	j ɔ m ³ + b ɔ ³¹	576	j ɔ m ³ + b ɔ ³¹
+1721	Lashi		strong	391	785	jɛm²³+bɔ⁵¹	391a 391b	559 560	j ɛ m ²³ + b ɔ ⁵¹	576	j ɛ m ²³ + b ɔ ⁵¹
+1722	Atsi		strong	391	785	vum³+bɔ³¹	391a 391b	559 560	v u m ³ + b ɔ ³¹	576	v u m ³ + b ɔ ³¹
+1072	Maru		suck	241	1421	dʒạp⁵⁴	241a	361	dʒ ạ p ⁵⁴	374	dʒ ạ - p ⁵⁴
+1073	Achang		suck	241	1421	dʒɔ̣p⁵³	241a	361	dʒ ɔ̰ p ⁵³	374	dʒ ɔ̰ - p ⁵³
+1074	Lashi		suck	241	1421	dʒuɛp⁴²	241a	361	dʒ u ɛ p ⁴²	374	dʒ u ɛ p ⁴²
+1075	Atsi		suck	241	1421	tʃʰup⁴³	241a	361	tʃʰ u p ⁴³	374	tʃʰ u - p ⁴³
+1076	Hpun		suck	241	1421	saɂ³¹	241a	361	s a ʔ ³¹	374	s a - ʔ ³¹
+246	Maru		sugar cane	053	146	pʰauŋ⁴+tʃʰuk⁵⁴	053a 053b	82 83	pʰ au ŋ ⁴ + tʃʰ u k ⁵⁴	83	pʰ - au ŋ ⁴ + tʃʰ u k ⁵⁴
+247	Achang		sugar cane	053	146	pʰɨŋ⁵+tʃʰau³	053a 053b	82 83	pʰ ɨ ŋ ⁵ + tʃʰ a u ³	83	pʰ - ɨ ŋ ⁵ + tʃʰ a u ³
+248	Lashi		sugar cane	053	146	pʰəŋ⁴⁵+tʃʰau³¹	053a 053b	82 83	pʰ ə ŋ ⁴⁵ + tʃʰ a u ³¹	83	pʰ - ə ŋ ⁴⁵ + tʃʰ a u ³¹
+249	Atsi		sugar cane	053	146	pʰuŋ³+tʃʰui⁵³	053a 053b	82 83	pʰ u ŋ ³ + tʃʰ u i ⁵³	83	pʰ - u ŋ ³ + tʃʰ u i ⁵³
+250	Hpun		sugar cane	053	146	pjo+ʃu⁵⁵	053a 053b	82 83	p j o + ʃ u ⁵⁵	83	p j o - - + ʃ u - ⁵⁵
+7	Maru		sun	002	1343	ba³¹	002a	3	b a ³¹	3	b a - ³¹
+8	Achang		sun	002	1343	pui³¹	002a	3	p u i ³¹	3	p u i ³¹
+9	Lashi		sun	002	1343	be⁵¹	002a	3	b e ⁵¹	3	b e - ⁵¹
+10	Atsi		sun	002	1343	bui³	002a	3	b u i ³	3	b u i ³
+11	Bola		sun	002	1343	pui³	002a	3	p u i ³	3	p u i ³
+1018	Maru		swallow	228	897	mjuɂ³	228a	343	m j u ʔ ³	354	m j u - ʔ ³
+1019	Achang		swallow	228	897	njæ̣ụ³	228a	343	n j æ̰ u ³	354	n j æ̰ u - ³
+1020	Lashi		swallow	228	897	mjau⁵³	228a	343	m j a u ⁵³	354	m j a u - ⁵³
+1021	Atsi		swallow	228	897	mjui³²	228a	343	m j u i ³²	354	m j u i - ³²
+1022	Bola		swallow	228	897	mjụŋ³	228a	343	m j ṵ ŋ ³	354	m j ṵ - ŋ ³
+729	Maru		sweat	165	2458	bau³¹+gjӧ²	165a 165b	246 247	b a u ³¹ + g j ø ²	248	b a u ³¹ + g j ø - ²
+730	Achang		sweat	165	2458	gjɛ̣³	165b	247	g j ɛ̰ ³	249	g j ɛ̰ - ³
+731	Lashi		sweat	165	2458	bje³¹+kjụ⁵	165a 165b	246 247	b j e ³¹ + k j ṵ ⁵	248	b j e ³¹ + k j ṵ - ⁵
+732	Atsi		sweat	165	2458	bui³²	165a	246	b u i ³²	247	b u i ³²
+733	Bola		sweat	165	2458	pau⁵²+kjɛ³	165a 165b	246 247	p a u ⁵² + k j ɛ ³	248	p a u ⁵² + k j ɛ - ³
+734	Hpun		sweat	165	2458	xwai	165b	247	x w a i	249	x w a i -
+1657	Maru		sweet	374	717	tʃʰok⁵⁴	374a	538	tʃʰ o k ⁵⁴	553	tʃʰ - o k ⁵⁴
+1658	Achang		sweet	374	717	tʃʰau³	374a	538	tʃʰ a u ³	553	tʃʰ a u - ³
+1659	Lashi		sweet	374	717	tʃʰau³¹	374a	538	tʃʰ a u ³¹	553	tʃʰ a u - ³¹
+1660	Atsi		sweet	374	717	tʃʰui⁵³	374a	538	tʃʰ u i ⁵³	553	tʃʰ u i - ⁵³
+1661	Hpun		sweet	374	717	ʃwa⁵⁵	374a	538	ʃ w a ⁵⁵	553	ʃ w a - ⁵⁵
+1680	Achang		swell	379	1573	jam³	379a	543	j a m ³	558	j a m ³
+1681	Lashi		swell	379	1573	jæ̣m³	379a	543	j æ̰ m ³	558	j æ̰ m ³
+1256	Maru		swim	284	1439	kʰeɂ⁵⁴	284a	420	kʰ e ʔ ⁵⁴	432	kʰ e ʔ ⁵⁴
+399	Maru		tail	090	1220	mị⁴³+ʃɪ⁴	090b 090c	138 139	m ḭ ⁴³ + ʃ ɪ ⁴	145	m ḭ ⁴³ + ʃ ɪ ⁴
+400	Achang		tail	090	1220	ljạŋk⁵³	090a	140	l j a̰ ŋk ⁵³	142	l j a̰ ŋk ⁵³
+401	Lashi		tail	090	1220	jạŋk⁵³+me³	090a 090b	140 138	j a̰ ŋk ⁵³ + m e ³	143	- j a̰ ŋk ⁵³ + m e ³
+402	Atsi		tail	090	1220	mi³¹+ʃɔ⁴³	090b 090c	138 139	m i ³¹ + ʃ ɔ ⁴³	145	m i ³¹ + ʃ ɔ ⁴³
+403	Bola		tail	090	1220	mi⁵²+sʰa²³	090b 090c	138 139	m i ⁵² + sʰ a ²³	145	m i ⁵² + sʰ a ²³
+404	Hpun		tail	090	1220	mi³¹	090b	138	m i ³¹	144	m i ³¹
+1515	Maru		tall	343	711	mjạ³	343a	500	m j a̰ ³	513	m j a̰ - ³
+1516	Achang		tall	343	711	njạŋ³	343a	500	n j ạ ŋ ³	513	n j ạ ŋ ³
+1517	Lashi		tall	343	711	mjãŋ³²	343a	500	m j a ŋ ³²	513	m j a ŋ ³²
+1518	Atsi		tall	343	711	mjạŋ³¹	343a	500	m j ạ ŋ ³¹	513	m j ạ ŋ ³¹
+1519	Bola		tall	343	711	mjụ̃³	343a	500	m j ṵ̃ ∼ ³	513	m j ṵ̃ ∼ ³
+1092	Maru		tell	246	1711	da⁴³+gjɔ³²	246a 246b	366 367	d a ⁴³ + g j ɔ ³²	380	d a - ⁴³ + g j ɔ ³²
+1093	Achang		tell	246	1711	tạị⁵³+gjɔ⁵	246a 246b	366 367	t a̰ i ⁵³ + g j ɔ ⁵	380	t a̰ i ⁵³ + g j ɔ ⁵
+1094	Lashi		tell	246	1711	deɂ³¹+gjɔ³	246a 246b	366 367	d e ʔ ³¹ + g j ɔ ³	380	d e ʔ ³¹ + g j ɔ ³
+1095	Atsi		tell	246	1711	tạị⁵³	246a	366	t a̰ i ⁵³	379	t a̰ i ⁵³
+1459	Maru		ten(ppl)	331	1515	tsʰe⁵³	331a	482	tsʰ e ⁵³	495	tsʰ - e - - ⁵³
+1460	Achang		ten(ppl)	331	1515	tsʰi³	331a	482	tsʰ i ³	495	tsʰ - i - - ³
+1461	Lashi		ten(ppl)	331	1515	tsʰe³	331a	482	tsʰ e ³	495	tsʰ - e - - ³
+1462	Atsi		ten(ppl)	331	1515	tsʰe⁵³	331a	482	tsʰ e ⁵³	495	tsʰ - e - - ⁵³
+1463	Bola		ten(ppl)	331	1515	tʰai³	331a	482	tʰ a i ³	495	tʰ - a - i ³
+1464	Hpun		ten(ppl)	331	1515	cʰwat⁵⁵	331a	482	tʃʰ w a t ⁵⁵	495	tʃʰ w a t - ⁵⁵
+489	Maru		termite	111	883	dʒạ³²+kạn³	111a 111b	164 165	dʒ a̰ ³² + k a̰ n ³	170	dʒ a̰ - ³² + k - a̰ - n ³
+490	Achang		termite	111	883	dʒaŋ³+guan⁵	111a 111b	164 165	dʒ a ŋ ³ + g u a n ⁵	170	dʒ a ŋ ³ + g - u a n ⁵
+491	Lashi		termite	111	883	kʰjæm⁵²	111b	165	kʰ j æ m ⁵²	171	kʰ j æ - m ⁵²
+492	Atsi		termite	111	883	dʒaŋ³²+gɔŋ²¹	111a 111b	164 165	dʒ a ŋ ³² + g ɔ ŋ ²¹	170	dʒ a ŋ ³² + g - ɔ - ŋ ²¹
+493	Hpun		termite	111	883	ʃɛɪ³¹	111b	165	ʃ ɛ ɪ ³¹	171	ʃ - ɛ ɪ - ³¹
+1599	Maru		that	361	78	ɂai³¹	361a	521	ʔ a i ³¹	536	ʔ a i ³¹
+1600	Achang		that	361	78	hau³	361a	521	h a u ³	536	h a u ³
+1601	Lashi		that	361	78	hau³	361a	521	h a u ³	536	h a u ³
+1602	Atsi		that	361	78	he⁵³	361a	521	h e ⁵³	536	h e - ⁵³
+1603	Hpun		that	361	78	hʊn⁵⁵	361a	521	h ʊ n ⁵⁵	536	h ʊ n ⁵⁵
+1525	Maru		thick	345	1244	tʰau³	345a	502	tʰ a u ³	515	tʰ a u ³
+1526	Achang		thick	345	1244	tʰɨu³	345a	502	tʰ ɨ u ³	515	tʰ ɨ u ³
+1527	Lashi		thick	345	1244	tʰu³²	345a	502	tʰ u ³²	515	tʰ u - ³²
+1528	Atsi		thick	345	1244	tʰu⁴³	345a	502	tʰ u ⁴³	515	tʰ u - ⁴³
+1529	Hpun		thick	345	1244	tʰuɂ⁵⁵	345a	502	tʰ u ʔ ⁵⁵	515	tʰ u ʔ ⁵⁵
+673	Maru		thigh	153	800	bauŋ³¹	153b	227	b au ŋ ³¹	227	b au - ŋ ³¹
+674	Achang		thigh	153	800	daŋ⁵+bau⁵	153a 153b	228 227	d a ŋ ⁵ + b a u ⁵	226	d a ŋ ⁵ + b a u - ⁵
+675	Lashi		thigh	153	800	daŋ⁵+bau⁴	153a 153b	228 227	d a ŋ ⁵ + b a u ⁴	226	d a ŋ ⁵ + b a u - ⁴
+676	Atsi		thigh	153	800	daŋ³²+bau³	153a 153b	228 227	d a ŋ ³² + b a u ³	226	d a ŋ ³² + b a u - ³
+677	Bola		thigh	153	800	toŋ²³+pau⁵²	153a 153b	228 227	t o ŋ ²³ + p a u ⁵²	226	t o ŋ ²³ + p a u - ⁵²
+1530	Maru		thin	346	2308	bo³	346a	503	b o ³	516	b o ³
+1531	Achang		thin	346	2308	bu³	346a	503	b u ³	516	b u ³
+1532	Lashi		thin	346	2308	bo³	346a	503	b o ³	516	b o ³
+1533	Hpun		thin	346	2308	pa³¹	346a	503	p a ³¹	516	p a ³¹
+1111	Maru		think	251	2271	mit³	251a	376	m i t ³	389	m - i t ³
+1112	Achang		think	251	2271	ŋạm⁵³	251a	376	ŋ ạ m ⁵³	389	ŋ - ạ m ⁵³
+1113	Lashi		think	251	2271	mje³²	251a	376	m j e ³²	389	m j e - ³²
+1114	Atsi		think	251	2271	mɪt³	251a	376	m ɪ t ³	389	m - ɪ t ³
+1031	Maru		thirsty	231	847	ʃap⁵³	231a	347	ʃ a p ⁵³	359	ʃ a p ⁵³
+1032	Achang		thirsty	231	847	ʃɛt⁵³	231a	347	ʃ ɛ t ⁵³	359	ʃ ɛ t ⁵³
+1033	Lashi		thirsty	231	847	ʃiɂ³¹	231a	347	ʃ i ʔ ³¹	359	ʃ i ʔ ³¹
+1034	Atsi		thirsty	231	847	ʃɪt⁵	231a	347	ʃ ɪ t ⁵	359	ʃ ɪ t ⁵
+1593	Maru		this	360	1214	tʃʰe⁴¹	360b	519	tʃʰ e ⁴¹	535	tʃʰ e ⁴¹
+1594	Achang		this	360	1214	hai³	360a	520	h a i ³	533	h a i ³
+1595	Lashi		this	360	1214	hɛ³+dzi⁵¹	360a 360b	520 519	h ɛ ³ + dz i ⁵¹	534	h ɛ - ³ + dz i ⁵¹
+1596	Atsi		this	360	1214	ʃi⁵³	360b	519	ʃ i ⁵³	535	ʃ i ⁵³
+1597	Bola		this	360	1214	tʃʰẹ³	360b	519	tʃʰ ḛ ³	535	tʃʰ ḛ ³
+1598	Hpun		this	360	1214	haiŋ⁵⁵	360a	520	h ai ŋ ⁵⁵	533	h ai ŋ ⁵⁵
+185	Maru		thorn	041	124	dzau⁴	041a	66	dz a u ⁴	67	dz a u ⁴
+186	Achang		thorn	041	124	dzu³⁴	041a	66	dz u ³⁴	67	dz u - ³⁴
+187	Lashi		thorn	041	124	dzu⁴	041a	66	dz u ⁴	67	dz u - ⁴
+188	Atsi		thorn	041	124	dzu³¹	041a	66	dz u ³¹	67	dz u - ³¹
+189	Hpun		thorn	041	124	sʰu³¹	041a	66	sʰ u ³¹	67	sʰ u - ³¹
+1469	Maru		thousand(ppl)	333	1843	kʰiŋ⁵⁴	333b	484	kʰ i ŋ ⁵⁴	498	kʰ - i ŋ ⁵⁴
+1470	Achang		thousand(ppl)	333	1843	kʰjɨŋ⁵⁴	333b	484	kʰ j ɨ ŋ ⁵⁴	498	kʰ j ɨ ŋ ⁵⁴
+1471	Lashi		thousand(ppl)	333	1843	kʰəŋ⁵³	333b	484	kʰ ə ŋ ⁵³	498	kʰ - ə ŋ ⁵³
+1472	Atsi		thousand(ppl)	333	1843	hiŋ⁴⁵	333a	485	h i ŋ ⁴⁵	497	h i ŋ ⁴⁵
+1473	Hpun		thousand(ppl)	333	1843	heŋ⁵⁵	333a	485	h e ŋ ⁵⁵	497	h e ŋ ⁵⁵
+1421	Maru		three(ppl)	324	492	sam⁴²	324a	474	s a m ⁴²	487	s a m ⁴²
+1422	Achang		three(ppl)	324	492	sɔm⁵³	324a	474	s ɔ m ⁵³	487	s ɔ m ⁵³
+1423	Lashi		three(ppl)	324	492	sɛm³	324a	474	s ɛ m ³	487	s ɛ m ³
+1424	Atsi		three(ppl)	324	492	sum³²	324a	474	s u m ³²	487	s u m ³²
+1425	Bola		three(ppl)	324	492	sam³	324a	474	s a m ³	487	s a m ³
+1426	Hpun		three(ppl)	324	492	ʃaŋ³¹	324a	474	ʃ a ŋ ³¹	487	ʃ a ŋ ³¹
+1248	Maru		throw	282	1456	pjẹɂ⁵⁴	282b	417	p j ḛ ʔ ⁵⁴	430	p j ḛ ʔ ⁵⁴
+1249	Achang		throw	282	1456	dɨu⁴³	282a	418	d ɨ u ⁴³	429	d ɨ u - ⁴³
+1250	Lashi		throw	282	1456	pjæ̣p⁵³	282b	417	p j æ̰ p ⁵³	430	p j æ̰ p ⁵³
+1251	Atsi		throw	282	1456	dun⁵³	282a	418	d u n ⁵³	429	d u - n ⁵³
+41	Lashi		thunder	010	1150	guɛm³	010a	15	g u ɛ m ³	16	g u ɛ m ³
+42	Atsi		thunder	010	1150	gum⁵³	010a	15	g u m ⁵³	16	g u - m ⁵³
+1273	Maru		tie	289	1917	döi⁵	289a	427	d ø i ⁵	439	d ø i ⁵
+1274	Achang		tie	289	1917	dụị⁵	289a	427	d ṵ i ⁵	439	d ṵ i ⁵
+1275	Lashi		tie	289	1917	dɨ⁵⁴	289a	427	d ɨ ⁵⁴	439	d ɨ - ⁵⁴
+1276	Atsi		tie	289	1917	dui⁵³	289a	427	d u i ⁵³	439	d u i ⁵³
+322	Maru		tiger	073	846	kʰa²+mjaŋ³²	073c 073d	115 116	kʰ a ² + m j a ŋ ³²	121	kʰ a ² + m j a ŋ ³²
+323	Achang		tiger	073	846	dʒɔ³+lu³	073a 073b	117 118	dʒ ɔ ³ + l u ³	117	dʒ ɔ ³ + l u ³
+324	Lashi		tiger	073	846	dzə⁴³+lo³	073a 073b	117 118	dz ə ⁴³ + l o ³	117	dz ə ⁴³ + l o ³
+325	Atsi		tiger	073	846	lə³²+mɔ³	073b 073d	118 116	l ə ³² + m ɔ ³	120	l ə ³² + m - ɔ - ³
+326	Bola		tiger	073	846	la⁵²	073b	118	l a ⁵²	118	l a ⁵²
+327	Hpun		tiger	073	846	la³¹+kə	073b 073c	118 115	l a ³¹ + k ə	119	l a ³¹ + k ə -
+1727	Maru		tired	393	1757	mjæuŋ⁴⁵	393a	562	m j æ u ŋ ⁴⁵	578	m j æ u ŋ ⁴⁵
+1728	Achang		tired	393	1757	njuŋ³	393a	562	n j u ŋ ³	578	n j u - ŋ ³
+1729	Lashi		tired	393	1757	mjoŋ³	393a	562	m j o ŋ ³	578	m j o - ŋ ³
+1730	Atsi		tired	393	1757	mjuŋ⁵³	393a	562	m j u ŋ ⁵³	578	m j u - ŋ ⁵³
+1731	Hpun		tired	393	1757	ŋɔ³¹	393a	562	ŋ ɔ ³¹	578	ŋ - ɔ - - ³¹
+1330	Maru		to dry	304	1398	lẹɂ⁵⁴	304a	447	l ḛ ʔ ⁵⁴	459	l ḛ ʔ ⁵⁴
+1331	Achang		to dry	304	1398	lạp⁴²	304a	447	l ạ p ⁴²	459	l ạ p ⁴²
+1332	Lashi		to dry	304	1398	læ̣p³²	304a	447	l æ̰ p ³²	459	l æ̰ p ³²
+1333	Atsi		to dry	304	1398	lạp⁵⁴	304a	447	l ạ p ⁵⁴	459	l ạ p ⁵⁴
+1177	Achang		to itch	266	148	jɔ³	266a	399	j ɔ ³	410	j ɔ ³
+1178	Lashi		to itch	266	148	jɔ³²	266a	399	j ɔ ³²	410	j ɔ ³²
+1179	Atsi		to itch	266	148	jɔ⁵³	266a	399	j ɔ ⁵³	410	j ɔ ⁵³
+1180	Hpun		to itch	266	148	ja³¹	266a	399	j a ³¹	410	j a ³¹
+73	Maru		tomorrow	017	1329	mɔ³⁵	017b	25	m ɔ ³⁵	28	m ɔ ³⁵
+74	Achang		tomorrow	017	1329	jɔ³¹	017a	26	j ɔ ³¹	27	j ɔ ³¹
+75	Lashi		tomorrow	017	1329	jɔ⁴²	017a	26	j ɔ ⁴²	27	j ɔ ⁴²
+76	Atsi		tomorrow	017	1329	ma³	017b	25	m a ³	28	m a ³
+77	Bola		tomorrow	017	1329	ma²³	017b	25	m a ²³	28	m a ²³
+587	Maru		tongue	131	1205	ʃɔ⁵¹	131a	198	ʃ ɔ ⁵¹	200	ʃ ɔ - ⁵¹
+588	Achang		tongue	131	1205	djɔ̣³	131b	199	d j ɔ̰ ³	201	d j ɔ̰ - ³
+589	Lashi		tongue	131	1205	jɔ⁴³	131b	199	j ɔ ⁴³	201	- j ɔ - ⁴³
+590	Atsi		tongue	131	1205	mui³¹	131a	198	m u i ³¹	200	m u i ³¹
+591	Bola		tongue	131	1205	ʃʰa⁵²	131a	198	ʃʰ a ⁵²	200	ʃʰ a - ⁵²
+592	Hpun		tongue	131	1205	jaɂ⁵⁵	131b	199	j a ʔ ⁵⁵	201	- j a ʔ ⁵⁵
+599	Hpun		tooth	133	1380	sɛ	133a	201	s ɛ	203	s ɛ
+169	Maru		tree	038	906	sak⁵+ge⁴¹	038a 038b	62 63	s a k ⁵ + g e ⁴¹	64	s a k ⁵ + g e - ⁴¹
+170	Achang		tree	038	906	saiɂ⁵	038a	62	s ai ʔ ⁵	63	s ai ʔ ⁵
+171	Lashi		tree	038	906	sək⁵⁴+gam³¹	038a 038b	62 63	s ə k ⁵⁴ + g a m ³¹	64	s ə k ⁵⁴ + g a m ³¹
+172	Atsi		tree	038	906	sɪk⁵+gam⁵³	038a 038b	62 63	s ɪ k ⁵ + g a m ⁵³	64	s ɪ k ⁵ + g a m ⁵³
+173	Bola		tree	038	906	sak⁵²+kʰi³	038a 038b	62 63	s a k ⁵² + kʰ i ³	64	s a k ⁵² + kʰ i - ³
+174	Hpun		tree	038	906	ʃaiɂ³¹	038a	62	ʃ ai ʔ ³¹	63	ʃ ai ʔ ³¹
+892	Achang		trousers	199	809	kʰjaɂ⁵³	199a	306	kʰ j a ʔ ⁵³	316	kʰ j a ʔ ⁵³
+893	Lashi		trousers	199	809	kʰjaɂ⁵³	199a	306	kʰ j a ʔ ⁵³	316	kʰ j a ʔ ⁵³
+894	Atsi		trousers	199	809	kʰap³²	199a	306	kʰ a p ³²	316	kʰ - a p ³²
+1416	Achang		two(ppl)	323	1498	ɂai⁵³	323a	473	ʔ a i ⁵³	486	ʔ a i - ⁵³
+1417	Lashi		two(ppl)	323	1498	ɂək⁵³	323a	473	ʔ ə k ⁵³	486	ʔ ə - k ⁵³
+1418	Atsi		two(ppl)	323	1498	ɂi⁴⁵	323a	473	ʔ i ⁴⁵	486	ʔ i - - ⁴⁵
+1419	Bola		two(ppl)	323	1498	jị²³	323a	473	j ḭ ²³	486	j ḭ - - ²³
+1420	Hpun		two(ppl)	323	1498	haiɂ³¹	323a	473	h ai ʔ ³¹	486	h ai - ʔ ³¹
+855	Maru		under house	190	2632	git³	190a	291	g i t ³	300	g i t ³
+856	Achang		under house	190	2632	dʒei³¹	190a	291	dʒ e i ³¹	300	dʒ e i ³¹
+857	Lashi		under house	190	2632	ge⁵	190a	291	g e ⁵	300	g e - ⁵
+858	Atsi		under house	190	2632	gi⁴³	190a	291	g i ⁴³	300	g i - ⁴³
+741	Maru		urine	168	1142	ɂịt⁵	168a	250	ʔ ḭ t ⁵	252	ʔ ḭ t ⁵
+742	Achang		urine	168	1142	jẹị⁵	168a	250	j ḛ ḭ ⁵	252	j ḛ ḭ ⁵
+743	Lashi		urine	168	1142	jẹ⁵	168a	250	j ḛ ⁵	252	j ḛ - ⁵
+744	Atsi		urine	168	1142	ɂi³+ʃi⁵³	168a 168b	250 251	ʔ i ³ + ʃ i ⁵³	253	ʔ i - ³ + ʃ i ⁵³
+745	Hpun		urine	168	1142	sʰi³¹	168b	251	sʰ i ³¹	254	sʰ i ³¹
+820	Maru		village	183	930	vo²+kʰauŋ²	183a 183b	280 281	v o ² + kʰ au ŋ ²	289	v o ² + kʰ au - ŋ ²
+821	Achang		village	183	930	wʊ³+kʰau³	183a 183b	280 281	w ʊ ³ + kʰ a u ³	289	w ʊ ³ + kʰ a u - ³
+822	Lashi		village	183	930	wə⁴+goŋ⁵¹	183a 183b	280 281	w ə ⁴ + g o ŋ ⁵¹	289	w ə ⁴ + g o - ŋ ⁵¹
+823	Atsi		village	183	930	wa³¹	183a	280	w a ³¹	288	w a ³¹
+824	Bola		village	183	930	wa²³	183a	280	w a ²³	288	w a ²³
+825	Hpun		village	183	930	wa⁵⁵+kʰə	183a 183b	280 281	w a ⁵⁵ + kʰ ə	289	w a ⁵⁵ + kʰ ə - - -
+1045	Maru		vomit	234	1278	daut⁴²	234a	350	d a u t ⁴²	362	d a u t ⁴²
+1046	Achang		vomit	234	1278	duk⁴²	234a	350	d u k ⁴²	362	d u - k ⁴²
+1047	Lashi		vomit	234	1278	dok³	234a	350	d o k ³	362	d o - k ³
+1132	Maru		wait	257	1590	la²⁵+na⁵²	257a 257b	385 386	l a ²⁵ + n a ⁵²	397	l a - ²⁵ + n a ⁵²
+1133	Achang		wait	257	1590	laŋ⁵	257a	385	l a ŋ ⁵	396	l a ŋ ⁵
+1134	Lashi		wait	257	1590	laŋ³	257a	385	l a ŋ ³	396	l a ŋ ³
+1135	Atsi		wait	257	1590	laŋ³⁴	257a	385	l a ŋ ³⁴	396	l a ŋ ³⁴
+1213	Maru		walk	274	1443	su⁵	274a	408	s u ⁵	419	s u ⁵
+1214	Achang		walk	274	1443	su⁵	274a	408	s u ⁵	419	s u ⁵
+1215	Lashi		walk	274	1443	sɔ⁴	274a	408	s ɔ ⁴	419	s ɔ ⁴
+1216	Atsi		walk	274	1443	sɔ⁵²	274a	408	s ɔ ⁵²	419	s ɔ ⁵²
+1217	Bola		walk	274	1443	tsọ²³	274a	408	ts o̰ ²³	419	ts o̰ ²³
+859	Achang		wall of house	191	933	dʒə̣³	191a	292	dʒ ə̰ ³	301	dʒ ə̰ ³
+860	Atsi		wall of house	191	933	tsʰə⁵⁴	191a	292	tsʰ ə ⁵⁴	301	tsʰ ə ⁵⁴
+861	Bola		wall of house	191	933	tsʰi	191a	292	tsʰ i	301	tsʰ i -
+862	Hpun		wall of house	191	933	tʰo⁵⁵	191a	292	tʰ o ⁵⁵	301	tʰ o ⁵⁵
+1284	Maru		wash	292	1453	tʃʰit⁵⁴	292a	431	tʃʰ i t ⁵⁴	443	tʃʰ i t ⁵⁴
+1285	Achang		wash	292	1453	tʃʰei⁵	292a	431	tʃʰ e i ⁵	443	tʃʰ e i ⁵
+1286	Lashi		wash	292	1453	tʃʰe⁴³	292a	431	tʃʰ e ⁴³	443	tʃʰ e - ⁴³
+1287	Atsi		wash	292	1453	tʃʰi⁵³	292a	431	tʃʰ i ⁵³	443	tʃʰ i - ⁵³
+1288	Bola		wash	292	1453	tʃʰə²³	292a	431	tʃʰ ə ²³	443	tʃʰ ə - ²³
+1289	Hpun		wash	292	1453	ʃe³¹	292a	431	ʃ e ³¹	443	ʃ e - ³¹
+98	Maru		water	023	948	ɣit⁴	023b	33	ɣ i t ⁴	35	ɣ i t ⁴
+99	Achang		water	023	948	dʒei⁴²	023a	34	dʒ e i ⁴²	34	dʒ e i ⁴²
+100	Lashi		water	023	948	ge⁵¹	023b	33	g e ⁵¹	35	g e - ⁵¹
+101	Atsi		water	023	948	ɂʊ̣t⁵	023b	33	ʔ ʊ̰ t ⁵	35	ʔ ʊ̰ t ⁵
+102	Bola		water	023	948	ɣi³	023b	33	ɣ i ³	35	ɣ i - ³
+103	Hpun		water	023	948	cʰi⁵⁵	023a	34	tʃʰ i ⁵⁵	34	tʃʰ i - ⁵⁵
+1723	Maru		weak	392	1601	ne⁵	392a	561	n e ⁵	577	n - e - ⁵
+1724	Achang		weak	392	1601	nụk⁵³	392a	561	n ṵ k ⁵³	577	n - ṵ k ⁵³
+1725	Lashi		weak	392	1601	nəŋ²	392a	561	n ə ŋ ²	577	n - ə ŋ ²
+1726	Atsi		weak	392	1601	njɔ̣m⁵³	392a	561	n j ɔ̰ m ⁵³	577	n j ɔ̰ m ⁵³
+879	Maru		weave (cloth)	196	133	gɪn⁴+ɣoɂ³²	196a 196b	301 302	g ɪ n ⁴ + ɣ o ʔ ³²	311	g ɪ - n ⁴ + ɣ o ʔ ³²
+880	Achang		weave (cloth)	196	133	jɔɂ³¹	196b	302	j ɔ ʔ ³¹	312	j ɔ ʔ ³¹
+881	Lashi		weave (cloth)	196	133	gain³+jɔ̣ɂ³	196a 196b	301 302	g a i n ³ + j ɔ̰ ʔ ³	311	g a i n ³ + j ɔ̰ ʔ ³
+882	Atsi		weave (cloth)	196	133	kan³²+wɔɂ³	196a 196b	301 302	k a n ³² + w ɔ ʔ ³	311	k a - n ³² + w ɔ ʔ ³
+883	Bola		weave (cloth)	196	133	ɣa⁵²	196a	301	ɣ a ⁵²	310	ɣ a - - ⁵²
+884	Hpun		weave (cloth)	196	133	rʊɂ³¹	196b	302	r ʊ ʔ ³¹	312	r ʊ ʔ ³¹
+1007	Maru		weep	226	1839	ŋoɂ³²	226a	341	ŋ o ʔ ³²	352	ŋ o ʔ ³²
+1008	Achang		weep	226	1839	ŋau³¹	226a	341	ŋ a u ³¹	352	ŋ a u ³¹
+1009	Lashi		weep	226	1839	ŋau³¹	226a	341	ŋ a u ³¹	352	ŋ a u ³¹
+1010	Atsi		weep	226	1839	ŋau³²	226a	341	ŋ a u ³²	352	ŋ a u ³²
+1011	Hpun		weep	226	1839	ŋu⁵⁵	226a	341	ŋ u ⁵⁵	352	ŋ u - ⁵⁵
+87	Maru		west	020	1817	wa³²	020a	30	w a ³²	31	w a - ³²
+88	Achang		west	020	1817	waŋ³¹	020a	30	w a ŋ ³¹	31	w a ŋ ³¹
+89	Lashi		west	020	1817	waŋ³¹	020a	30	w a ŋ ³¹	31	w a ŋ ³¹
+90	Atsi		west	020	1817	waŋ³¹	020a	30	w a ŋ ³¹	31	w a ŋ ³¹
+91	Bola		west	020	1817	wãŋ³	020a	30	w a ŋ ³	31	w a ŋ ³
+1687	Maru		wet	381	1726	dʒo⁵	381a	545	dʒ o ⁵	560	dʒ o - - ⁵
+1688	Achang		wet	381	1726	dʒuɛɂ⁵²	381a	545	dʒ u ɛ ʔ ⁵²	560	dʒ u ɛ ʔ ⁵²
+1689	Lashi		wet	381	1726	dʒøm³²	381a	545	dʒ ø m ³²	560	dʒ ø - m ³²
+1761	Achang		what?	405	1236	tʃʰa³	405a	575	tʃʰ a ³	593	tʃʰ a - ³
+1762	Lashi		what?	405	1236	tʃʰɛ⁵³	405a	575	tʃʰ ɛ ⁵³	593	tʃʰ ɛ - ⁵³
+1763	Atsi		what?	405	1236	dʒuŋ⁵²+ha⁵	405a 405b	575 576	dʒ u ŋ ⁵² + h a ⁵	594	dʒ u ŋ ⁵² + h a ⁵
+1750	Maru		when?	402	1238	kʰö⁵	402a	569	kʰ ø ⁵	586	kʰ ø - ⁵
+1751	Achang		when?	402	1238	kʰa⁴+nạmp⁵²	402a 402b	569 570	kʰ a ⁴ + n a̰ mp ⁵²	587	kʰ a - ⁴ + n a̰ mp ⁵²
+1752	Lashi		when?	402	1238	kʰa²⁴+næ̣p⁴²	402a 402b	569 570	kʰ a ²⁴ + n æ̰ p ⁴²	587	kʰ a - ²⁴ + n æ̰ p ⁴²
+1753	Atsi		when?	402	1238	kʰət⁴³+nạm³²	402a 402b	569 570	kʰ ə t ⁴³ + n ạ m ³²	587	kʰ ə t ⁴³ + n ạ m ³²
+1754	Maru		where?	403	1237	dau⁵¹	403b	571	d a u ⁵¹	589	d a u ⁵¹
+1755	Achang		where?	403	1237	dje³	403b	571	d j e ³	589	d j e ³
+1756	Lashi		where?	403	1237	mɔ²¹	403a	572	m ɔ ²¹	588	m ɔ ²¹
+1070	Maru		whistle	240	1025	nạịt⁵⁴	240b	360	n a̰ i t ⁵⁴	373	n a̰ i t ⁵⁴
+1071	Atsi		whistle	240	1025	nʊ̣t⁵	240b	360	n ʊ̰ t ⁵	373	n ʊ̰ - t ⁵
+1610	Maru		white	363	1335	pʰju³	363a	523	pʰ j u ³	538	pʰ j u - ³
+1611	Achang		white	363	1335	tʰjɨu³	363a	523	tʰ j ɨ u ³	538	tʰ j ɨ u ³
+1612	Lashi		white	363	1335	pʰju⁴³	363a	523	pʰ j u ⁴³	538	pʰ j u - ⁴³
+1613	Atsi		white	363	1335	pʰju³²	363a	523	pʰ j u ³²	538	pʰ j u - ³²
+1614	Bola		white	363	1335	pʰju³	363a	523	pʰ j u ³	538	pʰ j u - ³
+1615	Hpun		white	363	1335	pʰjuɂ⁵⁵	363a	523	pʰ j u ʔ ⁵⁵	538	pʰ j u ʔ ⁵⁵
+1757	Maru		who?	404	1235	ŋat³²	404b	573	ŋ a t ³²	592	ŋ a - t ³²
+1758	Achang		who?	404	1235	haŋk⁵⁴	404a	574	h a ŋk ⁵⁴	590	h a ŋk ⁵⁴
+1759	Lashi		who?	404	1235	haŋ⁴+ŋọị³¹	404a 404b	574 573	h a ŋ ⁴ + ŋ o̰ i ³¹	591	h a ŋ ⁴ + ŋ o̰ i - ³¹
+1760	Bola		who?	404	1235	kʰak³	404a	574	kʰ a k ³	590	kʰ a k ³
+1542	Maru		wide, broad	349	1243	le²	349a	505	l e ²	519	l e - ²
+1543	Achang		wide, broad	349	1243	lam³¹	349a	505	l a m ³¹	519	l a m ³¹
+1544	Lashi		wide, broad	349	1243	læ̣m³¹	349a	505	l æ̰ m ³¹	519	l æ̰ m ³¹
+1545	Atsi		wide, broad	349	1243	lam³²	349a	505	l a m ³²	519	l a m ³²
+1546	Bola		wide, broad	349	1243	lẽ²³	349a	505	l ẽ ∼ ²³	519	l ẽ ∼ ²³
+794	Maru		widow	178	1756	tʃʰuk⁵⁴+mɔ⁴	178a 178b	272 273	tʃʰ u k ⁵⁴ + m ɔ ⁴	278	tʃʰ u - k ⁵⁴ + m ɔ - ⁴
+795	Achang		widow	178	1756	tʃʰau⁵+mu⁵	178a 178b	272 273	tʃʰ a u ⁵ + m u ⁵	278	tʃʰ a u - ⁵ + m u - ⁵
+796	Lashi		widow	178	1756	tʃʰau⁵⁴+mɔ̃⁴	178a 178b	272 273	tʃʰ a u ⁵⁴ + m ɔ̃ ∼ ⁴	278	tʃʰ a u - ⁵⁴ + m ɔ̃ ∼ ⁴
+797	Atsi		widow	178	1756	tʃʰui³²+mɔ³	178a 178b	272 273	tʃʰ u i ³² + m ɔ ³	278	tʃʰ u i - ³² + m ɔ - ³
+798	Hpun		widow	178	1756	mai³¹	178b	273	m a i ³¹	279	m a i ³¹
+788	Maru		wife	177	1199	mị⁴	177a	271	m ḭ ⁴	277	m - ḭ - ⁴
+789	Achang		wife	177	1199	njịɂ³⁴	177a	271	n j ḭ ʔ ³⁴	277	n j ḭ ʔ ³⁴
+790	Lashi		wife	177	1199	me⁴	177a	271	m e ⁴	277	m - e - ⁴
+791	Atsi		wife	177	1199	mi³¹	177a	271	m i ³¹	277	m - i - ³¹
+792	Bola		wife	177	1199	mi⁵²	177a	271	m i ⁵²	277	m - i - ⁵²
+793	Hpun		wife	177	1199	mi⁵⁵	177a	271	m i ⁵⁵	277	m - i - ⁵⁵
+847	Achang		window	188	1375	baiɂ⁴¹	188c	288	b ai ʔ ⁴¹	298	b ai ʔ ⁴¹
+848	Lashi		window	188	1375	duaŋ³¹	188b	289	d u a ŋ ³¹	297	d u a ŋ ³¹
+849	Atsi		window	188	1375	dɔŋ³¹	188b	289	d ɔ ŋ ³¹	297	d ɔ - ŋ ³¹
+425	Maru		wing	095	1257	dauŋ⁴¹	095a	145	d au ŋ ⁴¹	150	d au ŋ ⁴¹
+426	Achang		wing	095	1257	duŋ³¹	095a	145	d u ŋ ³¹	150	d u ŋ ³¹
+427	Lashi		wing	095	1257	doŋ⁵¹	095a	145	d o ŋ ⁵¹	150	d o ŋ ⁵¹
+428	Atsi		wing	095	1257	duŋ³¹	095a	145	d u ŋ ³¹	150	d u ŋ ³¹
+429	Hpun		wing	095	1257	tɔŋ⁵⁵	095a	145	t ɔ ŋ ⁵⁵	150	t ɔ ŋ ⁵⁵
+1003	Maru		wink	225	1655	mjɔɂ³²+lap³²	225a 225b	339 340	m j ɔ ʔ ³² + l a p ³²	351	m j ɔ ʔ ³² + l a p ³²
+1004	Achang		wink	225	1655	njɔɂ⁴³	225a	339	n j ɔ ʔ ⁴³	350	n j ɔ ʔ ⁴³
+1005	Lashi		wink	225	1655	mjɔɂ³	225a	339	m j ɔ ʔ ³	350	m j ɔ ʔ ³
+1006	Atsi		wink	225	1655	mjɔɂ³+lʊp³	225a 225b	339 340	m j ɔ ʔ ³ + l ʊ p ³	351	m j ɔ ʔ ³ + l ʊ p ³
+1327	Maru		winnow (rice)	303	2462	ja⁴	303a	445	j a ⁴	457	- j a - ⁴
+1328	Achang		winnow (rice)	303	2462	lạŋk⁴²	303b	446	l a̰ ŋk ⁴²	458	l a̰ ŋk ⁴²
+1329	Atsi		winnow (rice)	303	2462	pjạŋ⁵³	303a	445	p j ạ ŋ ⁵³	457	p j ạ ŋ ⁵³
+1277	Maru		wipe	290	1454	sat⁵⁴	290b	428	s a t ⁵⁴	441	s - a t ⁵⁴
+1278	Achang		wipe	290	1454	bua³¹	290a	429	b u a ³¹	440	b u a - ³¹
+1279	Lashi		wipe	290	1454	boeɂ³	290a	429	b o e ʔ ³	440	b o e ʔ ³
+1280	Atsi		wipe	290	1454	sʊt⁵⁴	290b	428	s ʊ t ⁵⁴	441	s - ʊ t ⁵⁴
+1281	Hpun		wipe	290	1454	ʃwaiɂ³¹	290b	428	ʃ w ai ʔ ³¹	441	ʃ w ai ʔ ³¹
+751	Maru		woman	170	962	mjɪ²+ɣe²	170a 170b	254 255	m j ɪ ² + ɣ e ²	259	m j ɪ ² + ɣ e ²
+752	Achang		woman	170	962	mɛ³¹	170a	254	m ɛ ³¹	258	m - ɛ ³¹
+753	Lashi		woman	170	962	me⁴+je⁴	170a 170b	254 255	m e ⁴ + j e ⁴	259	m - e ⁴ + j e ⁴
+754	Atsi		woman	170	962	mi³	170a	254	m i ³	258	m - i ³
+755	Bola		woman	170	962	mɛ³+ɣɛ⁵²	170a 170b	254 255	m ɛ ³ + ɣ ɛ ⁵²	259	m - ɛ ³ + ɣ ɛ ⁵²
+756	Hpun		woman	170	962	mi⁵⁵	170a	254	m i ⁵⁵	258	m - i ⁵⁵
+1355	Maru		work	310	1086	mau²⁵+dzöi⁵	310a 310b	454 455	m a u ²⁵ + dz ø i ⁵	466	m a u ²⁵ + dz ø i ⁵
+1356	Achang		work	310	1086	mu⁵+dzui³	310a 310b	454 455	m u ⁵ + dz u i ³	466	m u - ⁵ + dz u i ³
+1357	Lashi		work	310	1086	mɔ⁵+dzɨ²¹	310a 310b	454 455	m ɔ ⁵ + dz ɨ ²¹	466	m ɔ - ⁵ + dz - ɨ ²¹
+1358	Atsi		work	310	1086	mu⁵+dzui⁵³	310a 310b	454 455	m u ⁵ + dz u i ⁵³	466	m u - ⁵ + dz u i ⁵³
+1061	Maru		yawn	238	1028	he⁴	238a	357	h e ⁴	370	h e - ⁴
+1062	Achang		yawn	238	1028	ham⁵	238a	357	h a m ⁵	370	h a m ⁵
+1063	Lashi		yawn	238	1028	ham⁴	238a	357	h a m ⁴	370	h a m ⁴
+1064	Atsi		yawn	238	1028	ham²¹	238a	357	h a m ²¹	370	h a m ²¹
+78	Maru		year	018	1226	dzɪn³¹	018a	27	dz ɪ n ³¹	29	dz ɪ - n ³¹
+79	Achang		year	018	1226	dzan⁴²	018a	27	dz a n ⁴²	29	dz a - n ⁴²
+80	Lashi		year	018	1226	tsain⁴	018a	27	ts a i n ⁴	29	ts a i n ⁴
+81	Atsi		year	018	1226	dzan⁵¹	018a	27	dz a n ⁵¹	29	dz a - n ⁵¹
+1627	Maru		yellow	366	1424	bo³⁵	366a	526	b o ³⁵	541	b o ³⁵
+1628	Lashi		yellow	366	1424	bɔ⁴	366a	526	b ɔ ⁴	541	b ɔ ⁴
+1629	Bola		yellow	366	1424	pa²³	366a	526	p a ²³	541	p a ²³
+69	Maru		yesterday	016	1174	jɛɂ²³+ɂa³²	016a 016b	23 24	j ɛ ʔ ²³ + ʔ a ³²	25	j ɛ ʔ ²³ + ʔ a - ³²
+70	Lashi		yesterday	016	1174	jɪn⁵³+ɂai²⁵	016a 016b	23 24	j ɪ n ⁵³ + ʔ a i ²⁵	25	j ɪ n ⁵³ + ʔ a i ²⁵
+71	Atsi		yesterday	016	1174	ɂə³	016b	24	ʔ ə ³	26	ʔ ə - ³
+72	Bola		yesterday	016	1174	jə²³+ɂaŋ³	016a 016b	23 24	j ə ²³ + ʔ a ŋ ³	25	j ə - ²³ + ʔ a ŋ ³
+805	Maru		younger sibling	180	427	nauŋ³²	180a	276	n au ŋ ³²	283	n au ŋ ³²
+806	Achang		younger sibling	180	427	nu⁵	180a	276	n u ⁵	283	n u - ⁵
+807	Lashi		younger sibling	180	427	nõŋ⁵	180a	276	n õ ŋ ⁵	283	n õ ŋ ⁵
+808	Bola		younger sibling	180	427	nauŋ⁵²	180a	276	n au ŋ ⁵²	283	n au ŋ ⁵²
