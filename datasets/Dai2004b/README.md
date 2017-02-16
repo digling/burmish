@@ -1,14 +1,46 @@
-This bookchapter, of 
-* 49 pages, 
+## Summary
 
-contains information about the Bola language. 
+This bookchapter, of 49 pages, contains information about the Bola language. 
 There is a
 * 17 page vocabulary 
 which I estimate to have 
 * circa 714 vocabulary items
 
-The bibtex details
+## Doculects
 
+BED | Dai2004b | Abbreviation | Source | Note on Source
+--- | --- | --- | --- | ---
+Bola | XXX | L | Dai2004b | 
+
+## Notes on Sources
+
+* none 
+
+## Notes on Concept List
+
+* Concepticon: dataset is not yet mapped to the Concepticon
+
+## Notes on Arrangement
+
+The chapter contains
+
+* xxx
+* xxx
+* xxx 
+
+## Notes on Reconstruction
+
+* NA
+
+## Digitization Information
+
+* Digitized by Astrid Otto, delivered on 13 January 2017.
+
+## Notes on Orthography Profile
+
+* Orthography profile has not yet been produced
+
+## The bibtex details
 * Incollection{Dai2004b,
 * Title                    = {Bōlāyŭ},
 * Author                   = {{Dài Qìngxià 戴庆厦} and {博爱兰 Bó Àilán} and {刘菊黄 Liú Júhuáng}},
