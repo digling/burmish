@@ -1,12 +1,48 @@
-This book chapter, of 
-* 31 pages, 
-contains information about the Lashi language. 
+
+## Summary
+
+This book chapter, of 31 pages, contains information about the Lashi language. 
 There is a
 * 18 page vocabulary 
 which I estimate to have 
 * circa 756 vocabulary items
 
-The bibtex details
+## Doculects
+
+BED | Dai2004a | Abbreviation | Source | Note on Source
+--- | --- | --- | --- | ---
+Lashi | XXX | L | Dai2004a | 
+
+## Notes on Sources
+
+* none 
+
+## Notes on Concept List
+
+* Concepticon: dataset is not yet mapped to the Concepticon
+
+## Notes on Arrangement
+
+The chapter contains
+
+* xxx
+* xxx
+* xxx 
+
+## Notes on Reconstruction
+
+* NA
+
+## Digitization Information
+
+* Digitized by Astrid Otto, delivered on 11 January 2017.
+
+## Notes on Orthography Profile
+
+* Orthography profile has not yet been produced
+
+## The bibtex details
+
 * Incollection{Dai2004a,
 * Title                    = {Lèqīyǔ},
 * Author                   = {{Dài Qìngxià 戴庆厦} and {徐悉艰 Xú Xījiān}},
