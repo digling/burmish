@@ -14,7 +14,7 @@ which I estimate to have
 
 BED | Dai1985 | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Achang | XXX | L | Dai1985 | 
+Achang | 阿昌 | L | Dai1985 | 
 
 ## Notes on Sources
 
