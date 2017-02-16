@@ -33,7 +33,7 @@ xxx | Proto-Lolo-Burmese | xxx | Burling1967 |
 
 ## Digitization Information
 
-MHM (Marc Miyake) typed off the data.
+* MHM (Marc Miyake) typed off the data.
 
 ## Notes on Orthography Profile
 
