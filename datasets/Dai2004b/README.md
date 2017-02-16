@@ -10,7 +10,7 @@ which I estimate to have
 
 BED | Dai2004b | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Bola | XXX | L | Dai2004b | 
+Bola | 波拉 | L | Dai2004b | 
 
 ## Notes on Sources
 
