@@ -12,7 +12,7 @@ which has numbered entries, the total is
 
 BED | Inglis2003 | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Achang | Ngochang | A | Inglis | 
+Achang | Ngochang | A | Inglis2003 | 
 
 ## Notes on Sources
 
