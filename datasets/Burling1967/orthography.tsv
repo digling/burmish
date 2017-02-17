@@ -1,0 +1,513 @@
+Grapheme	Segments	Structure	Unicode	Frequency	Reflexes
+²	²	t	U+00b2	284	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+¹	¹	t	U+00b9	145	Proto-Burmish,Proto-Lolo-Burmese,Proto-Lolo
+¹ᵃ	¹ᵃ	t	U+00b9 U+1d43	85	Proto-Lolo,Proto-Lolo-Burmese,Proto-Burmish
+¹ᵇ	¹ᵇ	t	U+00b9 U+1d47	52	Proto-Lolo-Burmese,Proto-Burmish
+³	³	t	U+00b3	45	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+²ᶜ	²ᶜ	t	U+00b2 U+1d9c	23	Proto-Lolo-Burmese,Proto-Burmish
+¹ᶜ	¹ᶜ	t	U+00b9 U+1d9c	1	Proto-Burmish
+aʔ	a ʔ	n c	U+0061 U+0020 U+0294	31	Proto-Lolo-Burmese,Proto-Lolo
+aŋ	a ŋ	n c	U+0061 U+0020 U+014b	26	Proto-Lolo-Burmese,Proto-Burmish
+am	a m	n c	U+0061 U+0020 U+006d	23	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+um	u m	n c	U+0075 U+0020 U+006d	19	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+oʔ	o ʔ	n c	U+006f U+0020 U+0294	13	Proto-Lolo
+oŋ	o ŋ	n c	U+006f U+0020 U+014b	13	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+yiŋ	yi ŋ	n c	U+0079 U+0069 U+0020 U+014b	11	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+iŋ	i ŋ	n c	U+0069 U+0020 U+014b	10	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+yaŋ	ya ŋ	n c	U+0079 U+0061 U+0020 U+014b	9	Proto-Lolo-Burmese,Proto-Burmish
+eʔ	e ʔ	n c	U+0065 U+0020 U+0294	7	Proto-Lolo
+yaʔ	ya ʔ	n c	U+0079 U+0061 U+0020 U+0294	7	Proto-Lolo,Proto-Lolo-Burmese
+ut	u t	n c	U+0075 U+0020 U+0074	6	Proto-Lolo-Burmese,Proto-Lolo
+an	a n	n c	U+0061 U+0020 U+006e	6	Proto-Burmish
+un	u n	n c	U+0075 U+0020 U+006e	6	Proto-Burmish
+uʔ	u ʔ	n c	U+0075 U+0020 U+0294	5	Proto-Lolo
+ok	o k	n c	U+006f U+0020 U+006b	4	Proto-Lolo-Burmese
+yok	yo k	n c	U+0079 U+006f U+0020 U+006b	4	Proto-Lolo-Burmese
+at	a t	n c	U+0061 U+0020 U+0074	4	Proto-Lolo-Burmese
+yan	ya n	n c	U+0079 U+0061 U+0020 U+006e	3	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+yum	yu m	n c	U+0079 U+0075 U+0020 U+006d	3	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+yoŋ	yo ŋ	n c	U+0079 U+006f U+0020 U+014b	3	Proto-Lolo-Burmese,Proto-Burmish
+yam	ya m	n c	U+0079 U+0061 U+0020 U+006d	2	Proto-Lolo-Burmese,Proto-Burmish
+lV	l V	n c	U+006c U+0020 U+0056	2	Proto-Burmish
+yap	ya p	n c	U+0079 U+0061 U+0020 U+0070	2	Proto-Lolo-Burmese,Proto-Lolo
+āmt	ā mt	n c	U+0101 U+0020 U+006d U+0074	1	Maru
+úŋk	ú ŋk	n c	U+00fa U+0020 U+014b U+006b	1	Atsi
+ap	a p	n c	U+0061 U+0020 U+0070	1	Proto-Lolo-Burmese
+yut	yu t	n c	U+0079 U+0075 U+0020 U+0074	1	Proto-Lolo
+yeʔ	ye ʔ	n c	U+0079 U+0065 U+0020 U+0294	1	Proto-Lolo
+yákḿ	yá kḿ	n c	U+0079 U+00e1 U+0020 U+006b U+1e3f	1	Akha
+ùmk	ù mk	n c	U+00f9 U+0020 U+006d U+006b	1	Maru
+yoʔ	yo ʔ	n c	U+0079 U+006f U+0020 U+0294	1	Proto-Lolo
+up	u p	n c	U+0075 U+0020 U+0070	1	Proto-Lolo-Burmese
+yuʔ	yu ʔ	n c	U+0079 U+0075 U+0020 U+0294	1	Proto-Lolo
+yup	yu p	n c	U+0079 U+0075 U+0020 U+0070	1	Proto-Lolo-Burmese
+ìnt	ì nt	n c	U+00ec U+0020 U+006e U+0074	1	Maru
+uʔc	u ʔc	n c	U+0075 U+0020 U+0294 U+0063	1	Atsi
+utC	u tC	n c	U+0075 U+0020 U+0074 U+0043	1	Proto-Burmish
+a	a	n	U+0061	114	Lisu,Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+à	à	n	U+00e0	70	Atsi,Rangoon,Maru,Lisu,Akha
+o	o	n	U+006f	66	Lisu,Atsi,Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+ă	ă	n	U+0103	50	Lisu,Atsi,Maru,Rangoon
+á	á	n	U+00e1	44	Atsi,Maru,Rangoon,Lisu,Akha
+ei	ei	n	U+0065 U+0069	43	Rangoon,Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+u	u	n	U+0075	36	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+e	e	n	U+0065	35	Rangoon,Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
+â	â	n	U+00e2	34	Lisu,Rangoon
+ya	ya	n	U+0079 U+0061	32	Lisu,Maru,Akha,Proto-Lolo,Proto-Lolo-Burmese,Proto-Burmish
+i	i	n	U+0069	32	Atsi,Maru,Lisu,Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+ò	ò	n	U+00f2	31	Maru,Atsi
+ù	ù	n	U+00f9	27	Rangoon,Akha,Maru,Atsi,Lisu
+ú	ú	n	U+00fa	26	Maru,Lisu,Akha,Rangoon,Atsi
+ì	ì	n	U+00ec	25	Maru,Rangoon,Lisu,Atsi,Akha
+ā	ā	n	U+0101	24	Akha,Maru,Lisu
+ɔ	ɔ	n	U+0254	19	Proto-Lolo
+ô	ô	n	U+00f4	18	Lisu,Atsi
+í	í	n	U+00ed	17	Lisu,Maru,Atsi,Rangoon,Akha
+ō	ō	n	U+014d	15	Lisu,Akha,Atsi,Maru
+è	è	n	U+00e8	15	Akha,Rangoon,Atsi,Maru
+û	û	n	U+00fb	14	Atsi,Lisu,Rangoon
+î	î	n	U+00ee	14	Akha,Lisu,Rangoon
+ū	ū	n	U+016b	14	Akha,Maru,Atsi,Lisu
+é	é	n	U+00e9	14	Maru,Akha,Atsi,Rangoon
+ê	ê	n	U+00ea	13	Lisu,Atsi,Rangoon
+ə	ə	n	U+0259	13	Proto-Burmish,Proto-Lolo-Burmese,Proto-Lolo
+ó	ó	n	U+00f3	12	Maru,Atsi
+yo	yo	n	U+0079 U+006f	12	Proto-Lolo-Burmese,Atsi,Proto-Lolo,Proto-Burmish
+ɔ́	ɔ́	n	U+0254 U+0301	11	Akha
+ɔ̀	ɔ̀	n	U+0254 U+0300	11	Lisu,Akha
+ə̀	ə̀	n	U+0259 U+0300	10	Lisu
+ī	ī	n	U+012b	9	Lisu,Atsi,Maru
+ɔ̄	ɔ̄	n	U+0254 U+0304	9	Akha,Lisu
+yí	yí	n	U+0079 U+00ed	9	Atsi,Rangoon,Lisu
+yu	yu	n	U+0079 U+0075	9	Atsi,Akha,Proto-Lolo,Proto-Lolo-Burmese,Proto-Burmish
+ø̀	ø̀	n	U+00f8 U+0300	9	Akha
+ù̸	ù̸	n	U+00f9 U+0338	8	Lisu
+áu	áu	n	U+00e1 U+0075	8	Maru,Atsi
+yi	yi	n	U+0079 U+0069	8	Lisu,Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+yok	yok	n	U+0079 U+006f U+006b	6	Maru,Proto-Burmish
+yei	yei	n	U+0079 U+0065 U+0069	6	Proto-Burmish
+yá	yá	n	U+0079 U+00e1	6	Akha,Rangoon
+yò	yò	n	U+0079 U+00f2	5	Atsi,Maru
+ap	ap	n	U+0061 U+0070	5	Maru,Proto-Burmish,Atsi
+y	y	n	U+0079	5	Proto-Lolo-Burmese,Proto-Burmish,Rangoon
+û̸	û̸	n	U+00fb U+0338	5	Lisu
+ū̸	ū̸	n	U+016b U+0338	5	Lisu
+yuʔ	yuʔ	n	U+0079 U+0075 U+0294	5	Atsi
+ôu	ôu	n	U+00f4 U+0075	5	Rangoon
+yú	yú	n	U+0079 U+00fa	5	Akha,Rangoon
+âun	âun	n	U+00e2 U+0075 U+006e	4	Rangoon
+yɔ̄	yɔ̄	n	U+0079 U+0254 U+0304	4	Akha
+ôun	ôun	n	U+00f4 U+0075 U+006e	4	Rangoon
+aʔ	aʔ	n	U+0061 U+0294	4	Proto-Burmish,Rangoon
+úi	úi	n	U+00fa U+0069	4	Atsi
+ǐ	ǐ	n	U+01d0	4	Lisu
+óun	óun	n	U+00f3 U+0075 U+006e	4	Rangoon
+at	at	n	U+0061 U+0074	4	Proto-Burmish,Maru
+àu	àu	n	U+00e0 U+0075	3	Atsi,Maru
+æ̂	æ̂	n	U+00e6 U+0302	3	Lisu
+eʔ	eʔ	n	U+0065 U+0294	3	Rangoon,Maru
+ø̄	ø̄	n	U+00f8 U+0304	3	Lisu,Akha
+ē	ē	n	U+0113	3	Lisu,Maru
+āu	āu	n	U+0101 U+0075	3	Maru
+ăk	ăk	n	U+0103 U+006b	3	Atsi,Maru
+òk	òk	n	U+00f2 U+006b	3	Maru
+án	án	n	U+00e1 U+006e	3	Atsi,Rangoon
+ìt	ìt	n	U+00ec U+0074	3	Maru
+yup	yup	n	U+0079 U+0075 U+0070	3	Atsi,Proto-Burmish
+yap	yap	n	U+0079 U+0061 U+0070	3	Proto-Burmish,Maru,Atsi
+ə́	ə́	n	U+0259 U+0301	3	Lisu
+yà	yà	n	U+0079 U+00e0	3	Rangoon,Maru
+yauʔ	yauʔ	n	U+0079 U+0061 U+0075 U+0294	3	Rangoon
+ut	ut	n	U+0075 U+0074	3	Atsi,Proto-Burmish
+yì	yì	n	U+0079 U+00ec	3	Atsi,Maru
+yaʔ	yaʔ	n	U+0079 U+0061 U+0294	3	Lisu,Proto-Burmish,Rangoon
+it	it	n	U+0069 U+0074	3	Atsi,Proto-Burmish
+yī	yī	n	U+0079 U+012b	2	Atsi,Maru
+ok	ok	n	U+006f U+006b	2	Proto-Burmish
+òŋ	òŋ	n	U+00f2 U+014b	2	Maru
+auʔ	auʔ	n	U+0061 U+0075 U+0294	2	Rangoon
+oʔ	oʔ	n	U+006f U+0294	2	Atsi,Maru
+yúi	yúi	n	U+0079 U+00fa U+0069	2	Atsi
+u̸	u̸	n	U+0075 U+0338	2	Lisu
+ouʔ	ouʔ	n	U+006f U+0075 U+0294	2	Rangoon
+òʔ	òʔ	n	U+00f2 U+0294	2	Maru
+àyɛ̀ʔ	àyɛ̀ʔ	n	U+00e0 U+0079 U+025b U+0300 U+0294	2	Akha
+yiʔ	yiʔ	n	U+0079 U+0069 U+0294	2	Lisu
+éi	éi	n	U+00e9 U+0069	2	Rangoon
+ə̄	ə̄	n	U+0259 U+0304	2	Lisu
+yə	yə	n	U+0079 U+0259	2	Proto-Lolo-Burmese
+êi	êi	n	U+00ea U+0069	2	Rangoon
+ùʔ	ùʔ	n	U+00f9 U+0294	2	Maru
+óu	óu	n	U+00f3 U+0075	2	Rangoon
+yòk	yòk	n	U+0079 U+00f2 U+006b	2	Maru
+ăs	ăs	n	U+0103 U+0073	2	Rangoon
+ùk	ùk	n	U+00f9 U+006b	2	Maru
+yoʔ	yoʔ	n	U+0079 U+006f U+0294	2	Atsi,Proto-Lolo
+yeʔ	yeʔ	n	U+0079 U+0065 U+0294	2	Rangoon
+îŋ	îŋ	n	U+00ee U+014b	2	Atsi
+yíŋ	yíŋ	n	U+0079 U+00ed U+014b	2	Atsi
+ə̂	ə̂	n	U+0259 U+0302	2	Lisu
+yù	yù	n	U+0079 U+00f9	2	Maru
+áŋ	áŋ	n	U+00e1 U+014b	2	Maru,Atsi
+yɔ	yɔ	n	U+0079 U+0254	2	Akha,Proto-Lolo
+ōŋ	ōŋ	n	U+014d U+014b	2	Maru
+ɛ̀	ɛ̀	n	U+025b U+0300	2	Akha
+ùŋ	ùŋ	n	U+00f9 U+014b	2	Atsi
+uk	uk	n	U+0075 U+006b	1	Maru
+yàŋ	yàŋ	n	U+0079 U+00e0 U+014b	1	Atsi
+yā	yā	n	U+0079 U+0101	1	Maru
+yɔ̄d	yɔ̄d	n	U+0079 U+0254 U+0304 U+0064	1	Akha
+ăyôu	ăyôu	n	U+0103 U+0079 U+00f4 U+0075	1	Rangoon
+é̸	é̸	n	U+00e9 U+0338	1	Akha
+ùic	ùic	n	U+00f9 U+0069 U+0063	1	Atsi
+yín	yín	n	U+0079 U+00ed U+006e	1	Rangoon
+ìk	ìk	n	U+00ec U+006b	1	Atsi
+ì̸	ì̸	n	U+00ec U+0338	1	Akha
+ǎ	ǎ	n	U+01ce	1	Lisu
+yāūʔ	yāūʔ	n	U+0079 U+0101 U+016b U+0294	1	Akha
+yɛ̀ʔ	yɛ̀ʔ	n	U+0079 U+025b U+0300 U+0294	1	Akha
+ín	ín	n	U+00ed U+006e	1	Rangoon
+ye	ye	n	U+0079 U+0065	1	Rangoon
+yô	yô	n	U+0079 U+00f4	1	Atsi
+yùi	yùi	n	U+0079 U+00f9 U+0069	1	Atsi
+yuk	yuk	n	U+0079 U+0075 U+006b	1	Maru
+áyɛ̄ʔ	áyɛ̄ʔ	n	U+00e1 U+0079 U+025b U+0304 U+0294	1	Akha
+yø̄	yø̄	n	U+0079 U+00f8 U+0304	1	Lisu
+ɨ́	ɨ́	n	U+0268 U+0301	1	Akha
+īŋ	īŋ	n	U+012b U+014b	1	Atsi
+ûi	ûi	n	U+00fb U+0069	1	Atsi
+ɨ̄	ɨ̄	n	U+0268 U+0304	1	Akha
+ái	ái	n	U+00e1 U+0069	1	Atsi
+yâŋ	yâŋ	n	U+0079 U+00e2 U+014b	1	Atsi
+ìn	ìn	n	U+00ec U+006e	1	Rangoon
+àŋ	àŋ	n	U+00e0 U+014b	1	Atsi
+în	în	n	U+00ee U+006e	1	Rangoon
+yúm	yúm	n	U+0079 U+00fa U+006d	1	Atsi
+yàm	yàm	n	U+0079 U+00e0 U+006d	1	Maru
+éin	éin	n	U+00e9 U+0069 U+006e	1	Rangoon
+ɔ̄ú	ɔ̄ú	n	U+0254 U+0304 U+00fa	1	Akha
+yó	yó	n	U+0079 U+00f3	1	Atsi
+yâ	yâ	n	U+0079 U+00e2	1	Rangoon
+ʌ́	ʌ́	n	U+028c U+0301	1	Lisu
+yûi	yûi	n	U+0079 U+00fb U+0069	1	Atsi
+yóu	yóu	n	U+0079 U+00f3 U+0075	1	Rangoon
+yòʔ	yòʔ	n	U+0079 U+00f2 U+0294	1	Maru
+yìn	yìn	n	U+0079 U+00ec U+006e	1	Rangoon
+éʔ	éʔ	n	U+00e9 U+0294	1	Maru
+ʌ̌	ʌ̌	n	U+028c U+030c	1	Lisu
+æ	æ	n	U+00e6	1	Lisu
+yø̂	yø̂	n	U+0079 U+00f8 U+0302	1	Lisu
+ɛ́	ɛ́	n	U+025b U+0301	1	Akha
+āʔ	āʔ	n	U+0101 U+0294	1	Akha
+óʔ	óʔ	n	U+00f3 U+0294	1	Maru
+ún	ún	n	U+00fa U+006e	1	Atsi
+ùm	ùm	n	U+00f9 U+006d	1	Atsi
+ɔ̌	ɔ̌	n	U+0254 U+030c	1	Lisu
+âŋ	âŋ	n	U+00e2 U+014b	1	Atsi
+yø̀	yø̀	n	U+0079 U+00f8 U+0300	1	Akha
+ùi	ùi	n	U+00f9 U+0069	1	Atsi
+ɔ̀n	ɔ̀n	n	U+0254 U+0300 U+006e	1	Akha
+úŋ	úŋ	n	U+00fa U+014b	1	Atsi
+yâun	yâun	n	U+0079 U+00e2 U+0075 U+006e	1	Rangoon
+àm	àm	n	U+00e0 U+006d	1	Atsi
+īn	īn	n	U+012b U+006e	1	Maru
+æ̌	æ̌	n	U+00e6 U+030c	1	Lisu
+yɔ́	yɔ́	n	U+0079 U+0254 U+0301	1	Akha
+ók	ók	n	U+00f3 U+006b	1	Maru
+ăyéi	ăyéi	n	U+0103 U+0079 U+00e9 U+0069	1	Rangoon
+yùʔ	yùʔ	n	U+0079 U+00f9 U+0294	1	Akha
+yàp	yàp	n	U+0079 U+00e0 U+0070	1	Maru
+ám	ám	n	U+00e1 U+006d	1	Atsi
+ǔ̸	ǔ̸	n	U+01d4 U+0338	1	Lisu
+ɔ̀yɔ̀	ɔ̀yɔ̀	n	U+0254 U+0300 U+0079 U+0254 U+0300	1	Akha
+yèʔ	yèʔ	n	U+0079 U+00e8 U+0294	1	Maru
+óyèʔ	óyèʔ	n	U+00f3 U+0079 U+00e8 U+0294	1	Maru
+òu	òu	n	U+00f2 U+0075	1	Rangoon
+yôun	yôun	n	U+0079 U+00f4 U+0075 U+006e	1	Rangoon
+ûŋ	ûŋ	n	U+00fb U+014b	1	Atsi
+áun	áun	n	U+00e1 U+0075 U+006e	1	Rangoon
+up	up	n	U+0075 U+0070	1	Proto-Burmish
+yũi	yũi	n	U+0079 U+0169 U+0069	1	Atsi
+yáun	yáun	n	U+0079 U+00e1 U+0075 U+006e	1	Rangoon
+yû	yû	n	U+0079 U+00fb	1	Atsi
+í̸	í̸	n	U+00ed U+0338	1	Akha
+yán	yán	n	U+0079 U+00e1 U+006e	1	Rangoon
+yéi	yéi	n	U+0079 U+00e9 U+0069	1	Rangoon
+ou	ou	n	U+006f U+0075	1	Rangoon
+w	w	m	U+0077	66	Lisu,Proto-Lolo-Burmese,Proto-Lolo,Maru,Proto-Burmish,Rangoon
+j	j	m	U+006a	12	Lisu,Proto-Lolo,Rangoon,Akha
+wʔ	wʔ	m	U+0077 U+0294	2	Proto-Lolo-Burmese,Proto-Burmish
+m̀	m̀	m	U+006d U+0300	1	Akha
+wʔe	wʔe	m	U+0077 U+0294 U+0065	1	Maru
+ts	t s	i m	U+0074 U+0020 U+0073	130	Akha,Lisu,Proto-Lolo,Proto-Lolo-Burmese,Maru,Proto-Burmish,Atsi
+kh	k h	i m	U+006b U+0020 U+0068	88	Proto-Lolo,Lisu,Proto-Lolo-Burmese,Rangoon,Maru,Proto-Burmish,Atsi
+ph	p h	i m	U+0070 U+0020 U+0068	80	Proto-Lolo-Burmese,Lisu,Maru,Rangoon,Proto-Lolo,Proto-Burmish,Atsi
+ch	c h	i m	U+0063 U+0020 U+0068	76	Proto-Lolo-Burmese,Proto-Burmish,Lisu,Maru,Proto-Lolo,Atsi,Rangoon
+th	t h	i m	U+0074 U+0020 U+0068	56	Lisu,Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish,Maru,Rangoon,Atsi
+nʔ	n ʔ	i m	U+006e U+0020 U+0294	30	Proto-Lolo-Burmese,Atsi,Proto-Lolo,Maru,Proto-Burmish
+mʔ	m ʔ	i m	U+006d U+0020 U+0294	28	Proto-Lolo-Burmese,Proto-Lolo,Atsi,Maru,Proto-Burmish
+dz	d z	i m	U+0064 U+0020 U+007a	15	Akha,Lisu,Proto-Lolo
+sh	s h	i m	U+0073 U+0020 U+0068	14	Rangoon
+my	m y	i m	U+006d U+0020 U+0079	13	Maru,Atsi,Rangoon
+khw	k hw	i m	U+006b U+0020 U+0068 U+0077	10	Lisu,Atsi,Proto-Lolo-Burmese,Rangoon,Proto-Burmish
+lʔ	l ʔ	i m	U+006c U+0020 U+0294	10	Proto-Lolo-Burmese,Maru,Proto-Lolo,Proto-Burmish,Atsi
+tʔ	t ʔ	i m	U+0074 U+0020 U+0294	9	Proto-Lolo-Burmese,Atsi,Maru,Proto-Burmish
+k̯h	k̯ h	i m	U+006b U+032f U+0020 U+0068	9	Proto-Lolo
+pʔ	p ʔ	i m	U+0070 U+0020 U+0294	9	Atsi,Proto-Lolo-Burmese,Maru,Proto-Burmish
+ḳh	ḳ h	i m	U+1e33 U+0020 U+0068	7	Proto-Lolo
+hm	h m	i m	U+0068 U+0020 U+006d	7	Rangoon
+hn	h n	i m	U+0068 U+0020 U+006e	7	Rangoon
+kʔ	k ʔ	i m	U+006b U+0020 U+0294	7	Atsi,Proto-Burmish
+cʔ	c ʔ	i m	U+0063 U+0020 U+0294	7	Maru,Atsi,Proto-Burmish
+khy	k hy	i m	U+006b U+0020 U+0068 U+0079	7	Atsi,Maru
+ʔl	ʔ l	i m	U+0294 U+0020 U+006c	6	Lisu,Akha,Atsi
+ŋʔ	ŋ ʔ	i m	U+014b U+0020 U+0294	6	Atsi,Maru,Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+ŋw	ŋ w	i m	U+014b U+0020 U+0077	5	Lisu
+nw	n w	i m	U+006e U+0020 U+0077	5	Maru,Proto-Burmish,Rangoon
+ʔm	ʔ m	i m	U+0294 U+0020 U+006d	5	Akha,Rangoon,Lisu
+ʔs	ʔ s	i m	U+0294 U+0020 U+0073	5	Atsi,Rangoon,Maru
+sw	s w	i m	U+0073 U+0020 U+0077	4	Proto-Lolo-Burmese,Rangoon,Proto-Burmish
+hl	h l	i m	U+0068 U+0020 U+006c	4	Rangoon
+phw	p hw	i m	U+0070 U+0020 U+0068 U+0077	4	Proto-Lolo-Burmese,Proto-Burmish,Rangoon
+thw	t hw	i m	U+0074 U+0020 U+0068 U+0077	4	Proto-Burmish,Rangoon
+kw	k w	i m	U+006b U+0020 U+0077	4	Maru,Lisu
+py	p y	i m	U+0070 U+0020 U+0079	4	Akha,Maru,Atsi
+mw	m w	i m	U+006d U+0020 U+0077	4	Proto-Burmish,Rangoon
+γw	γ w	i m	U+03b3 U+0020 U+0077	3	Proto-Burmish
+kγ	k γ	i m	U+006b U+0020 U+03b3	3	Proto-Lolo-Burmese,Proto-Burmish
+hŋ	h ŋ	i m	U+0068 U+0020 U+014b	3	Rangoon
+sl	s l	i m	U+0073 U+0020 U+006c	3	Proto-Lolo-Burmese,Proto-Burmish
+ny	n y	i m	U+006e U+0020 U+0079	3	Atsi,Rangoon,Maru
+thl	t hl	i m	U+0074 U+0020 U+0068 U+006c	3	Proto-Burmish
+tl	t l	i m	U+0074 U+0020 U+006c	3	Atsi,Proto-Burmish
+kl	k l	i m	U+006b U+0020 U+006c	3	Proto-Lolo-Burmese,Proto-Burmish
+shú	s hú	i m	U+0073 U+0020 U+0068 U+00fa	2	Rangoon
+cʔí	c ʔí	i m	U+0063 U+0020 U+0294 U+00ed	2	Atsi
+ʔš	ʔ š	i m	U+0294 U+0020 U+0161	2	Lisu,Maru
+cw	c w	i m	U+0063 U+0020 U+0077	2	Rangoon
+phy	p hy	i m	U+0070 U+0020 U+0068 U+0079	2	Atsi,Rangoon
+ky	k y	i m	U+006b U+0020 U+0079	2	Maru
+shé	s hé	i m	U+0073 U+0020 U+0068 U+00e9	2	Rangoon
+lw	l w	i m	U+006c U+0020 U+0077	2	Proto-Burmish,Rangoon
+pʔò	p ʔò	i m	U+0070 U+0020 U+0294 U+00f2	2	Maru,Atsi
+pw	p w	i m	U+0070 U+0020 U+0077	2	Proto-Burmish
+pʔō	p ʔō	i m	U+0070 U+0020 U+0294 U+014d	2	Maru
+xw	x w	i m	U+0078 U+0020 U+0077	2	Lisu
+tʔú	t ʔú	i m	U+0074 U+0020 U+0294 U+00fa	1	Atsi
+mʔí	m ʔí	i m	U+006d U+0020 U+0294 U+00ed	1	Maru
+nʔáu	n ʔáu	i m	U+006e U+0020 U+0294 U+00e1 U+0075	1	Atsi
+θw	θ w	i m	U+03b8 U+0020 U+0077	1	Rangoon
+lʔái	l ʔái	i m	U+006c U+0020 U+0294 U+00e1 U+0069	1	Atsi
+lʔà	l ʔà	i m	U+006c U+0020 U+0294 U+00e0	1	Maru
+ŋʔó	ŋ ʔó	i m	U+014b U+0020 U+0294 U+00f3	1	Atsi
+ŋʔō	ŋ ʔō	i m	U+014b U+0020 U+0294 U+014d	1	Maru
+ŋl	ŋ l	i m	U+014b U+0020 U+006c	1	Maru
+klw	k lw	i m	U+006b U+0020 U+006c U+0077	1	Proto-Burmish
+/kh	/ kh	i m	U+002f U+0020 U+006b U+0068	1	Proto-Burmish
+pm	p m	i m	U+0070 U+0020 U+006d	1	Maru
+pʔô	p ʔô	i m	U+0070 U+0020 U+0294 U+00f4	1	Atsi
+ʔn	ʔ n	i m	U+0294 U+0020 U+006e	1	Akha
+cʔó	c ʔó	i m	U+0063 U+0020 U+0294 U+00f3	1	Maru
+hny	h ny	i m	U+0068 U+0020 U+006e U+0079	1	Rangoon
+kš	k š	i m	U+006b U+0020 U+0161	1	Maru
+cʔì	c ʔì	i m	U+0063 U+0020 U+0294 U+00ec	1	Maru
+ʔny	ʔ ny	i m	U+0294 U+0020 U+006e U+0079	1	Maru
+/š	/ š	i m	U+002f U+0020 U+0161	1	Proto-Burmish
+ŋʔo	ŋ ʔo	i m	U+014b U+0020 U+0294 U+006f	1	Maru
+nɂó	n ɂó	i m	U+006e U+0020 U+0242 U+00f3	1	Atsi
+nʔò	n ʔò	i m	U+006e U+0020 U+0294 U+00f2	1	Maru
+ʔθ	ʔ θ	i m	U+0294 U+0020 U+03b8	1	Rangoon
+tʔó	t ʔó	i m	U+0074 U+0020 U+0294 U+00f3	1	Atsi
+tʔō	t ʔō	i m	U+0074 U+0020 U+0294 U+014d	1	Maru
+pʔyú	p ʔyú	i m	U+0070 U+0020 U+0294 U+0079 U+00fa	1	Atsi
+shâ	s hâ	i m	U+0073 U+0020 U+0068 U+00e2	1	Rangoon
+nʔyi	n ʔyi	i m	U+006e U+0020 U+0294 U+0079 U+0069	1	Atsi
+/mw	/ mw	i m	U+002f U+0020 U+006d U+0077	1	Proto-Burmish
+chw	c hw	i m	U+0063 U+0020 U+0068 U+0077	1	Rangoon
+sm̀	s m̀	i m	U+0073 U+0020 U+006d U+0300	1	Akha
+tsw	t sw	i m	U+0074 U+0020 U+0073 U+0077	1	Proto-Burmish
+m	m	i	U+006d	195	Proto-Lolo-Burmese,Rangoon,Akha,Maru,Proto-Lolo,Lisu,Atsi,Proto-Burmish
+l	l	i	U+006c	126	Proto-Lolo-Burmese,Akha,Proto-Lolo,Lisu,Maru,Proto-Burmish,Rangoon,Atsi
+n	n	i	U+006e	124	Proto-Lolo-Burmese,Maru,Akha,Proto-Lolo,Rangoon,Atsi,Proto-Burmish,Lisu
+p	p	i	U+0070	95	Proto-Lolo,Lisu,Akha,Proto-Lolo-Burmese,Maru,Atsi,Rangoon,Proto-Burmish
+h	h	i	U+0068	86	Rangoon,Akha,Proto-Lolo-Burmese,Lisu,Proto-Lolo,Maru,Atsi,Proto-Burmish
+s	s	i	U+0073	81	Proto-Lolo-Burmese,Akha,Lisu,Maru,Rangoon,Proto-Burmish,Proto-Lolo,Atsi
+t	t	i	U+0074	80	Proto-Lolo,Lisu,Proto-Lolo-Burmese,Akha,Rangoon,Atsi,Maru,Proto-Burmish
+k	k	i	U+006b	64	Lisu,Akha,Proto-Lolo-Burmese,Rangoon,Maru,Atsi,Proto-Burmish
+š	š	i	U+0161	53	Lisu,Proto-Lolo,Proto-Lolo-Burmese,Akha,Rangoon,Proto-Burmish,Maru,Atsi
+γ	γ	i	U+03b3	50	Lisu,Proto-Lolo-Burmese,Akha,Proto-Lolo,Proto-Burmish,Maru
+b	b	i	U+0062	43	Rangoon,Lisu,Akha,Proto-Lolo
+d	d	i	U+0064	39	Lisu,Proto-Lolo,Akha
+ʔ	ʔ	i	U+0294	38	Rangoon,Akha,Proto-Lolo-Burmese,Proto-Burmish,Maru,Atsi
+c	c	i	U+0063	36	Lisu,Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish,Maru,Atsi,Akha,Rangoon
+ŋ	ŋ	i	U+014b	35	Lisu,Proto-Lolo,Proto-Lolo-Burmese,Akha,Maru,Atsi,Proto-Burmish,Rangoon
+v	v	i	U+0076	30	Atsi
+θ	θ	i	U+03b8	18	Rangoon
+z	z	i	U+007a	13	Rangoon,Akha
+x	x	i	U+0078	11	Akha
+g	g	i	U+0067	9	Rangoon,Lisu,Akha
+ř	ř	i	U+0159	7	Lisu
+g̯	g̯	i	U+0067 U+032f	6	Proto-Lolo
+g̣	g̣	i	U+0067 U+0323	3	Proto-Lolo
+kk	kk	i	U+006b U+006b	2	Maru
+/	/	i	U+002f	2	Proto-Lolo
+r	r	i	U+0072	1	Atsi
+ŋǿ	ŋǿ	i	U+014b U+01ff	1	Akha
+f	f	i	U+0066	1	Lisu
+nǿ	nǿ	i	U+006e U+01ff	1	Akha
+tt	tt	i	U+0074 U+0074	1	Atsi
+lḿ	lḿ	i	U+006c U+1e3f	1	Akha
+šḿ	šḿ	i	U+0161 U+1e3f	1	Akha
+nn	nn	i	U+006e U+006e	1	Rangoon
+ḳ	ḳ	i	U+1e33	1	Proto-Lolo
+cǿ	cǿ	i	U+0063 U+01ff	1	Akha
+aʔ	aʔ	c	U+0061 U+0294	29	Atsi,Rangoon,Proto-Burmish
+oʔ	oʔ	c	U+006f U+0294	28	Lisu,Maru,Atsi
+eʔ	eʔ	c	U+0065 U+0294	27	Atsi,Lisu,Rangoon
+ut	ut	c	U+0075 U+0074	19	Proto-Burmish,Atsi
+àu	àu	c	U+00e0 U+0075	18	Atsi,Maru
+ôu	ôu	c	U+00f4 U+0075	17	Rangoon
+auʔ	auʔ	c	U+0061 U+0075 U+0294	16	Rangoon
+ok	ok	c	U+006f U+006b	14	Maru,Proto-Burmish
+òʔ	òʔ	c	U+00f2 U+0294	13	Akha,Maru
+uʔ	uʔ	c	U+0075 U+0294	13	Rangoon,Atsi
+ouʔ	ouʔ	c	U+006f U+0075 U+0294	12	Rangoon
+àŋ	àŋ	c	U+00e0 U+014b	12	Atsi,Maru
+ìn	ìn	c	U+00ec U+006e	11	Maru
+êi	êi	c	U+00ea U+0069	11	Rangoon
+at	at	c	U+0061 U+0074	11	Maru,Atsi,Proto-Burmish
+yì	yì	c	U+0079 U+00ec	11	Lisu,Akha,Maru,Rangoon,Atsi
+up	up	c	U+0075 U+0070	10	Proto-Lolo-Burmese,Proto-Burmish,Atsi
+úk	úk	c	U+00fa U+006b	10	Maru
+ín	ín	c	U+00ed U+006e	10	Atsi,Maru,Rangoon
+āʔ	āʔ	c	U+0101 U+0294	9	Akha
+ùk	ùk	c	U+00f9 U+006b	8	Maru
+ún	ún	c	U+00fa U+006e	8	Atsi,Rangoon
+áŋ	áŋ	c	U+00e1 U+014b	8	Maru,Atsi
+ûi	ûi	c	U+00fb U+0069	8	Atsi
+ùm	ùm	c	U+00f9 U+006d	8	Maru,Atsi
+ân	ân	c	U+00e2 U+006e	7	Atsi,Rangoon
+ɔ̀ʔ	ɔ̀ʔ	c	U+0254 U+0300 U+0294	7	Akha
+yò	yò	c	U+0079 U+00f2	7	Maru,Atsi
+éi	éi	c	U+00e9 U+0069	7	Rangoon
+àʔ	àʔ	c	U+00e0 U+0294	7	Akha
+ik	ik	c	U+0069 U+006b	7	Atsi,Proto-Burmish
+ùi	ùi	c	U+00f9 U+0069	7	Atsi
+àm	àm	c	U+00e0 U+006d	7	Atsi,Maru
+án	án	c	U+00e1 U+006e	7	Rangoon
+āu	āu	c	U+0101 U+0075	6	Atsi,Maru
+yà	yà	c	U+0079 U+00e0	6	Akha,Maru,Rangoon,Lisu
+ap	ap	c	U+0061 U+0070	6	Proto-Lolo,Proto-Burmish,Atsi
+yaʔ	yaʔ	c	U+0079 U+0061 U+0294	6	Proto-Burmish
+iʔ	iʔ	c	U+0069 U+0294	6	Rangoon
+în	în	c	U+00ee U+006e	6	Rangoon
+ɛ̀ʔ	ɛ̀ʔ	c	U+025b U+0300 U+0294	5	Akha
+āŋ	āŋ	c	U+0101 U+014b	5	Maru,Atsi
+òŋ	òŋ	c	U+00f2 U+014b	5	Maru
+òk	òk	c	U+00f2 U+006b	5	Maru
+ûŋ	ûŋ	c	U+00fb U+014b	5	Atsi
+yoʔ	yoʔ	c	U+0079 U+006f U+0294	5	Maru,Atsi
+óu	óu	c	U+00f3 U+0075	5	Rangoon
+yok	yok	c	U+0079 U+006f U+006b	5	Maru,Proto-Burmish
+ám	ám	c	U+00e1 U+006d	5	Atsi
+yó	yó	c	U+0079 U+00f3	5	Maru,Atsi
+ām	ām	c	U+0101 U+006d	4	Atsi,Maru
+âu	âu	c	U+00e2 U+0075	4	Atsi
+yō	yō	c	U+0079 U+014d	4	Maru
+yâ	yâ	c	U+0079 U+00e2	4	Lisu,Rangoon
+yî	yî	c	U+0079 U+00ee	4	Lisu,Atsi
+áun	áun	c	U+00e1 U+0075 U+006e	4	Atsi,Rangoon
+ûm	ûm	c	U+00fb U+006d	4	Atsi
+úm	úm	c	U+00fa U+006d	4	Atsi
+âm	âm	c	U+00e2 U+006d	4	Atsi
+ài	ài	c	U+00e0 U+0069	4	Maru,Atsi
+âŋ	âŋ	c	U+00e2 U+014b	4	Atsi
+éʔ	éʔ	c	U+00e9 U+0294	4	Maru
+yā	yā	c	U+0079 U+0101	4	Lisu,Akha,Maru
+īn	īn	c	U+012b U+006e	4	Maru
+æʔ	æʔ	c	U+00e6 U+0294	4	Lisu
+óʔ	óʔ	c	U+00f3 U+0294	4	Maru
+ûn	ûn	c	U+00fb U+006e	4	Atsi,Rangoon
+ùʔ	ùʔ	c	U+00f9 U+0294	4	Maru,Akha
+àn	àn	c	U+00e0 U+006e	3	Maru,Atsi
+yiʔ	yiʔ	c	U+0079 U+0069 U+0294	3	Rangoon
+ōi	ōi	c	U+014d U+0069	3	Maru
+ɔ̄ʔ	ɔ̄ʔ	c	U+0254 U+0304 U+0294	3	Akha
+òi	òi	c	U+00f2 U+0069	3	Maru
+èi	èi	c	U+00e8 U+0069	3	Rangoon
+yuʔ	yuʔ	c	U+0079 U+0075 U+0294	3	Atsi
+îŋ	îŋ	c	U+00ee U+014b	3	Atsi
+yít	yít	c	U+0079 U+00ed U+0074	3	Maru
+it	it	c	U+0069 U+0074	3	Proto-Burmish,Atsi,Maru
+ít	ít	c	U+00ed U+0074	3	Maru
+ɔ́n	ɔ́n	c	U+0254 U+0301 U+006e	3	Akha
+ɔ̀n	ɔ̀n	c	U+0254 U+0300 U+006e	3	Akha
+ák	ák	c	U+00e1 U+006b	3	Maru
+àp	àp	c	U+00e0 U+0070	2	Maru
+γV	γV	c	U+03b3 U+0056	2	Proto-Burmish
+úŋ	úŋ	c	U+00fa U+014b	2	Atsi
+yik	yik	c	U+0079 U+0069 U+006b	2	Proto-Burmish,Atsi
+àk	àk	c	U+00e0 U+006b	2	Maru
+yǎ	yǎ	c	U+0079 U+01ce	2	Lisu
+yeʔ	yeʔ	c	U+0079 U+0065 U+0294	2	Atsi,Rangoon
+ìt	ìt	c	U+00ec U+0074	2	Maru
+ók	ók	c	U+00f3 U+006b	2	Maru
+yán	yán	c	U+0079 U+00e1 U+006e	2	Rangoon
+yɔ̄n	yɔ̄n	c	U+0079 U+0254 U+0304 U+006e	2	Akha
+yù	yù	c	U+0079 U+00f9	2	Maru
+ìŋ	ìŋ	c	U+00ec U+014b	2	Atsi
+yɔ̀ʔ	yɔ̀ʔ	c	U+0079 U+0254 U+0300 U+0294	2	Akha
+yauʔ	yauʔ	c	U+0079 U+0061 U+0075 U+0294	2	Rangoon
+yap	yap	c	U+0079 U+0061 U+0070	2	Proto-Burmish,Atsi
+yɔ́n	yɔ́n	c	U+0079 U+0254 U+0301 U+006e	2	Akha
+át	át	c	U+00e1 U+0074	2	Maru
+ōŋ	ōŋ	c	U+014d U+014b	2	Maru
+yit	yit	c	U+0079 U+0069 U+0074	2	Proto-Burmish,Atsi
+áp	áp	c	U+00e1 U+0070	2	Maru
+yup	yup	c	U+0079 U+0075 U+0070	2	Proto-Burmish,Atsi
+īŋ	īŋ	c	U+012b U+014b	2	Atsi
+yut	yut	c	U+0079 U+0075 U+0074	2	Proto-Burmish,Atsi
+ăy	ăy	c	U+0103 U+0079	1	Rangoon
+ikk	ikk	c	U+0069 U+006b U+006b	1	Atsi
+am	am	c	U+0061 U+006d	1	Proto-Lolo
+ôŋ	ôŋ	c	U+00f4 U+014b	1	Atsi
+àt	àt	c	U+00e0 U+0074	1	Maru
+àyø̀	àyø̀	c	U+00e0 U+0079 U+00f8 U+0300	1	Akha
+ùn	ùn	c	U+00f9 U+006e	1	Rangoon
+yúʔ	yúʔ	c	U+0079 U+00fa U+0294	1	Maru
+òu	òu	c	U+00f2 U+0075	1	Rangoon
+oɂ	oɂ	c	U+006f U+0242	1	Atsi
+zḿ	zḿ	c	U+007a U+1e3f	1	Akha
+ūŋ	ūŋ	c	U+016b U+014b	1	Maru
+yák	yák	c	U+0079 U+00e1 U+006b	1	Maru
+óŋ	óŋ	c	U+00f3 U+014b	1	Maru
+íŋ	íŋ	c	U+00ed U+014b	1	Atsi
+yī	yī	c	U+0079 U+012b	1	Atsi
+ît	ît	c	U+00ee U+0074	1	Atsi
+uk	uk	c	U+0075 U+006b	1	Maru
+ī̸ʔ	ī̸ʔ	c	U+012b U+0338 U+0294	1	Akha
+òl	òl	c	U+00f2 U+006c	1	Atsi
+ăl	ăl	c	U+0103 U+006c	1	Maru
+youʔ	youʔ	c	U+0079 U+006f U+0075 U+0294	1	Rangoon
+yáŋ	yáŋ	c	U+0079 U+00e1 U+014b	1	Maru
+yám	yám	c	U+0079 U+00e1 U+006d	1	Atsi
+āk	āk	c	U+0101 U+006b	1	Maru
+ìʔ	ìʔ	c	U+00ec U+0294	1	Akha
+yǿ	yǿ	c	U+0079 U+01ff	1	Akha
+yøʔ	yøʔ	c	U+0079 U+00f8 U+0294	1	Lisu
+àáu	àáu	c	U+00e0 U+00e1 U+0075	1	Atsi
+aiʔ	aiʔ	c	U+0061 U+0069 U+0294	1	Rangoon
+òn	òn	c	U+00f2 U+006e	1	Atsi
+ùŋ	ùŋ	c	U+00f9 U+014b	1	Atsi
+ùt	ùt	c	U+00f9 U+0074	1	Maru
+γVS	γVS	c	U+03b3 U+0056 U+0053	1	Proto-Burmish
+yô	yô	c	U+0079 U+00f4	1	Atsi
+yín	yín	c	U+0079 U+00ed U+006e	1	Rangoon
+yáp	yáp	c	U+0079 U+00e1 U+0070	1	Maru
+yaŋ	yaŋ	c	U+0079 U+0061 U+014b	1	Atsi
+u̸ʔ	u̸ʔ	c	U+0075 U+0338 U+0294	1	Lisu
+ɔ́ʔ	ɔ́ʔ	c	U+0254 U+0301 U+0294	1	Lisu
+yúk	yúk	c	U+0079 U+00fa U+006b	1	Maru
+yát	yát	c	U+0079 U+00e1 U+0074	1	Maru
+yû	yû	c	U+0079 U+00fb	1	Atsi
+âi	âi	c	U+00e2 U+0069	1	Atsi

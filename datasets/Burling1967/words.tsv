@@ -1,0 +1,1918 @@
+ID	DOCULECT	CONCEPT	DOCULECT_IS	CONCEPT_NUMBER_IS	VALUE_IS	VALUE	NOTES	NOTES_MM	COGID	SEGMENTS
+892	Akha	I	Akha	193	ŋá	ŋá		(2 sg.) should be (1 sg.) in meaning column	192	ŋ á
+893	Atsi	I	Atsi	193	ŋô	ŋô		(2 sg.) should be (1 sg.) in meaning column	192	ŋ ô
+894	Lisu	I	Lisu	193	ŋwā	ŋwā		(2 sg.) should be (1 sg.) in meaning column	192	ŋ w ā
+895	Maru	I	Maru	193	ŋò	ŋò		(2 sg.) should be (1 sg.) in meaning column	192	ŋ ò
+896	Proto-Burmish	I	PB	193	ŋa¹ᵃ	ŋa¹ᵃ		(2 sg.) should be (1 sg.) in meaning column	192	ŋ a ¹ᵃ
+897	Proto-Lolo	I	PL	193	a¹	a¹		(2 sg.) should be (1 sg.) in meaning column	192	a ¹
+898	Proto-Lolo-Burmese	I	PLB	193	ŋa¹ᵃ	ŋa¹ᵃ		(2 sg.) should be (1 sg.) in meaning column	192	ŋ a ¹ᵃ
+899	Rangoon	I	Spoken Burmese	193	ŋá	ŋá		(2 sg.) should be (1 sg.) in meaning column	192	ŋ á
+1478	Atsi	Shans	Atsi	323	lăsām	lăsām	BSB: IT		321	l ă + s ā m
+1479	Maru	Shans	Maru	323	sínwò	sínwò	BSB: IT		321	s í + n w ò
+1480	Proto-Burmish	Shans	PB	323	sam³	sam³	BSB: IT		321	s a m ³
+1481	Rangoon	Shans	Spoken Burmese	323	šân	šân	BSB: IT		321	š â n
+1	Akha	above	Akha	1	tāʔ	tāʔ	PL: Ak, Lahu: T		1	t ā ʔ
+2	Atsi	above	Atsi	1	ăthoʔ	ăthoʔ	PL: Ak, Lahu: T		1	ă + t h o ʔ
+3	Proto-Burmish	above	PB	1	thaʔ	thaʔ	PL: Ak, Lahu: T		1	t h a ʔ
+4	Proto-Lolo	above	PL	1	thaʔ²	thaʔ²	PL: Ak, Lahu: T		1	t h a ʔ ²
+5	Proto-Lolo-Burmese	above	PLB	1	thaʔ²	thaʔ²	PL: Ak, Lahu: T		1	t h a ʔ ²
+6	Rangoon	above	Spoken Burmese	1	theʔ	theʔ	PL: Ak, Lahu: T		1	t h e ʔ
+7	Akha	alive	Akha	2	dɛ̀ʔ	dɛ̀ʔ	Akha: 'life'		2	d ɛ̀ ʔ
+8	Proto-Lolo	alive	PL	2	deʔ¹	deʔ¹	Akha: 'life'		2	d e ʔ ¹
+9	Atsi	animal (classifier)	Atsi	3	tù	tù			3	t ù
+10	Maru	animal (classifier)	Maru	3	tāu	tāu			3	t ā u
+11	Proto-Burmish	animal (classifier)	PB	3	tu²	tu²			3	t u ²
+12	Atsi	answer-1	Atsi	4	tʔú	tʔú			4	t ʔ ú
+13	Maru	answer-1	Maru	4	tʔàu	tʔàu			4	t ʔ à u
+14	Proto-Burmish	answer-1	PB	4	tʔu²ᶜ	tʔu²ᶜ			4	t ʔ u ²ᶜ
+15	Rangoon	answer-1	Spoken Burmese	4	thû	thû			4	t h û
+16	Akha	answer-2	Akha	5	xɔ̀ʔ	xɔ̀ʔ			5	x ɔ̀ ʔ
+17	Proto-Lolo	answer-2	PL	5	ḳhoʔ¹	ḳhoʔ¹			5	ḳ h o ʔ ¹
+18	Atsi	ant	Atsi	6	pâuvoʔ	pâuvoʔ			6	p â u + v o ʔ
+19	Maru	ant	Maru	6	phyòγùk	phyòγùk			6	p h y ò + γ ù k
+20	Proto-Burmish	ant	PB	6	γwaʔ	γwaʔ			6	 + γ w a ʔ
+21	Rangoon	ant	Spoken Burmese	6	păyweʔ	păyweʔ			6	p ă y + w e ʔ
+22	Atsi	ant (flying)	Atsi	7	pàulú	pàulú	Lisu: FT		7	p à u + l ú
+23	Lisu	ant (flying)	Lisu	7	boʔlô	boʔlô	Lisu: FT		7	b o + ʔ l ô
+24	Proto-Burmish	ant (flying)	PB	7	lu¹ᵇ	lu¹ᵇ	Lisu: FT		7	l u ¹ᵇ
+25	Rangoon	ant (flying)	Spoken Burmese	7	pălú	pălú	Lisu: FT		7	p ă + l ú
+26	Atsi	antelope	Atsi	8	yò	yò	PB: At		8	y ò
+27	Lisu	antelope	Lisu	8	hyà	hyà	PB: At		8	h y à
+28	Proto-Burmish	antelope	PB	8	ya²	ya²	PB: At		8	ya ²
+29	Proto-Lolo	antelope	PL	8	hya²	hya²	PB: At		8	h ya ²
+30	Proto-Lolo-Burmese	antelope	PLB	8	hya²	hya²	PB: At		8	h ya ²
+31	Proto-Burmish	anvil	PB	9	pei¹	pei¹	PB: Bu; PL: La		9	p ei ¹
+32	Proto-Lolo	anvil	PL	9	bi¹	bi¹	PB: Bu; PL: La		9	b i ¹
+33	Proto-Lolo-Burmese	anvil	PLB	9	pei¹	pei¹	PB: Bu; PL: La		9	p ei ¹
+34	Rangoon	anvil	Spoken Burmese	9	péi	péi	PB: Bu; PL: La		9	p é i
+35	Atsi	arrow	Atsi	10	myò	myò	BSB: A; PL: Li		10	m y ò
+36	Lisu	arrow	Lisu	10	myà	myà	BSB: A; PL: Li		10	m y à
+37	Maru	arrow	Maru	10	myō	myō	BSB: A; PL: Li		10	m y ō
+38	Proto-Burmish	arrow	PB	10	mya²	mya²	BSB: A; PL: Li		10	m ya ²
+39	Proto-Lolo	arrow	PL	10	mya²	mya²	BSB: A; PL: Li		10	m ya ²
+40	Proto-Lolo-Burmese	arrow	PLB	10	mya²	mya²	BSB: A; PL: Li		10	m ya ²
+41	Rangoon	arrow	Spoken Burmese	10	hmyâ	hmyâ	BSB: A; PL: Li		10	h m y â
+42	Akha	ascend	Akha	11	dāʔ	dāʔ			11	d ā ʔ
+43	Atsi	ascend	Atsi	11	toʔ	toʔ			11	t o ʔ
+44	Lisu	ascend	Lisu	11	dæ̂	dæ̂			11	d æ̂
+45	Maru	ascend	Maru	11	tòʔ	tòʔ			11	t ò ʔ
+46	Proto-Burmish	ascend	PB	11	taʔ	taʔ			11	t a ʔ
+47	Proto-Lolo	ascend	PL	11	daʔ²	daʔ²			11	d a ʔ ²
+48	Proto-Lolo-Burmese	ascend	PLB	11	taʔ²	taʔ²			11	t a ʔ ²
+49	Rangoon	ascend	Spoken Burmese	11	teʔ	teʔ			11	t e ʔ
+50	Atsi	ashamed	Atsi	12	hoʔ	hoʔ			12	h o ʔ
+51	Maru	ashamed	Maru	12	γoʔ	γoʔ			12	 + γ o ʔ
+52	Proto-Burmish	ashamed	PB	12	haʔ	haʔ			12	h a ʔ
+53	Rangoon	ashamed	Spoken Burmese	12	šeʔ	šeʔ			12	š e ʔ
+54	Atsi	ashes	Atsi	13	mìvap	mìvap	PB: CB		13	m ì + v a p
+55	Maru	ashes	Maru	13	mīγàp	mīγàp	PB: CB		13	m ī + γ à p
+56	Proto-Burmish	ashes	PB	13	pγV	pγV	PB: CB		13	p γ V
+57	Rangoon	ashes	Spoken Burmese	13	pyà	pyà	PB: CB		13	p y à
+58	Atsi	ask for	Atsi	14	túŋ	túŋ			14	t ú ŋ
+59	Proto-Burmish	ask for	PB	14	toŋ²	toŋ²			14	t o ŋ ²
+60	Rangoon	ask for	Spoken Burmese	14	tâun	tâun			14	t â u n
+61	Akha	ask, question	Akha	15	náhà	náhà			15	n á + h à
+62	Lisu	ask, question	Lisu	15	nânyî	nânyî			15	n â + n y î
+63	Proto-Lolo	ask, question	PL	15	nʔa¹	nʔa¹			15	n ʔ a ¹
+64	Atsi	attach	Atsi	16	tʔap	tʔap	BSB: I		16	t ʔ a p
+65	Maru	attach	Maru	16	tʔeʔ	tʔeʔ	BSB: I		16	t ʔ e ʔ
+66	Proto-Burmish	attach	PB	16	tʔap	tʔap	BSB: I		16	t ʔ a p
+67	Rangoon	attach	Spoken Burmese	16	taʔ	taʔ	BSB: I		16	t a ʔ
+68	Atsi	aunt	Atsi	17	mʔyīthāŋ	mʔyīthāŋ			17	m ʔ y ī + t h ā ŋ
+69	Maru	aunt	Maru	17	mʔíkàn	mʔíkàn			17	m ʔ í + k à n
+70	Proto-Burmish	aunt	PB	17	mʔi³	mʔi³			17	m ʔ i ³
+71	Akha	awake	Akha	18	nø̄	nø̄	PB: Bu; PL: La; Akha: T		18	n ø̄
+72	Proto-Burmish	awake	PB	18	no²	no²	PB: Bu; PL: La; Akha: T		18	n o ²
+73	Proto-Lolo	awake	PL	18	no²	no²	PB: Bu; PL: La; Akha: T		18	n o ²
+74	Proto-Lolo-Burmese	awake	PLB	18	no²	no²	PB: Bu; PL: La; Akha: T		18	n o ²
+75	Rangoon	awake	Spoken Burmese	18	nôu	nôu	PB: Bu; PL: La; Akha: T		18	n ô u
+76	Atsi	awaken	Atsi	19	nʔáu	nʔáu			19	n ʔ áu
+77	Maru	awaken	Maru	19	nʔuk	nʔuk			19	n ʔ u k
+78	Proto-Burmish	awaken	PB	19	nʔo²	nʔo²			19	n ʔ o ²
+79	Rangoon	awaken	Spoken Burmese	19	hnôu	hnôu			19	h n ô u
+80	Akha	bamboo	Akha	20	zàʔ	zàʔ	PL: La; Akha: T		20	z à ʔ
+81	Atsi	bamboo	Atsi	20	và	và	PL: La; Akha: T		20	v à
+82	Maru	bamboo	Maru	20	wō	wō	PL: La; Akha: T		20	w ō
+83	Proto-Burmish	bamboo	PB	20	wa²	wa²	PL: La; Akha: T		20	w a ²
+84	Proto-Lolo	bamboo	PL	20	wa²	wa²	PL: La; Akha: T		20	w a ²
+85	Proto-Lolo-Burmese	bamboo	PLB	20	wa²	wa²	PL: La; Akha: T		20	w a ²
+86	Rangoon	bamboo	Spoken Burmese	20	wâ	wâ	PL: La; Akha: T		20	w â
+87	Atsi	bamboo shoots	Atsi	21	myik	myik	BSB: AY		21	m yi k
+88	Maru	bamboo shoots	Maru	21	màk	màk	BSB: AY		21	m à k
+89	Proto-Burmish	bamboo shoots	PB	21	mik	mik	BSB: AY		21	m i k
+90	Rangoon	bamboo shoots	Spoken Burmese	21	hmyiʔ	hmyiʔ	BSB: AY		21	h m yi ʔ
+91	Atsi	bamboo ties	Atsi	22	nè	nè	BSB: AF; PL: Li; Lahu: FT		22	n è
+92	Lisu	bamboo ties	Lisu	22	mānì	mānì	BSB: AF; PL: Li; Lahu: FT		22	m ā + n ì
+93	Maru	bamboo ties	Maru	22	nē	nē	BSB: AF; PL: Li; Lahu: FT		22	n ē
+94	Proto-Burmish	bamboo ties	PB	22	ne²	ne²	BSB: AF; PL: Li; Lahu: FT		22	n e ²
+95	Proto-Lolo	bamboo ties	PL	22	ne²	ne²	BSB: AF; PL: Li; Lahu: FT		22	n e ²
+96	Proto-Lolo-Burmese	bamboo ties	PLB	22	ne²	ne²	BSB: AF; PL: Li; Lahu: FT		22	n e ²
+97	Rangoon	bamboo ties	Spoken Burmese	22	hnî	hnî	BSB: AF; PL: Li; Lahu: FT		22	h n î
+98	Atsi	banyan	Atsi	23	mʔyàŋkáun	mʔyàŋkáun			23	m ʔ y à ŋ + k áu n
+99	Maru	banyan	Maru	23	mʔyā	mʔyā			23	m ʔ y ā
+100	Proto-Burmish	banyan	PB	23	mʔyaŋ²	mʔyaŋ²			23	m ʔ ya ŋ ²
+101	Atsi	bark (cf. tree)	Atsi	24	sikkʔuʔ	sikkʔuʔ			24	s i kk + ʔ u ʔ
+102	Proto-Burmish	bark (cf. tree)	PB	24	kʔok	kʔok			24	k ʔ o k
+103	Rangoon	bark (cf. tree)	Spoken Burmese	24	khauʔ	khauʔ			24	k h au ʔ
+104	Atsi	beads	Atsi	25	vùi	vùi			25	v ù i
+105	Maru	beads	Maru	25	γōi	γōi			25	 + γ ō i
+106	Proto-Burmish	beads	PB	25	γwe²	γwe²			25	 + γ w e ²
+107	Rangoon	beads	Spoken Burmese	25	ywê	ywê			25	y + w ê
+108	Lisu	beans	Lisu	26	ánô	ánô			26	á + n ô
+109	Proto-Lolo	beans	PL	26	noʔ²	noʔ²			26	n o ʔ ²
+110	Lisu	bear	Lisu	27	wɔ̄phà	wɔ̄phà	PL: Li		27	w ɔ̄ + p h à
+111	Maru	bear	Maru	27	wìn	wìn	PL: Li		27	w ì n
+112	Proto-Burmish	bear	PB	27	wam¹	wam¹	PL: Li		27	w a m ¹
+113	Proto-Lolo	bear	PL	27	wam	wam	PL: Li		27	w a m
+114	Proto-Lolo-Burmese	bear	PLB	27	wam¹	wam¹	PL: Li		27	w a m ¹
+115	Rangoon	bear	Spoken Burmese	27	wún	wún	PL: Li		27	w ú n
+116	Akha	bee	Akha	28	bya	bya			28	b ya
+117	Atsi	bee	Atsi	28	pyò	pyò			28	p y ò
+118	Lisu	bee	Lisu	28	byà	byà			28	b y à
+119	Maru	bee	Maru	28	pyō	pyō			28	p y ō
+120	Proto-Burmish	bee	PB	28	pya²	pya²			28	p ya ²
+121	Proto-Lolo	bee	PL	28	bya²	bya²			28	b ya ²
+122	Proto-Lolo-Burmese	bee	PLB	28	pya²	pya²			28	p ya ²
+123	Rangoon	bee	Spoken Burmese	28	pyâ	pyâ			28	p y â
+124	Atsi	behind	Atsi	29	nûmthāŋ	nûmthāŋ			29	n û m + t h ā ŋ
+125	Maru	behind	Maru	29	nʔòŋtháŋ	nʔòŋtháŋ			29	n ʔ ò ŋ + t h á ŋ
+126	Proto-Burmish	behind	PB	29	thaŋ³	thaŋ³			29	t h a ŋ ³
+127	Akha	below	Akha	30	làʔɔ̄ʔ	làʔɔ̄ʔ	PB: Bu; PL: Ak; Akha: 'down'		30	l à + ʔ ɔ̄ ʔ
+128	Proto-Burmish	below	PB	30	ok	ok	PB: Bu; PL: Ak; Akha: 'down'		30	o k
+129	Proto-Lolo	below	PL	30	oʔ²	oʔ²	PB: Bu; PL: Ak; Akha: 'down'		30	o ʔ ²
+130	Proto-Lolo-Burmese	below	PLB	30	ok²	ok²	PB: Bu; PL: Ak; Akha: 'down'		30	o k ²
+131	Rangoon	below	Spoken Burmese	30	auʔ	auʔ	PB: Bu; PL: Ak; Akha: 'down'		30	au ʔ
+132	Atsi	bet	Atsi	31	lôŋ	lôŋ	Atsi: FT		31	l ô ŋ
+133	Maru	bet	Maru	31	lòŋ	lòŋ	Atsi: FT		31	l ò ŋ
+134	Proto-Burmish	bet	PB	31	loŋ²ᶜ	loŋ²ᶜ	Atsi: FT		31	l o ŋ ²ᶜ
+135	Rangoon	bet	Spoken Burmese	31	lâun	lâun	Atsi: FT		31	l â u n
+136	Atsi	between	Atsi	32	kyòrò	kyòrò	PL: La	BSB: parentheses without explanation	32	k y ò + r ò
+137	Maru	between	Maru	32	ăkyō	ăkyō	PL: La	BSB: parentheses without explanation	32	ă + k y ō
+138	Proto-Burmish	between	PB	32	kya²	kya²	PL: La	BSB: parentheses without explanation	32	k ya ²
+139	Proto-Lolo	between	PL	32	g̯a²	g̯a²	PL: La	BSB: parentheses without explanation	32	g̯ a ²
+140	Proto-Lolo-Burmese	between	PLB	32	kya²	kya²	PL: La	BSB: parentheses without explanation	32	k ya ²
+141	Rangoon	between	Spoken Burmese	32	jâ	jâ	PL: La	BSB: parentheses without explanation	32	j â
+142	Maru	big	Maru	33	γī	γī	PB: C		33	 + γ ī
+143	Proto-Burmish	big	PB	33	kγi²	kγi²	PB: C		33	k γ i ²
+144	Rangoon	big	Spoken Burmese	33	cî	cî	PB: C		33	c î
+145	Atsi	bird	Atsi	34	ŋʔoʔ	ŋʔoʔ	PL: La; Lisu: IT		34	ŋ ʔ o ʔ
+146	Lisu	bird	Lisu	34	nyǎ	nyǎ	PL: La; Lisu: IT		34	n y ǎ
+147	Maru	bird	Maru	34	ŋʔoʔ	ŋʔoʔ	PL: La; Lisu: IT		34	ŋ ʔ o ʔ
+148	Proto-Burmish	bird	PB	34	ʔaʔ	ʔaʔ	PL: La; Lisu: IT		34	ʔ a ʔ
+149	Proto-Lolo	bird	PL	34	ŋʔaʔ²	ŋʔaʔ²	PL: La; Lisu: IT		34	ŋ ʔ a ʔ ²
+150	Proto-Lolo-Burmese	bird	PLB	34	ʔaʔ²	ʔaʔ²	PL: La; Lisu: IT		34	ʔ a ʔ ²
+151	Rangoon	bird	Spoken Burmese	34	hŋeʔ	hŋeʔ	PL: La; Lisu: IT		34	h ŋ e ʔ
+152	Akha	bitter	Akha	35	yɔ̄xà	yɔ̄xà	Maru: T		35	yɔ̄ + x à
+153	Atsi	bitter	Atsi	35	khó	khó	Maru: T		35	k h ó
+154	Lisu	bitter	Lisu	35	khwà	khwà	Maru: T		35	k h w à
+155	Maru	bitter	Maru	35	khó	khó	Maru: T		35	k h ó
+156	Proto-Burmish	bitter	PB	35	kha²	kha²	Maru: T		35	k h a ²
+157	Proto-Lolo	bitter	PL	35	ḳha²	ḳha²	Maru: T		35	ḳ h a ²
+158	Proto-Lolo-Burmese	bitter	PLB	35	kha²	kha²	Maru: T		35	k h a ²
+159	Rangoon	bitter	Spoken Burmese	35	khâ	khâ	Maru: T		35	k h â
+160	Akha	black	Akha	36	yɔ̄nāʔ	yɔ̄nāʔ			36	yɔ̄ + n ā ʔ
+161	Atsi	black	Atsi	36	noʔ	noʔ			36	n o ʔ
+162	Lisu	black	Lisu	36	yínæ̂	yínæ̂			36	yí + n æ̂
+163	Maru	black	Maru	36	nòʔ	nòʔ			36	n ò ʔ
+164	Proto-Burmish	black	PB	36	naʔ	naʔ			36	n a ʔ
+165	Proto-Lolo	black	PL	36	naʔ²	naʔ²			36	n a ʔ ²
+166	Proto-Lolo-Burmese	black	PLB	36	naʔ²	naʔ²			36	n a ʔ ²
+167	Rangoon	black	Spoken Burmese	36	neʔ	neʔ			36	n e ʔ
+168	Akha	blood	Akha	37	šì	šì			37	š ì
+169	Atsi	blood	Atsi	37	sùi	sùi			37	s ù i
+170	Lisu	blood	Lisu	37	šù̸	šù̸			37	š ù̸
+171	Maru	blood	Maru	37	sā	sā			37	s ā
+172	Proto-Burmish	blood	PB	37	swei²	swei²			37	s w ei ²
+173	Proto-Lolo	blood	PL	37	sei²	sei²			37	s ei ²
+174	Proto-Lolo-Burmese	blood	PLB	37	swei²	swei²			37	s w ei ²
+175	Rangoon	blood	Spoken Burmese	37	θwêi	θwêi			37	θ w ê i
+176	Atsi	blow (with mouth)	Atsi	38	mut	mut	BSB: A		38	m u t
+177	Lisu	blow (with mouth)	Lisu	38	mû̸	mû̸	BSB: A		38	m û̸
+178	Maru	blow (with mouth)	Maru	38	màt	màt	BSB: A		38	m à t
+179	Proto-Burmish	blow (with mouth)	PB	38	mut	mut	BSB: A		38	m u t
+180	Proto-Lolo	blow (with mouth)	PL	38	mut²	mut²	BSB: A		38	m u t ²
+181	Proto-Lolo-Burmese	blow (with mouth)	PLB	38	mut²	mut²	BSB: A		38	m u t ²
+182	Rangoon	blow (with mouth)	Spoken Burmese	38	hmouʔ	hmouʔ	BSB: A		38	h m ou ʔ
+183	Akha	blunt	Akha	39	yɔ̄dm̀	yɔ̄dm̀			39	yɔ̄ d m̀
+184	Atsi	blunt	Atsi	39	túm	túm			39	t ú m
+185	Lisu	blunt	Lisu	39	dùlē	dùlē			39	d ù + l ē
+186	Maru	blunt	Maru	39	tām	tām			39	t ā m
+187	Proto-Burmish	blunt	PB	39	tum²	tum²			39	t u m ²
+188	Proto-Lolo	blunt	PL	39	dum²	dum²			39	d u m ²
+189	Proto-Lolo-Burmese	blunt	PLB	39	tum²	tum²			39	t u m ²
+190	Rangoon	blunt	Spoken Burmese	39	tôun	tôun			39	t ô u n
+191	Atsi	boat	Atsi	40	lʔái	lʔái	PL: Li		40	l ʔ ái
+192	Lisu	boat	Lisu	40	lî	lî	PL: Li		40	l î
+193	Maru	boat	Maru	40	lʔà	lʔà	PL: Li		40	l ʔ à
+194	Proto-Burmish	boat	PB	40	lʔei¹ᵇ	lʔei¹ᵇ	PL: Li		40	l ʔ ei ¹ᵇ
+195	Proto-Lolo	boat	PL	40	lʔei¹	lʔei¹	PL: Li		40	l ʔ ei ¹
+196	Proto-Lolo-Burmese	boat	PLB	40	lʔei¹ᵇ	lʔei¹ᵇ	PL: Li		40	l ʔ ei ¹ᵇ
+197	Rangoon	boat	Spoken Burmese	40	hléi	hléi	PL: Li		40	h l é i
+198	Atsi	boil	Atsi	41	tsʔû	tsʔû	PL: Li		41	t s + ʔ û
+199	Lisu	boil	Lisu	41	tsû	tsû	PL: Li		41	t s û
+200	Maru	boil	Maru	41	tsʔàu	tsʔàu	PL: Li		41	t s + ʔ à u
+201	Proto-Burmish	boil	PB	41	tsʔu¹ᵃ	tsʔu¹ᵃ	PL: Li		41	t s + ʔ u ¹ᵃ
+202	Proto-Lolo	boil	PL	41	tsu¹	tsu¹	PL: Li		41	t s u ¹
+203	Proto-Lolo-Burmese	boil	PLB	41	tsʔu¹ᵃ	tsʔu¹ᵃ	PL: Li		41	t s + ʔ u ¹ᵃ
+204	Rangoon	boil	Spoken Burmese	41	shú	shú	PL: Li		41	s h ú
+205	Akha	bone	Akha	42	šàyø̀	šàyø̀	PL: Ak; Lahu: T		42	š à yø̀
+206	Atsi	bone	Atsi	42	šòvùi	šòvùi	PL: Ak; Lahu: T		42	š ò + v ù i
+207	Maru	bone	Maru	42	šăγùk	šăγùk	PL: Ak; Lahu: T		42	š ă + γ ù k
+208	Proto-Burmish	bone	PB	42	γo²	γo²	PL: Ak; Lahu: T		42	 + γ o ²
+209	Proto-Lolo	bone	PL	42	γo²	γo²	PL: Ak; Lahu: T		42	 + γ o ²
+210	Proto-Lolo-Burmese	bone	PLB	42	γo²	γo²	PL: Ak; Lahu: T		42	 + γ o ²
+211	Rangoon	bone	Spoken Burmese	42	ăyôu	ăyôu	PL: Ak; Lahu: T		42	ă y ô u
+212	Akha	born	Akha	43	bɔ̄	bɔ̄			43	b ɔ̄
+213	Proto-Lolo	born	PL	43	bɔ³	bɔ³			43	b ɔ ³
+214	Akha	borrow-1	Akha	44	ŋà	ŋà			44	ŋ à
+215	Atsi	borrow-1	Atsi	44	ŋʔó	ŋʔó			44	ŋ ʔ ó
+216	Lisu	borrow-1	Lisu	44	ŋwá	ŋwá			44	ŋ w á
+217	Maru	borrow-1	Maru	44	ŋʔō	ŋʔō			44	ŋ ʔ ō
+218	Proto-Burmish	borrow-1	PB	44	ŋʔa²	ŋʔa²			44	ŋ ʔ a ²
+219	Proto-Lolo	borrow-1	PL	44	ŋʔa²	ŋʔa²			44	ŋ ʔ a ²
+220	Proto-Lolo-Burmese	borrow-1	PLB	44	ŋʔa²	ŋʔa²			44	ŋ ʔ a ²
+221	Rangoon	borrow-1	Spoken Burmese	44	hŋâ	hŋâ			44	h ŋ â
+222	Atsi	borrow-2	Atsi	45	cʔí	cʔí			45	c ʔ í
+223	Proto-Burmish	borrow-2	PB	45	cʔi²	cʔi²			45	c ʔ i ²
+224	Rangoon	borrow-2	Spoken Burmese	45	chî	chî			45	c h î
+225	Atsi	brains	Atsi	46	ùnuʔ	ùnuʔ	BSB: A		46	ù + n u ʔ
+226	Maru	brains	Maru	46	āunòk	āunòk	BSB: A		46	ā u + n ò k
+227	Proto-Burmish	brains	PB	46	nok	nok	BSB: A		46	n o k
+228	Rangoon	brains	Spoken Burmese	46	hnauʔ	hnauʔ	BSB: A		46	h n au ʔ
+229	Atsi	branch	Atsi	47	ăkʔoʔ	ăkʔoʔ			47	ă k + ʔ o ʔ
+230	Maru	branch	Maru	47	ăkʔoʔ	ăkʔoʔ			47	ă k + ʔ o ʔ
+231	Proto-Burmish	branch	PB	47	kʔaʔ	kʔaʔ			47	k ʔ a ʔ
+232	Rangoon	branch	Spoken Burmese	47	ăkheʔ	ăkheʔ			47	ă + k h e ʔ
+233	Atsi	brave	Atsi	48	vām	vām			48	v ā m
+234	Proto-Burmish	brave	PB	48	wam³	wam³			48	w a m ³
+235	Rangoon	brave	Spoken Burmese	48	wùn	wùn			48	w ù n
+236	Atsi	break	Atsi	49	khyúi	khyúi	Maru: G		49	k h yúi
+237	Maru	break	Maru	49	khyúʔ	khyúʔ	Maru: G		49	k h yú ʔ
+238	Proto-Burmish	break	PB	49	khyo²	khyo²	Maru: G		49	k h yo ²
+239	Rangoon	break	Spoken Burmese	49	chôu	chôu	Maru: G		49	c h ô u
+240	Atsi	breast	Atsi	50	nāu	nāu	BSB: 'milk'		50	n ā u
+241	Maru	breast	Maru	50	núkàm	núkàm	BSB: 'milk'		50	n ú + k à m
+242	Proto-Burmish	breast	PB	50	no³	no³	BSB: 'milk'		50	n o ³
+243	Rangoon	breast	Spoken Burmese	50	nòu	nòu	BSB: 'milk'		50	n ò u
+244	Atsi	breathe	Atsi	51	soɂ	soɂ			51	s o ɂ
+245	Maru	breathe	Maru	51	sóʔšè	sóʔšè			51	s ó + ʔ š è
+246	Proto-Burmish	breathe	PB	51	saʔ	saʔ			51	s a ʔ
+247	Rangoon	breathe	Spoken Burmese	51	ăθeʔ	ăθeʔ			51	ă + θ e ʔ
+248	Akha	bridge	Akha	52	lɔ́dzḿ	lɔ́dzḿ			52	l ɔ́ + d z ḿ
+249	Atsi	bridge	Atsi	52	tsâm	tsâm			52	t s â m
+250	Maru	bridge	Maru	52	tsìn	tsìn			52	t s ì n
+251	Proto-Burmish	bridge	PB	52	tsam¹ᵃ	tsam¹ᵃ			52	t s a m ¹ᵃ
+252	Proto-Lolo	bridge	PL	52	dzam¹	dzam¹			52	d z a m ¹
+253	Proto-Lolo-Burmese	bridge	PLB	52	tsam¹ᵃ	tsam¹ᵃ			52	t s a m ¹ᵃ
+254	Atsi	buffalo (water)	Atsi	53	nòlùi	nòlùi	PB: C		53	n ò + l ù i
+255	Maru	buffalo (water)	Maru	53	nūŋlōi	nūŋlōi	PB: C		53	n ū + ŋ l ō i
+256	Proto-Burmish	buffalo (water)	PB	53	klwe²	klwe²	PB: C		53	k l w e ²
+257	Rangoon	buffalo (water)	Spoken Burmese	53	cwê	cwê	PB: C		53	c w ê
+258	Atsi	build	Atsi	54	tsʔuʔ	tsʔuʔ			54	t s + ʔ u ʔ
+259	Proto-Burmish	build	PB	54	tsʔok	tsʔok			54	t s + ʔ o k
+260	Rangoon	build	Spoken Burmese	54	shauʔ	shauʔ			54	s h au ʔ
+261	Akha	buy	Akha	55	zé̸	zé̸	Maru, Lisu: F; Akha: IF		55	z é̸
+262	Atsi	buy	Atsi	55	vûi	vûi	Maru, Lisu: F; Akha: IF		55	v û i
+263	Lisu	buy	Lisu	55	wū	wū	Maru, Lisu: F; Akha: IF		55	w ū
+264	Maru	buy	Maru	55	wài	wài	Maru, Lisu: F; Akha: IF		55	w à i
+265	Proto-Burmish	buy	PB	55	we¹ᵃ	we¹ᵃ	Maru, Lisu: F; Akha: IF		55	w e ¹ᵃ
+266	Proto-Lolo	buy	PL	55	wə¹	wə¹	Maru, Lisu: F; Akha: IF		55	w ə ¹
+267	Proto-Lolo-Burmese	buy	PLB	55	we¹ᵃ	we¹ᵃ	Maru, Lisu: F; Akha: IF		55	w e ¹ᵃ
+268	Rangoon	buy	Spoken Burmese	55	wé	wé	Maru, Lisu: F; Akha: IF		55	w é
+269	Akha	call	Akha	56	kú	kú	Lahu: IT		56	k ú
+270	Lisu	call	Lisu	56	khū	khū	Lahu: IT		56	k h ū
+271	Proto-Lolo	call	PL	56	k̯hu¹	k̯hu¹	Lahu: IT		56	k̯ h u ¹
+272	Atsi	carry on back	Atsi	57	páu	páu	PL: La		57	p áu
+273	Proto-Burmish	carry on back	PB	57	po²	po²	PL: La		57	p o ²
+274	Proto-Lolo	carry on back	PL	57	bo²	bo²	PL: La		57	b o ²
+275	Proto-Lolo-Burmese	carry on back	PLB	57	po²	po²	PL: La		57	p o ²
+276	Rangoon	carry on back	Spoken Burmese	57	pôu	pôu	PL: La		57	p ô u
+277	Atsi	carry on shoulder	Atsi	58	vaʔ	vaʔ			58	v a ʔ
+278	Maru	carry on shoulder	Maru	58	wòʔ	wòʔ			58	w ò ʔ
+279	Proto-Burmish	carry on shoulder	PB	58	waʔ	waʔ			58	w a ʔ
+280	Atsi	cat	Atsi	59	vûŋ	vûŋ	PB: CB		59	v û ŋ
+281	Proto-Burmish	cat	PB	59	kγV¹ᵃ	kγV¹ᵃ	PB: CB		59	k γ V ¹ᵃ
+282	Rangoon	cat	Spoken Burmese	59	cáun	cáun	PB: CB		59	c áu n
+283	Atsi	cattle (cow)	Atsi	60	nò	nò	Maru: F		60	n ò
+284	Maru	cattle (cow)	Maru	60	nūŋ	nūŋ	Maru: F		60	n ū ŋ
+285	Proto-Burmish	cattle (cow)	PB	60	nwa²	nwa²	Maru: F		60	n w a ²
+286	Rangoon	cattle (cow)	Spoken Burmese	60	nwâ	nwâ	Maru: F		60	n w â
+287	Atsi	chaff	Atsi	61	phùicʔap	phùicʔap			61	p h ù i c + ʔ a p
+288	Lisu	chaff	Lisu	61	dzāphə̀	dzāphə̀			61	d z ā + p h ə̀
+289	Maru	chaff	Maru	61	wòʔphōi	wòʔphōi			61	w ò ʔ + p h ō i
+290	Proto-Burmish	chaff	PB	61	phwe²	phwe²			61	p h w e ²
+291	Proto-Lolo	chaff	PL	61	phə²	phə²			61	p h ə ²
+292	Proto-Lolo-Burmese	chaff	PLB	61	phwe²	phwe²			61	p h w e ²
+293	Rangoon	chaff	Spoken Burmese	61	phwênù	phwênù			61	p h w ê + n ù
+294	Akha	change	Akha	62	pá	pá			62	p á
+295	Lisu	change	Lisu	62	pâ	pâ			62	p â
+296	Proto-Lolo	change	PL	62	pa¹	pa¹			62	p a ¹
+297	Atsi	chest (body part)	Atsi	63	vâŋkàŋ	vâŋkàŋ			63	v â ŋ + k à ŋ
+298	Proto-Burmish	chest (body part)	PB	63	γaŋ¹ᵃ	γaŋ¹ᵃ			63	 + γ a ŋ ¹ᵃ
+299	Rangoon	chest (body part)	Spoken Burmese	63	yín	yín			63	yí n
+300	Akha	child, young	Akha	64	zà	zà			64	z à
+301	Lisu	child, young	Lisu	64	řà	řà			64	ř à
+302	Proto-Lolo	child, young	PL	64	ya²	ya²			64	ya ²
+303	Atsi	chili	Atsi	65	šìphyìk	šìphyìk			65	š ì + p h y ì k
+304	Maru	chili	Maru	65	chāphyák	chāphyák			65	c h ā + p h yá k
+305	Proto-Burmish	chili	PB	65	phyik	phyik			65	p h yi k
+306	Lisu	chin	Lisu	66	bàmə̀dû	bàmə̀dû			66	b à + m ə̀ + d û
+307	Proto-Lolo	chin	PL	66	ba²	ba²			66	b a ²
+308	Lisu	city	Lisu	67	mu̸	mu̸			67	m u̸
+309	Proto-Lolo	city	PL	67	mo²	mo²			67	m o ²
+310	Atsi	clench fist	Atsi	68	tsʔup	tsʔup	PL: La		68	t s + ʔ u p
+311	Proto-Burmish	clench fist	PB	68	tsʔup	tsʔup	PL: La		68	t s + ʔ u p
+312	Proto-Lolo	clench fist	PL	68	tsuʔ²	tsuʔ²	PL: La		68	t s u ʔ ²
+313	Proto-Lolo-Burmese	clench fist	PLB	68	tsʔup	tsʔup	PL: La		68	t s + ʔ u p
+314	Rangoon	clench fist	Spoken Burmese	68	shouʔ	shouʔ	PL: La		68	s h ou ʔ
+315	Akha	cloth	Akha	69	pá	pá			69	p á
+316	Proto-Lolo	cloth	PL	69	pha¹	pha¹			69	p h a ¹
+317	Akha	cold (personally)	Akha	70	gāʔ	gāʔ			70	g ā ʔ
+318	Atsi	cold (personally)	Atsi	70	kyoʔ	kyoʔ			70	k yo ʔ
+319	Maru	cold (personally)	Maru	70	kyòʔ	kyòʔ			70	k y ò ʔ
+320	Proto-Burmish	cold (personally)	PB	70	kyaʔ	kyaʔ			70	k ya ʔ
+321	Proto-Lolo	cold (personally)	PL	70	g̯aʔ²	g̯aʔ²			70	g̯ a ʔ ²
+322	Proto-Lolo-Burmese	cold (personally)	PLB	70	kyaʔ²	kyaʔ²			70	k ya ʔ ²
+323	Akha	come	Akha	71	lá	lá			71	l á
+324	Atsi	come	Atsi	71	lô	lô			71	l ô
+325	Lisu	come	Lisu	71	lā	lā			71	l ā
+326	Proto-Burmish	come	PB	71	la¹ᵃ	la¹ᵃ			71	l a ¹ᵃ
+327	Proto-Lolo	come	PL	71	la¹ᵃ	la¹ᵃ			71	l a ¹ᵃ
+328	Proto-Lolo-Burmese	come	PLB	71	la¹ᵃ	la¹ᵃ			71	l a ¹ᵃ
+329	Rangoon	come	Spoken Burmese	71	lá	lá			71	l á
+330	Atsi	come out-1 (emerge)	Atsi	72	thoʔlô	thoʔlô			72	t h o + ʔ l ô
+331	Proto-Burmish	come out-1 (emerge)	PB	72	thwaʔ	thwaʔ			72	t h w a ʔ
+332	Rangoon	come out-1 (emerge)	Spoken Burmese	72	thweʔ	thweʔ			72	t h w e ʔ
+333	Akha	come out-2	Akha	73	dōʔlá	dōʔlá			73	d ō + ʔ l á
+334	Lisu	come out-2	Lisu	73	dôlā	dôlā			73	d ô + l ā
+335	Proto-Lolo	come out-2	PL	73	doʔ²	doʔ²			73	d o ʔ ²
+336	Akha	copper	Akha	74	gì̸	gì̸			74	g ì̸
+337	Proto-Lolo	copper	PL	74	g̯ə²	g̯ə²			74	g̯ ə ²
+338	Atsi	copulate	Atsi	75	láu	láu			75	l áu
+339	Maru	copulate	Maru	75	lùk	lùk			75	l ù k
+340	Proto-Burmish	copulate	PB	75	lo²	lo²			75	l o ²
+341	Rangoon	copulate	Spoken Burmese	75	lôu	lôu			75	l ô u
+342	Lisu	cough	Lisu	76	tshə̀cu̸	tshə̀cu̸			76	t s + h ə̀ + c u̸
+343	Proto-Lolo	cough	PL	76	cei²	cei²			76	c ei ²
+344	Atsi	creeper	Atsi	77	nûi	nûi			77	n û i
+345	Maru	creeper	Maru	77	ănòi	ănòi			77	ă + n ò i
+346	Proto-Burmish	creeper	PB	77	nwe¹ᵃ	nwe¹ᵃ			77	n w e ¹ᵃ
+347	Rangoon	creeper	Spoken Burmese	77	ănwé	ănwé			77	ă + n w é
+348	Akha	crooked	Akha	78	γɔ̀ʔ	γɔ̀ʔ	PB: Bu		78	 + γ ɔ̀ ʔ
+349	Proto-Burmish	crooked	PB	78	kok	kok	PB: Bu		78	k o k
+350	Proto-Lolo	crooked	PL	78	g̣oʔ¹	g̣oʔ¹	PB: Bu		78	g̣ o ʔ ¹
+351	Proto-Lolo-Burmese	crooked	PLB	78	kok¹	kok¹	PB: Bu		78	k o k ¹
+352	Rangoon	crooked	Spoken Burmese	78	kauʔ	kauʔ	PB: Bu		78	k au ʔ
+353	Atsi	cross (as water) (verb)	Atsi	79	kú	kú			79	k ú
+354	Maru	cross (as water) (verb)	Maru	79	kāu	kāu			79	k ā u
+355	Proto-Burmish	cross (as water) (verb)	PB	79	ku²	ku²			79	k u ²
+356	Rangoon	cross (as water) (verb)	Spoken Burmese	79	kû	kû			79	k û
+357	Atsi	crossbow-1	Atsi	80	lài	lài			80	l à i
+358	Maru	crossbow-1	Maru	80	lātsʔok	lātsʔok			80	l ā + t s + ʔ o k
+359	Proto-Burmish	crossbow-1	PB	80	lei²	lei²			80	l ei ²
+360	Rangoon	crossbow-1	Spoken Burmese	80	lêi	lêi			80	l ê i
+361	Akha	crossbow-2	Akha	81	kāʔ	kāʔ	Lisu: IF		81	k ā ʔ
+362	Lisu	crossbow-2	Lisu	81	chǎ	chǎ	Lisu: IF		81	c h ǎ
+363	Proto-Lolo	crossbow-2	PL	81	k̯haʔ²	k̯haʔ²	Lisu: IF		81	k̯ h a ʔ ²
+364	Akha	cry (sob)	Akha	82	ŋǿ	ŋǿ			82	ŋ ǿ
+365	Atsi	cry (sob)	Atsi	82	ŋâu	ŋâu			82	ŋ â u
+366	Lisu	cry (sob)	Lisu	82	ŋū	ŋū			82	ŋ ū
+367	Maru	cry (sob)	Maru	82	ŋùk	ŋùk			82	ŋ ù k
+368	Proto-Burmish	cry (sob)	PB	82	ŋo¹ᵃ	ŋo¹ᵃ			82	ŋ o ¹ᵃ
+369	Proto-Lolo	cry (sob)	PL	82	ŋo¹	ŋo¹			82	ŋ o ¹
+370	Proto-Lolo-Burmese	cry (sob)	PLB	82	ŋo¹ᵃ	ŋo¹ᵃ			82	ŋ o ¹ᵃ
+371	Rangoon	cry (sob)	Spoken Burmese	82	ŋóu	ŋóu			82	ŋ ó u
+372	Atsi	cubit	Atsi	83	tûŋ	tûŋ	Maru: T		83	t û ŋ
+373	Maru	cubit	Maru	83	tóŋ	tóŋ	Maru: T		83	t ó ŋ
+374	Proto-Burmish	cubit	PB	83	toŋ¹ᵃ	toŋ¹ᵃ	Maru: T		83	t o ŋ ¹ᵃ
+375	Rangoon	cubit	Spoken Burmese	83	táun	táun	Maru: T		83	t áu n
+376	Atsi	cucumber	Atsi	84	tûŋkhò	tûŋkhò			84	t û ŋ + k h ò
+377	Maru	cucumber	Maru	84	lăkhù	lăkhù			84	l ă + k h ù
+378	Proto-Burmish	cucumber	PB	84	khwa²	khwa²			84	k h w a ²
+379	Rangoon	cucumber	Spoken Burmese	84	θăkhwâ	θăkhwâ			84	θ ă + k h w â
+380	Atsi	cup	Atsi	85	khweʔ	khweʔ			85	k h w e ʔ
+381	Maru	cup	Maru	85	khoʔ	khoʔ			85	k h o ʔ
+382	Proto-Burmish	cup	PB	85	khwaʔ	khwaʔ			85	k h w a ʔ
+383	Atsi	dam	Atsi	86	tshíŋ	tshíŋ	Maru: IT		86	t s + h í ŋ
+384	Maru	dam	Maru	86	thāmtʔáŋ	thāmtʔáŋ	Maru: IT		86	t h ā m t + ʔ á ŋ
+385	Proto-Burmish	dam	PB	86	tshiŋ¹ᵇ	tshiŋ¹ᵇ	Maru: IT		86	t s + h i ŋ ¹ᵇ
+386	Rangoon	dam	Spoken Burmese	86	shé	shé	Maru: IT		86	s h é
+387	Atsi	dance	Atsi	87	kà	kà	Maru: F; Lisu: I		87	k à
+388	Lisu	dance	Lisu	87	kwâ	kwâ	Maru: F; Lisu: I		87	k w â
+389	Maru	dance	Maru	87	kú	kú	Maru: F; Lisu: I		87	k ú
+390	Proto-Burmish	dance	PB	87	ka³	ka³	Maru: F; Lisu: I		87	k a ³
+391	Rangoon	dance	Spoken Burmese	87	kà	kà	Maru: F; Lisu: I		87	k à
+392	Atsi	day (24 hours)	Atsi	88	nyī	nyī			88	n y ī
+393	Proto-Burmish	day (24 hours)	PB	88	nei³	nei³			88	n ei ³
+394	Rangoon	day (24 hours)	Spoken Burmese	88	nèi	nèi			88	n è i
+395	Akha	deaf	Akha	89	bɔ̀	bɔ̀			89	b ɔ̀
+396	Proto-Lolo	deaf	PL	89	bɔ²	bɔ²			89	b ɔ ²
+401	Akha	deer (barking)	Akha	91	cíhà	cíhà	PB: At		91	c í + h à
+402	Atsi	deer (barking)	Atsi	91	chôchí	chôchí	PB: At		91	c h ô + c h í
+403	Lisu	deer (barking)	Lisu	91	chū̸	chū̸	PB: At		91	c h ū̸
+404	Proto-Burmish	deer (barking)	PB	91	chei¹ᵇ	chei¹ᵇ	PB: At		91	c h ei ¹ᵇ
+405	Proto-Lolo	deer (barking)	PL	91	chei¹	chei¹	PB: At		91	c h ei ¹
+406	Proto-Lolo-Burmese	deer (barking)	PLB	91	chei¹ᵇ	chei¹ᵇ	PB: At		91	c h ei ¹ᵇ
+397	Atsi	deer (sambhur)	Atsi	90	tshat	tshat			90	t s + h a t
+398	Maru	deer (sambhur)	Maru	90	tshéʔ	tshéʔ			90	t s + h é ʔ
+399	Proto-Burmish	deer (sambhur)	PB	90	tshat	tshat			90	t s + h a t
+400	Rangoon	deer (sambhur)	Spoken Burmese	90	shaʔ	shaʔ			90	s h a ʔ
+407	Atsi	destroy	Atsi	92	phyeʔ	phyeʔ		PL and Lisu columns misplaced	92	p h ye ʔ
+408	Lisu	destroy	Lisu	92	phyǎ	phyǎ		PL and Lisu columns misplaced	92	p h y ǎ
+409	Maru	destroy	Maru	92	phyoʔ	phyoʔ		PL and Lisu columns misplaced	92	p h yo ʔ
+410	Proto-Burmish	destroy	PB	92	phyaʔ	phyaʔ		PL and Lisu columns misplaced	92	p h ya ʔ
+411	Proto-Lolo	destroy	PL	92	phyaʔ²	phyaʔ²		PL and Lisu columns misplaced	92	p h ya ʔ ²
+412	Proto-Lolo-Burmese	destroy	PLB	92	phyaʔ²	phyaʔ²		PL and Lisu columns misplaced	92	p h ya ʔ ²
+413	Akha	die	Akha	93	ší	ší			93	š í
+414	Atsi	die	Atsi	93	šît	šît			93	š î t
+415	Lisu	die	Lisu	93	sū̸	sū̸			93	s ū̸
+416	Maru	die	Maru	93	ši	ši			93	š i
+417	Proto-Burmish	die	PB	93	šei¹ᵃ	šei¹ᵃ			93	š ei ¹ᵃ
+418	Proto-Lolo	die	PL	93	sei¹	sei¹			93	s ei ¹
+419	Proto-Lolo-Burmese	die	PLB	93	šei¹ᵃ	šei¹ᵃ			93	š ei ¹ᵃ
+420	Rangoon	die	Spoken Burmese	93	θéi	θéi			93	θ é i
+421	Atsi	difficult	Atsi	94	vúi	vúi	Maru: ‘easy’ cf. neg pref.		94	v úi
+422	Maru	difficult	Maru	94	măγuk	măγuk	Maru: ‘easy’ cf. neg pref.		94	m ă + γ u k
+423	Proto-Burmish	difficult	PB	94	γo²	γo²	Maru: ‘easy’ cf. neg pref.		94	 + γ o ²
+424	Akha	dig	Akha	95	dù	dù	Lahu: I		95	d ù
+425	Atsi	dig	Atsi	95	tú	tú	Lahu: I		95	t ú
+426	Lisu	dig	Lisu	95	dù	dù	Lahu: I		95	d ù
+427	Maru	dig	Maru	95	tāu	tāu	Lahu: I		95	t ā u
+428	Proto-Burmish	dig	PB	95	tu²	tu²	Lahu: I		95	t u ²
+429	Proto-Lolo	dig	PL	95	du²	du²	Lahu: I		95	d u ²
+430	Proto-Lolo-Burmese	dig	PLB	95	tu²	tu²	Lahu: I		95	t u ²
+431	Rangoon	dig	Spoken Burmese	95	tû	tû	Lahu: I		95	t û
+432	Atsi	disappear (lost)	Atsi	96	pyuʔ	pyuʔ			96	p yu ʔ
+433	Maru	disappear (lost)	Maru	96	pyòk	pyòk			96	p y ò k
+434	Proto-Burmish	disappear (lost)	PB	96	pyok	pyok			96	p yo k
+435	Atsi	dog	Atsi	97	khùi	khùi			97	k h ù i
+436	Maru	dog	Maru	97	lăkhā	lăkhā			97	l ă + k h ā
+437	Proto-Burmish	dog	PB	97	khwei²	khwei²			97	k h w ei ²
+438	Rangoon	dog	Spoken Burmese	97	khwêi	khwêi			97	k h w ê i
+439	Atsi	dove	Atsi	98	phúŋkʔùi	phúŋkʔùi	BSB: V		98	p h ú ŋ k + ʔ ù i
+440	Proto-Burmish	dove	PB	98	kʔyo²	kʔyo²	BSB: V		98	k ʔ yo ²
+441	Rangoon	dove	Spoken Burmese	98	jôu	jôu	BSB: V		98	j ô u
+442	Akha	draw water	Akha	99	xɔ̀ʔ	xɔ̀ʔ	Atsi: FT; PL: Ak		99	x ɔ̀ ʔ
+443	Atsi	draw water	Atsi	99	khâm	khâm	Atsi: FT; PL: Ak		99	k h â m
+444	Maru	draw water	Maru	99	γìtkhéʔ	γìtkhéʔ	Atsi: FT; PL: Ak		99	 + γ ì t + k h é ʔ
+445	Proto-Burmish	draw water	PB	99	khap/khat	khap/khat	Atsi: FT; PL: Ak		99	k h a p + / k h a t
+446	Proto-Lolo	draw water	PL	99	ḳhap	ḳhap	Atsi: FT; PL: Ak		99	ḳ h a p
+447	Proto-Lolo-Burmese	draw water	PLB	99	khap²	khap²	Atsi: FT; PL: Ak		99	k h a p ²
+448	Rangoon	draw water	Spoken Burmese	99	khaʔ	khaʔ	Atsi: FT; PL: Ak		99	k h a ʔ
+449	Akha	dream (cf. sleep)	Akha	100	yuʔmāʔ	yuʔmāʔ	Lisu: Y		100	yu + ʔ m ā ʔ
+450	Atsi	dream (cf. sleep)	Atsi	100	moʔ	moʔ	Lisu: Y		100	m o ʔ
+451	Lisu	dream (cf. sleep)	Lisu	100	yiʔmya	yiʔmya	Lisu: Y		100	yi + ʔ m ya
+452	Maru	dream (cf. sleep)	Maru	100	yapmoʔ	yapmoʔ	Lisu: Y		100	ya + p m o ʔ
+453	Proto-Burmish	dream (cf. sleep)	PB	100	maʔ	maʔ	Lisu: Y		100	m a ʔ
+454	Proto-Lolo	dream (cf. sleep)	PL	100	maʔ²	maʔ²	Lisu: Y		100	m a ʔ ²
+455	Proto-Lolo-Burmese	dream (cf. sleep)	PLB	100	maʔ²	maʔ²	Lisu: Y		100	m a ʔ ²
+456	Rangoon	dream (cf. sleep)	Spoken Burmese	100	eiʔmeʔ	eiʔmeʔ	Lisu: Y		100	ei + ʔ m e ʔ
+457	Atsi	drink-1	Atsi	101	šuʔ	šuʔ			101	š u ʔ
+458	Maru	drink-1	Maru	101	šók	šók			101	š ó k
+459	Proto-Burmish	drink-1	PB	101	šok	šok			101	š o k
+460	Rangoon	drink-1	Spoken Burmese	101	θauʔ	θauʔ			101	θ au ʔ
+461	Akha	drink-2	Akha	102	dɔ́	dɔ́	Lahu: I		102	d ɔ́
+462	Lisu	drink-2	Lisu	102	dɔ̄	dɔ̄	Lahu: I		102	d ɔ̄
+463	Proto-Lolo	drink-2	PL	102	dɔ¹	dɔ¹	Lahu: I		102	d ɔ ¹
+464	Atsi	drum	Atsi	103	tsîŋ	tsîŋ	BSB: F		103	t s î ŋ
+465	Maru	drum	Maru	103	tsàŋ	tsàŋ	BSB: F		103	t s à ŋ
+466	Proto-Burmish	drum	PB	103	tsiŋ¹ᵃ	tsiŋ¹ᵃ	BSB: F		103	t s i ŋ ¹ᵃ
+467	Rangoon	drum	Spoken Burmese	103	sí	sí	BSB: F		103	s í
+468	Akha	drunk (intoxicated)	Akha	104	jíbàyɛ̀ʔ	jíbàyɛ̀ʔ			104	j í + b à yɛ̀ ʔ
+469	Lisu	drunk (intoxicated)	Lisu	104	yiʔ	yiʔ			104	yi ʔ
+470	Proto-Lolo	drunk (intoxicated)	PL	104	yut¹	yut¹			104	yu t ¹
+471	Atsi	dry	Atsi	105	kʔyuʔ	kʔyuʔ		BSB, Atsi, Maru forms in the Atsi, Maru, PL columns; moved them into their proper positions	105	k ʔ yu ʔ
+472	Maru	dry	Maru	105	ăkʔyok	ăkʔyok		BSB, Atsi, Maru forms in the Atsi, Maru, PL columns; moved them into their proper positions	105	ă k + ʔ yo k
+473	Proto-Burmish	dry	PB	105	kʔyok	kʔyok		BSB, Atsi, Maru forms in the Atsi, Maru, PL columns; moved them into their proper positions	105	k ʔ yo k
+474	Rangoon	dry	Spoken Burmese	105	chauʔ	chauʔ		BSB, Atsi, Maru forms in the Atsi, Maru, PL columns; moved them into their proper positions	105	c h au ʔ
+475	Atsi	dry up	Atsi	106	kʔán	kʔán			106	k ʔ á n
+476	Proto-Burmish	dry up	PB	106	kʔan²	kʔan²			106	k ʔ a n ²
+477	Rangoon	dry up	Spoken Burmese	106	khân	khân			106	k h â n
+478	Atsi	dung-1	Atsi	107	khyì	khyì	BSB: F		107	k h y ì
+479	Maru	dung-1	Maru	107	khyít	khyít	BSB: F		107	k h yí t
+480	Proto-Burmish	dung-1	PB	107	khyei²	khyei²	BSB: F		107	k h yei ²
+481	Rangoon	dung-1	Spoken Burmese	107	chî	chî	BSB: F		107	c h î
+482	Akha	dung-2	Akha	108	cè	cè			108	c è
+483	Lisu	dung-2	Lisu	108	chì	chì			108	c h ì
+484	Proto-Lolo	dung-2	PL	108	che²	che²			108	c h e ²
+485	Atsi	dusk (cf. sky)	Atsi	109	màuchut	màuchut			109	m à u + c h u t
+486	Proto-Burmish	dusk (cf. sky)	PB	109	mo²chut	mo²chut			109	m o ² + c h u t
+487	Rangoon	dusk (cf. sky)	Spoken Burmese	109	môuchouʔ	môuchouʔ			109	m ô u + c h ou ʔ
+488	Atsi	dwell	Atsi	110	nyî	nyî	Maru: F		110	n y î
+489	Maru	dwell	Maru	110	nà	nà	Maru: F		110	n à
+490	Proto-Burmish	dwell	PB	110	nei¹ᵃ	nei¹ᵃ	Maru: F		110	n ei ¹ᵃ
+491	Rangoon	dwell	Spoken Burmese	110	néi	néi	Maru: F		110	n é i
+492	Atsi	dye (vb.)	Atsi	111	tsháu	tsháu			111	t s + h áu
+493	Maru	dye (vb.)	Maru	111	tshúk	tshúk			111	t s + h ú k
+494	Proto-Burmish	dye (vb.)	PB	111	tsho²	tsho²			111	t s + h o ²
+495	Rangoon	dye (vb.)	Spoken Burmese	111	shôu	shôu			111	s h ô u
+496	Atsi	ear-1	Atsi	112	nòphyò	nòphyò			112	n ò + p h y ò
+497	Maru	ear-1	Maru	112	nò	nò			112	n ò
+498	Proto-Burmish	ear-1	PB	112	na²ᶜ	na²ᶜ			112	n a ²ᶜ
+499	Rangoon	ear-1	Spoken Burmese	112	nâ	nâ			112	n â
+500	Akha	ear-2	Akha	113	nàbɔ́	nàbɔ́	Lisu: I		113	n à + b ɔ́
+501	Lisu	ear-2	Lisu	113	nápô	nápô	Lisu: I		113	n á + p ô
+502	Proto-Lolo	ear-2	PL	113	nʔa²bɔ¹	nʔa²bɔ¹	Lisu: I		113	n ʔ a ² + b ɔ ¹
+503	Atsi	earth-1	Atsi	114	mìkûŋ	mìkûŋ	Atsi: T		114	m ì + k û ŋ
+504	Maru	earth-1	Maru	114	myìt	myìt	Atsi: T		114	m y ì t
+505	Proto-Burmish	earth-1	PB	114	myei¹	myei¹	Atsi: T		114	m yei ¹
+506	Rangoon	earth-1	Spoken Burmese	114	myéi	myéi	Atsi: T		114	m y é i
+507	Akha	earth-2	Akha	115	mítsà	mítsà			115	m í + t s à
+508	Lisu	earth-2	Lisu	115	mînæ̂	mînæ̂			115	m î + n æ̂
+509	Proto-Lolo	earth-2	PL	115	mi¹	mi¹			115	m i ¹
+510	Atsi	easy-1	Atsi	116	lûi	lûi			116	l û i
+511	Proto-Burmish	easy-1	PB	116	lwe¹ᵃ	lwe¹ᵃ			116	l w e ¹ᵃ
+512	Rangoon	easy-1	Spoken Burmese	116	lwé	lwé			116	l w é
+513	Akha	easy-2	Akha	117	sá	sá			117	s á
+514	Proto-Lolo	easy-2	PL	117	sa¹	sa¹			117	s a ¹
+515	Akha	eat	Akha	118	dzà	dzà			118	d z à
+516	Atsi	eat	Atsi	118	tsó	tsó			118	t s ó
+517	Lisu	eat	Lisu	118	dzà	dzà			118	d z à
+518	Maru	eat	Maru	118	tsō	tsō			118	t s ō
+519	Proto-Burmish	eat	PB	118	tsa²	tsa²			118	t s a ²
+520	Proto-Lolo	eat	PL	118	dza²	dza²			118	d z a ²
+521	Proto-Lolo-Burmese	eat	PLB	118	tsa²	tsa²			118	t s a ²
+522	Rangoon	eat	Spoken Burmese	118	sâ	sâ			118	s â
+523	Akha	egg (cf. fowl)	Akha	119	yāūʔ	yāūʔ	PL: La; Lisu: I, Akha: T		119	y ā ū ʔ
+524	Atsi	egg (cf. fowl)	Atsi	119	voʔū	voʔū	PL: La; Lisu: I, Akha: T		119	v o + ʔ ū
+525	Lisu	egg (cf. fowl)	Lisu	119	áγáfû	áγáfû	PL: La; Lisu: I, Akha: T		119	á + γ á + f û
+526	Maru	egg (cf. fowl)	Maru	119	γōʔáu	γōʔáu	PL: La; Lisu: I, Akha: T		119	 + γ ō + ʔ áu
+527	Proto-Burmish	egg (cf. fowl)	PB	119	u³	u³	PL: La; Lisu: I, Akha: T		119	u ³
+528	Proto-Lolo	egg (cf. fowl)	PL	119	u³	u³	PL: La; Lisu: I, Akha: T		119	u ³
+529	Proto-Lolo-Burmese	egg (cf. fowl)	PLB	119	u³	u³	PL: La; Lisu: I, Akha: T		119	u ³
+530	Rangoon	egg (cf. fowl)	Spoken Burmese	119	ù	ù	PL: La; Lisu: I, Akha: T		119	ù
+531	Atsi	eight-1	Atsi	120	šit	šit	PB: C; Maru: F	Is Burling's 'eight-2' cognate?	120	š i t
+532	Maru	eight-1	Maru	120	šéʔ	šéʔ	PB: C; Maru: F	Is Burling's 'eight-2' cognate?	120	š é ʔ
+533	Proto-Burmish	eight-1	PB	120	slit	slit	PB: C; Maru: F	Is Burling's 'eight-2' cognate?	120	s l i t
+534	Rangoon	eight-1	Spoken Burmese	120	šiʔ	šiʔ	PB: C; Maru: F	Is Burling's 'eight-2' cognate?	120	š i ʔ
+535	Akha	eight-2	Akha	121	yɛ̀ʔ	yɛ̀ʔ	Lahu: FT	Is Burling's 'eight-1' cognate?	121	yɛ̀ ʔ
+536	Lisu	eight-2	Lisu	121	heʔ	heʔ	Lahu: FT	Is Burling's 'eight-1' cognate?	121	h e ʔ
+537	Proto-Lolo	eight-2	PL	121	hyeʔ¹	hyeʔ¹	Lahu: FT	Is Burling's 'eight-1' cognate?	121	h ye ʔ ¹
+538	Maru	elephant	Maru	122	tshà	tshà			122	t s + h à
+539	Proto-Burmish	elephant	PB	122	tshaŋ²	tshaŋ²			122	t s + h a ŋ ²
+540	Rangoon	elephant	Spoken Burmese	122	shín	shín			122	s h í n
+541	Atsi	embrace	Atsi	123	pʔô	pʔô	BSB: TF		123	p ʔ ô
+542	Maru	embrace	Maru	123	pʔò	pʔò	BSB: TF		123	p ʔ ò
+543	Proto-Burmish	embrace	PB	123	pʔa¹ᵃ	pʔa¹ᵃ	BSB: TF		123	p ʔ a ¹ᵃ
+544	Rangoon	embrace	Spoken Burmese	123	pheʔ	pheʔ	BSB: TF		123	p h e ʔ
+545	Lisu	empty	Lisu	124	yígɔ̀	yígɔ̀			124	yí + g ɔ̀
+546	Proto-Lolo	empty	PL	124	g̣ɔ²	g̣ɔ²			124	g̣ ɔ ²
+547	Atsi	enclose	Atsi	125	váŋ	váŋ	Maru: F		125	v á ŋ
+548	Maru	enclose	Maru	125	wàŋ	wàŋ	Maru: F		125	w à ŋ
+549	Proto-Burmish	enclose	PB	125	waŋ²ᶜ	waŋ²ᶜ	Maru: F		125	w a ŋ ²ᶜ
+550	Rangoon	enclose	Spoken Burmese	125	wîn	wîn	Maru: F		125	w î n
+551	Atsi	endure	Atsi	126	khám	khám			126	k h á m
+552	Proto-Burmish	endure	PB	126	kham¹ᵇ	kham¹ᵇ			126	k h a m ¹ᵇ
+553	Rangoon	endure	Spoken Burmese	126	khán	khán			126	k h á n
+554	Akha	enough	Akha	127	lòʔ	lòʔ			127	l ò ʔ
+555	Lisu	enough	Lisu	127	loʔ	loʔ			127	l o ʔ
+556	Maru	enough	Maru	127	lòkwá	lòkwá			127	l ò + k w á
+557	Proto-Burmish	enough	PB	127	lok	lok			127	l o k
+558	Proto-Lolo	enough	PL	127	loʔ¹	loʔ¹			127	l o ʔ ¹
+559	Proto-Lolo-Burmese	enough	PLB	127	lok¹	lok¹			127	l o k ¹
+560	Rangoon	enough	Spoken Burmese	127	lauʔ	lauʔ			127	l au ʔ
+561	Atsi	enter	Atsi	128	vâŋ	vâŋ			128	v â ŋ
+562	Maru	enter	Maru	128	wà	wà			128	w à
+563	Proto-Burmish	enter	PB	128	waŋ¹ᵃ	waŋ¹ᵃ			128	w a ŋ ¹ᵃ
+564	Rangoon	enter	Spoken Burmese	128	wín	wín			128	w í n
+565	Akha	eye	Akha	129	myāʔnī̸ʔ	myāʔnī̸ʔ			129	m y ā + ʔ n ī̸ ʔ
+566	Atsi	eye	Atsi	129	myoʔ	myoʔ			129	m yo ʔ
+567	Lisu	eye	Lisu	129	myâsə̀	myâsə̀			129	m y â + s ə̀
+568	Maru	eye	Maru	129	myòʔ	myòʔ			129	m y ò ʔ
+569	Proto-Burmish	eye	PB	129	myaʔ	myaʔ			129	m ya ʔ
+570	Proto-Lolo	eye	PL	129	myaʔ²	myaʔ²			129	m ya ʔ ²
+571	Proto-Lolo-Burmese	eye	PLB	129	myaʔ²	myaʔ²			129	m ya ʔ ²
+572	Rangoon	eye	Spoken Burmese	129	myeʔsì	myeʔsì			129	m ye + ʔ s ì
+573	Akha	fall	Akha	130	gākā	gākā	PL: Ak		130	g ā + k ā
+574	Maru	fall	Maru	130	pítkyó	pítkyó	PL: Ak		130	p í t + k y ó
+575	Proto-Burmish	fall	PB	130	kyaʔ	kyaʔ	PL: Ak		130	k ya ʔ
+576	Proto-Lolo	fall	PL	130	g̯a³	g̯a³	PL: Ak		130	g̯ a ³
+577	Proto-Lolo-Burmese	fall	PLB	130	kya³	kya³	PL: Ak		130	k ya ³
+578	Rangoon	fall	Spoken Burmese	130	cà	cà	PL: Ak		130	c à
+579	Atsi	far	Atsi	131	vé	vé	Atsi: F; Lisu: I; PL: La		131	v é
+580	Lisu	far	Lisu	131	γə̀	γə̀	Atsi: F; Lisu: I; PL: La		131	 + γ ə̀
+581	Maru	far	Maru	131	ăwā	ăwā	Atsi: F; Lisu: I; PL: La		131	ă + w ā
+582	Proto-Burmish	far	PB	131	we²	we²	Atsi: F; Lisu: I; PL: La		131	w e ²
+583	Proto-Lolo	far	PL	131	wə²	wə²	Atsi: F; Lisu: I; PL: La		131	w ə ²
+584	Proto-Lolo-Burmese	far	PLB	131	wə²	wə²	Atsi: F; Lisu: I; PL: La		131	w ə ²
+585	Rangoon	far	Spoken Burmese	131	wêi	wêi	Atsi: F; Lisu: I; PL: La		131	w ê i
+586	Akha	fat	Akha	132	tsú	tsú	Lisu: F		132	t s ú
+587	Atsi	fat	Atsi	132	tshú	tshú	Lisu: F		132	t s + h ú
+588	Lisu	fat	Lisu	132	tshə̄	tshə̄	Lisu: F		132	t s + h ə̄
+589	Maru	fat	Maru	132	tshàu	tshàu	Lisu: F		132	t s + h à u
+590	Proto-Burmish	fat	PB	132	tshu¹ᵇ	tshu¹ᵇ	Lisu: F		132	t s + h u ¹ᵇ
+591	Proto-Lolo	fat	PL	132	tshu¹	tshu¹	Lisu: F		132	t s + h u ¹
+592	Proto-Lolo-Burmese	fat	PLB	132	tshu¹ᵇ	tshu¹ᵇ	Lisu: F		132	t s + h u ¹ᵇ
+593	Rangoon	fat	Spoken Burmese	132	shú	shú	Lisu: F		132	s h ú
+594	Atsi	fear	Atsi	133	kyuʔ	kyuʔ	PL:La		133	k yu ʔ
+595	Maru	fear	Maru	133	kyòk	kyòk	PL:La		133	k y ò k
+596	Proto-Burmish	fear	PB	133	kyok	kyok	PL:La		133	k yo k
+597	Proto-Lolo	fear	PL	133	g̯oʔ²	g̯oʔ²	PL:La		133	g̯ o ʔ ²
+598	Proto-Lolo-Burmese	fear	PLB	133	kyok²	kyok²	PL:La		133	k yo k ²
+599	Rangoon	fear	Spoken Burmese	133	cauʔ	cauʔ	PL:La		133	c au ʔ
+608	Atsi	feather-body hair	Atsi	135	šòmāu	šòmāu	BSB: FT		135	š ò + m ā u
+609	Lisu	feather-body hair	Lisu	135	mû̸	mû̸	BSB: FT		135	m û̸
+610	Maru	feather-body hair	Maru	135	múk	múk	BSB: FT		135	m ú k
+611	Proto-Burmish	feather-body hair	PB	135	mo³	mo³	BSB: FT		135	m o ³
+612	Proto-Lolo	feather-body hair	PL	135	mo³	mo³	BSB: FT		135	m o ³
+613	Proto-Lolo-Burmese	feather-body hair	PLB	135	mo³	mo³	BSB: FT		135	m o ³
+614	Rangoon	feather-body hair	Spoken Burmese	135	ămwêi	ămwêi	BSB: FT		135	ă + m w ê i
+600	Akha	female suffix	Akha	134	àmā	àmā	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	à + m ā
+601	Atsi	female suffix	Atsi	134	tùmō	tùmō	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	t ù + m ō
+602	Lisu	female suffix	Lisu	134	mămâ	mămâ	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	m ă + m â
+603	Maru	female suffix	Maru	134	tàumó	tàumó	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	t à u + m ó
+604	Proto-Burmish	female suffix	PB	134	ma³	ma³	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	m a ³
+605	Proto-Lolo	female suffix	PL	134	ma³	ma³	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	m a ³
+606	Proto-Lolo-Burmese	female suffix	PLB	134	ma³	ma³	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	m a ³
+607	Rangoon	female suffix	Spoken Burmese	134	ămà	ămà	BSB: ElSi; Atsi: SoWi; Maru: SoWi; Lisu, Akha: 'Mother'		134	ă + m à
+615	Akha	field (dry)	Akha	136	yá	yá			136	yá
+616	Atsi	field (dry)	Atsi	136	yô	yô			136	y ô
+617	Lisu	field (dry)	Lisu	136	ha	ha			136	h a
+618	Maru	field (dry)	Maru	136	yò	yò			136	y ò
+619	Proto-Burmish	field (dry)	PB	136	ya¹ᵃ	ya¹ᵃ			136	ya ¹ᵃ
+620	Proto-Lolo	field (dry)	PL	136	hya¹	hya¹			136	h ya ¹
+621	Proto-Lolo-Burmese	field (dry)	PLB	136	hya¹ᵃ	hya¹ᵃ			136	h ya ¹ᵃ
+622	Rangoon	field (dry)	Spoken Burmese	136	yá	yá			136	yá
+623	Atsi	fight	Atsi	137	pyoʔlʔúm	pyoʔlʔúm			137	p yo + ʔ l + ʔ ú m
+624	Maru	fight	Maru	137	cʔópyò	cʔópyò			137	c ʔ ó + p y ò
+625	Proto-Burmish	fight	PB	137	pya²	pya²			137	p ya ²
+626	Atsi	finger-1	Atsi	138	nʔyùi	nʔyùi			138	n ʔ y ù i
+627	Maru	finger-1	Maru	138	nʔyuk	nʔyuk			138	n ʔ yu k
+628	Proto-Burmish	finger-1	PB	138	nʔyo²	nʔyo²			138	n ʔ yo ²
+629	Rangoon	finger-1	Spoken Burmese	138	hnyôu	hnyôu			138	h n y ô u
+630	Akha	finger-2	Akha	139	nǿ	nǿ			139	n ǿ
+631	Proto-Lolo	finger-2	PL	139	nʔo¹	nʔo¹			139	n ʔ o ¹
+632	Akha	fire	Akha	140	mì	mì	Lahu: T		140	m ì
+633	Atsi	fire	Atsi	140	myì	myì	Lahu: T		140	m y ì
+634	Maru	fire	Maru	140	mī	mī	Lahu: T		140	m ī
+635	Proto-Burmish	fire	PB	140	mi²	mi²	Lahu: T		140	m i ²
+636	Proto-Lolo	fire	PL	140	mi²	mi²	Lahu: T		140	m i ²
+637	Proto-Lolo-Burmese	fire	PLB	140	mi²	mi²	Lahu: T		140	m i ²
+638	Rangoon	fire	Spoken Burmese	140	mî	mî	Lahu: T		140	m î
+639	Atsi	firewood	Atsi	141	thàŋ	thàŋ			141	t h à ŋ
+640	Maru	firewood	Maru	141	thā	thā			141	t h ā
+641	Proto-Burmish	firewood	PB	141	thaŋ²	thaŋ²			141	t h a ŋ ²
+642	Rangoon	firewood	Spoken Burmese	141	thîn	thîn			141	t h î n
+643	Akha	fish	Akha	142	ŋà	ŋà	Lisu: T		142	ŋ à
+644	Atsi	fish	Atsi	142	ŋòtsò	ŋòtsò	Lisu: T		142	ŋ ò + t s ò
+645	Lisu	fish	Lisu	142	ŋwá	ŋwá	Lisu: T		142	ŋ w á
+646	Maru	fish	Maru	142	ŋō	ŋō	Lisu: T		142	ŋ ō
+647	Proto-Burmish	fish	PB	142	ŋa²	ŋa²	Lisu: T		142	ŋ a ²
+648	Proto-Lolo	fish	PL	142	ŋa²	ŋa²	Lisu: T		142	ŋ a ²
+649	Proto-Lolo-Burmese	fish	PLB	142	ŋa²	ŋa²	Lisu: T		142	ŋ a ²
+650	Rangoon	fish	Spoken Burmese	142	ŋâ	ŋâ	Lisu: T		142	ŋ â
+651	Akha	five	Akha	143	ŋà	ŋà	Maru: T		143	ŋ à
+652	Atsi	five	Atsi	143	ŋòlʔùm	ŋòlʔùm	Maru: T		143	ŋ ò l + ʔ ù m
+653	Lisu	five	Lisu	143	ŋwà	ŋwà	Maru: T		143	ŋ w à
+654	Maru	five	Maru	143	ŋó	ŋó	Maru: T		143	ŋ ó
+655	Proto-Burmish	five	PB	143	ŋa²	ŋa²	Maru: T		143	ŋ a ²
+656	Proto-Lolo	five	PL	143	ŋa²	ŋa²	Maru: T		143	ŋ a ²
+657	Proto-Lolo-Burmese	five	PLB	143	ŋa²	ŋa²	Maru: T		143	ŋ a ²
+658	Rangoon	five	Spoken Burmese	143	ŋâ	ŋâ	Maru: T		143	ŋ â
+659	Atsi	flame	Atsi	144	šám	šám	BSB: I		144	š á m
+660	Maru	flame	Maru	144	šìn	šìn	BSB: I		144	š ì n
+661	Proto-Burmish	flame	PB	144	šam¹ᵇ	šam¹ᵇ	BSB: I		144	š a m ¹ᵇ
+662	Rangoon	flame	Spoken Burmese	144	hlyán	hlyán	BSB: I		144	h l yá n
+663	Atsi	flea	Atsi	145	khòʔlʔài	khòʔlʔài			145	k h ò + ʔ l + ʔ à i
+664	Maru	flea	Maru	145	khălʔà	khălʔà			145	k h ă l + ʔ à
+665	Proto-Burmish	flea	PB	145	lʔei²ᶜ	lʔei²ᶜ			145	l ʔ ei ²ᶜ
+666	Rangoon	flea	Spoken Burmese	145	hlêi	hlêi			145	h l ê i
+667	Akha	flee	Akha	146	pɔ́	pɔ́			146	p ɔ́
+668	Proto-Lolo	flee	PL	146	phɔ¹	phɔ¹			146	p h ɔ ¹
+676	Atsi	flower (classifier)	Atsi	149	pō	pō			149	p ō
+677	Maru	flower (classifier)	Maru	149	pú	pú			149	p ú
+678	Proto-Burmish	flower (classifier)	PB	149	pwa³	pwa³			149	p w a ³
+669	Atsi	flower-1 (noun)	Atsi	147	pàn	pàn			147	p à n
+670	Maru	flower-1 (noun)	Maru	147	năpīn	năpīn			147	n ă + p ī n
+671	Proto-Burmish	flower-1 (noun)	PB	147	pan²	pan²			147	p a n ²
+672	Rangoon	flower-1 (noun)	Spoken Burmese	147	pân	pân			147	p â n
+673	Akha	flower-2 (cf. tree-3)	Akha	148	áyɛ̄ʔ	áyɛ̄ʔ			148	áyɛ̄ ʔ
+674	Lisu	flower-2 (cf. tree-3)	Lisu	148	sǐwê	sǐwê			148	s ǐ + w ê
+675	Proto-Lolo	flower-2 (cf. tree-3)	PL	148	weʔ²	weʔ²			148	w e ʔ ²
+683	Lisu	fly-1 (verb)	Lisu	151	byø̄	byø̄	PB: Bu		151	b yø̄
+684	Proto-Burmish	fly-1 (verb)	PB	151	pyan¹	pyan¹	PB: Bu		151	p ya n ¹
+685	Proto-Lolo	fly-1 (verb)	PL	151	byan¹	byan¹	PB: Bu		151	b ya n ¹
+686	Proto-Lolo-Burmese	fly-1 (verb)	PLB	151	pyan¹	pyan¹	PB: Bu		151	p ya n ¹
+687	Rangoon	fly-1 (verb)	Spoken Burmese	151	pyán	pyán	PB: Bu		151	p yá n
+688	Atsi	fly-2 (verb)	Atsi	152	táŋ	táŋ			152	t á ŋ
+689	Maru	fly-2 (verb)	Maru	152	tà	tà			152	t à
+690	Proto-Burmish	fly-2 (verb)	PB	152	taŋ¹ᵇ	taŋ¹ᵇ			152	t a ŋ ¹ᵇ
+679	Atsi	fly-gnat	Atsi	150	pʔyup	pʔyup			150	p ʔ yu p
+680	Maru	fly-gnat	Maru	150	pʔyap	pʔyap			150	p ʔ ya p
+681	Proto-Burmish	fly-gnat	PB	150	pʔyup	pʔyup			150	p ʔ yu p
+682	Rangoon	fly-gnat	Spoken Burmese	150	phyouʔ	phyouʔ			150	p h you ʔ
+691	Atsi	follow	Atsi	153	cháŋ	cháŋ			153	c h á ŋ
+692	Proto-Burmish	follow	PB	153	chaŋ²	chaŋ²			153	c h a ŋ ²
+693	Rangoon	follow	Spoken Burmese	153	chîn	chîn			153	c h î n
+694	Akha	foot-leg	Akha	154	àkɨ́	àkɨ́			154	à + k ɨ́
+695	Atsi	foot-leg	Atsi	154	khyí	khyí			154	k h yí
+696	Maru	foot-leg	Maru	154	khyìt	khyìt			154	k h y ì t
+697	Proto-Burmish	foot-leg	PB	154	khyei¹ᵇ	khyei¹ᵇ			154	k h yei ¹ᵇ
+698	Proto-Lolo	foot-leg	PL	154	k̯hə¹	k̯hə¹			154	k̯ h ə ¹
+699	Proto-Lolo-Burmese	foot-leg	PLB	154	khyə¹ᵇ	khyə¹ᵇ			154	k h yə ¹ᵇ
+700	Rangoon	foot-leg	Spoken Burmese	154	chéi	chéi			154	c h é i
+701	Akha	four	Akha	155	ø̀	ø̀			155	ø̀
+702	Proto-Lolo	four	PL	155	o²	o²			155	o ²
+703	Atsi	fowl	Atsi	156	voʔ	voʔ	PLB: C; PB: C; PL: Lahu		156	v o ʔ
+704	Maru	fowl	Maru	156	γòʔ	γòʔ	PLB: C; PB: C; PL: Lahu		156	 + γ ò ʔ
+705	Proto-Burmish	fowl	PB	156	kγaʔ	kγaʔ	PLB: C; PB: C; PL: Lahu		156	k γ a ʔ
+706	Proto-Lolo	fowl	PL	156	γa²	γa²	PLB: C; PB: C; PL: Lahu		156	 + γ a ²
+707	Proto-Lolo-Burmese	fowl	PLB	156	kγaʔ²	kγaʔ²	PLB: C; PB: C; PL: Lahu		156	k γ a ʔ ²
+708	Rangoon	fowl	Spoken Burmese	156	ceʔ	ceʔ	PLB: C; PB: C; PL: Lahu		156	c e ʔ
+709	Akha	frog	Akha	157	xàpà	xàpà			157	x à + p à
+710	Atsi	frog	Atsi	157	pʔò	pʔò			157	p ʔ ò
+711	Lisu	frog	Lisu	157	wúpá	wúpá			157	w ú + p á
+712	Maru	frog	Maru	157	pʔō	pʔō			157	p ʔ ō
+713	Proto-Burmish	frog	PB	157	pʔa²	pʔa²			157	p ʔ a ²
+714	Proto-Lolo	frog	PL	157	pa²	pa²			157	p a ²
+715	Proto-Lolo-Burmese	frog	PLB	157	pʔa²	pʔa²			157	p ʔ a ²
+716	Rangoon	frog	Spoken Burmese	157	phâ	phâ			157	p h â
+721	Akha	fruit	Akha	159	ásì	ásì	Maru: cf. 'tree-1'		159	á + s ì
+722	Atsi	fruit	Atsi	159	šì	šì	Maru: cf. 'tree-1'		159	š ì
+723	Lisu	fruit	Lisu	159	sə́sə̀	sə́sə̀	Maru: cf. 'tree-1'		159	s ə́ + s ə̀
+724	Maru	fruit	Maru	159	sákšì	sákšì	Maru: cf. 'tree-1'		159	s á + k š ì
+725	Proto-Burmish	fruit	PB	159	ši²ᶜ	ši²ᶜ	Maru: cf. 'tree-1'		159	š i ²ᶜ
+726	Proto-Lolo	fruit	PL	159	si²	si²	Maru: cf. 'tree-1'		159	s i ²
+727	Proto-Lolo-Burmese	fruit	PLB	159	ši²ᶜ	ši²ᶜ	Maru: cf. 'tree-1'		159	š i ²ᶜ
+728	Rangoon	fruit	Spoken Burmese	159	ăθî	ăθî	Maru: cf. 'tree-1'		159	ă + θ î
+729	Akha	full	Akha	160	byɔ̄n	byɔ̄n	Lahu: TIF		160	b yɔ̄ n
+730	Atsi	full	Atsi	160	pyīŋ	pyīŋ	Lahu: TIF		160	p y ī ŋ
+731	Lisu	full	Lisu	160	bî	bî	Lahu: TIF		160	b î
+732	Maru	full	Maru	160	pyáŋ	pyáŋ	Lahu: TIF		160	p yá ŋ
+733	Proto-Burmish	full	PB	160	pyiŋ³	pyiŋ³	Lahu: TIF		160	p yi ŋ ³
+734	Proto-Lolo	full	PL	160	byiŋ³	byiŋ³	Lahu: TIF		160	b yi ŋ ³
+735	Proto-Lolo-Burmese	full	PLB	160	pyiŋ³	pyiŋ³	Lahu: TIF		160	p yi ŋ ³
+736	Rangoon	full	Spoken Burmese	160	pyì	pyì	Lahu: TIF		160	p y ì
+737	Akha	garden	Akha	161	yákḿ	yákḿ	BSB: 'fence'; Maru 'wall'		161	yá k ḿ
+738	Atsi	garden	Atsi	161	khyám	khyám	BSB: 'fence'; Maru 'wall'		161	k h yá m
+739	Maru	garden	Maru	161	khìnγìn	khìnγìn	BSB: 'fence'; Maru 'wall'		161	k h ì n + γ ì n
+740	Proto-Burmish	garden	PB	161	khyam¹ᵇ	khyam¹ᵇ	BSB: 'fence'; Maru 'wall'		161	k h ya m ¹ᵇ
+741	Proto-Lolo	garden	PL	161	k̯ham¹	k̯ham¹	BSB: 'fence'; Maru 'wall'		161	k̯ h a m ¹
+742	Proto-Lolo-Burmese	garden	PLB	161	khyam¹ᵇ	khyam¹ᵇ	BSB: 'fence'; Maru 'wall'		161	k h ya m ¹ᵇ
+743	Rangoon	garden	Spoken Burmese	161	chán	chán	BSB: 'fence'; Maru 'wall'		161	c h á n
+744	Akha	get	Akha	162	zā	zā	Maru: IFT		162	z ā
+745	Atsi	get	Atsi	162	vō	vō	Maru: IFT		162	v ō
+746	Maru	get	Maru	162	théʔyù	théʔyù	Maru: IFT		162	t h é + ʔ y ù
+747	Proto-Burmish	get	PB	162	γa³	γa³	Maru: IFT		162	 + γ a ³
+748	Proto-Lolo	get	PL	162	γa³	γa³	Maru: IFT		162	 + γ a ³
+749	Proto-Lolo-Burmese	get	PLB	162	γa³	γa³	Maru: IFT		162	 + γ a ³
+750	Rangoon	get	Spoken Burmese	162	yà	yà	Maru: IFT		162	y à
+751	Atsi	ginger	Atsi	163	chàŋ	chàŋ			163	c h à ŋ
+752	Maru	ginger	Maru	163	chākʔoʔ	chākʔoʔ			163	c h ā k + ʔ o ʔ
+753	Proto-Burmish	ginger	PB	163	chaŋ²	chaŋ²			163	c h a ŋ ²
+754	Rangoon	ginger	Spoken Burmese	163	jîn	jîn			163	j î n
+755	Akha	give	Akha	164	bìʔ	bìʔ	PL: Lahu; Akha: T		164	b ì ʔ
+756	Atsi	give	Atsi	164	pyí	pyí	PL: Lahu; Akha: T		164	p yí
+757	Proto-Burmish	give	PB	164	pei²	pei²	PL: Lahu; Akha: T		164	p ei ²
+758	Proto-Lolo	give	PL	164	bi²	bi²	PL: Lahu; Akha: T		164	b i ²
+759	Proto-Lolo-Burmese	give	PLB	164	pei²	pei²	PL: Lahu; Akha: T		164	p ei ²
+760	Rangoon	give	Spoken Burmese	164	pêi	pêi	PL: Lahu; Akha: T		164	p ê i
+761	Atsi	granary	Atsi	165	cʔí	cʔí	BSB: I		165	c ʔ í
+762	Maru	granary	Maru	165	cʔì	cʔì	BSB: I		165	c ʔ ì
+763	Proto-Burmish	granary	PB	165	cʔi¹ᵇ	cʔi¹ᵇ	BSB: I		165	c ʔ i ¹ᵇ
+764	Rangoon	granary	Spoken Burmese	165	cí	cí	BSB: I		165	c í
+765	Maru	grandchild	Maru	166	myít	myít			166	m yí t
+766	Proto-Burmish	grandchild	PB	166	myei²ᶜ	myei²ᶜ			166	m yei ²ᶜ
+767	Rangoon	grandchild	Spoken Burmese	166	myêi	myêi			166	m y ê i
+768	Atsi	grandfather	Atsi	167	áphyì	áphyì	BSB: F		167	á + p h y ì
+769	Maru	grandfather	Maru	167	phyít	phyít	BSB: F		167	p h yí t
+770	Proto-Burmish	grandfather	PB	167	phyei²	phyei²	BSB: F		167	p h yei ²
+771	Rangoon	grandfather	Spoken Burmese	167	ăphwâ	ăphwâ	BSB: F		167	ă + p h w â
+772	Atsi	grandmother	Atsi	168	áphàu	áphàu			168	á + p h à u
+773	Maru	grandmother	Maru	168	phúk	phúk			168	p h ú k
+774	Proto-Burmish	grandmother	PB	168	pho²	pho²			168	p h o ²
+775	Rangoon	grandmother	Spoken Burmese	168	ăphôu	ăphôu			168	ă + p h ô u
+776	Atsi	grass-1	Atsi	169	myoʔ	myoʔ			169	m yo ʔ
+777	Proto-Burmish	grass-1	PB	169	myaʔ	myaʔ			169	m ya ʔ
+778	Rangoon	grass-1	Spoken Burmese	169	myeʔ	myeʔ			169	m ye ʔ
+779	Akha	grass-2	Akha	170	mɔ̀ʔ	mɔ̀ʔ			170	m ɔ̀ ʔ
+780	Lisu	grass-2	Lisu	170	moʔ	moʔ			170	m o ʔ
+781	Proto-Lolo	grass-2	PL	170	moʔ¹	moʔ¹			170	m o ʔ ¹
+782	Atsi	green-1	Atsi	171	nyûi	nyûi	BSB: 'brown'; Maru: G	Burling's green-2 looks cognate	171	n y û i
+783	Maru	green-1	Maru	171	nyùʔ	nyùʔ	BSB: 'brown'; Maru: G	Burling's green-2 looks cognate	171	n y ù ʔ
+784	Proto-Burmish	green-1	PB	171	nyo¹ᵃ	nyo¹ᵃ	BSB: 'brown'; Maru: G	Burling's green-2 looks cognate	171	n yo ¹ᵃ
+785	Rangoon	green-1	Spoken Burmese	171	nyóu	nyóu	BSB: 'brown'; Maru: G	Burling's green-2 looks cognate	171	n y ó u
+786	Akha	green-2	Akha	172	nyǿ	nyǿ	Lahu: 'yellow'	Burling's green-1 looks cognate	172	n y ǿ
+787	Proto-Lolo	green-2	PL	172	nʔyo¹	nʔyo¹	Lahu: 'yellow'	Burling's green-1 looks cognate	172	n ʔ yo ¹
+788	Atsi	grow	Atsi	173	yuʔ	yuʔ			173	yu ʔ
+789	Maru	grow	Maru	173	yòk	yòk			173	y ò k
+790	Proto-Burmish	grow	PB	173	yok	yok			173	yo k
+791	Rangoon	grow	Spoken Burmese	173	yauʔ	yauʔ			173	yau ʔ
+792	Atsi	hair	Atsi	174	tshám	tshám			174	t s + h á m
+793	Maru	hair	Maru	174	tshìn	tshìn			174	t s + h ì n
+794	Proto-Burmish	hair	PB	174	tsham¹ᵇ	tsham¹ᵇ			174	t s + h a m ¹ᵇ
+795	Rangoon	hair	Spoken Burmese	174	shán	shán			174	s h á n
+796	Atsi	hammer	Atsi	176	păttû	păttû	Lahu: T		175	p ă + tt û
+797	Maru	hammer	Maru	176	tàu	tàu	Lahu: T		175	t à u
+798	Proto-Burmish	hammer	PB	176	tu¹ᵃ	tu¹ᵃ	Lahu: T		175	t u ¹ᵃ
+799	Rangoon	hammer	Spoken Burmese	176	tú	tú	Lahu: T		175	t ú
+800	Akha	hand	Akha	177	àlàʔ	àlàʔ			176	à + l à ʔ
+801	Atsi	hand	Atsi	177	loʔ	loʔ			176	l o ʔ
+802	Lisu	hand	Lisu	177	læʔ	læʔ			176	l æ ʔ
+803	Maru	hand	Maru	177	lòʔ	lòʔ			176	l ò ʔ
+804	Proto-Burmish	hand	PB	177	laʔ	laʔ			176	l a ʔ
+805	Proto-Lolo	hand	PL	177	laʔ¹	laʔ¹			176	l a ʔ ¹
+806	Proto-Lolo-Burmese	hand	PLB	177	laʔ¹	laʔ¹			176	l a ʔ ¹
+807	Rangoon	hand	Spoken Burmese	177	leʔ	leʔ			176	l e ʔ
+808	Atsi	hat	Atsi	178	muʔ	muʔ			177	m u ʔ
+809	Proto-Burmish	hat	PB	178	mok	mok			177	m o k
+810	Rangoon	hat	Spoken Burmese	178	khămauʔ	khămauʔ			177	k h ă + m au ʔ
+811	Lisu	have	Lisu	179	dzɔ̄	dzɔ̄			178	d z ɔ̄
+812	Proto-Lolo	have	PL	179	dzɔ¹	dzɔ¹			178	d z ɔ ¹
+813	Akha	head	Akha	180	ùdù	ùdù		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	ù + d ù
+814	Atsi	head	Atsi	180	ùkhuʔ	ùkhuʔ		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	ù + k h u ʔ
+815	Lisu	head	Lisu	180	wúdû̸	wúdû̸		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	w ú + d û̸
+816	Maru	head	Maru	180	āu	āu		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	ā u
+817	Proto-Burmish	head	PB	180	u²	u²		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	u ²
+818	Proto-Lolo	head	PL	180	u²	u²		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	u ²
+819	Proto-Lolo-Burmese	head	PLB	180	u²	u²		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	u ²
+820	Rangoon	head	Spoken Burmese	180	û	û		au¹¹ originally in Burling Atsi column (not input by me) is not Burling Atsi. Is it Mann or Lustig's Zaiwa? Burling's form is 'pillow'.	179	û
+821	Akha	hear	Akha	181	gà	gà			180	g à
+822	Atsi	hear	Atsi	181	kyó	kyó			180	k y ó
+823	Maru	hear	Maru	181	kyō	kyō			180	k y ō
+824	Proto-Burmish	hear	PB	181	kya²	kya²			180	k ya ²
+825	Proto-Lolo	hear	PL	181	g̯a²	g̯a²			180	g̯ a ²
+826	Proto-Lolo-Burmese	hear	PLB	181	kya²	kya²			180	k ya ²
+827	Rangoon	hear	Spoken Burmese	181	câ	câ			180	c â
+828	Akha	heart	Akha	182	nɨ̄mā	nɨ̄mā			181	n ɨ̄ + m ā
+829	Lisu	heart	Lisu	182	nǐmâ	nǐmâ			181	n ǐ + m â
+830	Proto-Lolo	heart	PL	182	ma³	ma³			181	m a ³
+831	Atsi	heavy	Atsi	183	lái	lái	PL: Lisu		182	l ái
+832	Lisu	heavy	Lisu	183	lì	lì	PL: Lisu		182	l ì
+833	Maru	heavy	Maru	183	là	là	PL: Lisu		182	l à
+834	Proto-Burmish	heavy	PB	183	lei²ᶜ	lei²ᶜ	PL: Lisu		182	l ei ²ᶜ
+835	Proto-Lolo	heavy	PL	183	lei²	lei²	PL: Lisu		182	l ei ²
+836	Proto-Lolo-Burmese	heavy	PLB	183	lei²ᶜ	lei²ᶜ	PL: Lisu		182	l ei ²ᶜ
+837	Rangoon	heavy	Spoken Burmese	183	lêi	lêi	PL: Lisu		182	l ê i
+838	Akha	high	Akha	184	yɔ̄mɔ́n	yɔ̄mɔ́n	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	yɔ̄ + m ɔ́ n
+839	Atsi	high	Atsi	184	mʔyâŋ	mʔyâŋ	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m ʔ y â ŋ
+840	Lisu	high	Lisu	184	mô	mô	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m ô
+841	Maru	high	Maru	184	mʔyà	mʔyà	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m ʔ y à
+842	Proto-Burmish	high	PB	184	mʔyaŋ¹ᵃ	mʔyaŋ¹ᵃ	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m ʔ ya ŋ ¹ᵃ
+843	Proto-Lolo	high	PL	184	mʔɔ¹	mʔɔ¹	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m ʔ ɔ ¹
+844	Proto-Lolo-Burmese	high	PLB	184	mʔyaŋ¹ᵃ	mʔyaŋ¹ᵃ	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m ʔ ya ŋ ¹ᵃ
+845	Rangoon	high	Spoken Burmese	184	myìn	myìn	BSB: IT; PL: Lisu; Lahu: F; Akha: 'long'		183	m y ì n
+846	Lisu	hole (classifier)	Lisu	185	khū	khū			184	k h ū
+847	Proto-Lolo	hole (classifier)	PL	185	ḳho¹	ḳho¹			184	ḳ h o ¹
+848	Atsi	horns	Atsi	186	khyúi	khyúi	BSB: V; Maru: G; PL: Lahu		185	k h yúi
+849	Maru	horns	Maru	186	khyùʔ	khyùʔ	BSB: V; Maru: G; PL: Lahu		185	k h y ù ʔ
+850	Proto-Burmish	horns	PB	186	khyo¹ᵇ	khyo¹ᵇ	BSB: V; Maru: G; PL: Lahu		185	k h yo ¹ᵇ
+851	Proto-Lolo	horns	PL	186	k̯ho¹	k̯ho¹	BSB: V; Maru: G; PL: Lahu		185	k̯ h o ¹
+852	Proto-Lolo-Burmese	horns	PLB	186	khyo¹ᵇ	khyo¹ᵇ	BSB: V; Maru: G; PL: Lahu		185	k h yo ¹ᵇ
+853	Rangoon	horns	Spoken Burmese	186	ûjóu	ûjóu	BSB: V; Maru: G; PL: Lahu		185	û + j ó u
+854	Akha	horse	Akha	187	mɔ̀n	mɔ̀n	PL: Lisu; Lahu, Akha: F		186	m ɔ̀ n
+855	Atsi	horse	Atsi	187	myàŋ	myàŋ	PL: Lisu; Lahu, Akha: F		186	m y à ŋ
+856	Lisu	horse	Lisu	187	ámɔ̀	ámɔ̀	PL: Lisu; Lahu, Akha: F		186	á + m ɔ̀
+857	Maru	horse	Maru	187	myā	myā	PL: Lisu; Lahu, Akha: F		186	m y ā
+858	Proto-Burmish	horse	PB	187	myaŋ²	myaŋ²	PL: Lisu; Lahu, Akha: F		186	m ya ŋ ²
+859	Proto-Lolo	horse	PL	187	mɔ²	mɔ²	PL: Lisu; Lahu, Akha: F		186	m ɔ ²
+860	Proto-Lolo-Burmese	horse	PLB	187	myaŋ²	myaŋ²	PL: Lisu; Lahu, Akha: F		186	m ya ŋ ²
+861	Rangoon	horse	Spoken Burmese	187	myîn	myîn	PL: Lisu; Lahu, Akha: F		186	m y î n
+862	Akha	hot	Akha	188	lḿ	lḿ			187	l ḿ
+863	Atsi	hot	Atsi	188	lûm	lûm			187	l û m
+864	Maru	hot	Maru	188	làm	làm			187	l à m
+865	Proto-Burmish	hot	PB	188	lum¹ᵃ	lum¹ᵃ			187	l u m ¹ᵃ
+866	Proto-Lolo	hot	PL	188	lum¹	lum¹			187	l u m ¹
+867	Proto-Lolo-Burmese	hot	PLB	188	lum¹ᵃ	lum¹ᵃ			187	l u m ¹ᵃ
+868	Rangoon	hot	Spoken Burmese	188	lóun	lóun			187	l ó u n
+869	Atsi	house	Atsi	189	yúm	yúm	PL: Lahu		188	yú m
+870	Maru	house	Maru	189	yàm	yàm	PL: Lahu		188	y à m
+871	Proto-Burmish	house	PB	189	yum¹ᵇ	yum¹ᵇ	PL: Lahu		188	yu m ¹ᵇ
+872	Proto-Lolo	house	PL	189	yum¹	yum¹	PL: Lahu		188	yu m ¹
+873	Proto-Lolo-Burmese	house	PLB	189	yum¹ᵇ	yum¹ᵇ	PL: Lahu		188	yu m ¹ᵇ
+874	Rangoon	house	Spoken Burmese	189	éin	éin	PL: Lahu		188	é i n
+875	Akha	hundred	Akha	190	yá	yá			189	yá
+876	Atsi	hundred	Atsi	190	šó	šó			189	š ó
+877	Lisu	hundred	Lisu	190	hyā	hyā			189	h y ā
+878	Maru	hundred	Maru	190	yò	yò			189	y ò
+879	Proto-Burmish	hundred	PB	190	ya¹	ya¹			189	ya ¹
+880	Proto-Lolo	hundred	PL	190	hya¹	hya¹			189	h ya ¹
+881	Proto-Lolo-Burmese	hundred	PLB	190	hya¹ᵃ	hya¹ᵃ			189	h ya ¹ᵃ
+882	Rangoon	hundred	Spoken Burmese	190	yá	yá			189	yá
+883	Akha	hungry	Akha	191	hɔ̀mɛ̀ʔ	hɔ̀mɛ̀ʔ	PB: At		190	h ɔ̀ + m ɛ̀ ʔ
+884	Atsi	hungry	Atsi	191	tsômut	tsômut	PB: At		190	t s ô + m u t
+885	Proto-Burmish	hungry	PB	191	mut	mut	PB: At		190	m u t
+886	Proto-Lolo	hungry	PL	191	mut¹	mut¹	PB: At		190	m u t ¹
+887	Proto-Lolo-Burmese	hungry	PLB	191	mut¹	mut¹	PB: At		190	m u t ¹
+888	Atsi	husband	Atsi	192	láŋ	láŋ			191	l á ŋ
+889	Maru	husband	Maru	192	là	là			191	l à
+890	Proto-Burmish	husband	PB	192	laŋ¹ᵇ	laŋ¹ᵇ			191	l a ŋ ¹ᵇ
+891	Rangoon	husband	Spoken Burmese	192	lín	lín			191	l í n
+900	Atsi	ill	Atsi	194	nô	nô			193	n ô
+901	Lisu	ill	Lisu	194	nā	nā			193	n ā
+902	Maru	ill	Maru	194	nò	nò			193	n ò
+903	Proto-Burmish	ill	PB	194	na¹ᵃ	na¹ᵃ			193	n a ¹ᵃ
+904	Proto-Lolo	ill	PL	194	na¹	na¹			193	n a ¹
+905	Proto-Lolo-Burmese	ill	PLB	194	na¹ᵃ	na¹ᵃ			193	n a ¹ᵃ
+906	Rangoon	ill	Spoken Burmese	194	ná	ná			193	n á
+717	Atsi	in front	Atsi	158	hī	hī			158	h ī
+718	Maru	in front	Maru	158	γítàu	γítàu			158	 + γ í + t à u
+719	Proto-Burmish	in front	PB	158	hei³	hei³			158	h ei ³
+720	Rangoon	in front	Spoken Burmese	158	šèi	šèi			158	š è i
+907	Akha	insect, worm	Akha	195	bø̀	bø̀	Lisu: ‘silk’		194	b ø̀
+908	Atsi	insect, worm	Atsi	195	pàu	pàu	Lisu: ‘silk’		194	p à u
+909	Lisu	insect, worm	Lisu	195	bù̸	bù̸	Lisu: ‘silk’		194	b ù̸
+910	Maru	insect, worm	Maru	195	păthòŋ	păthòŋ	Lisu: ‘silk’		194	p ă + t h ò ŋ
+911	Proto-Burmish	insect, worm	PB	195	po²	po²	Lisu: ‘silk’		194	p o ²
+912	Proto-Lolo	insect, worm	PL	195	bo²	bo²	Lisu: ‘silk’		194	b o ²
+913	Proto-Lolo-Burmese	insect, worm	PLB	195	po²	po²	Lisu: ‘silk’		194	p o ²
+914	Rangoon	insect, worm	Spoken Burmese	195	pôu	pôu	Lisu: ‘silk’		194	p ô u
+915	Lisu	interrogative suffix	Lisu	196	là	là	PB: Bu; PL: Li		195	l à
+916	Proto-Burmish	interrogative suffix	PB	196	la²	la²	PB: Bu; PL: Li		195	l a ²
+917	Proto-Lolo	interrogative suffix	PL	196	la²	la²	PB: Bu; PL: Li		195	l a ²
+918	Proto-Lolo-Burmese	interrogative suffix	PLB	196	la²	la²	PB: Bu; PL: Li		195	l a ²
+919	Rangoon	interrogative suffix	Spoken Burmese	196	lâ	lâ	PB: Bu; PL: Li		195	l â
+920	Akha	intestine	Akha	197	bɔ̄ú	bɔ̄ú			196	b ɔ̄ú
+921	Atsi	intestine	Atsi	197	ú	ú			196	ú
+922	Lisu	intestine	Lisu	197	wū̸	wū̸			196	w ū̸
+923	Maru	intestine	Maru	197	àu	àu			196	à u
+924	Proto-Burmish	intestine	PB	197	u¹ᵇ	u¹ᵇ			196	u ¹ᵇ
+925	Proto-Lolo	intestine	PL	197	u¹	u¹			196	u ¹
+926	Proto-Lolo-Burmese	intestine	PLB	197	u¹ᵇ	u¹ᵇ			196	u ¹ᵇ
+927	Rangoon	intestine	Spoken Burmese	197	ú	ú			196	ú
+928	Akha	iron	Akha	198	šḿ	šḿ	Atsi: 'knife'		197	š ḿ
+929	Atsi	iron	Atsi	198	šám	šám	Atsi: 'knife'		197	š á m
+930	Lisu	iron	Lisu	198	xwɔ̄	xwɔ̄	Atsi: 'knife'		197	x w ɔ̄
+931	Proto-Burmish	iron	PB	198	šam¹ᵇ	šam¹ᵇ	Atsi: 'knife'		197	š a m ¹ᵇ
+932	Proto-Lolo	iron	PL	198	šam¹	šam¹	Atsi: 'knife'		197	š a m ¹
+933	Proto-Lolo-Burmese	iron	PLB	198	šam¹ᵇ	šam¹ᵇ	Atsi: 'knife'		197	š a m ¹ᵇ
+934	Rangoon	iron	Spoken Burmese	198	θán	θán	Atsi: 'knife'		197	θ á n
+935	Atsi	itch	Atsi	199	yó	yó			198	y ó
+936	Proto-Burmish	itch	PB	199	ya²	ya²			198	ya ²
+937	Rangoon	itch	Spoken Burmese	199	yâ	yâ			198	y â
+938	Akha	join	Akha	200	tsàʔ	tsàʔ	PL: Akha		199	t s à ʔ
+939	Atsi	join	Atsi	200	tshoʔ	tshoʔ	PL: Akha		199	t s + h o ʔ
+940	Maru	join	Maru	200	tshóʔ	tshóʔ	PL: Akha		199	t s + h ó ʔ
+941	Proto-Burmish	join	PB	200	tshaʔ	tshaʔ	PL: Akha		199	t s + h a ʔ
+942	Proto-Lolo	join	PL	200	tshaʔ¹	tshaʔ¹	PL: Akha		199	t s + h a ʔ ¹
+943	Proto-Lolo-Burmese	join	PLB	200	tshaʔ¹	tshaʔ¹	PL: Akha		199	t s + h a ʔ ¹
+944	Rangoon	join	Spoken Burmese	200	sheʔ	sheʔ	PL: Akha		199	s h e ʔ
+945	Atsi	joints	Atsi	201	ătshoʔ	ătshoʔ	Atsi: F		200	ă + t s + h o ʔ
+946	Maru	joints	Maru	201	tshák	tshák	Atsi: F		200	t s + h á k
+947	Proto-Burmish	joints	PB	201	tshik	tshik	Atsi: F		200	t s + h i k
+948	Rangoon	joints	Spoken Burmese	201	ăshiʔ	ăshiʔ	Atsi: F		200	ă s + h i ʔ
+949	Atsi	key	Atsi	202	tsoʔ	tsoʔ			201	t s o ʔ
+950	Maru	key	Maru	202	tsòʔ	tsòʔ			201	t s ò ʔ
+951	Proto-Burmish	key	PB	202	tsaʔ	tsaʔ			201	t s a ʔ
+952	Akha	kill-1	Akha	203	dìsɛ̀ʔ	dìsɛ̀ʔ	PL: Akha		202	d ì + s ɛ̀ ʔ
+953	Atsi	kill-1	Atsi	203	sat	sat	PL: Akha		202	s a t
+954	Maru	kill-1	Maru	203	séʔ	séʔ	PL: Akha		202	s é ʔ
+955	Proto-Burmish	kill-1	PB	203	sat	sat	PL: Akha		202	s a t
+956	Proto-Lolo	kill-1	PL	203	seʔ¹	seʔ¹	PL: Akha		202	s e ʔ ¹
+957	Proto-Lolo-Burmese	kill-1	PLB	203	sat¹	sat¹	PL: Akha		202	s a t ¹
+958	Rangoon	kill-1	Spoken Burmese	203	θaʔ	θaʔ	PL: Akha		202	θ a ʔ
+959	Akha	kill-2	Akha	204	dìsɛ̀ʔ	dìsɛ̀ʔ			203	d ì + s ɛ̀ ʔ
+960	Proto-Lolo	kill-2	PL	204	di²	di²			203	d i ²
+961	Atsi	kite (bird)	Atsi	205	tsûn	tsûn			204	t s û n
+962	Maru	kite (bird)	Maru	205	tsùmkʔyā	tsùmkʔyā			204	t s ù m k + ʔ y ā
+963	Proto-Burmish	kite (bird)	PB	205	tsun¹ᵃ	tsun¹ᵃ			204	t s u n ¹ᵃ
+964	Rangoon	kite (bird)	Spoken Burmese	205	sún	sún			204	s ú n
+965	Atsi	knead	Atsi	206	nê	nê			205	n ê
+966	Proto-Burmish	knead	PB	206	ne¹ᵃ	ne¹ᵃ			205	n e ¹ᵃ
+967	Rangoon	knead	Spoken Burmese	206	né	né			205	n é
+968	Akha	know	Akha	207	sì	sì	Burmese: T; Atsi: F; Lisu: FT	BSB: Burling left the grave tone (= creaky tone) unmarked; restored it	206	s ì
+969	Atsi	know	Atsi	207	sé	sé	Burmese: T; Atsi: F; Lisu: FT	BSB: Burling left the grave tone (= creaky tone) unmarked; restored it	206	s é
+970	Lisu	know	Lisu	207	sʌ́	sʌ́	Burmese: T; Atsi: F; Lisu: FT	BSB: Burling left the grave tone (= creaky tone) unmarked; restored it	206	s ʌ́
+971	Proto-Lolo	know	PL	207	si²	si²	Burmese: T; Atsi: F; Lisu: FT	BSB: Burling left the grave tone (= creaky tone) unmarked; restored it	206	s i ²
+972	Rangoon	know	Spoken Burmese	207	θî	θî	Burmese: T; Atsi: F; Lisu: FT	BSB: Burling left the grave tone (= creaky tone) unmarked; restored it	206	θ î
+973	Atsi	ladle	Atsi	208	mut	mut	Atsi: I		207	m u t
+974	Maru	ladle	Maru	208	mʔat	mʔat	Atsi: I		207	m ʔ a t
+975	Proto-Burmish	ladle	PB	208	mʔut	mʔut	Atsi: I		207	m ʔ u t
+976	Rangoon	ladle	Spoken Burmese	208	hmouʔ	hmouʔ	Atsi: I		207	h m ou ʔ
+977	Akha	land	Akha	209	míxɔ̀n	míxɔ̀n	Atsi: F		208	m í + x ɔ̀ n
+978	Proto-Lolo	land	PL	209	mi¹	mi¹	Atsi: F		208	m i ¹
+979	Atsi	laugh	Atsi	210	vûi	vûi			209	v û i
+980	Maru	laugh	Maru	210	yì	yì			209	y ì
+981	Proto-Burmish	laugh	PB	210	γi¹	γi¹			209	 + γ i ¹
+982	Rangoon	laugh	Spoken Burmese	210	yí	yí			209	yí
+983	Akha	leaf	Akha	211	ápàʔ	ápàʔ	Maru: I; Lahu: cf. 'tree-3'		210	á + p à ʔ
+984	Atsi	leaf	Atsi	211	phoʔ	phoʔ	Maru: I; Lahu: cf. 'tree-3'		210	p h o ʔ
+985	Maru	leaf	Maru	211	ăwóʔ	ăwóʔ	Maru: I; Lahu: cf. 'tree-3'		210	ă + w ó ʔ
+986	Proto-Burmish	leaf	PB	211	phaʔ	phaʔ	Maru: I; Lahu: cf. 'tree-3'		210	p h a ʔ
+987	Proto-Lolo	leaf	PL	211	phaʔ¹	phaʔ¹	Maru: I; Lahu: cf. 'tree-3'		210	p h a ʔ ¹
+988	Proto-Lolo-Burmese	leaf	PLB	211	phaʔ¹	phaʔ¹	Maru: I; Lahu: cf. 'tree-3'		210	p h a ʔ ¹
+989	Rangoon	leaf	Spoken Burmese	211	pheʔyweʔ	pheʔyweʔ	Maru: I; Lahu: cf. 'tree-3'		210	p h e + ʔ y + w e ʔ
+990	Atsi	leak	Atsi	212	yûithoʔ	yûithoʔ			211	y û i + t h o ʔ
+991	Proto-Burmish	leak	PB	212	yo¹ᵃ	yo¹ᵃ			211	yo ¹ᵃ
+992	Rangoon	leak	Spoken Burmese	212	yóu	yóu			211	y ó u
+993	Akha	leech	Akha	213	àyɛ̀ʔ	àyɛ̀ʔ	PB: Ma		212	à yɛ̀ ʔ
+994	Lisu	leech	Lisu	213	weʔ	weʔ	PB: Ma		212	w e ʔ
+995	Maru	leech	Maru	213	wʔeʔnyùk	wʔeʔnyùk	PB: Ma		212	w ʔ e + ʔ n y ù k
+996	Proto-Burmish	leech	PB	213	wʔat	wʔat	PB: Ma		212	w ʔ a t
+997	Proto-Lolo	leech	PL	213	weʔ¹	weʔ¹	PB: Ma		212	w e ʔ ¹
+998	Proto-Lolo-Burmese	leech	PLB	213	wʔat¹	wʔat¹	PB: Ma		212	w ʔ a t ¹
+999	Atsi	lick	Atsi	214	yoʔ	yoʔ			213	yo ʔ
+1000	Maru	lick	Maru	214	yòʔ	yòʔ			213	y ò ʔ
+1001	Proto-Burmish	lick	PB	214	yaʔ	yaʔ			213	ya ʔ
+1002	Proto-Lolo	lick	PL	214	weʔ¹	weʔ¹			213	w e ʔ ¹
+1003	Rangoon	lick	Spoken Burmese	214	yeʔ	yeʔ			213	ye ʔ
+1004	Akha	lift	Akha	215	cì	cì			214	c ì
+1005	Lisu	lift	Lisu	215	chù̸	chù̸			214	c h ù̸
+1006	Proto-Lolo	lift	PL	215	chi²	chi²			214	c h i ²
+1007	Lisu	lightweight	Lisu	216	lō	lō			215	l ō
+1008	Proto-Lolo	lightweight	PL	216	lɔ¹	lɔ¹			215	l ɔ ¹
+1009	Atsi	little	Atsi	217	ŋê	ŋê			216	ŋ ê
+1010	Proto-Burmish	little	PB	217	ŋe¹ᵃ	ŋe¹ᵃ			216	ŋ e ¹ᵃ
+1011	Rangoon	little	Spoken Burmese	217	ŋé	ŋé			216	ŋ é
+1012	Akha	liver	Akha	218	šàtsɔ̀n	šàtsɔ̀n	Akha: I		217	š à + t s ɔ̀ n
+1013	Atsi	liver	Atsi	218	sìŋ	sìŋ	Akha: I		217	s ì ŋ
+1014	Maru	liver	Maru	218	sāŋ	sāŋ	Akha: I		217	s ā ŋ
+1015	Proto-Burmish	liver	PB	218	siŋ²	siŋ²	Akha: I		217	s i ŋ ²
+1016	Proto-Lolo	liver	PL	218	siŋ²	siŋ²	Akha: I		217	s i ŋ ²
+1017	Proto-Lolo-Burmese	liver	PLB	218	siŋ²	siŋ²	Akha: I		217	s i ŋ ²
+1018	Rangoon	liver	Spoken Burmese	218	ăθê	ăθê	Akha: I		217	ă + θ ê
+1019	Akha	loom	Akha	219	zàʔ	zàʔ			218	z à ʔ
+1020	Atsi	loom	Atsi	219	voʔkàn	voʔkàn			218	v o ʔ + k à n
+1021	Lisu	loom	Lisu	219	yaʔ	yaʔ			218	ya ʔ
+1022	Maru	loom	Maru	219	γòʔkīn	γòʔkīn			218	 + γ ò ʔ + k ī n
+1023	Proto-Burmish	loom	PB	219	γaʔkan²	γaʔkan²			218	 + γ a ʔ + k a n ²
+1024	Proto-Lolo	loom	PL	219	γaʔ¹	γaʔ¹			218	 + γ a ʔ ¹
+1025	Proto-Lolo-Burmese	loom	PLB	219	γaʔ¹	γaʔ¹			218	 + γ a ʔ ¹
+1026	Rangoon	loom	Spoken Burmese	219	yeʔkânzín	yeʔkânzín			218	ye ʔ + k â n + z í n
+1027	Maru	louse	Maru	220	šīn	šīn			219	š ī n
+1028	Proto-Burmish	louse	PB	220	šam²/šan²	šam²/šan²			219	š a m ² + / š a n ²
+1029	Rangoon	louse	Spoken Burmese	220	θân	θân			219	θ â n
+1030	Atsi	love	Atsi	221	cʔit	cʔit			220	c ʔ i t
+1031	Proto-Burmish	love	PB	221	cʔit	cʔit			220	c ʔ i t
+1032	Rangoon	love	Spoken Burmese	221	chiʔ	chiʔ			220	c h i ʔ
+1033	Atsi	lungs	Atsi	222	tsʔut	tsʔut			221	t s + ʔ u t
+1034	Proto-Burmish	lungs	PB	222	tsʔut	tsʔut			221	t s + ʔ u t
+1035	Rangoon	lungs	Spoken Burmese	222	ăshouʔ	ăshouʔ			221	ă s + h ou ʔ
+1036	Atsi	maggots	Atsi	223	luʔ	luʔ			222	l u ʔ
+1037	Maru	maggots	Maru	223	lòk	lòk			222	l ò k
+1038	Proto-Burmish	maggots	PB	223	lok	lok			222	l o k
+1039	Rangoon	maggots	Spoken Burmese	223	lauʔ	lauʔ			222	l au ʔ
+1046	Atsi	male-1 (animal)	Atsi	226	phō	phō			225	p h ō
+1047	Maru	male-1 (animal)	Maru	226	phó	phó			225	p h ó
+1048	Proto-Burmish	male-1 (animal)	PB	226	pha³	pha³			225	p h a ³
+1049	Rangoon	male-1 (animal)	Spoken Burmese	226	phà	phà			225	p h à
+1040	Atsi	male-1 (human)	Atsi	224	yuʔkê	yuʔkê			223	yu ʔ + k ê
+1041	Maru	male-1 (human)	Maru	224	yòkkài	yòkkài			223	y ò + kk à i
+1042	Proto-Burmish	male-1 (human)	PB	224	yok	yok			223	yo k
+1043	Rangoon	male-1 (human)	Spoken Burmese	224	yauʔcâ	yauʔcâ			223	yau ʔ + c â
+1050	Atsi	male-2 (animal)	Atsi	227	àlò	àlò			226	à + l ò
+1051	Proto-Burmish	male-2 (animal)	PB	227	la²	la²			226	l a ²
+1052	Rangoon	male-2 (animal)	Spoken Burmese	227	lâ	lâ			226	l â
+1044	Lisu	male-2 (human)	Lisu	225	yípá	yípá			224	yí + p á
+1045	Proto-Lolo	male-2 (human)	PL	225	pa²	pa²			224	p a ²
+1053	Akha	many	Akha	228	γɔ̀myà	γɔ̀myà	PL: Ak		227	 + γ ɔ̀ + m y à
+1054	Atsi	many	Atsi	228	myó	myó	PL: Ak		227	m y ó
+1055	Proto-Burmish	many	PB	228	mya²	mya²	PL: Ak		227	m ya ²
+1056	Proto-Lolo	many	PL	228	mya²	mya²	PL: Ak		227	m ya ²
+1057	Proto-Lolo-Burmese	many	PLB	228	mya²	mya²	PL: Ak		227	m ya ²
+1058	Rangoon	many	Spoken Burmese	228	myâ	myâ	PL: Ak		227	m y â
+1059	Proto-Burmish	marrow	PB	229	chaŋ¹	chaŋ¹	PB: Bu; PL: Ak		228	c h a ŋ ¹
+1060	Proto-Lolo	marrow	PL	229	chɔ¹	chɔ¹	PB: Bu; PL: Ak		228	c h ɔ ¹
+1061	Proto-Lolo-Burmese	marrow	PLB	229	chaŋ¹	chaŋ¹	PB: Bu; PL: Ak		228	c h a ŋ ¹
+1062	Rangoon	marrow	Spoken Burmese	229	chínzí	chínzí	PB: Bu; PL: Ak		228	c h í n + z í
+1063	Atsi	mature	Atsi	230	vāŋ	vāŋ			229	v ā ŋ
+1064	Proto-Burmish	mature	PB	230	γaŋ³	γaŋ³			229	 + γ a ŋ ³
+1065	Rangoon	mature	Spoken Burmese	230	yìn	yìn			229	y ì n
+1066	Akha	meat	Akha	231	šàjî	šàjî			230	š à + j î
+1067	Atsi	meat	Atsi	231	šò	šò			230	š ò
+1068	Lisu	meat	Lisu	231	xwà	xwà			230	x w à
+1069	Maru	meat	Maru	231	šō	šō			230	š ō
+1070	Proto-Burmish	meat	PB	231	ša²	ša²			230	š a ²
+1071	Proto-Lolo	meat	PL	231	ša²	ša²			230	š a ²
+1072	Proto-Lolo-Burmese	meat	PLB	231	ša²	ša²			230	š a ²
+1073	Rangoon	meat	Spoken Burmese	231	ăθâ	ăθâ			230	ă + θ â
+1074	Atsi	medicine	Atsi	232	chì	chì	PB: At; PL: La		231	c h ì
+1075	Proto-Burmish	medicine	PB	232	chei²	chei²	PB: At; PL: La		231	c h ei ²
+1076	Proto-Lolo	medicine	PL	232	chei²	chei²	PB: At; PL: La		231	c h ei ²
+1077	Proto-Lolo-Burmese	medicine	PLB	232	chei²	chei²	PB: At; PL: La		231	c h ei ²
+1078	Atsi	middle	Atsi	233	tsòlat	tsòlat			232	t s ò + l a t
+1079	Proto-Burmish	middle	PB	233	lat	lat			232	l a t
+1080	Rangoon	middle	Spoken Burmese	233	laʔ	laʔ			232	l a ʔ
+1081	Akha	monkey	Akha	234	myɔ̀ʔ	myɔ̀ʔ	Lisu: F		233	m yɔ̀ ʔ
+1082	Atsi	monkey	Atsi	234	myuʔ	myuʔ	Lisu: F		233	m yu ʔ
+1083	Lisu	monkey	Lisu	234	myøʔ	myøʔ	Lisu: F		233	m yø ʔ
+1084	Maru	monkey	Maru	234	myòk	myòk	Lisu: F		233	m y ò k
+1085	Proto-Burmish	monkey	PB	234	myok	myok	Lisu: F		233	m yo k
+1086	Proto-Lolo	monkey	PL	234	myoʔ¹	myoʔ¹	Lisu: F		233	m yo ʔ ¹
+1087	Proto-Lolo-Burmese	monkey	PLB	234	myok¹	myok¹	Lisu: F		233	m yo k ¹
+1088	Rangoon	monkey	Spoken Burmese	234	myauʔ	myauʔ	Lisu: F		233	m yau ʔ
+1089	Atsi	month	Atsi	235	khyap	khyap			234	k h ya p
+1090	Maru	month	Maru	235	khyéʔ	khyéʔ			234	k h y é ʔ
+1091	Proto-Burmish	month	PB	235	khyap	khyap			234	k h ya p
+1092	Lisu	moon	Lisu	236	hābâ	hābâ			235	h ā + b â
+1093	Proto-Lolo	moon	PL	236	ba³	ba³			235	b a ³
+1094	Lisu	morning	Lisu	237	næʔ	næʔ	PB: Bu; PL: Li		236	n æ ʔ
+1095	Proto-Burmish	morning	PB	237	naʔ	naʔ	PB: Bu; PL: Li		236	n a ʔ
+1096	Proto-Lolo	morning	PL	237	naʔ¹	naʔ¹	PB: Bu; PL: Li		236	n a ʔ ¹
+1097	Proto-Lolo-Burmese	morning	PLB	237	naʔ¹	naʔ¹	PB: Bu; PL: Li		236	n a ʔ ¹
+1098	Rangoon	morning	Spoken Burmese	237	măneʔ	măneʔ	PB: Bu; PL: Li		236	m ă + n e ʔ
+1099	Atsi	mortar (for rice)	Atsi	238	tshúm	tshúm	PL: La		237	t s + h ú m
+1100	Maru	mortar (for rice)	Maru	238	tshàm	tshàm	PL: La		237	t s + h à m
+1101	Proto-Burmish	mortar (for rice)	PB	238	tshum¹ᵇ	tshum¹ᵇ	PL: La		237	t s + h u m ¹ᵇ
+1102	Proto-Lolo	mortar (for rice)	PL	238	tshum¹	tshum¹	PL: La		237	t s + h u m ¹
+1103	Proto-Lolo-Burmese	mortar (for rice)	PLB	238	tshum¹ᵇ	tshum¹ᵇ	PL: La		237	t s + h u m ¹ᵇ
+1104	Rangoon	mortar (for rice)	Spoken Burmese	238	shóun	shóun	PL: La		237	s h ó u n
+1105	Atsi	mountain	Atsi	240	pûm	pûm	BSB: 'piled up'		238	p û m
+1106	Maru	mountain	Maru	240	pàm	pàm	BSB: 'piled up'		238	p à m
+1107	Proto-Burmish	mountain	PB	240	pum¹ᵃ	pum¹ᵃ	BSB: 'piled up'		238	p u m ¹ᵃ
+1108	Rangoon	mountain	Spoken Burmese	240	póun	póun	BSB: 'piled up'		238	p ó u n
+1109	Akha	mouth-1	Akha	241	mø̀bø̄	mø̀bø̄	PB: Bu; BSB: 'chin'; Lahu: 'lip'; cf. 'skin'; Akha F		239	m ø̀ + b ø̄
+1110	Lisu	mouth-1	Lisu	241	mə̀nʌ̌	mə̀nʌ̌	PB: Bu; BSB: 'chin'; Lahu: 'lip'; cf. 'skin'; Akha F		239	m ə̀ + n ʌ̌
+1111	Proto-Burmish	mouth-1	PB	241	mə²	mə²	PB: Bu; BSB: 'chin'; Lahu: 'lip'; cf. 'skin'; Akha F		239	m ə ²
+1112	Proto-Lolo	mouth-1	PL	241	mə²	mə²	PB: Bu; BSB: 'chin'; Lahu: 'lip'; cf. 'skin'; Akha F		239	m ə ²
+1113	Proto-Lolo-Burmese	mouth-1	PLB	241	mə²	mə²	PB: Bu; BSB: 'chin'; Lahu: 'lip'; cf. 'skin'; Akha F		239	m ə ²
+1114	Rangoon	mouth-1	Spoken Burmese	241	mêisèi	mêisèi	PB: Bu; BSB: 'chin'; Lahu: 'lip'; cf. 'skin'; Akha F		239	m ê i + s è i
+1115	Atsi	mouth-2	Atsi	242	nʔut	nʔut			240	n ʔ u t
+1116	Maru	mouth-2	Maru	242	nʔat	nʔat			240	n ʔ a t
+1117	Proto-Burmish	mouth-2	PB	242	nʔut	nʔut			240	n ʔ u t
+1118	Rangoon	mouth-2	Spoken Burmese	242	hnouʔ	hnouʔ			240	h n ou ʔ
+1119	Maru	mule	Maru	243	lòtsè	lòtsè			241	l ò + t s è
+1120	Proto-Burmish	mule	PB	243	la²ᶜ	la²ᶜ			241	l a ²ᶜ
+1121	Rangoon	mule	Spoken Burmese	243	lâ	lâ			241	l â
+1122	Atsi	mushroom	Atsi	244	mâu	mâu	BSB: A; Lisu: T		242	m â u
+1123	Lisu	mushroom	Lisu	244	mû̸	mû̸	BSB: A; Lisu: T		242	m û̸
+1124	Maru	mushroom	Maru	244	mùk	mùk	BSB: A; Lisu: T		242	m ù k
+1125	Proto-Burmish	mushroom	PB	244	mo¹ᵃ	mo¹ᵃ	BSB: A; Lisu: T		242	m o ¹ᵃ
+1126	Proto-Lolo	mushroom	PL	244	mo¹	mo¹	BSB: A; Lisu: T		242	m o ¹
+1127	Proto-Lolo-Burmese	mushroom	PLB	244	mo¹ᵃ	mo¹ᵃ	BSB: A; Lisu: T		242	m o ¹ᵃ
+1128	Rangoon	mushroom	Spoken Burmese	244	hmóu	hmóu	BSB: A; Lisu: T		242	h m ó u
+1129	Atsi	nails (cf. hand)	Atsi	245	loʔsìŋ	loʔsìŋ	Maru: ‘claw’; Lisu, Lahu: I		243	l o + ʔ s ì ŋ
+1130	Lisu	nails (cf. hand)	Lisu	245	læʔšù̸	læʔšù̸	Maru: ‘claw’; Lisu, Lahu: I		243	l æ + ʔ š ù̸
+1131	Maru	nails (cf. hand)	Maru	245	lòʔsāŋ	lòʔsāŋ	Maru: ‘claw’; Lisu, Lahu: I		243	l ò + ʔ s ā ŋ
+1132	Proto-Burmish	nails (cf. hand)	PB	245	siŋ²	siŋ²	Maru: ‘claw’; Lisu, Lahu: I		243	s i ŋ ²
+1133	Rangoon	nails (cf. hand)	Spoken Burmese	245	ăθê	ăθê	Maru: ‘claw’; Lisu, Lahu: I		243	ă + θ ê
+1134	Atsi	name-1	Atsi	246	myîŋ	myîŋ	Atsi: noun; Maru: Y		244	m y î ŋ
+1135	Maru	name-1	Maru	246	màŋ	màŋ	Atsi: noun; Maru: Y		244	m à ŋ
+1136	Proto-Burmish	name-1	PB	246	myiŋ¹ᵃ	myiŋ¹ᵃ	Atsi: noun; Maru: Y		244	m yi ŋ ¹ᵃ
+1137	Rangoon	name-1	Spoken Burmese	246	myí	myí	Atsi: noun; Maru: Y		244	m yí
+1138	Akha	name-2	Akha	247	cɔ́myɔ́n	cɔ́myɔ́n	PB: At; Atsi: verb; Lisu: F		245	c ɔ́ + m yɔ́ n
+1139	Atsi	name-2	Atsi	247	mʔyíŋ	mʔyíŋ	PB: At; Atsi: verb; Lisu: F		245	m ʔ yí ŋ
+1140	Lisu	name-2	Lisu	247	myø̂	myø̂	PB: At; Atsi: verb; Lisu: F		245	m yø̂
+1141	Proto-Burmish	name-2	PB	247	mʔyiŋ¹ᵇ	mʔyiŋ¹ᵇ	PB: At; Atsi: verb; Lisu: F		245	m ʔ yi ŋ ¹ᵇ
+1142	Proto-Lolo	name-2	PL	247	mʔyiŋ¹	mʔyiŋ¹	PB: At; Atsi: verb; Lisu: F		245	m ʔ yi ŋ ¹
+1143	Proto-Lolo-Burmese	name-2	PLB	247	mʔyiŋ¹ᵇ	mʔyiŋ¹ᵇ	PB: At; Atsi: verb; Lisu: F		245	m ʔ yi ŋ ¹ᵇ
+1144	Akha	navel	Akha	248	càʔtɔ́n	càʔtɔ́n	PL: Ak		246	c à ʔ + t ɔ́ n
+1145	Atsi	navel	Atsi	248	choʔ	choʔ	PL: Ak		246	c h o ʔ
+1146	Maru	navel	Maru	248	chóʔ	chóʔ	PL: Ak		246	c h ó ʔ
+1147	Proto-Burmish	navel	PB	248	chaʔ	chaʔ	PL: Ak		246	c h a ʔ
+1148	Proto-Lolo	navel	PL	248	chaʔ¹	chaʔ¹	PL: Ak		246	c h a ʔ ¹
+1149	Proto-Lolo-Burmese	navel	PLB	248	chaʔ¹	chaʔ¹	PL: Ak		246	c h a ʔ ¹
+1150	Rangoon	navel	Spoken Burmese	248	cheʔ	cheʔ	PL: Ak		246	c h e ʔ
+1151	Atsi	neck	Atsi	249	lîŋtsîŋ	lîŋtsîŋ			247	l î ŋ + t s î ŋ
+1152	Lisu	neck	Lisu	249	kə́tsí	kə́tsí			247	k ə́ + t s í
+1153	Maru	neck	Maru	249	làŋtsàŋ	làŋtsàŋ			247	l à ŋ + t s à ŋ
+1154	Proto-Burmish	neck	PB	249	liŋ¹ᵃtsiŋ²ᶜ	liŋ¹ᵃtsiŋ²ᶜ			247	l i ŋ ¹ᵃ + t s i ŋ ²ᶜ
+1155	Rangoon	neck	Spoken Burmese	249	lé	lé			247	l é
+1156	Akha	negative prefix	Akha	250	mà-	mà-	BSB, Maru: R		248	m à
+1157	Lisu	negative prefix	Lisu	250	mà-	mà-	BSB, Maru: R		248	m à
+1158	Maru	negative prefix	Maru	250	mă-	mă-	BSB, Maru: R		248	m ă
+1159	Proto-Lolo	negative prefix	PL	250	ma²	ma²	BSB, Maru: R		248	m a ²
+1160	Rangoon	negative prefix	Spoken Burmese	250	mă-	mă-	BSB, Maru: R		248	m ă
+1161	Atsi	nephew-1	Atsi	251	tú	tú	Lisu: tone		249	t ú
+1162	Lisu	nephew-1	Lisu	251	dû	dû	Lisu: tone		249	d û
+1163	Maru	nephew-1	Maru	251	tàu	tàu	Lisu: tone		249	t à u
+1164	Proto-Burmish	nephew-1	PB	251	tu¹ᵇ	tu¹ᵇ	Lisu: tone		249	t u ¹ᵇ
+1165	Rangoon	nephew-1	Spoken Burmese	251	tú	tú	Lisu: tone		249	t ú
+1166	Atsi	nephew-2 (cross)	Atsi	252	tsàáu	tsàáu			250	t s à áu
+1167	Maru	nephew-2 (cross)	Maru	252	ùk	ùk			250	ù k
+1168	Proto-Burmish	nephew-2 (cross)	PB	252	o¹ᵇ	o¹ᵇ			250	o ¹ᵇ
+1169	Atsi	nest	Atsi	253	sut	sut	BSB: F		251	s u t
+1170	Maru	nest	Maru	253	ŋʔoʔsát	ŋʔoʔsát	BSB: F		251	ŋ ʔ o + ʔ s á t
+1171	Proto-Burmish	nest	PB	253	sut	sut	BSB: F		251	s u t
+1172	Rangoon	nest	Spoken Burmese	253	ăθaiʔ	ăθaiʔ	BSB: F		251	ă + θ ai ʔ
+1173	Atsi	net (finishing)	Atsi	254	sùmkòn	sùmkòn			252	s ù m + k ò n
+1174	Maru	net (finishing)	Maru	254	kùm	kùm			252	k ù m
+1175	Proto-Burmish	net (finishing)	PB	254	kun¹	kun¹			252	k u n ¹
+1176	Rangoon	net (finishing)	Spoken Burmese	254	kún	kún			252	k ú n
+1177	Atsi	new	Atsi	255	sik	sik			253	s i k
+1178	Maru	new	Maru	255	sák	sák			253	s á k
+1179	Proto-Burmish	new	PB	255	sik	sik			253	s i k
+1180	Rangoon	new	Spoken Burmese	255	ăθiʔ	ăθiʔ			253	ă + θ i ʔ
+1181	Akha	nine	Akha	256	γø̀	γø̀	PB: Bu; Atsi: tone; Maru: F		254	 + γ ø̀
+1182	Atsi	nine	Atsi	256	kâu	kâu	PB: Bu; Atsi: tone; Maru: F		254	k â u
+1183	Maru	nine	Maru	256	kòʔ	kòʔ	PB: Bu; Atsi: tone; Maru: F		254	k ò ʔ
+1184	Proto-Burmish	nine	PB	256	ko²	ko²	PB: Bu; Atsi: tone; Maru: F		254	k o ²
+1185	Proto-Lolo	nine	PL	256	g̣o²	g̣o²	PB: Bu; Atsi: tone; Maru: F		254	g̣ o ²
+1186	Proto-Lolo-Burmese	nine	PLB	256	ko²	ko²	PB: Bu; Atsi: tone; Maru: F		254	k o ²
+1187	Rangoon	nine	Spoken Burmese	256	kôu	kôu	PB: Bu; Atsi: tone; Maru: F		254	k ô u
+1188	Akha	nose	Akha	257	námɛ́	námɛ́	Lahu: tone		255	n á + m ɛ́
+1189	Atsi	nose	Atsi	257	nɂó	nɂó	Lahu: tone		255	n ɂ ó
+1190	Lisu	nose	Lisu	257	nâbī	nâbī	Lahu: tone		255	n â + b ī
+1191	Maru	nose	Maru	257	nʔò	nʔò	Lahu: tone		255	n ʔ ò
+1192	Proto-Burmish	nose	PB	257	nʔa¹ᵇ	nʔa¹ᵇ	Lahu: tone		255	n ʔ a ¹ᵇ
+1193	Proto-Lolo	nose	PL	257	nʔa¹	nʔa¹	Lahu: tone		255	n ʔ a ¹
+1194	Proto-Lolo-Burmese	nose	PLB	257	nʔa¹ᵇ	nʔa¹ᵇ	Lahu: tone		255	n ʔ a ¹ᵇ
+1195	Rangoon	nose	Spoken Burmese	257	hná	hná	Lahu: tone		255	h n á
+1203	Atsi	old (of objects)	Atsi	259	ătshàu	ătshàu			257	ă + t s + h à u
+1204	Maru	old (of objects)	Maru	259	ătshúk	ătshúk			257	ă + t s + h ú k
+1205	Proto-Burmish	old (of objects)	PB	259	tsho²	tsho²			257	t s + h o ²
+1206	Rangoon	old (of objects)	Spoken Burmese	259	shôu	shôu			257	s h ô u
+1196	Akha	old (of people)	Akha	258	tsɔ́mɔ̀	tsɔ́mɔ̀	Atsi: T		256	t s ɔ́ + m ɔ̀
+1197	Atsi	old (of people)	Atsi	258	màŋtsò	màŋtsò	Atsi: T		256	m à ŋ + t s ò
+1198	Maru	old (of people)	Maru	258	mā	mā	Atsi: T		256	m ā
+1199	Proto-Burmish	old (of people)	PB	258	maŋ²	maŋ²	Atsi: T		256	m a ŋ ²
+1200	Proto-Lolo	old (of people)	PL	258	mɔ²	mɔ²	Atsi: T		256	m ɔ ²
+1201	Proto-Lolo-Burmese	old (of people)	PLB	258	maŋ²	maŋ²	Atsi: T		256	m a ŋ ²
+1202	Rangoon	old (of people)	Spoken Burmese	258	mîn	mîn	Atsi: T		256	m î n
+1207	Atsi	onion	Atsi	260	hùsún	hùsún	Maru: I		258	h ù + s ú n
+1208	Maru	onion	Maru	260	hāu	hāu	Maru: I		258	h ā u
+1209	Proto-Burmish	onion	PB	260	sun¹ᵇ	sun¹ᵇ	Maru: I		258	s u n ¹ᵇ
+1210	Rangoon	onion	Spoken Burmese	260	ceʔθún	ceʔθún	Maru: I		258	c e + ʔ θ ú n
+1211	Lisu	overtake	Lisu	261	gaʔmə̂	gaʔmə̂			259	g a + ʔ m ə̂
+1212	Maru	overtake	Maru	261	mʔyì	mʔyì			259	m ʔ y ì
+1213	Proto-Burmish	overtake	PB	261	mʔi¹	mʔi¹			259	m ʔ i ¹
+1214	Proto-Lolo	overtake	PL	261	mʔi¹	mʔi¹			259	m ʔ i ¹
+1215	Proto-Lolo-Burmese	overtake	PLB	261	mʔi¹	mʔi¹			259	m ʔ i ¹
+1216	Rangoon	overtake	Spoken Burmese	261	hmí	hmí			259	h m í
+1217	Atsi	owl	Atsi	262	khùŋpup	khùŋpup	BSB: 1st syl FT, 2nd syl V		260	k h ù ŋ + p u p
+1218	Maru	owl	Maru	262	khōŋpàp	khōŋpàp	BSB: 1st syl FT, 2nd syl V		260	k h ō ŋ + p à p
+1219	Proto-Burmish	owl	PB	262	khoŋ²pup	khoŋ²pup	BSB: 1st syl FT, 2nd syl V		260	k h o ŋ ² + p u p
+1220	Rangoon	owl	Spoken Burmese	262	gínbouʔ	gínbouʔ	BSB: 1st syl FT, 2nd syl V		260	g í n + b ou ʔ
+1221	Atsi	pair	Atsi	263	tsûm	tsûm	PL: La		261	t s û m
+1222	Proto-Burmish	pair	PB	263	tsum¹ᵃ	tsum¹ᵃ	PL: La		261	t s u m ¹ᵃ
+1223	Proto-Lolo	pair	PL	263	dzum¹	dzum¹	PL: La		261	d z u m ¹
+1224	Proto-Lolo-Burmese	pair	PLB	263	tsum¹ᵃ	tsum¹ᵃ	PL: La		261	t s u m ¹ᵃ
+1225	Rangoon	pair	Spoken Burmese	263	sóun	sóun	PL: La		261	s ó u n
+1226	Akha	palm sole	Akha	264	zà	zà	PL: Ak		262	z à
+1227	Atsi	palm sole	Atsi	264	và	và	PL: Ak		262	v à
+1228	Maru	palm sole	Maru	264	wō	wō	PL: Ak		262	w ō
+1229	Proto-Burmish	palm sole	PB	264	wa²	wa²	PL: Ak		262	w a ²
+1230	Proto-Lolo	palm sole	PL	264	wa²	wa²	PL: Ak		262	w a ²
+1231	Proto-Lolo-Burmese	palm sole	PLB	264	wa²	wa²	PL: Ak		262	w a ²
+1232	Rangoon	palm sole	Spoken Burmese	264	wâ	wâ	PL: Ak		262	w â
+1233	Akha	parrot (cf. bird)	Akha	265	ájíxàjè	ájíxàjè	Akha: T		263	á + j í + x à + j è
+1234	Atsi	parrot (cf. bird)	Atsi	265	cì	cì	Akha: T		263	c ì
+1235	Lisu	parrot (cf. bird)	Lisu	265	ájù̸	ájù̸	Akha: T		263	á + j ù̸
+1236	Maru	parrot (cf. bird)	Maru	265	cìtàu	cìtàu	Akha: T		263	c ì + t à u
+1237	Proto-Burmish	parrot (cf. bird)	PB	265	cei²ᶜ	cei²ᶜ	Akha: T		263	c ei ²ᶜ
+1238	Proto-Lolo	parrot (cf. bird)	PL	265	jei²	jei²	Akha: T		263	j ei ²
+1239	Proto-Lolo-Burmese	parrot (cf. bird)	PLB	265	cei²ᶜ	cei²ᶜ	Akha: T		263	c ei ²ᶜ
+1240	Rangoon	parrot (cf. bird)	Spoken Burmese	265	cêihŋeʔ	cêihŋeʔ	Akha: T		263	c ê i + h ŋ e ʔ
+1241	Atsi	penis	Atsi	266	nʔyì	nʔyì	PL: La		264	n ʔ y ì
+1242	Maru	penis	Maru	266	nʔyī	nʔyī	PL: La		264	n ʔ y ī
+1243	Proto-Burmish	penis	PB	266	nʔyi²	nʔyi²	PL: La		264	n ʔ yi ²
+1244	Proto-Lolo	penis	PL	266	nʔyi²	nʔyi²	PL: La		264	n ʔ yi ²
+1245	Proto-Lolo-Burmese	penis	PLB	266	nʔyi²	nʔyi²	PL: La		264	n ʔ yi ²
+1249	Atsi	person (classifier)	Atsi	268	yuʔ	yuʔ	PL: Li		266	yu ʔ
+1250	Lisu	person (classifier)	Lisu	268	řô	řô	PL: Li		266	ř ô
+1251	Maru	person (classifier)	Maru	268	yòk	yòk	PL: Li		266	y ò k
+1252	Proto-Burmish	person (classifier)	PB	268	yok	yok	PL: Li		266	yo k
+1253	Proto-Lolo	person (classifier)	PL	268	yoʔ	yoʔ	PL: Li		266	yo ʔ
+1254	Proto-Lolo-Burmese	person (classifier)	PLB	268	yok²	yok²	PL: Li		266	yo k ²
+1255	Rangoon	person (classifier)	Spoken Burmese	268	yauʔ	yauʔ	PL: Li		266	yau ʔ
+1246	Akha	person (noun)	Akha	267	tsɔ́hà	tsɔ́hà			265	t s ɔ́ + h à
+1247	Lisu	person (noun)	Lisu	267	tshɔ̄	tshɔ̄			265	t s + h ɔ̄
+1248	Proto-Lolo	person (noun)	PL	267	tshɔ¹	tshɔ¹			265	t s + h ɔ ¹
+1256	Akha	pick (harvest)	Akha	269	pyāʔ	pyāʔ	PB: At; PL: Akha	Burling's At is an error for Ak; corrected this in Burling notes column	267	p y ā ʔ
+1257	Atsi	pick (harvest)	Atsi	269	phyoʔ	phyoʔ	PB: At; PL: Akha	Burling's At is an error for Ak; corrected this in Burling notes column	267	p h yo ʔ
+1258	Proto-Burmish	pick (harvest)	PB	269	phyaʔ	phyaʔ	PB: At; PL: Akha	Burling's At is an error for Ak; corrected this in Burling notes column	267	p h ya ʔ
+1259	Proto-Lolo	pick (harvest)	PL	269	phyaʔ²	phyaʔ²	PB: At; PL: Akha	Burling's At is an error for Ak; corrected this in Burling notes column	267	p h ya ʔ ²
+1260	Proto-Lolo-Burmese	pick (harvest)	PLB	269	phyaʔ²	phyaʔ²	PB: At; PL: Akha	Burling's At is an error for Ak; corrected this in Burling notes column	267	p h ya ʔ ²
+1261	Akha	pig	Akha	270	àzàʔ	àzàʔ			268	à + z à ʔ
+1262	Atsi	pig	Atsi	270	vaʔ	vaʔ			268	v a ʔ
+1263	Lisu	pig	Lisu	270	wæʔ	wæʔ			268	w æ ʔ
+1264	Maru	pig	Maru	270	wòʔ	wòʔ			268	w ò ʔ
+1265	Proto-Burmish	pig	PB	270	wa¹	wa¹			268	w a ¹
+1266	Proto-Lolo	pig	PL	270	waʔ¹	waʔ¹			268	w a ʔ ¹
+1267	Proto-Lolo-Burmese	pig	PLB	270	waʔ¹	waʔ¹			268	w a ʔ ¹
+1268	Rangoon	pig	Spoken Burmese	270	weʔ	weʔ			268	w e ʔ
+1269	Atsi	place (noun)	Atsi	271	côvô	côvô			269	c ô + v ô
+1270	Maru	place (noun)	Maru	271	còʔγò	còʔγò			269	c ò ʔ + γ ò
+1271	Proto-Burmish	place (noun)	PB	271	γa¹ᵃ	γa¹ᵃ			269	 + γ a ¹ᵃ
+1272	Rangoon	place (noun)	Spoken Burmese	271	yá	yá			269	yá
+1273	Akha	place (verb)	Akha	272	yútà	yútà			270	yú + t à
+1274	Atsi	place (verb)	Atsi	272	tʔó	tʔó			270	t ʔ ó
+1275	Maru	place (verb)	Maru	272	tʔō	tʔō			270	t ʔ ō
+1276	Proto-Burmish	place (verb)	PB	272	tʔa²	tʔa²			270	t ʔ a ²
+1277	Proto-Lolo	place (verb)	PL	272	ta²	ta²			270	t a ²
+1278	Proto-Lolo-Burmese	place (verb)	PLB	272	tʔa²	tʔa²			270	t ʔ a ²
+1279	Rangoon	place (verb)	Spoken Burmese	272	thâ	thâ			270	t h â
+1280	Lisu	plant (crops) (verb)	Lisu	273	tə̂	tə̂			271	t ə̂
+1281	Proto-Lolo	plant (crops) (verb)	PL	273	ti¹/³	ti¹/³			271	t i ¹ + / ³
+1282	Akha	poison	Akha	274	dɔ̀ʔ	dɔ̀ʔ	PB: Bu		272	d ɔ̀ ʔ
+1283	Lisu	poison	Lisu	274	doʔ	doʔ	PB: Bu		272	d o ʔ
+1284	Proto-Burmish	poison	PB	274	tok	tok	PB: Bu		272	t o k
+1285	Proto-Lolo	poison	PL	274	doʔ¹	doʔ¹	PB: Bu		272	d o ʔ ¹
+1286	Proto-Lolo-Burmese	poison	PLB	274	tok¹	tok¹	PB: Bu		272	t o k ¹
+1287	Rangoon	poison	Spoken Burmese	274	tauʔ	tauʔ	PB: Bu		272	t au ʔ
+1288	Akha	porcupine	Akha	275	pú	pú			273	p ú
+1289	Atsi	porcupine	Atsi	275	pʔyú	pʔyú			273	p ʔ yú
+1290	Lisu	porcupine	Lisu	275	pû̸	pû̸			273	p û̸
+1291	Maru	porcupine	Maru	275	pʔyù	pʔyù			273	p ʔ y ù
+1292	Proto-Burmish	porcupine	PB	275	pʔyu¹ᵇ	pʔyu¹ᵇ			273	p ʔ yu ¹ᵇ
+1293	Proto-Lolo	porcupine	PL	275	pu¹	pu¹			273	p u ¹
+1294	Proto-Lolo-Burmese	porcupine	PLB	275	pʔyu¹ᵇ	pʔyu¹ᵇ			273	p ʔ yu ¹ᵇ
+1295	Rangoon	porcupine	Spoken Burmese	275	phyú	phyú			273	p h yú
+1296	Atsi	pot-1	Atsi	276	àu	àu	Maru: F		274	à u
+1297	Maru	pot-1	Maru	276	óʔ	óʔ	Maru: F		274	ó ʔ
+1298	Proto-Burmish	pot-1	PB	276	o²	o²	Maru: F		274	o ²
+1299	Rangoon	pot-1	Spoken Burmese	276	ôu	ôu	Maru: F		274	ô u
+1300	Akha	pot-2	Akha	277	xū	xū			275	x ū
+1301	Proto-Lolo	pot-2	PL	277	ḳhu³	ḳhu³			275	ḳ h u ³
+1302	Atsi	pound (verb)	Atsi	278	thúŋ	thúŋ			276	t h ú ŋ
+1303	Maru	pound (verb)	Maru	278	thòŋ	thòŋ			276	t h ò ŋ
+1304	Proto-Burmish	pound (verb)	PB	278	thoŋ²ᶜ	thoŋ²ᶜ			276	t h o ŋ ²ᶜ
+1305	Rangoon	pound (verb)	Spoken Burmese	278	thâun	thâun			276	t h â u n
+1306	Akha	price	Akha	279	pø̀	pø̀			277	p ø̀
+1307	Atsi	price	Atsi	279	phàu	phàu			277	p h à u
+1308	Lisu	price	Lisu	279	phù̸	phù̸			277	p h ù̸
+1309	Proto-Burmish	price	PB	279	pho²	pho²			277	p h o ²
+1310	Proto-Lolo	price	PL	279	pho²	pho²			277	p h o ²
+1311	Proto-Lolo-Burmese	price	PLB	279	pho²	pho²			277	p h o ²
+1312	Rangoon	price	Spoken Burmese	279	ăphôu	ăphôu			277	ă + p h ô u
+1313	Atsi	pull	Atsi	280	šê	šê			278	š ê
+1314	Maru	pull	Maru	280	šè	šè			278	š è
+1315	Proto-Burmish	pull	PB	280	še¹ᵃ	še¹ᵃ			278	š e ¹ᵃ
+1316	Akha	pus	Akha	281	byɔ́n	byɔ́n	PL: Ak		279	b yɔ́ n
+1317	Atsi	pus	Atsi	281	pyîŋ	pyîŋ	PL: Ak		279	p y î ŋ
+1318	Proto-Burmish	pus	PB	281	pyiŋ¹ᵃ	pyiŋ¹ᵃ	PL: Ak		279	p yi ŋ ¹ᵃ
+1319	Proto-Lolo	pus	PL	281	byiŋ¹	byiŋ¹	PL: Ak		279	b yi ŋ ¹
+1320	Proto-Lolo-Burmese	pus	PLB	281	pyiŋ¹ᵃ	pyiŋ¹ᵃ	PL: Ak		279	p yi ŋ ¹ᵃ
+1321	Rangoon	pus	Spoken Burmese	281	pyí	pyí	PL: Ak		279	p yí
+1322	Atsi	push	Atsi	282	cʔún	cʔún	Atsi: I		280	c ʔ ú n
+1323	Maru	push	Maru	282	tùm	tùm	Atsi: I		280	t ù m
+1324	Proto-Burmish	push	PB	282	tun¹ᶜ	tun¹ᶜ	Atsi: I		280	t u n ¹ᶜ
+1325	Rangoon	push	Spoken Burmese	282	tûn	tûn	Atsi: I		280	t û n
+1326	Atsi	rain	Atsi	283	vô	vô			281	v ô
+1327	Maru	rain	Maru	283	mùkγù	mùkγù			281	m ù k + γ ù
+1328	Proto-Burmish	rain	PB	283	γwa¹ᵃ	γwa¹ᵃ			281	 + γ w a ¹ᵃ
+1329	Rangoon	rain	Spoken Burmese	283	ywá	ywá			281	y + w á
+1330	Maru	rat-1	Maru	284	γùt	γùt	PB: CB		282	 + γ ù t
+1331	Proto-Burmish	rat-1	PB	284	kγVS	kγVS	PB: CB		282	k γ V S
+1332	Rangoon	rat-1	Spoken Burmese	284	cweʔ	cweʔ	PB: CB		282	c w e ʔ
+1333	Akha	rat-2	Akha	285	xɔ̄ʔcāʔ	xɔ̄ʔcāʔ			283	x ɔ̄ ʔ + c ā ʔ
+1334	Proto-Lolo	rat-2	PL	285	chaʔ¹	chaʔ¹			283	c h a ʔ ¹
+1335	Atsi	red-1	Atsi	286	nê	nê	BSB: F		284	n ê
+1336	Maru	red-1	Maru	286	nè	nè	BSB: F		284	n è
+1337	Proto-Burmish	red-1	PB	286	ne¹ᵃ	ne¹ᵃ	BSB: F		284	n e ¹ᵃ
+1338	Rangoon	red-1	Spoken Burmese	286	ní	ní	BSB: F		284	n í
+1339	Akha	red-2	Akha	287	né	né			285	n é
+1340	Lisu	red-2	Lisu	287	nî	nî			285	n î
+1341	Proto-Lolo	red-2	PL	287	nʔe¹	nʔe¹			285	n ʔ e ¹
+1342	Akha	remember	Akha	288	nø̀tà	nø̀tà			286	n ø̀ + t à
+1343	Proto-Lolo	remember	PL	288	no²	no²			286	n o ²
+1344	Atsi	repay	Atsi	289	tshap	tshap			287	t s + h a p
+1345	Proto-Burmish	repay	PB	289	tshap	tshap			287	t s + h a p
+1346	Rangoon	repay	Spoken Burmese	289	shaʔ	shaʔ			287	s h a ʔ
+1347	Akha	rest	Akha	290	γànà	γànà	Maru: I		288	 + γ à + n à
+1348	Atsi	rest	Atsi	290	nó	nó	Maru: I		288	n ó
+1349	Lisu	rest	Lisu	290	nà	nà	Maru: I		288	n à
+1350	Maru	rest	Maru	290	ŋō	ŋō	Maru: I		288	ŋ ō
+1351	Proto-Burmish	rest	PB	290	na²	na²	Maru: I		288	n a ²
+1352	Proto-Lolo	rest	PL	290	na²	na²	Maru: I		288	n a ²
+1353	Proto-Lolo-Burmese	rest	PLB	290	na²	na²	Maru: I		288	n a ²
+1354	Rangoon	rest	Spoken Burmese	290	nâ	nâ	Maru: I		288	n â
+1363	Lisu	rice (cooked)	Lisu	293	dzā	dzā	PB: Maru; Lahu: 'rice plant' (cf. 'tree')		291	d z ā
+1364	Maru	rice (cooked)	Maru	293	tsò	tsò	PB: Maru; Lahu: 'rice plant' (cf. 'tree')		291	t s ò
+1365	Proto-Burmish	rice (cooked)	PB	293	tsa¹	tsa¹	PB: Maru; Lahu: 'rice plant' (cf. 'tree')		291	t s a ¹
+1366	Proto-Lolo	rice (cooked)	PL	293	dza¹	dza¹	PB: Maru; Lahu: 'rice plant' (cf. 'tree')		291	d z a ¹
+1367	Proto-Lolo-Burmese	rice (cooked)	PLB	293	tsa¹	tsa¹	PB: Maru; Lahu: 'rice plant' (cf. 'tree')		291	t s a ¹
+1368	Lisu	rice (glutinous)	Lisu	294	dzānù	dzānù	PB: C		292	d z ā + n ù
+1369	Proto-Lolo	rice (glutinous)	PL	294	dza¹no²	dza¹no²	PB: C		292	d z a ¹ + n o ²
+1359	Atsi	rice (husked)	Atsi	292	chín	chín	PB: C; Atsi: F		290	c h í n
+1360	Maru	rice (husked)	Maru	292	chìn	chìn	PB: C; Atsi: F		290	c h ì n
+1361	Proto-Burmish	rice (husked)	PB	292	thlan¹ᵇ	thlan¹ᵇ	PB: C; Atsi: F		290	t h l a n ¹ᵇ
+1362	Rangoon	rice (husked)	Spoken Burmese	292	shán	shán	PB: C; Atsi: F		290	s h á n
+1355	Atsi	rice (paddy)	Atsi	291	kuʔ	kuʔ			289	k u ʔ
+1356	Maru	rice (paddy)	Maru	291	kòk	kòk			289	k ò k
+1357	Proto-Burmish	rice (paddy)	PB	291	kok	kok			289	k o k
+1358	Rangoon	rice (paddy)	Spoken Burmese	291	kauʔ	kauʔ			289	k au ʔ
+1370	Atsi	rice beer	Atsi	295	íphè	íphè			293	í + p h è
+1371	Maru	rice beer	Maru	295	ìt	ìt			293	ì t
+1372	Proto-Burmish	rice beer	PB	295	ei¹ᵇ	ei¹ᵇ			293	ei ¹ᵇ
+1373	Akha	ride (horse)	Akha	296	dzì	dzì			294	d z ì
+1374	Lisu	ride (horse)	Lisu	296	dzə̀	dzə̀			294	d z ə̀
+1375	Proto-Lolo	ride (horse)	PL	296	dzi²	dzi²			294	d z i ²
+1376	Atsi	right (hand)	Atsi	297	loʔyô	loʔyô			295	l o + ʔ y ô
+1377	Maru	right (hand)	Maru	297	yò	yò			295	y ò
+1378	Proto-Burmish	right (hand)	PB	297	ya¹ᵃ	ya¹ᵃ			295	ya ¹ᵃ
+1379	Rangoon	right (hand)	Spoken Burmese	297	yá	yá			295	yá
+1380	Atsi	ripe-1	Atsi	298	mʔyíŋ	mʔyíŋ	Atsi: T		296	m ʔ yí ŋ
+1381	Maru	ripe-1	Maru	298	mʔáŋ	mʔáŋ	Atsi: T		296	m ʔ á ŋ
+1382	Proto-Burmish	ripe-1	PB	298	mʔiŋ³	mʔiŋ³	Atsi: T		296	m ʔ i ŋ ³
+1383	Rangoon	ripe-1	Spoken Burmese	298	hmè	hmè	Atsi: T		296	h m è
+1384	Akha	ripe-2	Akha	299	myɔ̄n	myɔ̄n			297	m yɔ̄ n
+1385	Lisu	ripe-2	Lisu	299	mî	mî			297	m î
+1386	Proto-Lolo	ripe-2	PL	299	myiŋ³	myiŋ³			297	m yi ŋ ³
+1387	Akha	river	Akha	300	lɔ́	lɔ́	PB: At		298	l ɔ́
+1388	Atsi	river	Atsi	300	lâŋ	lâŋ	PB: At		298	l â ŋ
+1389	Lisu	river	Lisu	300	lɔ̄	lɔ̄	PB: At		298	l ɔ̄
+1390	Proto-Burmish	river	PB	300	laŋ¹	laŋ¹	PB: At		298	l a ŋ ¹
+1391	Proto-Lolo	river	PL	300	lɔ¹	lɔ¹	PB: At		298	l ɔ ¹
+1392	Proto-Lolo-Burmese	river	PLB	300	laŋ¹	laŋ¹	PB: At		298	l a ŋ ¹
+1393	Atsi	road (classifier)	Atsi	301	khyó	khyó			299	k h y ó
+1394	Maru	road (classifier)	Maru	301	khyò	khyò			299	k h y ò
+1395	Proto-Burmish	road (classifier)	PB	301	khya¹ᵇ	khya¹ᵇ			299	k h ya ¹ᵇ
+1396	Atsi	roast	Atsi	302	phut	phut			300	p h u t
+1397	Proto-Burmish	roast	PB	302	phut	phut			300	p h u t
+1398	Rangoon	roast	Spoken Burmese	302	phouʔ	phouʔ			300	p h ou ʔ
+1399	Atsi	root	Atsi	303	ămyit	ămyit			301	ă + m yi t
+1400	Proto-Burmish	root	PB	303	myit	myit			301	m yi t
+1401	Rangoon	root	Spoken Burmese	303	myiʔ	myiʔ			301	m yi ʔ
+1402	Akha	rotten	Akha	304	yɔ̄bùʔ	yɔ̄bùʔ	Maru: T; PL: Ak		302	yɔ̄ + b ù ʔ
+1403	Atsi	rotten	Atsi	304	pup	pup	Maru: T; PL: Ak		302	p u p
+1404	Maru	rotten	Maru	304	páp	páp	Maru: T; PL: Ak		302	p á p
+1405	Proto-Burmish	rotten	PB	304	pup	pup	Maru: T; PL: Ak		302	p u p
+1406	Proto-Lolo	rotten	PL	304	buʔ¹	buʔ¹	Maru: T; PL: Ak		302	b u ʔ ¹
+1407	Proto-Lolo-Burmese	rotten	PLB	304	pup¹	pup¹	Maru: T; PL: Ak		302	p u p ¹
+1408	Rangoon	rotten	Spoken Burmese	304	pouʔ	pouʔ	Maru: T; PL: Ak		302	p ou ʔ
+1409	Akha	rough	Akha	305	yɔsāʔ	yɔsāʔ			303	yɔ + s ā ʔ
+1410	Proto-Lolo	rough	PL	305	saʔ²	saʔ²			303	s a ʔ ²
+1415	Lisu	round (verb)	Lisu	307	yílúlú	yílúlú			305	yí + l ú + l ú
+1416	Proto-Lolo	round (verb)	PL	307	lʔum²	lʔum²			305	l ʔ u m ²
+1411	Atsi	round object (classifier)	Atsi	306	lʔùm	lʔùm	Atsi: I		304	l ʔ ù m
+1412	Maru	round object (classifier)	Maru	306	lām	lām	Atsi: I		304	l ā m
+1413	Proto-Burmish	round object (classifier)	PB	306	lum²	lum²	Atsi: I		304	l u m ²
+1414	Rangoon	round object (classifier)	Spoken Burmese	306	lôun	lôun	Atsi: I		304	l ô u n
+1417	Atsi	rule	Atsi	308	tsáu	tsáu			306	t s áu
+1418	Proto-Burmish	rule	PB	308	tso²	tso²			306	t s o ²
+1419	Rangoon	rule	Spoken Burmese	308	sôuzán	sôuzán			306	s ô u + z á n
+1420	Atsi	salt	Atsi	309	tshò	tshò			307	t s + h ò
+1421	Maru	salt	Maru	309	tshō	tshō			307	t s + h ō
+1422	Proto-Burmish	salt	PB	309	tsha²	tsha²			307	t s + h a ²
+1423	Rangoon	salt	Spoken Burmese	309	shâ	shâ			307	s h â
+1424	Atsi	sand-1	Atsi	310	sèmúi	sèmúi		Atsi: only 1st syl cognate; Burling should have PL: La but doesn't	308	s è + m úi
+1425	Proto-Burmish	sand-1	PB	310	se²	se²		Atsi: only 1st syl cognate; Burling should have PL: La but doesn't	308	s e ²
+1426	Proto-Lolo	sand-1	PL	310	se²	se²		Atsi: only 1st syl cognate; Burling should have PL: La but doesn't	308	s e ²
+1427	Proto-Lolo-Burmese	sand-1	PLB	310	se²	se²		Atsi: only 1st syl cognate; Burling should have PL: La but doesn't	308	s e ²
+1428	Rangoon	sand-1	Spoken Burmese	310	θê	θê		Atsi: only 1st syl cognate; Burling should have PL: La but doesn't	308	θ ê
+1429	Atsi	sand-2	Atsi	311	sèmúi	sèmúi		Atsi: only 2nd syl cognate	309	s è + m úi
+1430	Maru	sand-2	Maru	311	màchò	màchò		Atsi: only 2nd syl cognate	309	m à + c h ò
+1431	Proto-Burmish	sand-2	PB	311	mwei¹ᵇ	mwei¹ᵇ		Atsi: only 2nd syl cognate	309	m w ei ¹ᵇ
+1432	Atsi	search-1	Atsi	312	hô	hô			310	h ô
+1433	Maru	search-1	Maru	312	γò	γò			310	 + γ ò
+1434	Proto-Burmish	search-1	PB	312	ha¹ᵃ	ha¹ᵃ			310	h a ¹ᵃ
+1435	Rangoon	search-1	Spoken Burmese	312	šá	šá			310	š á
+1436	Akha	search-2	Akha	313	šápɔ̄ʔ	šápɔ̄ʔ	Lisu: 'circle about'		311	š á + p ɔ̄ ʔ
+1437	Lisu	search-2	Lisu	313	phɔ̌	phɔ̌	Lisu: 'circle about'		311	p h ɔ̌
+1438	Proto-Lolo	search-2	PL	313	phoʔ²	phoʔ²	Lisu: 'circle about'		311	p h o ʔ ²
+1439	Akha	see	Akha	314	mɔ́	mɔ́			312	m ɔ́
+1440	Atsi	see	Atsi	314	myâŋ	myâŋ			312	m y â ŋ
+1441	Lisu	see	Lisu	314	mɔ̄	mɔ̄			312	m ɔ̄
+1442	Maru	see	Maru	314	myà	myà			312	m y à
+1443	Proto-Burmish	see	PB	314	myaŋ¹ᵃ	myaŋ¹ᵃ			312	m ya ŋ ¹ᵃ
+1444	Proto-Lolo	see	PL	314	mɔ¹	mɔ¹			312	m ɔ ¹
+1445	Proto-Lolo-Burmese	see	PLB	314	myaŋ¹ᵃ	myaŋ¹ᵃ			312	m ya ŋ ¹ᵃ
+1446	Rangoon	see	Spoken Burmese	314	myín	myín			312	m yí n
+1447	Akha	seed-1	Akha	315	yø̀	yø̀			313	yø̀
+1448	Proto-Lolo	seed-1	PL	315	yo²	yo²			313	yo ²
+1449	Atsi	seed-2	Atsi	316	ăcī	ăcī	PB: CB		314	ă + c ī
+1450	Maru	seed-2	Maru	316	ăcít	ăcít	PB: CB		314	ă + c í t
+1451	Proto-Burmish	seed-2	PB	316	tlV³	tlV³	PB: CB		314	t l V ³
+1452	Rangoon	seed-2	Spoken Burmese	316	ăsì	ăsì	PB: CB		314	ă + s ì
+1453	Atsi	seed-3	Atsi	317	àmyùi	àmyùi			315	à + m y ù i
+1454	Proto-Burmish	seed-3	PB	317	myo²	myo²			315	m yo ²
+1455	Rangoon	seed-3	Spoken Burmese	317	ămyôu	ămyôu			315	ă + m y ô u
+1456	Akha	sell	Akha	318	ɔ̀n	ɔ̀n	BSB: I; PL: Akha		316	ɔ̀ n
+1457	Atsi	sell	Atsi	318	úŋ	úŋ	BSB: I; PL: Akha		316	ú ŋ
+1458	Maru	sell	Maru	318	ōŋ	ōŋ	BSB: I; PL: Akha		316	ō ŋ
+1459	Proto-Burmish	sell	PB	318	oŋ²	oŋ²	BSB: I; PL: Akha		316	o ŋ ²
+1460	Proto-Lolo	sell	PL	318	oŋ²	oŋ²	BSB: I; PL: Akha		316	o ŋ ²
+1461	Proto-Lolo-Burmese	sell	PLB	318	oŋ²	oŋ²	BSB: I; PL: Akha		316	o ŋ ²
+1462	Rangoon	sell	Spoken Burmese	318	yâun	yâun	BSB: I; PL: Akha		316	y â u n
+1463	Atsi	sesamum	Atsi	319	nʔàm	nʔàm			317	n ʔ à m
+1464	Maru	sesamum	Maru	319	nʔīn	nʔīn			317	n ʔ ī n
+1465	Proto-Burmish	sesamum	PB	319	nʔam²	nʔam²			317	n ʔ a m ²
+1466	Rangoon	sesamum	Spoken Burmese	319	hnân	hnân			317	h n â n
+1467	Lisu	seven-1	Lisu	320	šù̸	šù̸			318	š ù̸
+1468	Proto-Lolo	seven-1	PL	320	sei²	sei²			318	s ei ²
+1469	Atsi	seven-2	Atsi	321	nʔyitlʔùm	nʔyitlʔùm	BSB: V		319	n ʔ yi + t l + ʔ ù m
+1470	Maru	seven-2	Maru	321	nʔat	nʔat	BSB: V		319	n ʔ a t
+1471	Proto-Burmish	seven-2	PB	321	nʔit	nʔit	BSB: V		319	n ʔ i t
+1472	Rangoon	seven-2	Spoken Burmese	321	khúnniʔ	khúnniʔ	BSB: V		319	k h ú + nn i ʔ
+1473	Akha	sew	Akha	322	gùʔ	gùʔ	Akha: I		320	g ù ʔ
+1474	Atsi	sew	Atsi	322	khyup	khyup	Akha: I		320	k h yu p
+1475	Maru	sew	Maru	322	khyáp	khyáp	Akha: I		320	k h yá p
+1476	Proto-Burmish	sew	PB	322	khyup	khyup	Akha: I		320	k h yu p
+1477	Rangoon	sew	Spoken Burmese	322	chouʔ	chouʔ	Akha: I		320	c h ou ʔ
+1482	Akha	sharp	Akha	324	tāʔ	tāʔ			322	t ā ʔ
+1483	Atsi	sharp	Atsi	324	thoʔ	thoʔ			322	t h o ʔ
+1484	Lisu	sharp	Lisu	324	thæ̌	thæ̌			322	t h æ̌
+1485	Proto-Burmish	sharp	PB	324	thaʔ	thaʔ			322	t h a ʔ
+1486	Proto-Lolo	sharp	PL	324	thaʔ²	thaʔ²			322	t h a ʔ ²
+1487	Proto-Lolo-Burmese	sharp	PLB	324	thaʔ²	thaʔ²			322	t h a ʔ ²
+1488	Rangoon	sharp	Spoken Burmese	324	theʔ	theʔ			322	t h e ʔ
+1489	Akha	sheep	Akha	325	yɔ́	yɔ́	PB: Ma		323	yɔ́
+1490	Lisu	sheep	Lisu	325	âřɔ̄	âřɔ̄	PB: Ma		323	â + ř ɔ̄
+1491	Maru	sheep	Maru	325	yà	yà	PB: Ma		323	y à
+1492	Proto-Burmish	sheep	PB	325	yaŋ¹	yaŋ¹	PB: Ma		323	ya ŋ ¹
+1493	Proto-Lolo	sheep	PL	325	yɔ¹	yɔ¹	PB: Ma		323	yɔ ¹
+1494	Proto-Lolo-Burmese	sheep	PLB	325	yaŋ¹	yaŋ¹	PB: Ma		323	ya ŋ ¹
+1495	Atsi	shield	Atsi	326	kô	kô			324	k ô
+1496	Proto-Burmish	shield	PB	326	ka¹ᵃ	ka¹ᵃ			324	k a ¹ᵃ
+1497	Rangoon	shield	Spoken Burmese	326	ká	ká			324	k á
+1498	Atsi	shine, blaze	Atsi	327	tuʔ	tuʔ			325	t u ʔ
+1499	Proto-Burmish	shine, blaze	PB	327	tok	tok			325	t o k
+1500	Rangoon	shine, blaze	Spoken Burmese	327	tauʔ	tauʔ			325	t au ʔ
+1501	Atsi	shoot	Atsi	328	pik	pik	BSB: Y		326	p i k
+1502	Maru	shoot	Maru	328	pàk	pàk	BSB: Y		326	p à k
+1503	Proto-Burmish	shoot	PB	328	pik	pik	BSB: Y		326	p i k
+1504	Rangoon	shoot	Spoken Burmese	328	pyiʔ	pyiʔ	BSB: Y		326	p yi ʔ
+1505	Atsi	shrimp	Atsi	329	pàutsún	pàutsún	BSB: V		327	p à u + t s ú n
+1506	Proto-Burmish	shrimp	PB	329	tsun¹ᵇ	tsun¹ᵇ	BSB: V		327	t s u n ¹ᵇ
+1507	Rangoon	shrimp	Spoken Burmese	329	băzún	băzún	BSB: V		327	b ă + z ú n
+1508	Lisu	sibling (younger)	Lisu	330	nyî	nyî			328	n y î
+1509	Proto-Lolo	sibling (younger)	PL	330	nyi³	nyi³			328	n yi ³
+1510	Lisu	sing	Lisu	331	kwâ	kwâ			329	k w â
+1511	Proto-Lolo	sing	PL	331	ḳa¹/³	ḳa¹/³			329	ḳ a ¹ + / ³
+1512	Akha	six	Akha	332	kɔ̀ʔ	kɔ̀ʔ			330	k ɔ̀ ʔ
+1513	Atsi	six	Atsi	332	khyuʔlʔùm	khyuʔlʔùm			330	k h yu + ʔ l + ʔ ù m
+1514	Maru	six	Maru	332	khyók	khyók			330	k h y ó k
+1515	Proto-Burmish	six	PB	332	khyok	khyok			330	k h yo k
+1516	Proto-Lolo	six	PL	332	k̯hoʔ¹	k̯hoʔ¹			330	k̯ h o ʔ ¹
+1517	Proto-Lolo-Burmese	six	PLB	332	khyok¹	khyok¹			330	k h yo k ¹
+1518	Rangoon	six	Spoken Burmese	332	chauʔ	chauʔ			330	c h au ʔ
+1519	Maru	skin	Maru	333	šăγìt	šăγìt			331	š ă + γ ì t
+1520	Proto-Burmish	skin	PB	333	γei¹ᵃ	γei¹ᵃ			331	 + γ ei ¹ᵃ
+1521	Rangoon	skin	Spoken Burmese	333	ăyéi	ăyéi			331	ă y é i
+1522	Atsi	sky	Atsi	334	màu	màu	BSB: 'rain'; PL: La; Lisu: F		332	m à u
+1523	Lisu	sky	Lisu	334	mùkwâ	mùkwâ	BSB: 'rain'; PL: La; Lisu: F		332	m ù + k w â
+1524	Maru	sky	Maru	334	mùkkòŋ	mùkkòŋ	BSB: 'rain'; PL: La; Lisu: F		332	m ù + kk ò ŋ
+1525	Proto-Burmish	sky	PB	334	mo²ᶜ	mo²ᶜ	BSB: 'rain'; PL: La; Lisu: F		332	m o ²ᶜ
+1526	Proto-Lolo	sky	PL	334	mo²	mo²	BSB: 'rain'; PL: La; Lisu: F		332	m o ²
+1527	Proto-Lolo-Burmese	sky	PLB	334	mo²ᶜ	mo²ᶜ	BSB: 'rain'; PL: La; Lisu: F		332	m o ²ᶜ
+1528	Rangoon	sky	Spoken Burmese	334	môu	môu	BSB: 'rain'; PL: La; Lisu: F		332	m ô u
+1529	Atsi	slave	Atsi	335	cûn	cûn			333	c û n
+1530	Proto-Burmish	slave	PB	335	cun¹ᵃ	cun¹ᵃ			333	c u n ¹ᵃ
+1531	Rangoon	slave	Spoken Burmese	335	cún	cún			333	c ú n
+1532	Akha	sleep	Akha	336	yùʔ	yùʔ	PB:Ma		334	y ù ʔ
+1533	Lisu	sleep	Lisu	336	yiʔtá	yiʔtá	PB:Ma		334	yi ʔ + t á
+1534	Maru	sleep	Maru	336	yàp	yàp	PB:Ma		334	y à p
+1535	Proto-Burmish	sleep	PB	336	yup	yup	PB:Ma		334	yu p
+1536	Proto-Lolo	sleep	PL	336	yuʔ¹	yuʔ¹	PB:Ma		334	yu ʔ ¹
+1537	Proto-Lolo-Burmese	sleep	PLB	336	yup¹	yup¹	PB:Ma		334	yu p ¹
+1538	Akha	smoke (noun)	Akha	337	ùxø̀	ùxø̀			335	ù + x ø̀
+1539	Atsi	smoke (noun)	Atsi	337	myìkhàu	myìkhàu			335	m y ì + k h à u
+1540	Lisu	smoke (noun)	Lisu	337	mùkhù	mùkhù			335	m ù + k h ù
+1541	Maru	smoke (noun)	Maru	337	mīkhúk	mīkhúk			335	m ī + k h ú k
+1542	Proto-Burmish	smoke (noun)	PB	337	kho²	kho²			335	k h o ²
+1543	Proto-Lolo	smoke (noun)	PL	337	ḳho²	ḳho²			335	ḳ h o ²
+1544	Proto-Lolo-Burmese	smoke (noun)	PLB	337	kho²	kho²			335	k h o ²
+1545	Rangoon	smoke (noun)	Spoken Burmese	337	khôu	khôu			335	k h ô u
+1546	Atsi	snake	Atsi	338	lʔáŋmûi	lʔáŋmûi			336	l ʔ á ŋ + m û i
+1547	Maru	snake	Maru	338	mòi	mòi			336	m ò i
+1548	Proto-Burmish	snake	PB	338	mwei¹ᵃ/mwe¹ᵃ	mwei¹ᵃ/mwe¹ᵃ			336	m w ei ¹ᵃ + / m w e ¹ᵃ
+1549	Rangoon	snake	Spoken Burmese	338	mwéi	mwéi			336	m w é i
+1550	Atsi	snot	Atsi	339	nʔap	nʔap			337	n ʔ a p
+1551	Maru	snot	Maru	339	nʔeʔ	nʔeʔ			337	n ʔ e ʔ
+1552	Proto-Burmish	snot	PB	339	nʔap	nʔap			337	n ʔ a p
+1553	Rangoon	snot	Spoken Burmese	339	hnaʔ	hnaʔ			337	h n a ʔ
+1554	Atsi	son	Atsi	340	tsò	tsò		Burling did not list Burmese sâ which may be a loan from Pyu saḥ	338	t s ò
+1555	Maru	son	Maru	340	tsō	tsō		Burling did not list Burmese sâ which may be a loan from Pyu saḥ	338	t s ō
+1556	Proto-Burmish	son	PB	340	tsa²	tsa²		Burling did not list Burmese sâ which may be a loan from Pyu saḥ	338	t s a ²
+1557	Proto-Burmish	son's wife (cf. female suffix)	PB	341	khywei²ma³	khywei²ma³	PL: La	Lahu form in Akha column in original book; corrected here	339	k h y + w ei ² + m a ³
+1558	Proto-Lolo	son's wife (cf. female suffix)	PL	341	k̯hə²ma³	k̯hə²ma³	PL: La	Lahu form in Akha column in original book; corrected here	339	k̯ h ə ² + m a ³
+1559	Proto-Lolo-Burmese	son's wife (cf. female suffix)	PLB	341	khywə²ma³	khywə²ma³	PL: La	Lahu form in Akha column in original book; corrected here	339	k h y + w ə ² + m a ³
+1560	Rangoon	son's wife (cf. female suffix)	Spoken Burmese	341	chwêimà	chwêimà	PL: La	Lahu form in Akha column in original book; corrected here	339	c h w ê i + m à
+1561	Atsi	span (arm)	Atsi	342	lâm	lâm	PL: La		340	l â m
+1562	Maru	span (arm)	Maru	342	lìn	lìn	PL: La		340	l ì n
+1563	Proto-Burmish	span (arm)	PB	342	lam¹ᵃ	lam¹ᵃ	PL: La		340	l a m ¹ᵃ
+1564	Proto-Lolo	span (arm)	PL	342	lam¹	lam¹	PL: La		340	l a m ¹
+1565	Proto-Lolo-Burmese	span (arm)	PLB	342	lam¹ᵃ	lam¹ᵃ	PL: La		340	l a m ¹ᵃ
+1566	Rangoon	span (arm)	Spoken Burmese	342	lán	lán	PL: La		340	l á n
+1567	Atsi	span (finger)	Atsi	343	thó	thó			341	t h ó
+1568	Maru	span (finger)	Maru	343	thù	thù			341	t h ù
+1569	Proto-Burmish	span (finger)	PB	343	thwa¹ᵇ	thwa¹ᵇ			341	t h w a ¹ᵇ
+1570	Rangoon	span (finger)	Spoken Burmese	343	thwá	thwá			341	t h w á
+1571	Atsi	sparrow	Atsi	344	côkhyaŋ	côkhyaŋ	PB: C		342	c ô + k h ya ŋ
+1572	Proto-Burmish	sparrow	PB	344	tla¹ᵃ	tla¹ᵃ	PB: C		342	t l a ¹ᵃ
+1573	Rangoon	sparrow	Spoken Burmese	344	sá	sá	PB: C		342	s á
+1574	Atsi	spear	Atsi	345	lʔám	lʔám			343	l ʔ á m
+1575	Maru	spear	Maru	345	lʔìntʔat	lʔìntʔat			343	l ʔ ì n t + ʔ a t
+1576	Proto-Burmish	spear	PB	345	lʔam¹ᵇ	lʔam¹ᵇ			343	l ʔ a m ¹ᵇ
+1577	Rangoon	spear	Spoken Burmese	345	hlán	hlán			343	h l á n
+1578	Akha	spirit	Akha	346	nɛ̀ʔ	nɛ̀ʔ	PB: Bu; PL: Ak		344	n ɛ̀ ʔ
+1579	Proto-Burmish	spirit	PB	346	nat	nat	PB: Bu; PL: Ak		344	n a t
+1580	Proto-Lolo	spirit	PL	346	neʔ¹	neʔ¹	PB: Bu; PL: Ak		344	n e ʔ ¹
+1581	Proto-Lolo-Burmese	spirit	PLB	346	nat¹	nat¹	PB: Bu; PL: Ak		344	n a t ¹
+1582	Rangoon	spirit	Spoken Burmese	346	naʔ	naʔ	PB: Bu; PL: Ak		344	n a ʔ
+1583	Atsi	split-1	Atsi	347	khoʔ	khoʔ	PB: Bu; PL: Ak		345	k h o ʔ
+1584	Maru	split-1	Maru	347	khóʔ	khóʔ	PB: Bu; PL: Ak		345	k h ó ʔ
+1585	Proto-Burmish	split-1	PB	347	khaʔ	khaʔ	PB: Bu; PL: Ak		345	k h a ʔ
+1586	Lisu	split-2	Lisu	348	khə̀	khə̀	PB: Bu; PL: Li		346	k h ə̀
+1587	Proto-Burmish	split-2	PB	348	khwe²	khwe²	PB: Bu; PL: Li		346	k h w e ²
+1588	Proto-Lolo	split-2	PL	348	k̯hə²	k̯hə²	PB: Bu; PL: Li		346	k̯ h ə ²
+1589	Proto-Lolo-Burmese	split-2	PLB	348	khwe²	khwe²	PB: Bu; PL: Li		346	k h w e ²
+1590	Rangoon	split-2	Spoken Burmese	348	khwê	khwê	PB: Bu; PL: Li		346	k h w ê
+1591	Lisu	squeeze	Lisu	349	chǔ̸	chǔ̸			347	c h ǔ̸
+1592	Proto-Lolo	squeeze	PL	349	chuʔ²	chuʔ²			347	c h u ʔ ²
+1593	Atsi	stab	Atsi	350	tháu	tháu			348	t h áu
+1594	Maru	stab	Maru	350	thúk	thúk			348	t h ú k
+1595	Proto-Burmish	stab	PB	350	tho²	tho²			348	t h o ²
+1596	Rangoon	stab	Spoken Burmese	350	thôu	thôu			348	t h ô u
+1597	Akha	stand (intrans.)	Akha	351	gɔ̀yɔ̀ʔyɔ̀ʔ	gɔ̀yɔ̀ʔyɔ̀ʔ	PL: Ak		349	g ɔ̀yɔ̀ + ʔ yɔ̀ ʔ
+1598	Atsi	stand (intrans.)	Atsi	351	yap	yap	PL: Ak		349	ya p
+1599	Maru	stand (intrans.)	Maru	351	yèʔ	yèʔ	PL: Ak		349	y è ʔ
+1600	Proto-Burmish	stand (intrans.)	PB	351	yap	yap	PL: Ak		349	ya p
+1601	Proto-Lolo	stand (intrans.)	PL	351	yap¹	yap¹	PL: Ak		349	ya p ¹
+1602	Proto-Lolo-Burmese	stand (intrans.)	PLB	351	yap¹	yap¹	PL: Ak		349	ya p ¹
+1603	Rangoon	stand (intrans.)	Spoken Burmese	351	yaʔ	yaʔ	PL: Ak		349	ya ʔ
+1604	Maru	stand (trans.-1)	Maru	352	tʔóyèʔ	tʔóyèʔ			350	t ʔ ó y è ʔ
+1605	Proto-Burmish	stand (trans.-1)	PB	352	tʔa³	tʔa³			350	t ʔ a ³
+1606	Rangoon	stand (trans.-1)	Spoken Burmese	352	thà	thà			350	t h à
+1607	Akha	stand (trans.-2)	Akha	353	tú	tú	Akha is intransitive		351	t ú
+1608	Lisu	stand (trans.-2)	Lisu	353	tû	tû	Akha is intransitive		351	t û
+1609	Proto-Lolo	stand (trans.-2)	PL	353	tu¹	tu¹	Akha is intransitive		351	t u ¹
+1610	Akha	steal (sneak)	Akha	354	xø̀	xø̀			352	x ø̀
+1611	Atsi	steal (sneak)	Atsi	354	kháu	kháu			352	k h áu
+1612	Lisu	steal (sneak)	Lisu	354	khù	khù			352	k h ù
+1613	Maru	steal (sneak)	Maru	354	khúk	khúk			352	k h ú k
+1614	Proto-Burmish	steal (sneak)	PB	354	kho²	kho²			352	k h o ²
+1615	Proto-Lolo	steal (sneak)	PL	354	kho²	kho²			352	k h o ²
+1616	Proto-Lolo-Burmese	steal (sneak)	PLB	354	kho²	kho²			352	k h o ²
+1617	Rangoon	steal (sneak)	Spoken Burmese	354	khôu	khôu			352	k h ô u
+1618	Akha	stick (cf. tree-3)	Akha	355	dákɔ̀	dákɔ̀			353	d á + k ɔ̀
+1619	Lisu	stick (cf. tree-3)	Lisu	355	sǐdā	sǐdā			353	s ǐ + d ā
+1620	Proto-Lolo	stick (cf. tree-3)	PL	355	da¹	da¹			353	d a ¹
+1621	Atsi	stomach (belly)	Atsi	356	vàm	vàm			354	v à m
+1622	Maru	stomach (belly)	Maru	356	wīntùʔ	wīntùʔ			354	w ī n + t ù ʔ
+1623	Proto-Burmish	stomach (belly)	PB	356	wam²	wam²			354	w a m ²
+1624	Rangoon	stomach (belly)	Spoken Burmese	356	wûn	wûn			354	w û n
+1625	Maru	stone	Maru	357	lòktsàŋ	lòktsàŋ	PB: C		355	l ò k + t s à ŋ
+1626	Proto-Burmish	stone	PB	357	klok	klok	PB: C		355	k l o k
+1627	Rangoon	stone	Spoken Burmese	357	cauʔ	cauʔ	PB: C		355	c au ʔ
+1628	Maru	stop up	Maru	358	tshúk	tshúk			356	t s + h ú k
+1629	Proto-Burmish	stop up	PB	358	tsho³	tsho³			356	t s + h o ³
+1630	Rangoon	stop up	Spoken Burmese	358	shòu	shòu			356	s h ò u
+1631	Atsi	straight	Atsi	359	tīŋtīŋ	tīŋtīŋ			357	t ī ŋ + t ī ŋ
+1632	Proto-Burmish	straight	PB	359	tiŋ³	tiŋ³			357	t i ŋ ³
+1633	Rangoon	straight	Spoken Burmese	359	tè	tè			357	t è
+1634	Atsi	strength	Atsi	360	vùm	vùm			358	v ù m
+1635	Maru	strength	Maru	360	γàm	γàm			358	 + γ à m
+1636	Proto-Burmish	strength	PB	360	γum²ᶜ	γum²ᶜ			358	 + γ u m ²ᶜ
+1637	Rangoon	strength	Spoken Burmese	360	yôun	yôun			358	y ô u n
+1638	Atsi	stump (of tree)	Atsi	361	ŋut	ŋut			359	ŋ u t
+1639	Proto-Burmish	stump (of tree)	PB	361	ŋut	ŋut			359	ŋ u t
+1640	Rangoon	stump (of tree)	Spoken Burmese	361	ŋouʔ	ŋouʔ			359	ŋ ou ʔ
+1641	Atsi	succeed	Atsi	362	ûŋ	ûŋ			360	û ŋ
+1642	Maru	succeed	Maru	362	òŋ	òŋ			360	ò ŋ
+1643	Proto-Burmish	succeed	PB	362	oŋ¹ᵃ	oŋ¹ᵃ			360	o ŋ ¹ᵃ
+1644	Rangoon	succeed	Spoken Burmese	362	áun	áun			360	áu n
+1645	Atsi	suckle-1	Atsi	363	suʔcʔup	suʔcʔup	Burmese: I		361	s u ʔ c + ʔ u p
+1646	Maru	suckle-1	Maru	363	cʔap	cʔap	Burmese: I		361	c ʔ a p
+1647	Proto-Burmish	suckle-1	PB	363	cʔup	cʔup	Burmese: I		361	c ʔ u p
+1648	Rangoon	suckle-1	Spoken Burmese	363	souʔ	souʔ	Burmese: I		361	s ou ʔ
+1649	Akha	suckle-2	Akha	364	cùʔ	cùʔ			362	c ù ʔ
+1650	Lisu	suckle-2	Lisu	364	chu̸ʔ	chu̸ʔ			362	c h u̸ ʔ
+1651	Proto-Lolo	suckle-2	PL	364	chuʔ¹	chuʔ¹			362	c h u ʔ ¹
+1652	Atsi	sugar (cf. sweet)	Atsi	365	tshòchùi	tshòchùi	PB: At; PL: Li	Atsi: Burling has tshɔ̀chùi which must be a typo for tshòchùi since there is no ɔ in Atsi	363	t s + h ò + c h ù i
+1653	Lisu	sugar (cf. sweet)	Lisu	365	tshàchū̸	tshàchū̸	PB: At; PL: Li	Atsi: Burling has tshɔ̀chùi which must be a typo for tshòchùi since there is no ɔ in Atsi	363	t s + h à + c h ū̸
+1654	Proto-Burmish	sugar (cf. sweet)	PB	365	tsha²	tsha²	PB: At; PL: Li	Atsi: Burling has tshɔ̀chùi which must be a typo for tshòchùi since there is no ɔ in Atsi	363	t s + h a ²
+1655	Proto-Lolo	sugar (cf. sweet)	PL	365	tsha²	tsha²	PB: At; PL: Li	Atsi: Burling has tshɔ̀chùi which must be a typo for tshòchùi since there is no ɔ in Atsi	363	t s + h a ²
+1656	Proto-Lolo-Burmese	sugar (cf. sweet)	PLB	365	tsha²	tsha²	PB: At; PL: Li	Atsi: Burling has tshɔ̀chùi which must be a typo for tshòchùi since there is no ɔ in Atsi	363	t s + h a ²
+1657	Maru	sugar cane	Maru	366	lōŋpàŋ	lōŋpàŋ	PB: CB		364	l ō ŋ + p à ŋ
+1658	Proto-Burmish	sugar cane	PB	366	klV¹ᵃ	klV¹ᵃ	PB: CB		364	k l V ¹ᵃ
+1659	Rangoon	sugar cane	Spoken Burmese	366	cán	cán	PB: CB		364	c á n
+1660	Atsi	sun	Atsi	367	pûi	pûi			365	p û i
+1661	Maru	sun	Maru	367	pà	pà			365	p à
+1662	Proto-Burmish	sun	PB	367	pwei¹ᵃ	pwei¹ᵃ			365	p w ei ¹ᵃ
+1663	Atsi	support	Atsi	368	thuʔ	thuʔ	Li: I		366	t h u ʔ
+1664	Lisu	support	Lisu	368	tɔ́ʔ	tɔ́ʔ	Li: I		366	t ɔ́ ʔ
+1665	Maru	support	Maru	368	thók	thók	Li: I		366	t h ó k
+1666	Proto-Burmish	support	PB	368	thok	thok	Li: I		366	t h o k
+1667	Rangoon	support	Spoken Burmese	368	thauʔ	thauʔ	Li: I		366	t h au ʔ
+1668	Atsi	swallow (verb)	Atsi	369	myũi	myũi	Maru: T		367	m yũi
+1669	Maru	swallow (verb)	Maru	369	myúk	myúk	Maru: T		367	m yú k
+1670	Proto-Burmish	swallow (verb)	PB	369	myo¹ᵃ	myo¹ᵃ	Maru: T		367	m yo ¹ᵃ
+1671	Rangoon	swallow (verb)	Spoken Burmese	369	myóu	myóu	Maru: T		367	m y ó u
+1672	Akha	sweet	Akha	370	cǿ	cǿ	Atsi: F		368	c ǿ
+1673	Atsi	sweet	Atsi	370	chúi	chúi	Atsi: F		368	c h úi
+1674	Lisu	sweet	Lisu	370	chū̸	chū̸	Atsi: F		368	c h ū̸
+1675	Maru	sweet	Maru	370	chùk	chùk	Atsi: F		368	c h ù k
+1676	Proto-Burmish	sweet	PB	370	cho¹ᵇ	cho¹ᵇ	Atsi: F		368	c h o ¹ᵇ
+1677	Proto-Lolo	sweet	PL	370	cho¹	cho¹	Atsi: F		368	c h o ¹
+1678	Proto-Lolo-Burmese	sweet	PLB	370	cho¹ᵇ	cho¹ᵇ	Atsi: F		368	c h o ¹ᵇ
+1679	Rangoon	sweet	Spoken Burmese	370	chóu	chóu	Atsi: F		368	c h ó u
+1680	Atsi	swell up	Atsi	371	vám	vám	BSB:FT		369	v á m
+1681	Maru	swell up	Maru	371	γín	γín	BSB:FT		369	 + γ í n
+1682	Proto-Burmish	swell up	PB	371	γam²	γam²	BSB:FT		369	 + γ a m ²
+1683	Rangoon	swell up	Spoken Burmese	371	yáun	yáun	BSB:FT		369	yáu n
+1684	Atsi	tail-1	Atsi	372	šòmyì	šòmyì			370	š ò + m y ì
+1685	Maru	tail-1	Maru	372	šămī	šămī			370	š ă + m ī
+1686	Proto-Burmish	tail-1	PB	372	mi²	mi²			370	m i ²
+1687	Rangoon	tail-1	Spoken Burmese	372	ămî	ămî			370	ă + m î
+1688	Akha	tail-2	Akha	373	dɔ̀mì	dɔ̀mì			371	d ɔ̀ + m ì
+1689	Lisu	tail-2	Lisu	373	mə́	mə́			371	m ə́
+1690	Proto-Lolo	tail-2	PL	373	mʔi²	mʔi²			371	m ʔ i ²
+1691	Akha	take	Akha	374	yú	yú			372	yú
+1692	Atsi	take	Atsi	374	yû	yû			372	y û
+1693	Lisu	take	Lisu	374	řū	řū			372	ř ū
+1694	Maru	take	Maru	374	yù	yù			372	y ù
+1695	Proto-Burmish	take	PB	374	yu¹ᵃ	yu¹ᵃ			372	yu ¹ᵃ
+1696	Proto-Lolo	take	PL	374	yu¹	yu¹			372	yu ¹
+1697	Proto-Lolo-Burmese	take	PLB	374	yu¹ᵃ	yu¹ᵃ			372	yu ¹ᵃ
+1698	Rangoon	take	Spoken Burmese	374	yú	yú			372	yú
+1699	Atsi	tea (leaf)	Atsi	375	lăphoʔ	lăphoʔ			373	l ă + p h o ʔ
+1700	Proto-Burmish	tea (leaf)	PB	375	phaʔ	phaʔ			373	p h a ʔ
+1701	Rangoon	tea (leaf)	Spoken Burmese	375	leʔpheʔ	leʔpheʔ			373	l e ʔ + p h e ʔ
+1702	Akha	teach	Akha	376	mɛ̀	mɛ̀	Akha: F		374	m ɛ̀
+1703	Lisu	teach	Lisu	376	má	má	Akha: F		374	m á
+1704	Proto-Lolo	teach	PL	376	mʔa²	mʔa²	Akha: F		374	m ʔ a ²
+1705	Atsi	tear (verb)	Atsi	377	cheʔ	cheʔ	Atsi: F		375	c h e ʔ
+1706	Maru	tear (verb)	Maru	377	láchát	láchát	Atsi: F		375	l á + c h á t
+1707	Proto-Burmish	tear (verb)	PB	377	thlutC	thlutC	Atsi: F		375	t h l u t C
+1708	Rangoon	tear (verb)	Spoken Burmese	377	shouʔ	shouʔ	Atsi: F		375	s h ou ʔ
+1709	Akha	ten	Akha	378	tsé	tsé		Akha tśe is presumably a typo for tsé; corrected here	376	t s é
+1710	Atsi	ten	Atsi	378	tshé	tshé		Akha tśe is presumably a typo for tsé; corrected here	376	t s + h é
+1711	Lisu	ten	Lisu	378	tshi	tshi		Akha tśe is presumably a typo for tsé; corrected here	376	t s + h i
+1712	Maru	ten	Maru	378	tshè	tshè		Akha tśe is presumably a typo for tsé; corrected here	376	t s + h è
+1713	Proto-Burmish	ten	PB	378	tshe¹ᵇ	tshe¹ᵇ		Akha tśe is presumably a typo for tsé; corrected here	376	t s + h e ¹ᵇ
+1714	Proto-Lolo	ten	PL	378	tshe¹	tshe¹		Akha tśe is presumably a typo for tsé; corrected here	376	t s + h e ¹
+1715	Proto-Lolo-Burmese	ten	PLB	378	tshe¹ᵇ	tshe¹ᵇ		Akha tśe is presumably a typo for tsé; corrected here	376	t s + h e ¹ᵇ
+1716	Rangoon	ten	Spoken Burmese	378	shé	shé		Akha tśe is presumably a typo for tsé; corrected here	376	s h é
+1717	Atsi	tender, soft-1	Atsi	379	ănū	ănū		cf. tender-2	377	ă + n ū
+1718	Proto-Burmish	tender, soft-1	PB	379	nu³	nu³		cf. tender-2	377	n u ³
+1719	Rangoon	tender, soft-1	Spoken Burmese	379	nù	nù		cf. tender-2	377	n ù
+1720	Lisu	tender-2	Lisu	380	nù	nù		cf. tender-1	378	n ù
+1721	Proto-Lolo	tender-2	PL	380	nu²	nu²		cf. tender-1	378	n u ²
+1722	Akha	thick	Akha	381	tú	tú			379	t ú
+1723	Atsi	thick	Atsi	381	thû	thû			379	t h û
+1724	Lisu	thick	Lisu	381	thū	thū			379	t h ū
+1725	Maru	thick	Maru	381	thàu	thàu			379	t h à u
+1726	Proto-Burmish	thick	PB	381	thu¹ᵃ	thu¹ᵃ			379	t h u ¹ᵃ
+1727	Proto-Lolo	thick	PL	381	thu¹	thu¹			379	t h u ¹
+1728	Proto-Lolo-Burmese	thick	PLB	381	thu¹ᵃ	thu¹ᵃ			379	t h u ¹ᵃ
+1729	Rangoon	thick	Spoken Burmese	381	thú	thú			379	t h ú
+1730	Akha	thin	Akha	382	bà	bà	PB: B		380	b à
+1731	Lisu	thin	Lisu	382	bà	bà	PB: B		380	b à
+1732	Maru	thin	Maru	382	pʔō	pʔō	PB: B		380	p ʔ ō
+1733	Proto-Burmish	thin	PB	382	pa²	pa²	PB: B		380	p a ²
+1734	Proto-Lolo	thin	PL	382	ba²	ba²	PB: B		380	b a ²
+1735	Proto-Lolo-Burmese	thin	PLB	382	pa²	pa²	PB: B		380	p a ²
+1736	Rangoon	thin	Spoken Burmese	382	pâ	pâ	PB: B		380	p â
+1737	Atsi	think	Atsi	383	tháŋ	tháŋ			381	t h á ŋ
+1738	Proto-Burmish	think	PB	383	thaŋ¹ᵇ	thaŋ¹ᵇ			381	t h a ŋ ¹ᵇ
+1739	Rangoon	think	Spoken Burmese	383	thín	thín			381	t h í n
+1740	Maru	this	Maru	384	chè	chè	PB: Ma; PL: La		382	c h è
+1741	Proto-Burmish	this	PB	384	che¹	che¹	PB: Ma; PL: La		382	c h e ¹
+1742	Proto-Lolo	this	PL	384	che¹	che¹	PB: Ma; PL: La		382	c h e ¹
+1743	Proto-Lolo-Burmese	this	PLB	384	che¹	che¹	PB: Ma; PL: La		382	c h e ¹
+1744	Atsi	thorn-1	Atsi	385	tsù	tsù			383	t s ù
+1745	Maru	thorn-1	Maru	385	tsàu	tsàu			383	t s à u
+1746	Proto-Burmish	thorn-1	PB	385	tsu²ᶜ	tsu²ᶜ			383	t s u ²ᶜ
+1747	Rangoon	thorn-1	Spoken Burmese	385	sû	sû			383	s û
+1748	Lisu	thorn-2	Lisu	386	tshù	tshù			384	t s + h ù
+1749	Proto-Lolo	thorn-2	PL	386	tshu²	tshu²			384	t s + h u ²
+1750	Akha	thou	Akha	387	nɔ́	nɔ́	Lisu: F		385	n ɔ́
+1751	Atsi	thou	Atsi	387	nâŋ	nâŋ	Lisu: F		385	n â ŋ
+1752	Lisu	thou	Lisu	387	nū	nū	Lisu: F		385	n ū
+1753	Maru	thou	Maru	387	nà	nà	Lisu: F		385	n à
+1754	Proto-Burmish	thou	PB	387	naŋ¹ᵃ	naŋ¹ᵃ	Lisu: F		385	n a ŋ ¹ᵃ
+1755	Proto-Lolo	thou	PL	387	nɔ¹	nɔ¹	Lisu: F		385	n ɔ ¹
+1756	Proto-Lolo-Burmese	thou	PLB	387	naŋ¹ᵃ	naŋ¹ᵃ	Lisu: F		385	n a ŋ ¹ᵃ
+1757	Rangoon	thou	Spoken Burmese	387	nín	nín	Lisu: F		385	n í n
+1758	Akha	three	Akha	388	sm̀	sm̀	PL: Ak		386	s m̀
+1759	Atsi	three	Atsi	388	súm	súm	PL: Ak		386	s ú m
+1760	Maru	three	Maru	388	sàm	sàm	PL: Ak		386	s à m
+1761	Proto-Burmish	three	PB	388	sum²ᶜ	sum²ᶜ	PL: Ak		386	s u m ²ᶜ
+1762	Proto-Lolo	three	PL	388	sum²	sum²	PL: Ak		386	s u m ²
+1763	Proto-Lolo-Burmese	three	PLB	388	sum²ᶜ	sum²ᶜ	PL: Ak		386	s u m ²ᶜ
+1764	Rangoon	three	Spoken Burmese	388	θôun	θôun	PL: Ak		386	θ ô u n
+1765	Atsi	throat	Atsi	389	khyùŋ	khyùŋ			387	k h y ù ŋ
+1766	Maru	throat	Maru	389	khyōŋ	khyōŋ			387	k h y ō ŋ
+1767	Proto-Burmish	throat	PB	389	khyoŋ²	khyoŋ²			387	k h yo ŋ ²
+1768	Rangoon	throat	Spoken Burmese	389	châun	châun			387	c h â u n
+1769	Akha	tiger	Akha	390	là	là	PLB, PB: C; Lisu: T		388	l à
+1770	Atsi	tiger	Atsi	390	lò	lò	PLB, PB: C; Lisu: T		388	l ò
+1771	Lisu	tiger	Lisu	390	laʔmâ	laʔmâ	PLB, PB: C; Lisu: T		388	l a + ʔ m â
+1772	Proto-Burmish	tiger	PB	390	kla²	kla²	PLB, PB: C; Lisu: T		388	k l a ²
+1773	Proto-Lolo	tiger	PL	390	la²	la²	PLB, PB: C; Lisu: T		388	l a ²
+1774	Proto-Lolo-Burmese	tiger	PLB	390	kla²	kla²	PLB, PB: C; Lisu: T		388	k l a ²
+1775	Rangoon	tiger	Spoken Burmese	390	câ	câ	PLB, PB: C; Lisu: T		388	c â
+1776	Akha	tongue	Akha	391	mɛ̀lá	mɛ̀lá	PLB, PB: C		389	m ɛ̀ + l á
+1777	Atsi	tongue	Atsi	391	šó	šó	PLB, PB: C		389	š ó
+1778	Lisu	tongue	Lisu	391	lāchø̄	lāchø̄	PLB, PB: C		389	l ā + c h ø̄
+1779	Maru	tongue	Maru	391	šò	šò	PLB, PB: C		389	š ò
+1780	Proto-Burmish	tongue	PB	391	sla¹ᵇ	sla¹ᵇ	PLB, PB: C		389	s l a ¹ᵇ
+1781	Proto-Lolo	tongue	PL	391	la¹	la¹	PLB, PB: C		389	l a ¹
+1782	Proto-Lolo-Burmese	tongue	PLB	391	sla¹ᵇ	sla¹ᵇ	PLB, PB: C		389	s l a ¹ᵇ
+1783	Rangoon	tongue	Spoken Burmese	391	šá	šá	PLB, PB: C		389	š á
+1784	Atsi	tooth	Atsi	392	tsûi	tsûi			390	t s û i
+1785	Maru	tooth	Maru	392	tsòi	tsòi			390	t s ò i
+1786	Proto-Burmish	tooth	PB	392	tswe¹ᵃ	tswe¹ᵃ			390	t s w e ¹ᵃ
+1787	Rangoon	tooth	Spoken Burmese	392	swé	swé			390	s w é
+1788	Akha	touch	Akha	393	tø̀	tø̀			391	t ø̀
+1789	Proto-Lolo	touch	PL	393	tho²	tho²			391	t h o ²
+1790	Akha	tread upon	Akha	394	nɔ̀	nɔ̀	PL: Ak		392	n ɔ̀
+1791	Atsi	tread upon	Atsi	394	náŋ	náŋ	PL: Ak		392	n á ŋ
+1792	Proto-Burmish	tread upon	PB	394	naŋ²	naŋ²	PL: Ak		392	n a ŋ ²
+1793	Proto-Lolo	tread upon	PL	394	nɔ²	nɔ²	PL: Ak		392	n ɔ ²
+1794	Proto-Lolo-Burmese	tread upon	PLB	394	naŋ²	naŋ²	PL: Ak		392	n a ŋ ²
+1795	Rangoon	tread upon	Spoken Burmese	394	nîn	nîn	PL: Ak		392	n î n
+1796	Atsi	tree-1	Atsi	395	sikhâm	sikhâm			393	s i + k h â m
+1797	Maru	tree-1	Maru	395	sáktsàŋ	sáktsàŋ			393	s á k + t s à ŋ
+1798	Proto-Burmish	tree-1	PB	395	sik	sik			393	s i k
+1799	Rangoon	tree-1	Spoken Burmese	395	θiʔ	θiʔ			393	θ i ʔ
+1800	Akha	tree-2	Akha	396	ábɔ́	ábɔ́	PB: Bu; PL: Ak		394	á + b ɔ́
+1801	Proto-Burmish	tree-2	PB	396	paŋ¹	paŋ¹	PB: Bu; PL: Ak		394	p a ŋ ¹
+1802	Proto-Lolo	tree-2	PL	396	bɔ¹	bɔ¹	PB: Bu; PL: Ak		394	b ɔ ¹
+1803	Proto-Lolo-Burmese	tree-2	PLB	396	paŋ¹	paŋ¹	PB: Bu; PL: Ak		394	p a ŋ ¹
+1804	Rangoon	tree-2	Spoken Burmese	396	pín	pín	PB: Bu; PL: Ak		394	p í n
+1805	Lisu	tree-3	Lisu	397	sǐ	sǐ			395	s ǐ
+1806	Proto-Lolo	tree-3	PL	397	suʔ²	suʔ²			395	s u ʔ ²
+1807	Atsi	turban (cf. head)	Atsi	398	ùthup	ùthup	Burmese: FT		396	ù + t h u p
+1808	Maru	turban (cf. head)	Maru	398	āutháp	āutháp	Burmese: FT		396	ā u + t h á p
+1809	Proto-Burmish	turban (cf. head)	PB	398	thup	thup	Burmese: FT		396	t h u p
+1810	Rangoon	turban (cf. head)	Spoken Burmese	398	thôun	thôun	Burmese: FT		396	t h ô u n
+1811	Akha	two	Akha	399	nyì	nyì			397	n y ì
+1812	Lisu	two	Lisu	399	nyì	nyì			397	n y ì
+1813	Proto-Lolo	two	PL	399	nyi²	nyi²			397	n yi ²
+1814	Atsi	undress	Atsi	400	khyut	khyut			398	k h yu t
+1815	Maru	undress	Maru	400	khyátkhyó	khyátkhyó			398	k h yá t + k h y ó
+1816	Proto-Burmish	undress	PB	400	khyut	khyut			398	k h yu t
+1817	Rangoon	undress	Spoken Burmese	400	chuʔ	chuʔ			398	c h u ʔ
+1818	Akha	untie	Akha	401	pí̸	pí̸	Maru: Y		399	p í̸
+1819	Atsi	untie	Atsi	401	phyî	phyî	Maru: Y		399	p h y î
+1820	Lisu	untie	Lisu	401	phə̄	phə̄	Maru: Y		399	p h ə̄
+1821	Maru	untie	Maru	401	phùm	phùm	Maru: Y		399	p h ù m
+1822	Proto-Burmish	untie	PB	401	phyei¹ᵃ	phyei¹ᵃ	Maru: Y		399	p h yei ¹ᵃ
+1823	Proto-Lolo	untie	PL	401	phə¹	phə¹	Maru: Y		399	p h ə ¹
+1824	Proto-Lolo-Burmese	untie	PLB	401	phyə¹ᵃ	phyə¹ᵃ	Maru: Y		399	p h yə ¹ᵃ
+1825	Rangoon	untie	Spoken Burmese	401	phyéi	phyéi	Maru: Y		399	p h y é i
+1826	Atsi	voice	Atsi	402	khyùŋ	khyùŋ	PB: At; PL: La		400	k h y ù ŋ
+1827	Proto-Burmish	voice	PB	402	khyoŋ²	khyoŋ²	PB: At; PL: La		400	k h yo ŋ ²
+1828	Proto-Lolo	voice	PL	402	k̯hoŋ²	k̯hoŋ²	PB: At; PL: La		400	k̯ h o ŋ ²
+1829	Proto-Lolo-Burmese	voice	PLB	402	khyoŋ²	khyoŋ²	PB: At; PL: La		400	k h yo ŋ ²
+1830	Atsi	vomit	Atsi	403	phat	phat	PB: At; PL: La; Lisu: IT		401	p h a t
+1831	Lisu	vomit	Lisu	403	peʔ	peʔ	PB: At; PL: La; Lisu: IT		401	p e ʔ
+1832	Proto-Burmish	vomit	PB	403	phat	phat	PB: At; PL: La; Lisu: IT		401	p h a t
+1833	Proto-Lolo	vomit	PL	403	pheʔ²	pheʔ²	PB: At; PL: La; Lisu: IT		401	p h e ʔ ²
+1834	Proto-Lolo-Burmese	vomit	PLB	403	phat²	phat²	PB: At; PL: La; Lisu: IT		401	p h a t ²
+1835	Atsi	vulva	Atsi	404	cuʔ	cuʔ	PB: C		402	c u ʔ
+1836	Maru	vulva	Maru	404	còk	còk	PB: C		402	c ò k
+1837	Proto-Burmish	vulva	PB	404	tlok	tlok	PB: C		402	t l o k
+1838	Rangoon	vulva	Spoken Burmese	404	sauʔ	sauʔ	PB: C		402	s au ʔ
+1839	Akha	waist	Akha	405	jòʔ	jòʔ			403	j ò ʔ
+1840	Proto-Lolo	waist	PL	405	joʔ¹	joʔ¹			403	j o ʔ ¹
+1841	Atsi	walk	Atsi	406	só	só			404	s ó
+1842	Maru	walk	Maru	406	sū	sū			404	s ū
+1843	Proto-Burmish	walk	PB	406	swa²	swa²			404	s w a ²
+1844	Maru	wall	Maru	407	khìnγìn	khìnγìn	BSB: 'surround'		405	k h ì n + γ ì n
+1845	Proto-Burmish	wall	PB	407	γam¹ᵃ	γam¹ᵃ	BSB: 'surround'		405	 + γ a m ¹ᵃ
+1846	Rangoon	wall	Spoken Burmese	407	yán	yán	BSB: 'surround'		405	yá n
+1847	Atsi	wash	Atsi	408	chí	chí	PB: C		406	c h í
+1848	Maru	wash	Maru	408	chít	chít	PB: C		406	c h í t
+1849	Proto-Burmish	wash	PB	408	thlei²	thlei²	PB: C		406	t h l ei ²
+1850	Rangoon	wash	Spoken Burmese	408	shêi	shêi	PB: C		406	s h ê i
+1851	Atsi	water	Atsi	409	vûi	vûi			407	v û i
+1852	Maru	water	Maru	409	γit	γit			407	 + γ i t
+1853	Proto-Burmish	water	PB	409	γei¹ᵃ	γei¹ᵃ			407	 + γ ei ¹ᵃ
+1854	Rangoon	water	Spoken Burmese	409	yéi	yéi			407	y é i
+1855	Atsi	wear	Atsi	410	vut	vut	PB: At; BSB: F; PL: Lahu		408	v u t
+1856	Proto-Burmish	wear	PB	410	wut	wut	PB: At; BSB: F; PL: Lahu		408	w u t
+1857	Proto-Lolo	wear	PL	410	wut¹	wut¹	PB: At; BSB: F; PL: Lahu		408	w u t ¹
+1858	Proto-Lolo-Burmese	wear	PLB	410	wut¹	wut¹	PB: At; BSB: F; PL: Lahu		408	w u t ¹
+1859	Rangoon	wear	Spoken Burmese	410	wuʔ	wuʔ	PB: At; BSB: F; PL: Lahu		408	w u ʔ
+1860	Lisu	weave	Lisu	411	chù̸	chù̸			409	c h ù̸
+1861	Proto-Lolo	weave	PL	411	chi²	chi²			409	c h i ²
+1890	Atsi	white	Atsi	419	phyû	phyû			417	p h y û
+1891	Lisu	white	Lisu	419	phū	phū			417	p h ū
+1892	Maru	white	Maru	419	ăphyù	ăphyù			417	ă + p h y ù
+1893	Proto-Burmish	white	PB	419	phyu¹ᵃ	phyu¹ᵃ			417	p h yu ¹ᵃ
+1894	Proto-Lolo	white	PL	419	phu¹	phu¹			417	p h u ¹
+1895	Proto-Lolo-Burmese	white	PLB	419	phyu¹ᵃ	phyu¹ᵃ			417	p h yu ¹ᵃ
+1896	Rangoon	white	Spoken Burmese	419	phyú	phyú			417	p h yú
+1897	Atsi	widower	Atsi	420	chúpháu	chúpháu			418	c h ú + p h áu
+1898	Maru	widower	Maru	420	chúkphùk	chúkphùk			418	c h ú k + p h ù k
+1899	Proto-Burmish	widower	PB	420	pho¹ᵇ	pho¹ᵇ			418	p h o ¹ᵇ
+1900	Rangoon	widower	Spoken Burmese	420	mouʔshôuphóu	mouʔshôuphóu			418	m ou + ʔ s + h ô u + p h ó u
+1901	Atsi	wife	Atsi	421	myì	myì			419	m y ì
+1902	Maru	wife	Maru	421	mī	mī			419	m ī
+1903	Proto-Burmish	wife	PB	421	mi²	mi²			419	m i ²
+1904	Lisu	wife's sibling	Lisu	422	řɔ̀phà	řɔ̀phà			420	ř ɔ̀ + p h à
+1905	Proto-Lolo	wife's sibling	PL	422	pha²	pha²			420	p h a ²
+1906	Atsi	wind - air	Atsi	423	lâi	lâi			421	l â i
+1907	Maru	wind - air	Maru	423	làhúk	làhúk			421	l à + h ú k
+1908	Proto-Burmish	wind - air	PB	423	lei¹ᵃ	lei¹ᵃ			421	l ei ¹ᵃ
+1909	Rangoon	wind - air	Spoken Burmese	423	léi	léi			421	l é i
+1910	Akha	wing	Akha	424	àdɔ́n	àdɔ́n			422	à + d ɔ́ n
+1911	Atsi	wing	Atsi	424	tûŋ	tûŋ			422	t û ŋ
+1912	Lisu	wing	Lisu	424	dūlæʔ	dūlæʔ			422	d ū + l æ ʔ
+1913	Maru	wing	Maru	424	tòŋ	tòŋ			422	t ò ŋ
+1914	Proto-Burmish	wing	PB	424	toŋ¹ᵃ	toŋ¹ᵃ			422	t o ŋ ¹ᵃ
+1915	Proto-Lolo	wing	PL	424	doŋ¹	doŋ¹			422	d o ŋ ¹
+1916	Proto-Lolo-Burmese	wing	PLB	424	toŋ¹ᵃ	toŋ¹ᵃ			422	t o ŋ ¹ᵃ
+1917	Rangoon	wing	Spoken Burmese	424	ătáun	ătáun			422	ă + t áu n
+1862	Atsi	wipe	Atsi	412	sut	sut			410	s u t
+1863	Proto-Burmish	wipe	PB	412	sut	sut			410	s u t
+1864	Rangoon	wipe	Spoken Burmese	412	θouʔ	θouʔ			410	θ ou ʔ
+1865	Akha	woman	Akha	413	zàmìzà	zàmìzà	PL: cf. 'child'		411	z à + m ì + z à
+1866	Atsi	woman	Atsi	413	myìvè	myìvè	PL: cf. 'child'		411	m y ì + v è
+1867	Lisu	woman	Lisu	413	řàmə̀řà	řàmə̀řà	PL: cf. 'child'		411	ř à + m ə̀ + ř à
+1868	Maru	woman	Maru	413	myìγē	myìγē	PL: cf. 'child'		411	m y ì + γ ē
+1869	Proto-Burmish	woman	PB	413	myi²ᶜγe²	myi²ᶜγe²	PL: cf. 'child'		411	m yi ²ᶜ + γ e ²
+1870	Proto-Lolo	woman	PL	413	ya²mi²	ya²mi²	PL: cf. 'child'		411	ya ² + m i ²
+1871	Proto-Lolo-Burmese	woman	PLB	413	myi²ᶜ	myi²ᶜ	PL: cf. 'child'		411	m yi ²ᶜ
+1872	Akha	word	Akha	414	tìdɔ̀	tìdɔ̀	PB: Ma; PL: Akha		412	t ì + d ɔ̀
+1873	Maru	word	Maru	414	tā	tā	PB: Ma; PL: Akha		412	t ā
+1874	Proto-Burmish	word	PB	414	taŋ²	taŋ²	PB: Ma; PL: Akha		412	t a ŋ ²
+1875	Proto-Lolo	word	PL	414	dɔ²	dɔ²	PB: Ma; PL: Akha		412	d ɔ ²
+1876	Proto-Lolo-Burmese	word	PLB	414	taŋ²	taŋ²	PB: Ma; PL: Akha		412	t a ŋ ²
+1877	Akha	worm	Akha	415	búdé	búdé			413	b ú + d é
+1878	Lisu	worm	Lisu	415	ŋwánábìdi	ŋwánábìdi			413	ŋ w á + n á + b ì + d i
+1879	Proto-Lolo	worm	PL	415	de¹	de¹			413	d e ¹
+1880	Atsi	yam	Atsi	416	mʔyuʔ	mʔyuʔ	BSB: A		414	m ʔ yu ʔ
+1881	Maru	yam	Maru	416	mʔyok	mʔyok	BSB: A		414	m ʔ yo k
+1882	Proto-Burmish	yam	PB	416	mʔyok	mʔyok	BSB: A		414	m ʔ yo k
+1883	Rangoon	yam	Spoken Burmese	416	myauʔ	myauʔ	BSB: A		414	m yau ʔ
+1884	Atsi	year	Atsi	417	tsân	tsân			415	t s â n
+1885	Maru	year	Maru	417	tsìn	tsìn			415	t s ì n
+1886	Proto-Burmish	year	PB	417	tsan¹ᵃ	tsan¹ᵃ			415	t s a n ¹ᵃ
+1887	Akha	year (classifier)	Akha	418	xɔ̀ʔ	xɔ̀ʔ			416	x ɔ̀ ʔ
+1888	Lisu	year (classifier)	Lisu	418	khoʔ	khoʔ			416	k h o ʔ
+1889	Proto-Lolo	year (classifier)	PL	418	ḳhoʔ¹	ḳhoʔ¹			416	ḳ h o ʔ ¹

@@ -1,0 +1,602 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
+1	above	1741	ABOVE	2
+2	alive	1422	BE ALIVE	2
+#<<<				
+3	animal (classifier)	619	ANIMAL	4
+3	animal (classifier)	2096	ANIMAL OR MEAT	4
+#>>>				
+4	answer-1		???	
+5	answer-2		???	
+6	ant	587	ANT	2
+7	ant (flying)	587	ANT	4
+8	antelope		???	
+9	anvil	1648	ANVIL	2
+10	arrow	977	ARROW	2
+11	ascend	705	GO UP (ASCEND)	2
+12	ashamed	1894	ASHAMED	2
+13	ashes	646	ASH	2
+14	ask for	1828	ASK (REQUEST)	2
+#<<<				
+15	ask, question	1309	ASK (INQUIRE)	4
+15	ask, question	1828	ASK (REQUEST)	4
+#>>>				
+16	attach		???	
+17	aunt	1272	AUNT	2
+18	awake	825	AWAKE	2
+19	awaken	825	AWAKE	2
+20	bamboo	1927	BAMBOO	2
+21	bamboo shoots	2494	BAMBOO SHOOT	4
+22	bamboo ties		???	
+23	banyan	346	BANYAN	2
+#<<<				
+24	bark (cf. tree)	1204	BARK	4
+24	bark (cf. tree)	1206	BARKING	4
+24	bark (cf. tree)	2127	BARK OR SKIN	4
+#>>>				
+25	beads	1860	BEAD	4
+26	beans	832	BEAN	2
+27	bear	1820	BEAR	2
+28	bee	665	BEE	2
+29	behind	1686	BEHIND	2
+#<<<				
+30	below	1485	BELOW OR UNDER	2
+30	below	2094	DOWN OR BELOW	2
+#>>>				
+31	bet		???	
+32	between	689	BETWEEN	2
+33	big	1202	BIG	2
+34	bird	937	BIRD	2
+35	bitter	887	BITTER	2
+36	black	163	BLACK	2
+37	blood	946	BLOOD	2
+#<<<				
+38	blow (with mouth)	175	BLOW (OF WIND)	4
+38	blow (with mouth)	176	BLOW (WITH MOUTH)	4
+#>>>				
+39	blunt	379	BLUNT	2
+40	boat	1844	BOAT	2
+41	boil	2493	BOIL	2
+42	bone	1394	BONE	2
+43	born	1090	BE BORN	2
+44	borrow-1		???	
+45	borrow-2		???	
+46	brains	1583	BRAIN	2
+47	branch	1531	BRANCH	2
+48	brave	3	BRAVE	2
+49	break	680	BREAK (DESTROY OR GET DESTROYED)	2
+#<<<				
+50	breast	1402	BREAST	2
+50	breast	1592	CHEST	2
+#>>>				
+51	breathe	1407	BREATHE	2
+52	bridge	1011	BRIDGE	2
+53	buffalo (water)	934	BUFFALO	4
+54	build	1840	BUILD	2
+55	buy	1869	BUY	2
+56	call	1084	CALL	2
+57	carry on back	465	CARRY ON BACK	2
+58	carry on shoulder	413	CARRY ON SHOULDER	4
+59	cat	1208	CAT	2
+#<<<				
+60	cattle (cow)	1153	CATTLE	4
+60	cattle (cow)	631	LIVESTOCK	4
+#>>>				
+61	chaff	2363	CHAFF (HUSK)	4
+62	change	1264	CHANGE	2
+63	chest (body part)	1592	CHEST	2
+#<<<				
+64	child, young	2099	CHILD	4
+64	child, young	1304	CHILD (YOUNG HUMAN)	4
+64	child, young	1207	YOUNG	4
+64	child, young	1801	CHILD (DESCENDANT)	4
+64	child, young	2391	BOY OR SON	4
+64	child, young	564	YOUNG (OF MAN)	4
+64	child, young	563	YOUNG (OF WOMAN)	4
+#>>>				
+65	chili	919	CHILI PEPPER	2
+66	chin	1510	CHIN	2
+#<<<				
+67	city	1391	TOWN	4
+67	city	2547	CITY	4
+#>>>				
+68	clench fist		???	
+69	cloth	1616	CLOTH	2
+#<<<				
+70	cold (personally)	1287	COLD	4
+70	cold (personally)	2483	COLD (OF WEATHER)	4
+70	cold (personally)	102	COMMON COLD (DISEASE)	4
+#>>>				
+71	come	1446	COME	2
+72	come out-1 (emerge)		???	
+73	come out-2		???	
+74	copper	1825	COPPER	4
+75	copulate	549	COPULATE	2
+76	cough	879	COUGH	2
+77	creeper		???	
+78	crooked	297	CROOKED	2
+79	cross (as water) (verb)	1367	CROSS	4
+80	crossbow-1		???	
+81	crossbow-2		???	
+#<<<				
+82	cry (sob)	1839	CRY	4
+82	cry (sob)	715	SHOUT	4
+#>>>				
+83	cubit		???	
+84	cucumber	496	CUCUMBER	2
+85	cup	476	CUP	2
+86	dam		???	
+87	dance	1879	DANCE	2
+#<<<				
+88	day (24 hours)	1225	DAY (NOT NIGHT)	4
+88	day (24 hours)	1283	TODAY	4
+88	day (24 hours)	1260	DAY (24 HOURS)	4
+88	day (24 hours)	2140	DAY OR SUN	4
+#>>>				
+89	deaf	996	DEAF	2
+#<<<				
+90	deer (sambhur)	1936	DEER	4
+90	deer (sambhur)	2456	LARGE WILD HERBIVORE	4
+#>>>				
+#<<<				
+91	deer (barking)	1936	DEER	4
+91	deer (barking)	2456	LARGE WILD HERBIVORE	4
+#>>>				
+92	destroy	681	DESTROY	2
+93	die	1494	DIE	2
+94	difficult	584	DIFFICULT	2
+95	dig	1418	DIG	2
+96	disappear (lost)	485	DISAPPEAR	4
+97	dog	2009	DOG	2
+98	dove	1853	DOVE	2
+99	draw water	1911	DRAW (WATER)	2
+#<<<				
+100	dream (cf. sleep)	1920	DREAM (SOMETHING)	4
+100	dream (cf. sleep)	2374	DREAM	4
+100	dream (cf. sleep)	2455	DREAMING OR DREAM	4
+#>>>				
+101	drink-1		???	
+102	drink-2		???	
+103	drum	908	DRUM	2
+104	drunk (intoxicated)	1463	DRUNK	4
+105	dry	1398	DRY	2
+106	dry up	1786	DRY UP	2
+107	dung-1		???	
+108	dung-2		???	
+109	dusk (cf. sky)	2297	DUSK	4
+110	dwell	363	DWELL (LIVE, RESIDE)	2
+111	dye (vb.)	157	DYE	2
+112	ear-1		???	
+113	ear-2	1247	EAR	4
+114	earth-1		???	
+115	earth-2		???	
+116	easy-1		???	
+117	easy-2		???	
+118	eat	1336	EAT	2
+#<<<				
+119	egg (cf. fowl)	744	EGG	4
+119	egg (cf. fowl)	714	SEED	4
+#>>>				
+120	eight-1		???	
+121	eight-2		???	
+122	elephant	1290	ELEPHANT	2
+123	embrace	928	EMBRACE	2
+124	empty	1624	EMPTY	2
+125	enclose		???	
+#<<<				
+126	endure	1186	LAST (ENDURE)	4
+126	endure	833	ENDURE	4
+#>>>				
+127	enough	1881	ENOUGH	2
+128	enter	749	ENTER	2
+129	eye	1248	EYE	2
+130	fall	1280	FALL	2
+131	far	1406	FAR	2
+#<<<				
+132	fat	323	FAT (ORGANIC SUBSTANCE)	2
+132	fat	1279	FAT (OBESE)	2
+132	fat	1282	FAT (FROM ANIMALS)	2
+132	fat	2449	FAT (OF MEAT AND FOOD)	2
+#>>>				
+133	fear	1419	FEAR (BE AFRAID)	2
+134	female suffix		???	
+135	feather-body hair		???	
+#<<<				
+136	field (dry)	628	LEAF	4
+136	field (dry)	212	FIELD	4
+136	field (dry)	1086	WORK (ACTIVITY)	4
+136	field (dry)	652	PLAIN	4
+136	field (dry)	140	PADDY FIELD	4
+136	field (dry)	429	SWIDDEN FIELD	4
+#>>>				
+137	fight	1423	FIGHT	2
+138	finger-1		???	
+139	finger-2		???	
+140	fire	221	FIRE	2
+141	firewood	10	FIREWOOD	2
+142	fish	227	FISH	2
+143	five	493	FIVE	2
+144	flame	889	FLAME	2
+145	flea	232	FLEA	2
+146	flee	956	FLEE	2
+147	flower-1 (noun)		???	
+148	flower-2 (cf. tree-3)		???	
+149	flower (classifier)	239	FLOWER	4
+150	fly-gnat		???	
+151	fly-1 (verb)		???	
+152	fly-2 (verb)		???	
+153	follow	1085	FOLLOW	2
+154	foot-leg		???	
+155	four	1500	FOUR	2
+156	fowl	265	FOWL	2
+157	frog	503	FROG	2
+158	in front	1883	IN FRONT OF	2
+159	fruit	1507	FRUIT	2
+160	full	1429	FULL	2
+161	garden	586	GARDEN	2
+162	get	694	GET	2
+163	ginger	2500	GINGER	2
+164	give	1447	GIVE	2
+165	granary		???	
+166	grandchild	1617	GRANDCHILD	2
+167	grandfather	1383	GRANDFATHER	2
+168	grandmother	1496	GRANDMOTHER	2
+169	grass-1		???	
+170	grass-2		???	
+171	green-1		???	
+172	green-2		???	
+173	grow	479	GROW	2
+#<<<				
+174	hair	1040	HAIR	2
+174	hair	2648	HAIR (HEAD)	2
+#>>>				
+176	hammer	1481	HAMMER	2
+177	hand	1277	HAND	2
+178	hat	771	HAT	2
+179	have	773	HAVE	2
+180	head	1256	HEAD	2
+181	hear	1408	HEAR	2
+182	heart	1223	HEART	2
+183	heavy	1210	HEAVY	2
+184	high	1265	HIGH	2
+185	hole (classifier)	1667	HOLE	4
+186	horns		???	
+187	horse	615	HORSE	2
+#<<<				
+188	hot	1286	HOT	2
+188	hot	2272	HOT OR WARM	2
+#>>>				
+189	house	1252	HOUSE	2
+190	hundred	1634	HUNDRED	2
+191	hungry	1533	BE HUNGRY	2
+192	husband	1200	HUSBAND	2
+193	I	1209	I	2
+194	ill	1847	SICK	2
+#<<<				
+195	insect, worm	1219	WORM	4
+195	insect, worm	620	INSECT	4
+195	insect, worm	1027	BUG	4
+#>>>				
+196	interrogative suffix		???	
+197	intestine	1991	INTESTINES	2
+198	iron	621	IRON	2
+199	itch	148	ITCH	2
+200	join	1743	JOIN	2
+201	joints	999	JOINT	4
+202	key	1472	KEY	2
+203	kill-1		???	
+204	kill-2		???	
+205	kite (bird)	307	HAWK	4
+206	knead	274	KNEAD	2
+207	know	1410	KNOW (SOMETHING)	2
+#<<<				
+208	ladle	2649	COCONUT SHELL LADLE	2
+208	ladle	2657	LADLE	2
+#>>>				
+209	land	626	LAND	2
+210	laugh	1355	LAUGH	2
+#<<<				
+211	leaf	628	LEAF	2
+211	leaf	2250	LEAF (LEAFLIKE OBJECT)	2
+#>>>				
+212	leak		???	
+213	leech	2273	LEECH	2
+214	lick	319	LICK	2
+215	lift	501	LIFT	2
+216	lightweight	1052	LIGHT (WEIGHT)	2
+217	little	1246	SMALL	2
+218	liver	1224	LIVER	2
+219	loom	1787	LOOM	2
+#<<<				
+220	louse	1392	LOUSE	2
+220	louse	310	HEAD LOUSE	2
+#>>>				
+221	love	923	LOVE	2
+222	lungs	688	LUNG	2
+223	maggots		???	
+224	male-1 (human)		???	
+225	male-2 (human)		???	
+226	male-1 (animal)		???	
+227	male-2 (animal)		???	
+#<<<				
+228	many	1198	MANY	2
+228	many	428	BE MANY	2
+#>>>				
+229	marrow	1835	MARROW	2
+230	mature		???	
+#<<<				
+231	meat	634	MEAT	2
+231	meat	2615	FLESH OR MEAT	2
+#>>>				
+232	medicine	1372	MEDICINE	2
+233	middle	1093	MIDDLE	2
+234	monkey	1350	MONKEY	2
+235	month	1370	MONTH	2
+236	moon	1313	MOON	2
+237	morning	1339	MORNING	2
+#<<<				
+238	mortar (for rice)	224	MORTAR CRUSHER	4
+238	mortar (for rice)	1731	MORTAR BINDER	4
+#>>>				
+240	mountain	639	MOUNTAIN	2
+241	mouth-1	674	MOUTH	4
+242	mouth-2	674	MOUTH	4
+243	mule	890	MULE	2
+244	mushroom	641	MUSHROOM	2
+#<<<				
+245	nails (cf. hand)	1896	FINGERNAIL OR TOENAIL	4
+245	nails (cf. hand)	2128	CLAW OR NAIL	4
+#>>>				
+246	name-1		???	
+247	name-2		???	
+248	navel	1838	NAVEL	2
+249	neck	1333	NECK	2
+250	negative prefix		???	
+251	nephew-1		???	
+252	nephew-2 (cross)		???	
+253	nest	539	NEST	2
+254	net (finishing)	2653	NET (FOR CATCHING)	4
+255	new	1231	NEW	2
+256	nine	1483	NINE	2
+257	nose	1221	NOSE	2
+258	old (of people)	2112	OLD (AGED)	2
+259	old (of objects)	1229	OLD	2
+260	onion	2366	ONION	2
+261	overtake		???	
+262	owl	735	OWL	2
+263	pair	1888	PAIR	2
+264	palm sole		???	
+265	parrot (cf. bird)	882	PARROT	4
+266	penis	1222	PENIS	2
+#<<<				
+267	person (noun)	683	PERSON	3
+267	person (noun)	2645	MAN OR PERSON	3
+267	person (noun)	2661	PEOPLE OR PERSON	3
+#>>>				
+#<<<				
+268	person (classifier)	683	PERSON	4
+268	person (classifier)	516	PERSON (CLASSIFIER)	4
+268	person (classifier)	2645	MAN OR PERSON	4
+268	person (classifier)	2661	PEOPLE OR PERSON	4
+#>>>				
+269	pick (harvest)	2148	PICK	4
+#<<<				
+270	pig	1337	PIG	2
+270	pig	2564	PIGLET	2
+#>>>				
+271	place (noun)	723	PLACE (POSITION)	3
+#<<<				
+272	place (verb)	1237	WHERE	4
+272	place (verb)	998	PUT	4
+272	place (verb)	723	PLACE (POSITION)	4
+#>>>				
+#<<<				
+273	plant (crops) (verb)	653	PLANT (VEGETATION)	4
+273	plant (crops) (verb)	1486	PLANT (SOMETHING)	4
+#>>>				
+274	poison	655	POISON	2
+275	porcupine	2510	PORCUPINE	2
+276	pot-1		???	
+277	pot-2	1462	POT	4
+278	pound (verb)	354	POUND	3
+279	price	657	PRICE	2
+280	pull	1455	PULL	2
+281	pus	1808	PUS	2
+282	push	1452	PUSH	2
+#<<<				
+283	rain	658	RAIN (PRECIPITATION)	2
+283	rain	2108	RAINING OR RAIN	2
+283	rain	1253	RAIN (RAINING)	2
+#>>>				
+284	rat-1		???	
+285	rat-2		???	
+286	red-1		???	
+287	red-2		???	
+288	remember	707	REMEMBER	2
+289	repay		???	
+290	rest	168	REST	2
+#<<<				
+291	rice (paddy)	926	RICE	4
+291	rice (paddy)	1191	COOKED RICE	4
+291	rice (paddy)	2026	RICE PLANT	4
+#>>>				
+#<<<				
+292	rice (husked)	926	RICE	4
+292	rice (husked)	1191	COOKED RICE	4
+292	rice (husked)	2026	RICE PLANT	4
+#>>>				
+293	rice (cooked)	1191	COOKED RICE	2
+#<<<				
+294	rice (glutinous)	926	RICE	4
+294	rice (glutinous)	1191	COOKED RICE	4
+294	rice (glutinous)	2026	RICE PLANT	4
+#>>>				
+295	rice beer		???	
+296	ride (horse)	367	RIDE	4
+297	right (hand)	1019	RIGHT	2
+298	ripe-1		???	
+299	ripe-2		???	
+300	river	666	RIVER	2
+#<<<				
+301	road (classifier)	667	ROAD	4
+301	road (classifier)	2252	PATH	4
+301	road (classifier)	2457	PATH OR ROAD	4
+#>>>				
+302	roast	1962	ROAST (SOMETHING)	2
+303	root	670	ROOT	2
+304	rotten	1728	ROTTEN	2
+305	rough	1923	ROUGH	2
+306	round object (classifier)		???	
+307	round (verb)	1395	ROUND	3
+308	rule	1846	RULE	4
+309	salt	1274	SALT	2
+310	sand-1		???	
+311	sand-2		???	
+312	search-1		???	
+313	search-2		???	
+314	see	1409	SEE	2
+315	seed-1		???	
+316	seed-2		???	
+317	seed-3		???	
+318	sell	1571	SELL	2
+319	sesamum		???	
+320	seven-1		???	
+321	seven-2		???	
+322	sew	1457	SEW	2
+323	Shans		???	
+324	sharp	1396	SHARP	2
+325	sheep	1331	SHEEP	2
+326	shield	1064	SHIELD	2
+#<<<				
+327	shine, blaze	708	SHINE	4
+327	shine, blaze	2236	SHINE (EMITTED LIGHT)	4
+#>>>				
+328	shoot	1172	SHOOT	2
+#<<<				
+329	shrimp	238	PRAWNS	4
+329	shrimp	2349	SHRIMP	4
+#>>>				
+330	sibling (younger)	1640	SIBLING	4
+331	sing	1261	SING	2
+332	six	1703	SIX	2
+333	skin	763	SKIN	2
+334	sky	1732	SKY	2
+335	slave	812	SLAVE	2
+336	sleep	1585	SLEEP	2
+337	smoke (noun)	778	SMOKE (EXHAUST)	1
+338	snake	730	SNAKE	2
+339	snot	208	NASAL MUCUS (SNOT)	2
+340	son	1620	SON	2
+341	son's wife (cf. female suffix)		???	
+342	span (arm)	81	FATHOM	4
+343	span (finger)	81	FATHOM	4
+344	sparrow	1854	SPARROW	2
+345	spear	945	SPEAR	2
+#<<<				
+346	spirit	53	SPIRIT	4
+346	spirit	811	SOUL	4
+#>>>				
+347	split-1		???	
+348	split-2		???	
+349	squeeze	1414	SQUEEZE	2
+350	stab	1434	STAB	2
+351	stand (intrans.)	1442	STAND	4
+352	stand (trans.-1)	1442	STAND	4
+353	stand (trans.-2)	1442	STAND	4
+354	steal (sneak)	713	STEAL	4
+#<<<				
+355	stick (cf. tree-3)	1295	STICK	4
+355	stick (cf. tree-3)	254	STICKING	4
+355	stick (cf. tree-3)	2085	STICK (CLASSIFIER)	4
+#>>>				
+#<<<				
+356	stomach (belly)	1251	BELLY	4
+356	stomach (belly)	1334	GUTS	4
+356	stomach (belly)	819	STOMACH	4
+356	stomach (belly)	2114	BELLY OR STOMACH	4
+#>>>				
+#<<<				
+357	stone	857	STONE	2
+357	stone	1762	STONE (OF FRUIT)	2
+#>>>				
+358	stop up		???	
+359	straight	1404	STRAIGHT	2
+360	strength	202	STRENGTH	2
+361	stump (of tree)	1023	STUMP OF TREE	2
+362	succeed	1112	SUCCEED	4
+363	suckle-1		???	
+364	suckle-2		???	
+365	sugar (cf. sweet)	862	SUGAR	4
+366	sugar cane	146	SUGAR CANE	2
+367	sun	1343	SUN	2
+368	support		???	
+369	swallow (verb)	897	SWALLOW	3
+370	sweet	717	SWEET	2
+371	swell up	1573	SWELL	4
+372	tail-1		???	
+373	tail-2		???	
+374	take	1749	TAKE	2
+375	tea (leaf)	1373	TEA	4
+376	teach	709	TEACH	2
+#<<<				
+377	tear (verb)	1651	TEAR (OF EYE)	3
+377	tear (verb)	1735	TEAR (SHRED)	3
+#>>>				
+378	ten	1515	TEN	2
+379	tender, soft-1		???	
+380	tender-2		???	
+381	thick	1244	THICK	2
+#<<<				
+382	thin	2308	THIN	2
+382	thin	2249	THIN	2
+382	thin	2249	THIN (OF SHAPE OF OBJECT)	2
+382	thin	2306	THIN (OF LEAF AND CLOTH)	2
+382	thin	1400	THIN (SLIM)	2
+382	thin	2307	THIN (OF HAIR AND LEAF)	2
+#>>>				
+#<<<				
+383	think	2271	THINK	2
+383	think	1415	THINK (REFLECT)	2
+#>>>				
+384	this	1214	THIS	2
+385	thorn-1		???	
+386	thorn-2		???	
+387	thou	1215	THOU	2
+388	three	492	THREE	2
+389	throat	1346	THROAT	2
+390	tiger	846	TIGER	2
+391	tongue	1205	TONGUE	2
+392	tooth	1380	TOOTH	2
+393	touch	1892	TOUCH	2
+394	tread upon		???	
+395	tree-1		???	
+396	tree-2		???	
+397	tree-3		???	
+398	turban (cf. head)	331	HEADDRESS	4
+399	two	1498	TWO	2
+400	undress	1755	UNDRESS	2
+401	untie	352	UNTIE	2
+402	voice	1363	VOICE	2
+403	vomit	1278	VOMIT	2
+404	vulva	1837	VULVA	2
+405	waist	1681	WAIST	2
+406	walk	1443	WALK	2
+407	wall	933	WALL (OF HOUSE)	2
+408	wash	1453	WASH	2
+409	water	948	WATER	2
+410	wear	976	WEAR	2
+411	weave	133	WEAVE	2
+412	wipe	1454	WIPE	2
+413	woman	962	WOMAN	2
+414	word	1599	WORD	2
+415	worm	1219	WORM	2
+416	yam	410	YAM	2
+417	year	1226	YEAR	2
+418	year (classifier)	1226	YEAR	4
+419	white	1335	WHITE	2
+420	widower	1981	WIDOWER	2
+421	wife	1199	WIFE	2
+422	wife's sibling		???	
+423	wind - air		???	
+424	wing	1257	WING	2
+#		321	422	0.76
+
