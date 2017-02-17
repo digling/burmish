@@ -53,3 +53,12 @@ NWH typed off the data and the sound inventories. JML corrected the data and cre
 * pragmatic decisions were made for the dipthong "ui" which is interpreted as "n N" rather than "m n", as there's no information on the real pronunciation.
 * In the source, we find `[vʷ]` for Maru and Bola, which we treat as `[v]`, as no other sound is indicated in the source inventory. 
 * Mann notes in the text, that the Hpun transcription contains instances like `[c]` and `[ch]` which he transcribes to `[tʃ]` etc. In his word list, this principle is not consequently being followed. As a result, we correct for this in our orthography profile.
+
+## The bibtex details
+
+* @Mastersthesis{Mann1998,
+*  Title                    = {A phonological reconstruction of Proto Northern Burmic},
+*  Author                   = {Mann, Noel Walter},
+*  Year                     = {1998},
+*  Address                  = {Arlington},
+*  School                   = {The University of Texas}
