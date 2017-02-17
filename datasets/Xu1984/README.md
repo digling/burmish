@@ -45,13 +45,13 @@ The book contains
 
 ## The bibtex details
 
-@Book{Xu1984,
-  Title                    = {Jǐngpōzú yǔyán jiǎnzhì (Zǎiwǎyǔ)},
-  Address                  = {Beijing},
-  Author                   = {{Xú Xījiān 徐悉艱} and {Xú Guìzhēn 徐桂珍}},
-  Publisher                = {民族出版社 Mínzú chūbǎnshè [Nationalities publishing house]},
-  Year                     = {1984},
-  Url                      = {http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/JZ-Zaiwa},
-  Usera                    = {Sketch of a language of the Jingpo nationality (Zaiwa language)},
-  Userb                    = {景頗族語言簡誌(載瓦語)}
-}
+* @Book{Xu1984,
+*  Title                    = {Jǐngpōzú yǔyán jiǎnzhì (Zǎiwǎyǔ)},
+*  Address                  = {Beijing},
+*  Author                   = {{Xú Xījiān 徐悉艱} and {Xú Guìzhēn 徐桂珍}},
+*  Publisher                = {民族出版社 Mínzú chūbǎnshè [Nationalities publishing house]},
+*  Year                     = {1984},
+*  Url                      = {http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/JZ-Zaiwa},
+*  Usera                    = {Sketch of a language of the Jingpo nationality (Zaiwa language)},
+*  Userb                    = {景頗族語言簡誌(載瓦語)}
+
