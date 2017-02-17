@@ -1,3 +1,4 @@
+## Summary
 This book, of 
 * 37 pages, 
 
@@ -7,7 +8,41 @@ There is a
 which has numbered entries, the total is 
 * 406 vocabulary items
 
-The bibtex details
+## Doculects
+
+BED | Inglis2003 | Abbreviation | Source | Note on Source
+--- | --- | --- | --- | ---
+Achang | Ngochang | A | Inglis | 
+
+## Notes on Sources
+
+* none 
+
+## Notes on Concept List
+
+* Concepticon: dataset is not yet mapped to the Concepticon
+
+## Notes on Arrangement
+
+The chapter contains
+
+* xxx
+* xxx
+* xxx 
+
+## Notes on Reconstruction
+
+* NA
+
+## Digitization Information
+
+* Digitized by Nathan W. Hill on xxx
+
+## Notes on Orthography Profile
+
+* xxx
+
+## The bibtex details
 
 * Book{Inglis2003,
 * Title                    = {A preliminary phonology of Ngochang.},
