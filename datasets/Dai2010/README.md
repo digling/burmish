@@ -1,16 +1,16 @@
 ## Summary
 
-This book, of xxx pages, contains information about the Chashan language. 
+This book, of 181 pages, contains information about the Chashan language. 
 There is a
-* xxx page vocabulary 
-which I estimate to have 
-* circa xxx vocabulary items
+* 1,000 item vocabulary 
+on on pages 152-174 for both Lashi and Chashan. 
 
 ## Doculects
 
 BED | Dai2010 | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Chashan | 茶山 | xxx | Dai2010 | 
+Chashan | 片马茶山语 | xxx | Dai2010 | 
+Lashi | 游西勒期语 | xxx | Dai2010 | 
 
 ## Notes on Sources
 
