@@ -25,7 +25,7 @@ Lashi | 勒期 | L | Dai2007 |
 
 ## Notes on Arrangement
 
-The chapter contains
+The book contains
 
 * xxx
 * xxx
@@ -37,7 +37,7 @@ The chapter contains
 
 ## Digitization Information
 
-* Digitized by Astrid Otto, delivered on 18 January 2017.
+* Digitized by Astrid Otto, delivered on 23 January 2017.
 
 ## Notes on Orthography Profile
 
