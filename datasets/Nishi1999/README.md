@@ -62,3 +62,12 @@ Using our Bibtex keys these works are.
 ## Information on Word List and Cognate Coding
 
 * Nishi1999 only offers comparisons at the morpheme and not at the word level
+
+## The bibtex details
+
+* @Book{Nishi1999,
+*  Title                    = {Four papers on Burmese: Toward the history of Burmese (the Myanmar language).},
+*  Address                  = {Tokyo},
+*  Author                   = {Nishi, Yoshio},
+*  Publisher                = {Institute for the study of languages and cultures of Asia and Africa, Tokyo University of Foreign Studies},
+*  Year                     = {1999}
