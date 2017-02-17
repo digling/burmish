@@ -7,10 +7,10 @@ on on pages 152-174 for both Lashi and Chashan.
 
 ## Doculects
 
-BED | Dai2010 | Abbreviation | Source | Note on Source
---- | --- | --- | --- | ---
-Chashan | 片马茶山语 | xxx | Dai2010 | 
-Lashi | 游西勒期语 | xxx | Dai2010 | 
+BED | Dai2010 |  Source | Note on Source
+--- | --- | ---  | ---
+Pianma_Chashan | 片马茶山语 | Dai2010 | 
+Youxi_Lashi | 游西勒期语 |  Dai2010 | 
 
 ## Notes on Sources
 
