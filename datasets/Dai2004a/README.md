@@ -11,7 +11,7 @@ which I estimate to have
 
 BED | Dai2004a | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Lashi | XXX | L | Dai2004a | 
+Lashi | 勒期 | L | Dai2004a | 
 
 ## Notes on Sources
 

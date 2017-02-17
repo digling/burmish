@@ -1,14 +1,45 @@
-This bookchapter, of 
-* 38 pages, 
-
-contains information about the Maru language. 
+## Summary
+This bookchapter, of 38 pages, contains information about the Maru language. 
 There is a
 * 17 page vocabulary 
 which I estimate to have 
 * circa 714 vocabulary items
 
-The bibtex details
+## Doculects
 
+BED | Dai2004b | Abbreviation | Source | Note on Source
+--- | --- | --- | --- | ---
+Maru | 浪速 | M | Dai2004c | 
+
+## Notes on Sources
+
+* none 
+
+## Notes on Concept List
+
+* Concepticon: dataset is not yet mapped to the Concepticon
+
+## Notes on Arrangement
+
+The chapter contains
+
+* xxx
+* xxx
+* xxx 
+
+## Notes on Reconstruction
+
+* NA
+
+## Digitization Information
+
+* Digitized by Astrid Otto, delivered on 18 January 2017.
+
+## Notes on Orthography Profile
+
+* Orthography profile has not yet been produced
+
+## The bibtex details
 * Incollection{Dai2004c,
 * Title                    = {Làngsùyǔ},
 * Author                   = {{Dài Qìngxià 戴庆厦} and {徐悉艰 Xú Xījiān}},
