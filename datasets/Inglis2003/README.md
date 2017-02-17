@@ -20,7 +20,7 @@ Achang | Ngochang | A | Inglis |
 
 ## Notes on Concept List
 
-* Concepticon: dataset is not yet mapped to the Concepticon
+* Concepticon: dataset uses http://concepticon.clld.org/contributions/Mann-1998-406. 
 
 ## Notes on Arrangement
 
@@ -36,7 +36,7 @@ The chapter contains
 
 ## Digitization Information
 
-* Digitized by Nathan W. Hill on xxx
+* Digitized by Nathan W. Hill on 1 November 2016, using a non-unicode version supplied by the original author. 
 
 ## Notes on Orthography Profile
 
