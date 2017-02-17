@@ -1,19 +1,19 @@
 ## Summary
 
-This xxx, of xxx pages, 
+This book, of 176 pages, 
 
-contains information about the xxx language. 
+contains information about the Atsi language. 
 There is a
-* xxx page vocabulary 
-which has  
-* xxx vocabulary items
+* 20 page vocabulary (pp. 155-175) 
+which I estimate to have circa  
+* 880 vocabulary items
 
 
 ## Doculects
 
 BED | Xu1984 | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Lashi | Lacid | L | Wannemacher2011 | 
+Atsi | 載瓦 | Z | Xu1984 | 
 
 ## Notes on Sources
 
@@ -37,7 +37,7 @@ The book contains
 
 ## Digitization Information
 
-* Digitized by xxx on xxx. 
+* Digitized by Astrid Otto on 15 February 2017. 
 
 ## Notes on Orthography Profile
 
