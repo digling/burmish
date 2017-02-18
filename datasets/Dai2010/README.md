@@ -34,7 +34,14 @@ The book contains
 
 ## Digitization Information
 
-* Digitized of this text has not yet been arranged.
+* Digitized in Thailand, delivered to BED 27 September 2016. Here is the Readme file supplied by digitizer. 
+
+BED | Dai2010 |  Source | Note on Source
+--- | --- | ---  | ---
+	1	|	dai2010 |	978-7-100-06906-9	| 1000	| lsi? | Lashi? |Chashan 茶山	| Pianma 片马	| TB |	Burmish	|China |26.009931,98.626671 |	Pianma Township 片马镇, Lushui County, Yunnan |
+	2	|	dai2010 | 978-7-100-06906-9 |	1000 |lsi |	Lashi |	Leqi 勒期	| Luxi 潞西	| TB | Burmish | China | 24.446446,98.58161	| Luxi City, Yunnan |
+
+
 
 ## Notes on Orthography Profile
 
