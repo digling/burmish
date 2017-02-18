@@ -1,1 +1,9 @@
-
+*@Book{Yabu1982,
+*  title     = {Atsigo kiso goishū},
+*  publisher = {東京外国語大学アジア・アフリカ言語文化研究所 Tōkyō Gaikokugo Daigaku Ajia Afurika Gengo Bunka Kenkyūjo.},
+*  year      = {1982},
+*  author    = {{Yabu Shirō 藪 司郎}},
+*  address   = {Tokyo},
+*  iso_code  = {atb},
+*  usera     = {Classified dictionary of the Atsi or Zaiwa language (Sadon dialect)},
+*  userb     = {アツィ語基礎語彙集)},
