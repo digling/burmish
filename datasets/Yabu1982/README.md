@@ -1,4 +1,4 @@
-*@Book{Yabu1982,
+* @Book{Yabu1982,
 *  title     = {Atsigo kiso goishū},
 *  publisher = {東京外国語大学アジア・アフリカ言語文化研究所 Tōkyō Gaikokugo Daigaku Ajia Afurika Gengo Bunka Kenkyūjo.},
 *  year      = {1982},
