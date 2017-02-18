@@ -14,7 +14,7 @@ Achang          | Achang          | Huang1992, Xu1984 | ACH          |
 Xiandao         | Xiandao         | Huang1992 | XIA          |
 Atsi            | Zaiwa           | Huang1992, Dai1985 | ZAI          |
 Lashi           | Leqi            | Huang1992 | LEQ          |
-Maru            | Langsu          | Huang1992 |
+Maru            | Langsu          | Huang1992 | LAN
 Bola            | Bola            | Huang1992 | BOL          |
 
 ## Notes on Orthography Profile
