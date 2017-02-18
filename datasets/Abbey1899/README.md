@@ -1,19 +1,18 @@
 
 ## Summary
 
-This book, of xxx pages, 
-xxx
+This book, of 59 pages, is about the Maru language. 
 
 There is a
-* xxx page vocabulary 
+* 19 page vocabulary (pp. 40-59)
 which I estimate to have 
-* circa xxx vocabulary items
+* circa 1292 vocabulary items
 
 ## Doculects
 
 BED | Abbey1899 |  Source | Note on Source
 --- | --- | --- | --- 
-Maru | xxx| Abbey1899 | 
+Maru | Maru | Abbey1899 | 
 
 ## Notes on Sources
 
