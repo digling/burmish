@@ -36,8 +36,8 @@ The book contains
 
 * Digitized in Thailand, delivered to BED 27 September 2016. Here is the Readme file supplied by digitizer. 
 
-NUMBER | Bibtex key |  ISBN | Number of vocabulary | ISO cod | BED name | Source name | Dialect | Language family | Branch | Country | Geo data | Place 
---- | --- | ---  | --- | ---  | ---  | ---  | ---  | ---
+NUMBER | Bibtex key | ISBN | Number of vocabulary | ISO code | BED name | Source name | Dialect | Language family | Branch | Country | Geo data | Place 
+--- | --- | ---  | --- | ---  | ---  | ---  | ---  | --- | --- | --- | --- | ---
 	1	|	dai2010 |	978-7-100-06906-9	| 1000	| lsi? | Lashi? |Chashan 茶山	| Pianma 片马	| TB |	Burmish	|China |26.009931,98.626671 |	Pianma Township 片马镇, Lushui County, Yunnan |
 	2	|	dai2010 | 978-7-100-06906-9 |	1000 |lsi |	Lashi |	Leqi 勒期	| Luxi 潞西	| TB | Burmish | China | 24.446446,98.58161	| Luxi City, Yunnan |
 
