@@ -1,48 +1,48 @@
 Grapheme	Segments	CLPA	Structure	Unicode	Frequency	Reflexes	Examples
-³	³	³	t	U+00b3	962	Written_Burmese	rɑ³
-²	²	²	t	U+00b2	831	Written_Burmese	ɑɑ²
-⁴	⁴	⁴	t	U+2074	627	Written_Burmese	rutʔ⁴
-¹	¹	¹	t	U+00b9	623	Written_Burmese	se¹
-⁵⁵	⁵⁵	⁵⁵	t	U+2075 U+2075	5	Written_Burmese	shɑn⁵⁵
-²²	²²	²²	t	U+00b2 U+00b2	4	Written_Burmese	nwɑj²²
+³	³	³	t	U+00b3	962	Written_Burmese	rɑ³, mjo³, khu³, nɑŋ³, tθɑŋ³
+²	²	²	t	U+00b2	831	Written_Burmese	ɑɑ², lu², kɑn², shun², ŋɑɑ²
+⁴	⁴	⁴	t	U+2074	627	Written_Burmese	rutʔ⁴, hnɑs⁴, tθɑs⁴, bhɑk⁴, mrɔk⁴
+¹	¹	¹	t	U+00b9	623	Written_Burmese	se¹, bhu¹, tɑ¹, tɑ¹, ti¹
+⁵⁵	⁵⁵	⁵⁵	t	U+2075 U+2075	5	Written_Burmese	shɑn⁵⁵, tθwe⁵⁵, ɔ̂⁵⁵, mɔŋ⁵⁵, mwe⁵⁵
+²²	²²	²²	t	U+00b2 U+00b2	4	Written_Burmese	nwɑj²², wɑɑ²², tθɑ̃∼²², tɑ²²
 ⁵³	⁵³	⁵³	t	U+2075 U+00b3	1	Written_Burmese	ɑ⁵³
 ²_ˍ	²_ˍ	²_ˍ	t	U+00b2 U+005f U+02cd	1	Written_Burmese	rɑɑ²_ˍ
-ɑŋ	ɑ ŋ	ɑ ŋ	n c	U+0251 U+0020 U+014b	106	Written_Burmese	nɑŋ³
-ɔŋ	ɔ ŋ	ɔ ŋ	n c	U+0254 U+0020 U+014b	105	Written_Burmese	kɔŋ³
-ɑk	ɑ k	ɑ k	n c	U+0251 U+0020 U+006b	89	Written_Burmese	bhɑk⁴
-ɑn	ɑ n	ɑ n	n c	U+0251 U+0020 U+006e	58	Written_Burmese	kɑn²
-ɔk	ɔ k	ɔ k	n c	U+0254 U+0020 U+006b	56	Written_Burmese	rɔk⁴
-ɑȵ	ɑ ȵ	ɑ ȵ	n c	U+0251 U+0020 U+0235	51	Written_Burmese	thɑȵ³
-uṁ	u ṁ	u ṁ	n c	U+0075 U+0020 U+1e41	49	Written_Burmese	luṁ³
-ɑs	ɑ s	ɑ s	n c	U+0251 U+0020 U+0073	48	Written_Burmese	tθɑs⁴
-ɑj	ɑ j	ɑ j	n c	U+0251 U+0020 U+006a	45	Written_Burmese	kɑj²
-ɑṁ	ɑ ṁ	ɑ ṁ	n c	U+0251 U+0020 U+1e41	39	Written_Burmese	khɑṁ²
-ɑp	ɑ p	ɑ p	n c	U+0251 U+0020 U+0070	36	Written_Burmese	nɑp⁴
-ok	o k	o k	n c	U+006f U+0020 U+006b	34	Written_Burmese	kok⁴
-up	u p	u p	n c	U+0075 U+0020 U+0070	33	Written_Burmese	shup⁴
-ɑt	ɑ t	ɑ t	n c	U+0251 U+0020 U+0074	31	Written_Burmese	pɑt⁴
-oŋ	o ŋ	o ŋ	n c	U+006f U+0020 U+014b	29	Written_Burmese	tθoŋ³
-ɑm	ɑ m	ɑ m	n c	U+0251 U+0020 U+006d	25	Written_Burmese	tɑm²
-im	i m	i m	n c	U+0069 U+0020 U+006d	22	Written_Burmese	im²
-on	o n	o n	n c	U+006f U+0020 U+006e	22	Written_Burmese	thon³
-it	i t	i t	n c	U+0069 U+0020 U+0074	21	Written_Burmese	shit⁴
-ut	u t	u t	n c	U+0075 U+0020 U+0074	19	Written_Burmese	hut⁴
-un	u n	u n	n c	U+0075 U+0020 U+006e	14	Written_Burmese	shun²
-ip	i p	i p	n c	U+0069 U+0020 U+0070	13	Written_Burmese	thip⁴
-in	i n	i n	n c	U+0069 U+0020 U+006e	12	Written_Burmese	shin²
-ot	o t	o t	n c	U+006f U+0020 U+0074	6	Written_Burmese	bot⁴
-ɑȵ̂	ɑ ȵ̂	ɑ ȵ̂	n c	U+0251 U+0020 U+0235 U+0302	5	Written_Burmese	zɑȵ̂³
-oj	o j	o j	n c	U+006f U+0020 U+006a	4	Written_Burmese	koj²
-um	u m	u m	n c	U+0075 U+0020 U+006d	3	Written_Burmese	mum²
-op	o p	o p	n c	U+006f U+0020 U+0070	3	Written_Burmese	thop⁴
-ɑɑn	ɑɑ n	ɑɑ n	n c	U+0251 U+0251 U+0020 U+006e	2	Written_Burmese	shɑɑn²
+ɑŋ	ɑ ŋ	ɑ ŋ	n c	U+0251 U+0020 U+014b	112	Written_Burmese	nɑŋ³, tθɑŋ³, ɑŋ², khɑŋ², bhɑŋ²
+ɔŋ	ɔ ŋ	ɔ ŋ	n c	U+0254 U+0020 U+014b	108	Written_Burmese	kɔŋ³, mɔŋ³, sɔŋ³, tɔŋ², hɔŋ²
+ɑk	ɑ k	ɑ k	n c	U+0251 U+0020 U+006b	94	Written_Burmese	bhɑk⁴, tθɑk⁴, rɑk⁴, lɑk⁴, lɑk⁴
+ɑs	ɑ s	ɑ s	n c	U+0251 U+0020 U+0073	72	Written_Burmese	hnɑs⁴, tθɑs⁴, rɑs⁴, sɑs⁴, tɑs⁴
+ɑn	ɑ n	ɑ n	n c	U+0251 U+0020 U+006e	65	Written_Burmese	kɑn², tɑn², hmɑn², dɑn², hmɑn³
+ɔk	ɔ k	ɔ k	n c	U+0254 U+0020 U+006b	58	Written_Burmese	rɔk⁴, nɔk⁴, ɔk⁴, kɔk⁴, hnɔk⁴
+ɑȵ	ɑ ȵ	ɑ ȵ	n c	U+0251 U+0020 U+0235	52	Written_Burmese	thɑȵ³, sɑȵ³, sɑȵ², sɑȵ³, thɑȵ²
+uṁ	u ṁ	u ṁ	n c	U+0075 U+0020 U+1e41	49	Written_Burmese	luṁ³, tuṁ³, tuṁ³, uṁ², puṁ³
+ɑj	ɑ j	ɑ j	n c	U+0251 U+0020 U+006a	45	Written_Burmese	kɑj², ɑj², ŋɑj², shɑj¹, shɑj²
+ɑṁ	ɑ ṁ	ɑ ṁ	n c	U+0251 U+0020 U+1e41	41	Written_Burmese	khɑṁ², rɑṁ², nɑṁ², khɑṁ¹, ȵɑṁ¹
+ɑp	ɑ p	ɑ p	n c	U+0251 U+0020 U+0070	41	Written_Burmese	hnɑp⁴, nɑp⁴, tɑp⁴, sɑp⁴, lɑp⁴
+ok	o k	o k	n c	U+006f U+0020 U+006b	35	Written_Burmese	kok⁴, bok⁴, kok⁴, kok⁴, tok⁴
+up	u p	u p	n c	U+0075 U+0020 U+0070	33	Written_Burmese	shup⁴, thup⁴, lup⁴, tup⁴, up⁴
+ɑt	ɑ t	ɑ t	n c	U+0251 U+0020 U+0074	33	Written_Burmese	pɑt⁴, pɑt⁴, khɑt⁴, pɑt⁴, pɑt⁴
+oŋ	o ŋ	o ŋ	n c	U+006f U+0020 U+014b	30	Written_Burmese	tθoŋ³, koŋ³, noŋ², noŋ², hnoŋ³
+ɑm	ɑ m	ɑ m	n c	U+0251 U+0020 U+006d	26	Written_Burmese	tɑm², thɑm³, phɑm³, kɑm³, tɑm²
+on	o n	o n	n c	U+006f U+0020 U+006e	23	Written_Burmese	thon³, ton², lon², son¹, tθon²
+it	i t	i t	n c	U+0069 U+0020 U+0074	22	Written_Burmese	shit⁴, shit⁴, hmit⁴, pit⁴, pit⁴
+ut	u t	u t	n c	U+0075 U+0020 U+0074	22	Written_Burmese	hut⁴, mut⁴, hmut⁴, ut⁴, khut⁴
+im	i m	i m	n c	U+0069 U+0020 U+006d	22	Written_Burmese	im², im², lim², tim², lim²
+un	u n	u n	n c	U+0075 U+0020 U+006e	15	Written_Burmese	shun², mun³, hmun¹, kun², mun³
+ip	i p	i p	n c	U+0069 U+0020 U+0070	14	Written_Burmese	thip⁴, lip⁴, ip⁴, rip⁴, thip⁴
+in	i n	i n	n c	U+0069 U+0020 U+006e	12	Written_Burmese	shin², thin³, min³, sin³, hin³
+ot	o t	o t	n c	U+006f U+0020 U+0074	6	Written_Burmese	bot⁴, phot⁴, shot⁴, rot⁴, pot⁴
+ɑȵ̂	ɑ ȵ̂	ɑ ȵ̂	n c	U+0251 U+0020 U+0235 U+0302	5	Written_Burmese	zɑȵ̂³, sɑȵ̂³, ȵɑȵ̂¹, sɑȵ̂², sɑȵ̂¹
+oj	o j	o j	n c	U+006f U+0020 U+006a	4	Written_Burmese	koj², koj², koj², koj²
+um	u m	u m	n c	U+0075 U+0020 U+006d	3	Written_Burmese	mum², phum², khum³
+op	o p	o p	n c	U+006f U+0020 U+0070	3	Written_Burmese	thop⁴, sop⁴, sop⁴
+ɑɑn	ɑɑ n	ɑɑ n	n c	U+0251 U+0251 U+0020 U+006e	2	Written_Burmese	shɑɑn², shɑɑn²
 utʔ	u tʔ	u tʔ	n c	U+0075 U+0020 U+0074 U+0294	1	Written_Burmese	rutʔ⁴
 ɑuṁ	ɑu ṁ	ɑu ṁ	n c	U+0251 U+0075 U+0020 U+1e41	1	Written_Burmese	ɑuṁ²
 et	e t	e t	n c	U+0065 U+0020 U+0074	1	Written_Burmese	tθet⁴
 ud	u d	u d	n c	U+0075 U+0020 U+0064	1	Written_Burmese	pud⁴
 ɑ̃	ɑ̃ ∼	ɑ̃ ∼	n c	U+0251 U+0303 U+0020 U+223c	1	Written_Burmese	tθɑ̃∼²²
 ɑɑj	ɑɑ j	ɑɑ j	n c	U+0251 U+0251 U+0020 U+006a	1	Written_Burmese	rɑɑj²
-jȵ̂	j ȵ̂	j ȵ̂	n c	U+006a U+0020 U+0235 U+0302	1	Written_Burmese	khjȵ̂²
+ɑik	ɑi k	ɑi k	n c	U+0251 U+0069 U+0020 U+006b	1	Written_Burmese	hmɑik⁴
 ɑn̩	ɑ n̩	ɑ n̩	n c	U+0251 U+0020 U+006e U+0329	1	Written_Burmese	dɑn̩²
 an	a n	a n	n c	U+0061 U+0020 U+006e	1	Written_Burmese	ŋan³
 êɑȵ	êɑ ȵ	êɑ ȵ	n c	U+00ea U+0251 U+0020 U+0235	1	Written_Burmese	êɑȵ¹
@@ -51,196 +51,160 @@ is	i s	i s	n c	U+0069 U+0020 U+0073	1	Written_Burmese	kis⁴
 itθ	i tθ	i tθ	n c	U+0069 U+0020 U+0074 U+03b8	1	Written_Burmese	pitθ⁴
 ɑm̩	ɑ m̩	ɑ m̩	n c	U+0251 U+0020 U+006d U+0329	1	Written_Burmese	ȵɑm̩¹
 ɑṇ	ɑ ṇ	ɑ ṇ	n c	U+0251 U+0020 U+1e47	1	Written_Burmese	dɑṇ²
-ɑ	ɑ	ɑ	n	U+0251	424	Written_Burmese	rɑ³
-o	o	o	n	U+006f	140	Written_Burmese	sho²
-i	i	i	n	U+0069	117	Written_Burmese	ti¹
-e	e	e	n	U+0065	112	Written_Burmese	se¹
-u	u	u	n	U+0075	104	Written_Burmese	bhu¹
-ɑɑ	ɑɑ	ɑɑ	n	U+0251 U+0251	80	Written_Burmese	ɑɑ²
-ɔ	ɔ	ɔ	n	U+0254	64	Written_Burmese	dɔ³
-ɑi	ɑi	ɑi	n	U+0251 U+0069	36	Written_Burmese	rɑi³
-û	û	û	n	U+00fb	13	Written_Burmese	û³
-a	a	a	n	U+0061	5	Written_Burmese	pha¹
-ê	ê	ê	n	U+00ea	4	Written_Burmese	ê³
-î	î	î	n	U+00ee	4	Written_Burmese	î²
-ɔ̂	ɔ̂	ɔ̂	n	U+0254 U+0302	2	Written_Burmese	ɔ̂⁵⁵
+ɑ	ɑ	ɑ	n	U+0251	430	Written_Burmese	rɑ³, tɑ¹, tɑ¹, ɑ¹, ɑ³
+o	o	o	n	U+006f	141	Written_Burmese	sho², bho³, o², no¹, so¹
+i	i	i	n	U+0069	120	Written_Burmese	ti¹, bhi², ti¹, si¹, ri³
+e	e	e	n	U+0065	113	Written_Burmese	se¹, se², ne¹, me³, le³
+u	u	u	n	U+0075	104	Written_Burmese	bhu¹, lu², khu³, lu², su¹
+ɑɑ	ɑɑ	ɑɑ	n	U+0251 U+0251	85	Written_Burmese	ɑɑ², ŋɑɑ², lɑɑ², gɑɑ², dɑɑ²
+ɔ	ɔ	ɔ	n	U+0254	65	Written_Burmese	dɔ³, khɔ², dɔ², dɔ², ɔ²
+ɑi	ɑi	ɑi	n	U+0251 U+0069	36	Written_Burmese	rɑi³, pɑi³, pɑi³, khɑi³, lɑi³
+û	û	û	n	U+00fb	13	Written_Burmese	û³, û¹, û³, û¹, û³
+a	a	a	n	U+0061	5	Written_Burmese	pha¹, kha³, ma¹, kha¹, ma¹
+ê	ê	ê	n	U+00ea	4	Written_Burmese	ê³, ê³, ê³, ê²
+î	î	î	n	U+00ee	4	Written_Burmese	î², î², î², î²
+ɔ̂	ɔ̂	ɔ̂	n	U+0254 U+0302	2	Written_Burmese	ɔ̂⁵⁵, ɔ̂³
+ɒ	ɒ	ɒ	n	U+0252	1	Written_Burmese	hnɒ¹
 uu	uu	uu	n	U+0075 U+0075	1	Written_Burmese	uu²
-wɑk	w ɑ k	w ɑ k	m n c	U+0077 U+0020 U+0251 U+0020 U+006b	31	Written_Burmese	rwɑk⁴
-jɑk	j ɑ k	j ɑ k	m n c	U+006a U+0020 U+0251 U+0020 U+006b	29	Written_Burmese	mjɑk⁴
-wɑŋ	w ɑ ŋ	w ɑ ŋ	m n c	U+0077 U+0020 U+0251 U+0020 U+014b	29	Written_Burmese	twɑŋ²
-jɔk	j ɔ k	j ɔ k	m n c	U+006a U+0020 U+0254 U+0020 U+006b	27	Written_Burmese	jɔk⁴
-rɑŋ	r ɑ ŋ	r ɑ ŋ	m n c	U+0072 U+0020 U+0251 U+0020 U+014b	24	Written_Burmese	hrɑŋ²
-nɑs	n ɑ s	n ɑ s	m n c	U+006e U+0020 U+0251 U+0020 U+0073	20	Written_Burmese	hnɑs⁴
-jɑŋ	j ɑ ŋ	j ɑ ŋ	m n c	U+006a U+0020 U+0251 U+0020 U+014b	16	Written_Burmese	kjɑŋ¹
-rɔŋ	r ɔ ŋ	r ɔ ŋ	m n c	U+0072 U+0020 U+0254 U+0020 U+014b	15	Written_Burmese	prɔŋ³
-rɑn	r ɑ n	r ɑ n	m n c	U+0072 U+0020 U+0251 U+0020 U+006e	15	Written_Burmese	mrɑn²
-rɑs	r ɑ s	r ɑ s	m n c	U+0072 U+0020 U+0251 U+0020 U+0073	14	Written_Burmese	mrɑs⁴
-rɑȵ	r ɑ ȵ	r ɑ ȵ	m n c	U+0072 U+0020 U+0251 U+0020 U+0235	14	Written_Burmese	krɑȵ¹
-rɑk	r ɑ k	r ɑ k	m n c	U+0072 U+0020 U+0251 U+0020 U+006b	13	Written_Burmese	mrɑk⁴
-jɔŋ	j ɔ ŋ	j ɔ ŋ	m n c	U+006a U+0020 U+0254 U+0020 U+014b	10	Written_Burmese	khjɔŋ³
-rɔk	r ɔ k	r ɔ k	m n c	U+0072 U+0020 U+0254 U+0020 U+006b	9	Written_Burmese	mrɔk⁴
-wɑj	w ɑ j	w ɑ j	m n c	U+0077 U+0020 U+0251 U+0020 U+006a	9	Written_Burmese	wɑj²
-rɑṁ	r ɑ ṁ	r ɑ ṁ	m n c	U+0072 U+0020 U+0251 U+0020 U+1e41	8	Written_Burmese	krɑṁ²
-wɑn	w ɑ n	w ɑ n	m n c	U+0077 U+0020 U+0251 U+0020 U+006e	7	Written_Burmese	wɑn²
-jin	j i n	j i n	m n c	U+006a U+0020 U+0069 U+0020 U+006e	7	Written_Burmese	khjin³
-mɑn	m ɑ n	m ɑ n	m n c	U+006d U+0020 U+0251 U+0020 U+006e	7	Written_Burmese	hmɑn²
-jɑm	j ɑ m	j ɑ m	m n c	U+006a U+0020 U+0251 U+0020 U+006d	7	Written_Burmese	khjɑm³
-jɑs	j ɑ s	j ɑ s	m n c	U+006a U+0020 U+0251 U+0020 U+0073	7	Written_Burmese	kjɑs⁴
-rɑt	r ɑ t	r ɑ t	m n c	U+0072 U+0020 U+0251 U+0020 U+0074	7	Written_Burmese	prɑt⁴
-jɑȵ	j ɑ ȵ	j ɑ ȵ	m n c	U+006a U+0020 U+0251 U+0020 U+0235	7	Written_Burmese	kjɑȵ³
-ruṁ	r u ṁ	r u ṁ	m n c	U+0072 U+0020 U+0075 U+0020 U+1e41	6	Written_Burmese	khruṁ²
-rɑm	r ɑ m	r ɑ m	m n c	U+0072 U+0020 U+0251 U+0020 U+006d	5	Written_Burmese	krɑm³
-juṁ	j u ṁ	j u ṁ	m n c	U+006a U+0020 U+0075 U+0020 U+1e41	5	Written_Burmese	juṁ²
-ŋɑk	ŋ ɑ k	ŋ ɑ k	m n c	U+014b U+0020 U+0251 U+0020 U+006b	5	Written_Burmese	hŋɑk⁴
-jɑȵ̂	j ɑ ȵ̂	j ɑ ȵ̂	m n c	U+006a U+0020 U+0251 U+0020 U+0235 U+0302	5	Written_Burmese	mjɑȵ̂³
-jɑp	j ɑ p	j ɑ p	m n c	U+006a U+0020 U+0251 U+0020 U+0070	5	Written_Burmese	khjɑp⁴
-jɑt	j ɑ t	j ɑ t	m n c	U+006a U+0020 U+0251 U+0020 U+0074	5	Written_Burmese	phjɑt⁴
-nɑŋ	n ɑ ŋ	n ɑ ŋ	m n c	U+006e U+0020 U+0251 U+0020 U+014b	5	Written_Burmese	hnɑŋ³
-jɑn	j ɑ n	j ɑ n	m n c	U+006a U+0020 U+0251 U+0020 U+006e	5	Written_Burmese	kjɑn²
-joŋ	j o ŋ	j o ŋ	m n c	U+006a U+0020 U+006f U+0020 U+014b	4	Written_Burmese	khjoŋ³
-ȵɑs	ȵ ɑ s	ȵ ɑ s	m n c	U+0235 U+0020 U+0251 U+0020 U+0073	4	Written_Burmese	hȵɑs⁴
-rup	r u p	r u p	m n c	U+0072 U+0020 U+0075 U+0020 U+0070	4	Written_Burmese	hrup⁴
-rut	r u t	r u t	m n c	U+0072 U+0020 U+0075 U+0020 U+0074	4	Written_Burmese	prut⁴
-wɑm	w ɑ m	w ɑ m	m n c	U+0077 U+0020 U+0251 U+0020 U+006d	4	Written_Burmese	wɑm³
-rit	r i t	r i t	m n c	U+0072 U+0020 U+0069 U+0020 U+0074	4	Written_Burmese	krit⁴
-rwɑk	rw ɑ k	rw ɑ k	m n c	U+0072 U+0077 U+0020 U+0251 U+0020 U+006b	4	Written_Burmese	krwɑk⁴
-jɑṁ	j ɑ ṁ	j ɑ ṁ	m n c	U+006a U+0020 U+0251 U+0020 U+1e41	4	Written_Burmese	pjɑṁ²
-jit	j i t	j i t	m n c	U+006a U+0020 U+0069 U+0020 U+0074	4	Written_Burmese	khjit⁴
-lup	l u p	l u p	m n c	U+006c U+0020 U+0075 U+0020 U+0070	4	Written_Burmese	hlup⁴
-jon	j o n	j o n	m n c	U+006a U+0020 U+006f U+0020 U+006e	4	Written_Burmese	khjon²
-lɑȵ	l ɑ ȵ	l ɑ ȵ	m n c	U+006c U+0020 U+0251 U+0020 U+0235	4	Written_Burmese	hlɑȵ¹
-wɑṁ	w ɑ ṁ	w ɑ ṁ	m n c	U+0077 U+0020 U+0251 U+0020 U+1e41	3	Written_Burmese	wɑṁ²
-rim	r i m	r i m	m n c	U+0072 U+0020 U+0069 U+0020 U+006d	3	Written_Burmese	krim²
-lɑn	l ɑ n	l ɑ n	m n c	U+006c U+0020 U+0251 U+0020 U+006e	3	Written_Burmese	hlɑn³
-jun	j u n	j u n	m n c	U+006a U+0020 U+0075 U+0020 U+006e	3	Written_Burmese	jun²
-ȵɑp	ȵ ɑ p	ȵ ɑ p	m n c	U+0235 U+0020 U+0251 U+0020 U+0070	3	Written_Burmese	hȵɑp⁴
-wɑt	w ɑ t	w ɑ t	m n c	U+0077 U+0020 U+0251 U+0020 U+0074	3	Written_Burmese	wɑt⁴
-nɑp	n ɑ p	n ɑ p	m n c	U+006e U+0020 U+0251 U+0020 U+0070	2	Written_Burmese	hnɑp⁴
-mut	m u t	m u t	m n c	U+006d U+0020 U+0075 U+0020 U+0074	2	Written_Burmese	hmut⁴
-nɔk	n ɔ k	n ɔ k	m n c	U+006e U+0020 U+0254 U+0020 U+006b	2	Written_Burmese	hnɔk⁴
-jwɑm	jw ɑ m	jw ɑ m	m n c	U+006a U+0077 U+0020 U+0251 U+0020 U+006d	2	Written_Burmese	kjwɑm³
-rɑj	r ɑ j	r ɑ j	m n c	U+0072 U+0020 U+0251 U+0020 U+006a	2	Written_Burmese	krɑj²
-rop	r o p	r o p	m n c	U+0072 U+0020 U+006f U+0020 U+0070	2	Written_Burmese	krop⁴
-nɑṁ	n ɑ ṁ	n ɑ ṁ	m n c	U+006e U+0020 U+0251 U+0020 U+1e41	2	Written_Burmese	hnɑṁ²
-mɔŋ	m ɔ ŋ	m ɔ ŋ	m n c	U+006d U+0020 U+0254 U+0020 U+014b	2	Written_Burmese	hmɔŋ²
-wɑp	w ɑ p	w ɑ p	m n c	U+0077 U+0020 U+0251 U+0020 U+0070	2	Written_Burmese	wɑp⁴
-rok	r o k	r o k	m n c	U+0072 U+0020 U+006f U+0020 U+006b	2	Written_Burmese	krok⁴
-mɑt	m ɑ t	m ɑ t	m n c	U+006d U+0020 U+0251 U+0020 U+0074	2	Written_Burmese	hmɑt⁴
-jup	j u p	j u p	m n c	U+006a U+0020 U+0075 U+0020 U+0070	2	Written_Burmese	khjup⁴
-lot	l o t	l o t	m n c	U+006c U+0020 U+006f U+0020 U+0074	2	Written_Burmese	hlot⁴
-jim	j i m	j i m	m n c	U+006a U+0020 U+0069 U+0020 U+006d	2	Written_Burmese	jim³
-lim	l i m	l i m	m n c	U+006c U+0020 U+0069 U+0020 U+006d	2	Written_Burmese	hlim¹
-rɑȵ̂	r ɑ ȵ̂	r ɑ ȵ̂	m n c	U+0072 U+0020 U+0251 U+0020 U+0235 U+0302	2	Written_Burmese	hrɑȵ̂¹
-luṁ	l u ṁ	l u ṁ	m n c	U+006c U+0020 U+0075 U+0020 U+1e41	2	Written_Burmese	hluṁ²
+wɑk	w ɑ k	w ɑ k	m n c	U+0077 U+0020 U+0251 U+0020 U+006b	31	Written_Burmese	rwɑk⁴, wɑk⁴, wɑk⁴, twɑk⁴, rwɑk⁴
+jɑk	j ɑ k	j ɑ k	m n c	U+006a U+0020 U+0251 U+0020 U+006b	29	Written_Burmese	mjɑk⁴, khjɑk⁴, kjɑk⁴, pjɑk⁴, phjɑk⁴
+wɑŋ	w ɑ ŋ	w ɑ ŋ	m n c	U+0077 U+0020 U+0251 U+0020 U+014b	29	Written_Burmese	twɑŋ², pwɑŋ¹, wɑŋ², thwɑŋ³, thwɑŋ³
+jɔk	j ɔ k	j ɔ k	m n c	U+006a U+0020 U+0254 U+0020 U+006b	27	Written_Burmese	jɔk⁴, jɔk⁴, kjɔk⁴, kjɔk⁴, pjɔk⁴
+rɑŋ	r ɑ ŋ	r ɑ ŋ	m n c	U+0072 U+0020 U+0251 U+0020 U+014b	24	Written_Burmese	hrɑŋ², hrɑŋ³, hrɑŋ³, mrɑŋ³, prɑŋ²
+jɑŋ	j ɑ ŋ	j ɑ ŋ	m n c	U+006a U+0020 U+0251 U+0020 U+014b	16	Written_Burmese	kjɑŋ¹, khjɑŋ², pjɑŋ³, kjɑŋ¹, kjɑŋ²
+rɔŋ	r ɔ ŋ	r ɔ ŋ	m n c	U+0072 U+0020 U+0254 U+0020 U+014b	16	Written_Burmese	prɔŋ³, hrɔŋ², prɔŋ², krɔŋ², prɔŋ³
+rɑn	r ɑ n	r ɑ n	m n c	U+0072 U+0020 U+0251 U+0020 U+006e	15	Written_Burmese	mrɑn², prɑn¹, mrɑn², prɑn², prɑn²
+rɑs	r ɑ s	r ɑ s	m n c	U+0072 U+0020 U+0251 U+0020 U+0073	14	Written_Burmese	mrɑs⁴, phrɑs⁴, phrɑs⁴, hrɑs⁴, hrɑs⁴
+rɑȵ	r ɑ ȵ	r ɑ ȵ	m n c	U+0072 U+0020 U+0251 U+0020 U+0235	14	Written_Burmese	krɑȵ¹, krɑȵ², prɑȵ², mrɑȵ³, prɑȵ¹
+rɑk	r ɑ k	r ɑ k	m n c	U+0072 U+0020 U+0251 U+0020 U+006b	13	Written_Burmese	mrɑk⁴, krɑk⁴, krɑk⁴, krɑk⁴, krɑk⁴
+rɔk	r ɔ k	r ɔ k	m n c	U+0072 U+0020 U+0254 U+0020 U+006b	10	Written_Burmese	mrɔk⁴, krɔk⁴, khrɔk⁴, khrɔk⁴, khrɔk⁴
+jɔŋ	j ɔ ŋ	j ɔ ŋ	m n c	U+006a U+0020 U+0254 U+0020 U+014b	10	Written_Burmese	khjɔŋ³, khjɔŋ³, khjɔŋ³, khjɔŋ³, khjɔŋ³
+wɑj	w ɑ j	w ɑ j	m n c	U+0077 U+0020 U+0251 U+0020 U+006a	9	Written_Burmese	wɑj², nwɑj²², tθwɑj², wɑj², lwɑj²
+rɑṁ	r ɑ ṁ	r ɑ ṁ	m n c	U+0072 U+0020 U+0251 U+0020 U+1e41	8	Written_Burmese	krɑṁ², khrɑṁ², khrɑṁ², krɑṁ¹, krɑṁ²
+wɑn	w ɑ n	w ɑ n	m n c	U+0077 U+0020 U+0251 U+0020 U+006e	7	Written_Burmese	wɑn², wɑn³, wɑn², wɑn², wɑn²
+jin	j i n	j i n	m n c	U+006a U+0020 U+0069 U+0020 U+006e	7	Written_Burmese	khjin³, khjin², kjin², khjin³, khjin³
+jɑm	j ɑ m	j ɑ m	m n c	U+006a U+0020 U+0251 U+0020 U+006d	7	Written_Burmese	khjɑm³, khjɑm³, pjɑm³, jɑm³, khjɑm³
+jɑs	j ɑ s	j ɑ s	m n c	U+006a U+0020 U+0251 U+0020 U+0073	7	Written_Burmese	kjɑs⁴, bhjɑs⁴, khjɑs⁴, kjɑs⁴, kjɑs⁴
+rɑt	r ɑ t	r ɑ t	m n c	U+0072 U+0020 U+0251 U+0020 U+0074	7	Written_Burmese	prɑt⁴, phrɑt⁴, phrɑt⁴, mrɑt⁴, phrɑt⁴
+jɑȵ	j ɑ ȵ	j ɑ ȵ	m n c	U+006a U+0020 U+0251 U+0020 U+0235	7	Written_Burmese	kjɑȵ³, kjɑȵ², kjɑȵ², khjɑȵ², khjɑȵ²
+ruṁ	r u ṁ	r u ṁ	m n c	U+0072 U+0020 U+0075 U+0020 U+1e41	6	Written_Burmese	khruṁ², hruṁ³, hruṁ³, khruṁ², mruṁ¹
+rɑm	r ɑ m	r ɑ m	m n c	U+0072 U+0020 U+0251 U+0020 U+006d	5	Written_Burmese	krɑm³, krɑm³, krɑm³, krɑm³, krɑm³
+juṁ	j u ṁ	j u ṁ	m n c	U+006a U+0020 U+0075 U+0020 U+1e41	5	Written_Burmese	juṁ², khjuṁ², gjuṁ², gjuṁ², gjuṁ²
+jɑȵ̂	j ɑ ȵ̂	j ɑ ȵ̂	m n c	U+006a U+0020 U+0251 U+0020 U+0235 U+0302	5	Written_Burmese	mjɑȵ̂³, kjɑȵ̂³, kjɑȵ̂³, pjɑȵ̂², khjɑȵ̂²
+rup	r u p	r u p	m n c	U+0072 U+0020 U+0075 U+0020 U+0070	5	Written_Burmese	hmrup⁴, hrup⁴, prup⁴, hrup⁴, hrup⁴
+jɑp	j ɑ p	j ɑ p	m n c	U+006a U+0020 U+0251 U+0020 U+0070	5	Written_Burmese	khjɑp⁴, kjɑp⁴, kjɑp⁴, kjɑp⁴, kjɑp⁴
+jɑt	j ɑ t	j ɑ t	m n c	U+006a U+0020 U+0251 U+0020 U+0074	5	Written_Burmese	phjɑt⁴, pjɑt⁴, phjɑt⁴, khjɑt⁴, phjɑt⁴
+jɑn	j ɑ n	j ɑ n	m n c	U+006a U+0020 U+0251 U+0020 U+006e	5	Written_Burmese	kjɑn², kjɑn², kjɑn², khjɑn², phjɑn³
+joŋ	j o ŋ	j o ŋ	m n c	U+006a U+0020 U+006f U+0020 U+014b	4	Written_Burmese	khjoŋ³, kjoŋ³, khjoŋ¹, khjoŋ³
+rut	r u t	r u t	m n c	U+0072 U+0020 U+0075 U+0020 U+0074	4	Written_Burmese	prut⁴, prut⁴, krut⁴, phrut⁴
+wɑm	w ɑ m	w ɑ m	m n c	U+0077 U+0020 U+0251 U+0020 U+006d	4	Written_Burmese	wɑm³, wɑm³, wɑm³, nwɑm³
+rit	r i t	r i t	m n c	U+0072 U+0020 U+0069 U+0020 U+0074	4	Written_Burmese	krit⁴, krit⁴, krit⁴, mrit⁴
+rwɑk	rw ɑ k	rw ɑ k	m n c	U+0072 U+0077 U+0020 U+0251 U+0020 U+006b	4	Written_Burmese	krwɑk⁴, krwɑk⁴, krwɑk⁴, krwɑk⁴
+jɑṁ	j ɑ ṁ	j ɑ ṁ	m n c	U+006a U+0020 U+0251 U+0020 U+1e41	4	Written_Burmese	pjɑṁ², phjɑṁ², pjɑṁ², pjɑṁ²
+jit	j i t	j i t	m n c	U+006a U+0020 U+0069 U+0020 U+0074	4	Written_Burmese	khjit⁴, khjit⁴, khjit⁴, khjit⁴
+lup	l u p	l u p	m n c	U+006c U+0020 U+0075 U+0020 U+0070	4	Written_Burmese	hlup⁴, hlup⁴, hlup⁴, hlup⁴
+jon	j o n	j o n	m n c	U+006a U+0020 U+006f U+0020 U+006e	4	Written_Burmese	khjon², khjon², khjon², khjon²
+lɑȵ	l ɑ ȵ	l ɑ ȵ	m n c	U+006c U+0020 U+0251 U+0020 U+0235	4	Written_Burmese	hlɑȵ¹, hlɑȵ¹, hlɑȵ¹, hlɑȵ¹
+wɑṁ	w ɑ ṁ	w ɑ ṁ	m n c	U+0077 U+0020 U+0251 U+0020 U+1e41	3	Written_Burmese	wɑṁ², shwɑṁ¹, wɑṁ²
+rim	r i m	r i m	m n c	U+0072 U+0020 U+0069 U+0020 U+006d	3	Written_Burmese	krim², ŋrim³, ŋrim³
+lɑn	l ɑ n	l ɑ n	m n c	U+006c U+0020 U+0251 U+0020 U+006e	3	Written_Burmese	hlɑn³, hlɑn³, hlɑn²
+jun	j u n	j u n	m n c	U+006a U+0020 U+0075 U+0020 U+006e	3	Written_Burmese	jun², jun², jun²
+wɑt	w ɑ t	w ɑ t	m n c	U+0077 U+0020 U+0251 U+0020 U+0074	3	Written_Burmese	wɑt⁴, wɑt⁴, wɑt⁴
+jwɑm	jw ɑ m	jw ɑ m	m n c	U+006a U+0077 U+0020 U+0251 U+0020 U+006d	2	Written_Burmese	kjwɑm³, kjwɑm³
+rɑj	r ɑ j	r ɑ j	m n c	U+0072 U+0020 U+0251 U+0020 U+006a	2	Written_Burmese	krɑj², krɑj²
+rop	r o p	r o p	m n c	U+0072 U+0020 U+006f U+0020 U+0070	2	Written_Burmese	krop⁴, krop⁴
+wɑp	w ɑ p	w ɑ p	m n c	U+0077 U+0020 U+0251 U+0020 U+0070	2	Written_Burmese	wɑp⁴, wɑp⁴
+rok	r o k	r o k	m n c	U+0072 U+0020 U+006f U+0020 U+006b	2	Written_Burmese	krok⁴, krok⁴
+jup	j u p	j u p	m n c	U+006a U+0020 U+0075 U+0020 U+0070	2	Written_Burmese	khjup⁴, khjup⁴
+lot	l o t	l o t	m n c	U+006c U+0020 U+006f U+0020 U+0074	2	Written_Burmese	hlot⁴, hlot⁴
+jim	j i m	j i m	m n c	U+006a U+0020 U+0069 U+0020 U+006d	2	Written_Burmese	jim³, jim³
+lim	l i m	l i m	m n c	U+006c U+0020 U+0069 U+0020 U+006d	2	Written_Burmese	hlim¹, hlim¹
+rɑȵ̂	r ɑ ȵ̂	r ɑ ȵ̂	m n c	U+0072 U+0020 U+0251 U+0020 U+0235 U+0302	2	Written_Burmese	hrɑȵ̂¹, hrɑȵ̂³
+luṁ	l u ṁ	l u ṁ	m n c	U+006c U+0020 U+0075 U+0020 U+1e41	2	Written_Burmese	hluṁ², hluṁ²
 jwɑŋ	jw ɑ ŋ	jw ɑ ŋ	m n c	U+006a U+0077 U+0020 U+0251 U+0020 U+014b	1	Written_Burmese	jwɑŋ³
-mit	m i t	m i t	m n c	U+006d U+0020 U+0069 U+0020 U+0074	1	Written_Burmese	hmit⁴
-mrup	mr u p	mr u p	m n c	U+006d U+0072 U+0020 U+0075 U+0020 U+0070	1	Written_Burmese	hmrup⁴
 jwɑṁ	jw ɑ ṁ	jw ɑ ṁ	m n c	U+006a U+0077 U+0020 U+0251 U+0020 U+1e41	1	Written_Burmese	kjwɑṁ²
 woŋ	w o ŋ	w o ŋ	m n c	U+0077 U+0020 U+006f U+0020 U+014b	1	Written_Burmese	woŋ³
-noŋ	n o ŋ	n o ŋ	m n c	U+006e U+0020 U+006f U+0020 U+014b	1	Written_Burmese	hnoŋ³
 ljɔk	lj ɔ k	lj ɔ k	m n c	U+006c U+006a U+0020 U+0254 U+0020 U+006b	1	Written_Burmese	hljɔk⁴
 run	r u n	r u n	m n c	U+0072 U+0020 U+0075 U+0020 U+006e	1	Written_Burmese	prun³
 lɑj	l ɑ j	l ɑ j	m n c	U+006c U+0020 U+0251 U+0020 U+006a	1	Written_Burmese	hlɑj²
-mɑik	m ɑi k	m ɑi k	m n c	U+006d U+0020 U+0251 U+0069 U+0020 U+006b	1	Written_Burmese	hmɑik⁴
-mun	m u n	m u n	m n c	U+006d U+0020 U+0075 U+0020 U+006e	1	Written_Burmese	hmun¹
-mok	m o k	m o k	m n c	U+006d U+0020 U+006f U+0020 U+006b	1	Written_Burmese	hmok⁴
 ljɑp	lj ɑ p	lj ɑ p	m n c	U+006c U+006a U+0020 U+0251 U+0020 U+0070	1	Written_Burmese	hljɑp⁴
-nut	n u t	n u t	m n c	U+006e U+0020 U+0075 U+0020 U+0074	1	Written_Burmese	hnut⁴
 rwɑm	rw ɑ m	rw ɑ m	m n c	U+0072 U+0077 U+0020 U+0251 U+0020 U+006d	1	Written_Burmese	hrwɑm¹
 roŋ	r o ŋ	r o ŋ	m n c	U+0072 U+0020 U+006f U+0020 U+014b	1	Written_Burmese	kroŋ³
 ljɑṁ	lj ɑ ṁ	lj ɑ ṁ	m n c	U+006c U+006a U+0020 U+0251 U+0020 U+1e41	1	Written_Burmese	hljɑṁ²
-ȵon	ȵ o n	ȵ o n	m n c	U+0235 U+0020 U+006f U+0020 U+006e	1	Written_Burmese	hȵon³
-nip	n i p	n i p	m n c	U+006e U+0020 U+0069 U+0020 U+0070	1	Written_Burmese	hnip⁴
-mrɔk	mr ɔ k	mr ɔ k	m n c	U+006d U+0072 U+0020 U+0254 U+0020 U+006b	1	Written_Burmese	hmrɔk⁴
-ȵɑŋ	ȵ ɑ ŋ	ȵ ɑ ŋ	m n c	U+0235 U+0020 U+0251 U+0020 U+014b	1	Written_Burmese	hȵɑŋ³
-mɑȵ	m ɑ ȵ	m ɑ ȵ	m n c	U+006d U+0020 U+0251 U+0020 U+0235	1	Written_Burmese	hmɑȵ¹
 tɑm̩	t ɑ m̩	t ɑ m̩	m n c	U+0074 U+0020 U+0251 U+0020 U+006d U+0329	1	Written_Burmese	htɑm̩²
-nɑm	n ɑ m	n ɑ m	m n c	U+006e U+0020 U+0251 U+0020 U+006d	1	Written_Burmese	hnɑm³
-ȵɔŋ	ȵ ɔ ŋ	ȵ ɔ ŋ	m n c	U+0235 U+0020 U+0254 U+0020 U+014b	1	Written_Burmese	hȵɔŋ¹
 lɑm	l ɑ m	l ɑ m	m n c	U+006c U+0020 U+0251 U+0020 U+006d	1	Written_Burmese	hlɑm³
 jot	j o t	j o t	m n c	U+006a U+0020 U+006f U+0020 U+0074	1	Written_Burmese	khjot⁴
-mrɔŋ	mr ɔ ŋ	mr ɔ ŋ	m n c	U+006d U+0072 U+0020 U+0254 U+0020 U+014b	1	Written_Burmese	hmrɔŋ²
 loŋ	l o ŋ	l o ŋ	m n c	U+006c U+0020 U+006f U+0020 U+014b	1	Written_Burmese	hloŋ³
 jɑj	j ɑ j	j ɑ j	m n c	U+006a U+0020 U+0251 U+0020 U+006a	1	Written_Burmese	kjɑj²
-we	w e	w e	m n	U+0077 U+0020 U+0065	65	Written_Burmese	ŋwe¹
-wɑ	w ɑ	w ɑ	m n	U+0077 U+0020 U+0251	36	Written_Burmese	bhwɑ³
-ri	r i	r i	m n	U+0072 U+0020 U+0069	33	Written_Burmese	pri³
-re	r e	r e	m n	U+0072 U+0020 U+0065	32	Written_Burmese	hre³
-jɑ	j ɑ	j ɑ	m n	U+006a U+0020 U+0251	31	Written_Burmese	kjɑ¹
-wɑi	w ɑi	w ɑi	m n	U+0077 U+0020 U+0251 U+0069	29	Written_Burmese	khwɑi³
-rɑ	r ɑ	r ɑ	m n	U+0072 U+0020 U+0251	21	Written_Burmese	mrɑ³
-jo	j o	j o	m n	U+006a U+0020 U+006f	20	Written_Burmese	mjo³
-jɔ	j ɔ	j ɔ	m n	U+006a U+0020 U+0254	19	Written_Burmese	jɔ³
-ro	r o	r o	m n	U+0072 U+0020 U+006f	19	Written_Burmese	kro¹
-je	j e	j e	m n	U+006a U+0020 U+0065	13	Written_Burmese	khje³
-wɑɑ	w ɑɑ	w ɑɑ	m n	U+0077 U+0020 U+0251 U+0251	13	Written_Burmese	wɑɑ²²
-rɑɑ	r ɑɑ	r ɑɑ	m n	U+0072 U+0020 U+0251 U+0251	10	Written_Burmese	prɑɑ²
-ru	r u	r u	m n	U+0072 U+0020 U+0075	10	Written_Burmese	kru³
-rwe	rw e	rw e	m n	U+0072 U+0077 U+0020 U+0065	8	Written_Burmese	hrwe²
-rɑi	r ɑi	r ɑi	m n	U+0072 U+0020 U+0251 U+0069	6	Written_Burmese	prɑi³
-le	l e	l e	m n	U+006c U+0020 U+0065	6	Written_Burmese	hle²
-ji	j i	j i	m n	U+006a U+0020 U+0069	6	Written_Burmese	kji²
-ju	j u	j u	m n	U+006a U+0020 U+0075	6	Written_Burmese	kju³
-mjɑ	mj ɑ	mj ɑ	m n	U+006d U+006a U+0020 U+0251	4	Written_Burmese	hmjɑ¹
-nɑɑ	n ɑɑ	n ɑɑ	m n	U+006e U+0020 U+0251 U+0251	4	Written_Burmese	hnɑɑ²
-jɑɑ	j ɑɑ	j ɑɑ	m n	U+006a U+0020 U+0251 U+0251	4	Written_Burmese	jɑɑ²
-rɔ	r ɔ	r ɔ	m n	U+0072 U+0020 U+0254	4	Written_Burmese	prɔ³
-ljɔ	lj ɔ	lj ɔ	m n	U+006c U+006a U+0020 U+0254	3	Written_Burmese	hljɔ³
-mwe	mw e	mw e	m n	U+006d U+0077 U+0020 U+0065	3	Written_Burmese	hmwe³
-mɑ	m ɑ	m ɑ	m n	U+006d U+0020 U+0251	3	Written_Burmese	hmɑ³
-lwɑ	lw ɑ	lw ɑ	m n	U+006c U+0077 U+0020 U+0251	3	Written_Burmese	hlwɑ¹
-ljo	lj o	lj o	m n	U+006c U+006a U+0020 U+006f	3	Written_Burmese	hljo¹
-ŋɑ	ŋ ɑ	ŋ ɑ	m n	U+014b U+0020 U+0251	2	Written_Burmese	hŋɑ³
-jwɑi	jw ɑi	jw ɑi	m n	U+006a U+0077 U+0020 U+0251 U+0069	2	Written_Burmese	jwɑi³
-mi	m i	m i	m n	U+006d U+0020 U+0069	2	Written_Burmese	hmi²
-li	l i	l i	m n	U+006c U+0020 U+0069	2	Written_Burmese	hli³
-jwe	jw e	jw e	m n	U+006a U+0077 U+0020 U+0065	2	Written_Burmese	khjwe³
-lɑi	l ɑi	l ɑi	m n	U+006c U+0020 U+0251 U+0069	2	Written_Burmese	hlɑi³
-lɔ	l ɔ	l ɔ	m n	U+006c U+0020 U+0254	2	Written_Burmese	hlɔ²
+we	w e	w e	m n	U+0077 U+0020 U+0065	69	Written_Burmese	ŋwe¹, mwe³, mwe³, kwe³, mwe³
+wɑ	w ɑ	w ɑ	m n	U+0077 U+0020 U+0251	36	Written_Burmese	bhwɑ³, pwɑ¹, wɑ³, nwɑ³, nwɑ³
+jɑ	j ɑ	j ɑ	m n	U+006a U+0020 U+0251	35	Written_Burmese	kjɑ¹, hmjɑ¹, pjɑ³, mjɑ³, kjɑ³
+ri	r i	r i	m n	U+0072 U+0020 U+0069	33	Written_Burmese	pri³, kri³, kri³, hri¹, kri³
+re	r e	r e	m n	U+0072 U+0020 U+0065	32	Written_Burmese	hre³, khre², phre², khre², kre³
+wɑi	w ɑi	w ɑi	m n	U+0077 U+0020 U+0251 U+0069	29	Written_Burmese	khwɑi³, kwɑi³, khwɑi³, kwɑi³, phwɑi³
+rɑ	r ɑ	r ɑ	m n	U+0072 U+0020 U+0251	21	Written_Burmese	mrɑ³, mrɑ¹, khrɑ³, prɑ³, prɑ¹
+jo	j o	j o	m n	U+006a U+0020 U+006f	20	Written_Burmese	mjo³, mjo³, kjo³, kjo³, khjo²
+jɔ	j ɔ	j ɔ	m n	U+006a U+0020 U+0254	20	Written_Burmese	jɔ³, pjɔ², kjɔ³, khjɔ¹, ljɔ²
+ro	r o	r o	m n	U+0072 U+0020 U+006f	19	Written_Burmese	kro¹, kro³, kro³, hro¹, pro²
+wɑɑ	w ɑɑ	w ɑɑ	m n	U+0077 U+0020 U+0251 U+0251	14	Written_Burmese	wɑɑ²², wɑɑ², kwɑɑ², rwɑɑ², khwɑɑ²
+je	j e	j e	m n	U+006a U+0020 U+0065	13	Written_Burmese	khje³, khje², kje², khje³, khje³
+rɑɑ	r ɑɑ	r ɑɑ	m n	U+0072 U+0020 U+0251 U+0251	10	Written_Burmese	prɑɑ², prɑɑ², krɑɑ², hrɑɑ², hrɑɑ²
+ru	r u	r u	m n	U+0072 U+0020 U+0075	10	Written_Burmese	kru³, mru², phru², phru², hru²
+rwe	rw e	rw e	m n	U+0072 U+0077 U+0020 U+0065	8	Written_Burmese	hrwe², hrwe¹, krwe³, hrwe², mrwe²
+rɑi	r ɑi	r ɑi	m n	U+0072 U+0020 U+0251 U+0069	6	Written_Burmese	prɑi³, krɑi³, phrɑi³, krɑi³, phrɑi³
+le	l e	l e	m n	U+006c U+0020 U+0065	6	Written_Burmese	hle², hle², hle³, hle², hle²
+ji	j i	j i	m n	U+006a U+0020 U+0069	6	Written_Burmese	kji², khji³, kji³, khji², kji²
+ju	j u	j u	m n	U+006a U+0020 U+0075	6	Written_Burmese	kju³, ju², ju², ju², ju²
+jɑɑ	j ɑɑ	j ɑɑ	m n	U+006a U+0020 U+0251 U+0251	4	Written_Burmese	jɑɑ², phjɑɑ², jɑɑ², jɑɑ²
+rɔ	r ɔ	r ɔ	m n	U+0072 U+0020 U+0254	4	Written_Burmese	prɔ³, prɔ³, prɔ³, krɔ³
+ljɔ	lj ɔ	lj ɔ	m n	U+006c U+006a U+0020 U+0254	3	Written_Burmese	hljɔ³, hljɔ², hljɔ²
+lwɑ	lw ɑ	lw ɑ	m n	U+006c U+0077 U+0020 U+0251	3	Written_Burmese	hlwɑ¹, hlwɑ¹, hlwɑ³
+ljo	lj o	lj o	m n	U+006c U+006a U+0020 U+006f	3	Written_Burmese	hljo¹, hljo², hljo²
+jwɑi	jw ɑi	jw ɑi	m n	U+006a U+0077 U+0020 U+0251 U+0069	2	Written_Burmese	jwɑi³, kjwɑi³
+li	l i	l i	m n	U+006c U+0020 U+0069	2	Written_Burmese	hli³, hli³
+jwe	jw e	jw e	m n	U+006a U+0077 U+0020 U+0065	2	Written_Burmese	khjwe³, khjwe³
+lɑi	l ɑi	l ɑi	m n	U+006c U+0020 U+0251 U+0069	2	Written_Burmese	hlɑi³, hlɑi³
+lɔ	l ɔ	l ɔ	m n	U+006c U+0020 U+0254	2	Written_Burmese	hlɔ², hlɔ²
 lɑ	l ɑ	l ɑ	m n	U+006c U+0020 U+0251	1	Written_Burmese	hlɑ¹
-ȵi	ȵ i	ȵ i	m n	U+0235 U+0020 U+0069	1	Written_Burmese	hȵi²
 tɑ	t ɑ	t ɑ	m n	U+0074 U+0020 U+0251	1	Written_Burmese	htɑ³
-nɒ	n ɒ	n ɒ	m n	U+006e U+0020 U+0252	1	Written_Burmese	hnɒ¹
-nwe	nw e	nw e	m n	U+006e U+0077 U+0020 U+0065	1	Written_Burmese	hnwe³
-mjɔ	mj ɔ	mj ɔ	m n	U+006d U+006a U+0020 U+0254	1	Written_Burmese	hmjɔ¹
-mo	m o	m o	m n	U+006d U+0020 U+006f	1	Written_Burmese	hmo²
 jii	j ii	j ii	m n	U+006a U+0020 U+0069 U+0069	1	Written_Burmese	khjii²
 jɑi	j ɑi	j ɑi	m n	U+006a U+0020 U+0251 U+0069	1	Written_Burmese	jɑi³
-nwɑɑ	nw ɑɑ	nw ɑɑ	m n	U+006e U+0077 U+0020 U+0251 U+0251	1	Written_Burmese	hnwɑɑ²
-ne	n e	n e	m n	U+006e U+0020 U+0065	1	Written_Burmese	hne³
 ljɑɑ	lj ɑɑ	lj ɑɑ	m n	U+006c U+006a U+0020 U+0251 U+0251	1	Written_Burmese	hljɑɑ²
 lɑɑ	l ɑɑ	l ɑɑ	m n	U+006c U+0020 U+0251 U+0251	1	Written_Burmese	hlɑɑ²
-mɑɑ	m ɑɑ	m ɑɑ	m n	U+006d U+0020 U+0251 U+0251	1	Written_Burmese	hmɑɑ²
-mɔ	m ɔ	m ɔ	m n	U+006d U+0020 U+0254	1	Written_Burmese	hmɔ²
-nɑ	n ɑ	n ɑ	m n	U+006e U+0020 U+0251	1	Written_Burmese	hnɑ¹
 rɑŋ	r ɑŋ	r ɑŋ	m c	U+0072 U+0020 U+0251 U+014b	1	Written_Burmese	mrɑŋ
-k	k	k	i	U+006b	310	Written_Burmese	kɑn²
-p	p	p	i	U+0070	256	Written_Burmese	pri³
-kh	kh	kh	i	U+006b U+0068	226	Written_Burmese	khu³
-m	m	m	i	U+006d	222	Written_Burmese	mjo³
-h	h	h	i	U+0068	214	Written_Burmese	hnɑs⁴
-tθ	tθ	tθ	i	U+0074 U+03b8	195	Written_Burmese	tθɑs⁴
-t	t	t	i	U+0074	189	Written_Burmese	tɑ¹
-l	l	l	i	U+006c	188	Written_Burmese	lu²
-s	s	s	i	U+0073	148	Written_Burmese	se¹
-r	r	r	i	U+0072	138	Written_Burmese	rɑ³
-sh	sh	sh	i	U+0073 U+0068	131	Written_Burmese	shun²
-n	n	n	i	U+006e	118	Written_Burmese	nɑŋ³
-th	th	th	i	U+0074 U+0068	114	Written_Burmese	thɑȵ³
-ph	ph	ph	i	U+0070 U+0068	94	Written_Burmese	phre²
-bh	bh	bh	i	U+0062 U+0068	45	Written_Burmese	bhu¹
-ŋ	ŋ	ŋ	i	U+014b	32	Written_Burmese	ŋɑɑ²
-ȵ	ȵ	ȵ	i	U+0235	25	Written_Burmese	ȵɑṁ¹
-d	d	d	i	U+0064	17	Written_Burmese	dɑɑ²
-g	g	g	i	U+0067	15	Written_Burmese	gɑɑ²
-z	z	z	i	U+007a	9	Written_Burmese	zɑk⁴
-b	b	b	i	U+0062	6	Written_Burmese	bok⁴
-dh	dh	dh	i	U+0064 U+0068	5	Written_Burmese	dhɑ³
-zh	zh	zh	i	U+007a U+0068	4	Written_Burmese	zhe³
-ṇ	ṇ	ṇ	i	U+1e47	2	Written_Burmese	ṇi¹
+k	k	k	i	U+006b	309	Written_Burmese	kɑn², krɑṁ², kjɑŋ¹, kok⁴, kjɑ¹
+p	p	p	i	U+0070	256	Written_Burmese	pri³, prɔŋ³, pwɑ¹, pɑ¹, pjɔ²
+kh	kh	kh	i	U+006b U+0068	225	Written_Burmese	khu³, khɑṁ², khɑŋ², khjɑŋ², khjin³
+m	m	m	i	U+006d	222	Written_Burmese	mjo³, mjo³, mrɔk⁴, mjɑk⁴, mɔŋ³
+tθ	tθ	tθ	i	U+0074 U+03b8	195	Written_Burmese	tθɑs⁴, tθɑŋ³, tθɑk⁴, tθɑ¹, tθɑ¹
+t	t	t	i	U+0074	189	Written_Burmese	tɑ¹, tɑn², tɑ¹, ti¹, tɑ¹
+l	l	l	i	U+006c	188	Written_Burmese	lu², lɑɑ², lu², lu², luṁ³
+s	s	s	i	U+0073	148	Written_Burmese	se¹, su¹, se², si¹, sɑ¹
+r	r	r	i	U+0072	138	Written_Burmese	rɑ³, rutʔ⁴, rɑk⁴, rɑṁ², rɑi³
+sh	sh	sh	i	U+0073 U+0068	131	Written_Burmese	shun², sho², shɑɑn², shit⁴, shin²
+n	n	n	i	U+006e	118	Written_Burmese	nɑŋ³, ne¹, nɑṁ², nɑ¹, no¹
+h	h	h	i	U+0068	116	Written_Burmese	hrɑŋ², hre³, hrɔŋ², hɔŋ², hut⁴
+th	th	th	i	U+0074 U+0068	114	Written_Burmese	thɑȵ³, thip⁴, thup⁴, thɔŋ³, tho³
+ph	ph	ph	i	U+0070 U+0068	94	Written_Burmese	phre², phɑn², phi³, phrɑs⁴, phi¹
+bh	bh	bh	i	U+0062 U+0068	45	Written_Burmese	bhu¹, bhɑk⁴, bho³, bhwɑ³, bhi²
+hn	hn	hn	i	U+0068 U+006e	44	Written_Burmese	hnɑs⁴, hnɑp⁴, hnɔk⁴, hnɑs⁴, hnɑs⁴
+hm	hm	hm	i	U+0068 U+006d	37	Written_Burmese	hmɑn², hmjɑ¹, hmɑn³, hmit⁴, hmut⁴
+ŋ	ŋ	ŋ	i	U+014b	32	Written_Burmese	ŋɑɑ², ŋwe¹, ŋo², ŋɑj², ŋrim³
+ȵ	ȵ	ȵ	i	U+0235	25	Written_Burmese	ȵɑṁ¹, ȵi², ȵi², ȵɑs⁴, ȵɑs⁴
+d	d	d	i	U+0064	17	Written_Burmese	dɑɑ², dɑn², dɔ³, dɔ², dɔ²
+g	g	g	i	U+0067	15	Written_Burmese	gɑɑ², gu², gɑ³, gjuṁ², gɑt⁴
+hȵ	hȵ	hȵ	i	U+0068 U+0235	11	Written_Burmese	hȵɑs⁴, hȵi², hȵɑp⁴, hȵon³, hȵɑs⁴
+z	z	z	i	U+007a	9	Written_Burmese	zɑk⁴, zɑ¹, zɑȵ̂³, zɑɑ², zɔŋ³
+b	b	b	i	U+0062	6	Written_Burmese	bok⁴, bot⁴, buṁ², bi¹, bɔ³
+hŋ	hŋ	hŋ	i	U+0068 U+014b	6	Written_Burmese	hŋɑk⁴, hŋɑ³, hŋɑk⁴, hŋɑ³, hŋɑk⁴
+dh	dh	dh	i	U+0064 U+0068	5	Written_Burmese	dhɑ³, dhɑ³, dhɑ³, dhɑ³, dhɑ³
+zh	zh	zh	i	U+007a U+0068	4	Written_Burmese	zhe³, zhe³, zhe³, zhe³
+ṇ	ṇ	ṇ	i	U+1e47	2	Written_Burmese	ṇi¹, ṇɑ¹
+khjȵ̂	khjȵ̂	khjȵ̂	i	U+006b U+0068 U+006a U+0235 U+0302	1	Written_Burmese	khjȵ̂²
 m̥	m̥	m̥	i	U+006d U+0325	1	Written_Burmese	m̥ɑi¹
+kŋ	kŋ	kŋ	i	U+006b U+014b	1	Written_Burmese	kŋɑk⁴
 ts	ts	ts	i	U+0074 U+0073	1	Written_Burmese	tsi²
-ɑk	ɑk	ɑk	c	U+0251 U+006b	6	Written_Burmese	rɑk
+ɑk	ɑk	ɑk	c	U+0251 U+006b	6	Written_Burmese	rɑk, rɑk, phɑk, sɑk, pɑk
 ɑȵ̂	ɑȵ̂	ɑȵ̂	c	U+0251 U+0235 U+0302	1	Written_Burmese	sɑȵ̂
 uṁ	uṁ	uṁ	c	U+0075 U+1e41	1	Written_Burmese	phuṁ
 it	it	it	c	U+0069 U+0074	1	Written_Burmese	shit
