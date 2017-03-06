@@ -1,3 +1,5 @@
+## Summary
+
 This book, of 
 * 40 pages, 
 
@@ -9,7 +11,41 @@ which has
 
 according to our mapping of it to the concepticon. 
 
-The bibtex details
+## Doculects
+
+BED | Wannemacher2011 | Abbreviation | Source | Note on Source
+--- | --- | --- | --- | ---
+Lashi | Lacid | L | Wannemacher2011 | 
+
+## Notes on Sources
+
+* none 
+
+## Notes on Concept List
+
+* Concepticon: mapped to the concepticon by Nathan W. Hill on 29 October 2016. 
+
+## Notes on Arrangement
+
+The book contains
+
+* xxx
+* xxx
+* xxx 
+
+## Notes on Reconstruction
+
+* NA
+
+## Digitization Information
+
+* Digitized by Nathan W. Hill on 28 October 2016. 
+
+## Notes on Orthography Profile
+
+* xxx
+
+## The bibtex details
 
 * Book{Wannemacher2011,
 * title     = {A Phonological Overview of the Lacid Language},

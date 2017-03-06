@@ -5,6 +5,7 @@ contains information about three dialects of Āchāng, viz.
 * 陇川方言
 * 架河方言
 * 潞西方言. 
+
 There is a
 * 36 page vocabulary 
 which I estimate to have 
@@ -12,9 +13,11 @@ which I estimate to have
 
 ## Doculects
 
-BED | Dai1985 | Abbreviation | Source | Note on Source
---- | --- | --- | --- | ---
-Achang | 阿昌 | A | Dai1985 | 
+BED | Dai1985 |  Source | Note on Source
+--- | --- | --- | --- 
+Longchuan_Achang |  陇川 | Dai1985 | 
+Jiahe_Achang | 架河 | Dai1985 |
+Luxi_Achang | 潞西 | Dai1985 |
 
 ## Notes on Sources
 

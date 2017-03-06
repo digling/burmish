@@ -1,7 +1,7 @@
-ID	CDDB
-Achang	Achang
-Bela	Bola
-Lashi	Lashi
-Maru	Maru
-Zaiwa	Atsi
-Phon	Hpun
+ID,CDDB,Abbreviation,Source,Note on Source
+Achang,Achang,A,Wannemacher1995,unpublished
+Zaiwa,Atsi,Z,Wannemacher1995,unpublished
+Lashi,Lashi,L,Wannemacher1995,unpublished
+Maru,Maru,M,Wannemacher1995,unpublished
+Phon,Hpun,P,Henderson1986,
+Bela,Bola,B,Emdondson1992,unpublished

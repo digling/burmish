@@ -34,7 +34,7 @@ The chapter contains
 
 ## Digitization Information
 
-* Digitized by Astrid Otto, delivered on xxx January 2017.
+* Digitized by Astrid Otto, delivered on 18 January 2017.
 
 ## Notes on Orthography Profile
 

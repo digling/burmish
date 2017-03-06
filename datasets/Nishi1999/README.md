@@ -14,7 +14,7 @@ Achang          | Achang          | Huang1992, Xu1984 | ACH          |
 Xiandao         | Xiandao         | Huang1992 | XIA          |
 Atsi            | Zaiwa           | Huang1992, Dai1985 | ZAI          |
 Lashi           | Leqi            | Huang1992 | LEQ          |
-Maru            | Langsu          | Huang1992 |
+Maru            | Langsu          | Huang1992 | LAN
 Bola            | Bola            | Huang1992 | BOL          |
 
 ## Notes on Orthography Profile
@@ -62,3 +62,12 @@ Using our Bibtex keys these works are.
 ## Information on Word List and Cognate Coding
 
 * Nishi1999 only offers comparisons at the morpheme and not at the word level
+
+## The bibtex details
+
+* @Book{Nishi1999,
+*  Title                    = {Four papers on Burmese: Toward the history of Burmese (the Myanmar language).},
+*  Address                  = {Tokyo},
+*  Author                   = {Nishi, Yoshio},
+*  Publisher                = {Institute for the study of languages and cultures of Asia and Africa, Tokyo University of Foreign Studies},
+*  Year                     = {1999}
