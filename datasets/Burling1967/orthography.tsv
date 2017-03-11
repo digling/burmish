@@ -12,24 +12,24 @@ am	a m	n c	U+0061 U+0020 U+006d	23	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
 um	u m	n c	U+0075 U+0020 U+006d	19	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
 oʔ	o ʔ	n c	U+006f U+0020 U+0294	13	Proto-Lolo
 oŋ	o ŋ	n c	U+006f U+0020 U+014b	13	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
-yiŋ	yi ŋ	n c	U+0079 U+0069 U+0020 U+014b	11	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+yiŋ	j i ŋ	i n c	U+0079 U+0069 U+0020 U+014b	11	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
 iŋ	i ŋ	n c	U+0069 U+0020 U+014b	10	Proto-Lolo-Burmese,Proto-Lolo,Proto-Burmish
-yaŋ	ya ŋ	n c	U+0079 U+0061 U+0020 U+014b	9	Proto-Lolo-Burmese,Proto-Burmish
+yaŋ	j a ŋ	i n c	U+0079 U+0061 U+0020 U+014b	9	Proto-Lolo-Burmese,Proto-Burmish
 eʔ	e ʔ	n c	U+0065 U+0020 U+0294	7	Proto-Lolo
-yaʔ	ya ʔ	n c	U+0079 U+0061 U+0020 U+0294	7	Proto-Lolo,Proto-Lolo-Burmese
+yaʔ	j a ʔ	i n c	U+0079 U+0061 U+0020 U+0294	7	Proto-Lolo,Proto-Lolo-Burmese
 ut	u t	n c	U+0075 U+0020 U+0074	6	Proto-Lolo-Burmese,Proto-Lolo
 an	a n	n c	U+0061 U+0020 U+006e	6	Proto-Burmish
 un	u n	n c	U+0075 U+0020 U+006e	6	Proto-Burmish
 uʔ	u ʔ	n c	U+0075 U+0020 U+0294	5	Proto-Lolo
 ok	o k	n c	U+006f U+0020 U+006b	4	Proto-Lolo-Burmese
-yok	yo k	n c	U+0079 U+006f U+0020 U+006b	4	Proto-Lolo-Burmese
+yok	j o k	i n c	U+0079 U+006f U+0020 U+006b	4	Proto-Lolo-Burmese
 at	a t	n c	U+0061 U+0020 U+0074	4	Proto-Lolo-Burmese
-yan	ya n	n c	U+0079 U+0061 U+0020 U+006e	3	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
-yum	yu m	n c	U+0079 U+0075 U+0020 U+006d	3	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
-yoŋ	yo ŋ	n c	U+0079 U+006f U+0020 U+014b	3	Proto-Lolo-Burmese,Proto-Burmish
-yam	ya m	n c	U+0079 U+0061 U+0020 U+006d	2	Proto-Lolo-Burmese,Proto-Burmish
+yan	j a n	i n c	U+0079 U+0061 U+0020 U+006e	3	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+yum	j u m	i n c	U+0079 U+0075 U+0020 U+006d	3	Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
+yoŋ	j o ŋ	i n c	U+0079 U+006f U+0020 U+014b	3	Proto-Lolo-Burmese,Proto-Burmish
+yam	j a m	i n c	U+0079 U+0061 U+0020 U+006d	2	Proto-Lolo-Burmese,Proto-Burmish
 lV	l V	n c	U+006c U+0020 U+0056	2	Proto-Burmish
-yap	ya p	n c	U+0079 U+0061 U+0020 U+0070	2	Proto-Lolo-Burmese,Proto-Lolo
+yap	j a p	i n c	U+0079 U+0061 U+0020 U+0070	2	Proto-Lolo-Burmese,Proto-Lolo
 āmt	ā mt	n c	U+0101 U+0020 U+006d U+0074	1	Maru
 úŋk	ú ŋk	n c	U+00fa U+0020 U+014b U+006b	1	Atsi
 ap	a p	n c	U+0061 U+0020 U+0070	1	Proto-Lolo-Burmese
