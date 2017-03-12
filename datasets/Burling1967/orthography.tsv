@@ -413,22 +413,22 @@ yok	j o k	i n c	U+0079 U+006f U+006b	5	Maru,Proto-Burmish
 ám	á/a m H	n c t	U+00e1 U+006d	5	Atsi
 yó	j ó/o H	i n t	U+0079 U+00f3	5	Maru,Atsi
 ām	ā/a m M	n c t	U+0101 U+006d	4	Atsi,Maru
-âu	âu	c	U+00e2 U+0075	4	Atsi
-yō	jō	c	U+0079 U+014d	4	Maru
-yâ	jâ	c	U+0079 U+00e2	4	Lisu,Rangoon
-yî	jî	c	U+0079 U+00ee	4	Lisu,Atsi
+âu	âu/au F	n t	U+00e2 U+0075	4	Atsi
+yō	j ō/o M	i n t	U+0079 U+014d	4	Maru
+yâ	j â/a F	i n t	U+0079 U+00e2	4	Lisu,Rangoon
+yî	j î/i F	i n t	U+0079 U+00ee	4	Lisu,Atsi
 áun	áun	c	U+00e1 U+0075 U+006e	4	Atsi,Rangoon
-ûm	ûm	c	U+00fb U+006d	4	Atsi
-úm	úm	c	U+00fa U+006d	4	Atsi
-âm	âm	c	U+00e2 U+006d	4	Atsi
-ài	ài	c	U+00e0 U+0069	4	Maru,Atsi
-âŋ	âŋ	c	U+00e2 U+014b	4	Atsi
-éʔ	éʔ	c	U+00e9 U+0294	4	Maru
-yā	yā	c	U+0079 U+0101	4	Lisu,Akha,Maru
-īn	īn	c	U+012b U+006e	4	Maru
-æʔ	æʔ	c	U+00e6 U+0294	4	Lisu
-óʔ	óʔ	c	U+00f3 U+0294	4	Maru
-ûn	ûn	c	U+00fb U+006e	4	Atsi,Rangoon
+ûm	û/u m F	n c t	U+00fb U+006d	4	Atsi
+úm	ú/u m H	n c t	U+00fa U+006d	4	Atsi
+âm	â/a m F	n c t	U+00e2 U+006d	4	Atsi
+ài	ài/ai	n	U+00e0 U+0069	4	Maru,Atsi
+âŋ	â/a ŋ F	n c t	U+00e2 U+014b	4	Atsi
+éʔ	é/e ʔ H	n c t	U+00e9 U+0294	4	Maru
+yā	j ā/a M	i n t	U+0079 U+0101	4	Lisu,Akha,Maru
+īn	ī/i n M n	c t	U+012b U+006e	4	Maru
+æʔ	æ ʔ	n c	U+00e6 U+0294	4	Lisu
+óʔ	ó/o ʔ H	n c t	U+00f3 U+0294	4	Maru
+ûn	û/u n F	n c t	U+00fb U+006e	4	Atsi,Rangoon
 ùʔ	ùʔ	c	U+00f9 U+0294	4	Maru,Akha
 àn	àn	c	U+00e0 U+006e	3	Maru,Atsi
 yiʔ	yiʔ	c	U+0079 U+0069 U+0294	3	Rangoon
