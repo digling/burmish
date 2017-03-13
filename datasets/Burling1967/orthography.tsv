@@ -355,7 +355,7 @@ r	r	i	U+0072	1	Atsi
 ŋǿ	ŋ ǿ/ø H	i n t	U+014b U+01ff	1	Akha
 f	f	i	U+0066	1	Lisu
 nǿ	n ǿ/ø H	i n t	U+006e U+01ff	1	Akha
-tt	tt	i	U+0074 U+0074	1	Atsi
+tt	t + t	c + i	U+0074 U+0074	1	Atsi
 lḿ	lḿ	i	U+006c U+1e3f	1	Akha
 šḿ	šḿ	i	U+0161 U+1e3f	1	Akha
 nn	nn	i	U+006e U+006e	1	Rangoon
