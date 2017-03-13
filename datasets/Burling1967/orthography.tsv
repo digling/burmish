@@ -260,7 +260,7 @@ hn	n̥	i	U+0068 U+0020 U+006e	7	Rangoon
 kʔ	kʔ	i	U+006b U+0020 U+0294	7	Atsi,Proto-Burmish
 cʔ	tʃʔ	i	U+0063 U+0020 U+0294	7	Maru,Atsi,Proto-Burmish
 khy	kʰ j	i m	U+006b U+0020 U+0068 U+0079	7	Atsi,Maru
-ʔl	ʔ l	i m	U+0294 U+0020 U+006c	6	Lisu,Akha,Atsi
+ʔl	ʔ + l	c i	U+0294 U+0020 U+006c	6	Lisu,Akha,Atsi
 ŋʔ	ŋʔ	i	U+014b U+0020 U+0294	6	Atsi,Maru,Proto-Lolo-Burmese,Proto-Burmish,Proto-Lolo
 ŋw	ŋ w	i m	U+014b U+0020 U+0077	5	Lisu
 nw	n w	i m	U+006e U+0020 U+0077	5	Maru,Proto-Burmish,Rangoon
