@@ -1,346 +1,346 @@
-Grapheme	Segments	Structure	Unicode	Frequency	Reflexes
-a	a	n	U+0061	132	Atsi,Achang,Lashi,Hpun,Bola,Maru
-ai	a i	n N	U+0061 U+0069	29	Hpun,Bola,Lashi,Atsi,Maru,Achang
-aik	a i k	n N c	U+0061 U+0069 U+0020 U+006b	1	Achang
-ain	a i n	n N c	U+0061 U+0069 U+0020 U+006e	7	Achang,Lashi
-ait	a i t	n N c	U+0061 U+0069 U+0020 U+0074	4	Lashi,Maru
-aiŋ	ai ŋ	n c	U+0061 U+0069 U+0020 U+014b	11	Hpun
-aiɂ	ai ʔ	n c	U+0061 U+0069 U+0020 U+0242	12	Achang,Hpun
-ak	a k	n c	U+0061 U+0020 U+006b	10	Bola,Maru
-am	a m	n c	U+0061 U+0020 U+006d	50	Lashi,Bola,Maru,Atsi,Achang
-an	a n	n c	U+0061 U+0020 U+006e	24	Bola,Maru,Atsi,Achang
-ap	a p	n c	U+0061 U+0020 U+0070	17	Bola,Atsi,Maru,Achang
-at	a t	n c	U+0061 U+0020 U+0074	15	Hpun,Maru,Atsi,Achang
-au	a u	n N	U+0061 U+0075	99	Bola,Atsi,Maru,Achang,Lashi
-auk	a u k	n N c	U+0061 U+0075 U+0020 U+006b	4	Lashi,Maru
-aun	a u n	n c	U+0061 U+0075 U+0020 U+006e	4	Bola,Maru
-aup	a u p	n N c	U+0061 U+0075 U+0020 U+0070	1	Bola
-aut	a u t	n N c	U+0061 U+0075 U+0020 U+0074	3	Maru
-auŋ	au ŋ	n c	U+0061 U+0075 U+0020 U+014b	19	Hpun,Bola,Maru
-auɂ	au ʔ	n c	U+0061 U+0075 U+0020 U+0242	9	Lashi,Achang,Maru,Bola
-aŋ	a ŋ	n c	U+0061 U+0020 U+014b	98	Hpun,Maru,Bola,Achang,Lashi,Atsi
-aŋk	a ŋk	n c	U+0061 U+0020 U+014b U+006b	4	Achang,Maru,Lashi
-aɂ	a ʔ	n c	U+0061 U+0020 U+0242	19	Maru,Lashi,Achang,Atsi,Bola,Hpun
-aụɂ	a̰ u ʔ	n N c	U+0061 U+1ee5 U+0020 U+0242	1	Lashi
-b	b	i	U+0062	80	Achang,Atsi,Maru,Lashi
-bj	b j	i m	U+0062 U+0020 U+006a	19	Atsi,Maru,Lashi
-bu	b u	i m	U+0062 U+0020 U+0075	8	Lashi,Atsi,Achang
-bẹ	b ẹ	i m	U+0062 U+0020 U+1eb9	1	Maru
-bẹtɂ	b ḛ ʔ	i n c	U+0074 U+0020 U+0242	1	Maru
-c	tʃ	i	U+0063	1	Hpun
-ch	tʃʰ	i	U+0063 U+0020 U+0068	2	Hpun
-cʰ	tʃʰ	i	U+0063 U+02b0	3	Hpun
-cʰw	tʃʰ w	i m	U+0063 U+02b0 U+0020 U+0077	1	Hpun
-d	d	i	U+0064	63	Achang,Atsi,Lashi,Maru
-dj	d j	i m	U+0064 U+0020 U+006a	14	Achang
-du	d u	i m	U+0064 U+0020 U+0075	6	Atsi,Achang,Lashi
-dz	dz	i	U+0064 U+0020 U+007a	47	Achang,Atsi,Maru,Lashi
-dzu	dz u	i m	U+0064 U+0020 U+007a U+0075	4	Atsi,Achang
-dzӧi⁵	dz ø i	i n N	U+0069 U+0020 U+007a U+04e7	1	Maru
-dʒu	dʒ u	i m	U+0064 U+0020 U+0292 U+0075	4	Lashi,Achang
-e	e	n	U+0065	94	Achang,Bola,Atsi,Hpun,Maru,Lashi
-ei	e i	n N	U+0065 U+0069	18	Hpun,Lashi,Achang
-en	e n	n c	U+0065 U+0020 U+006e	5	Achang,Maru,Lashi
-et	e t	n c	U+0065 U+0074	1	Hpun
-eŋ	e ŋ	n c	U+0065 U+0020 U+014b	9	Hpun,Atsi,Lashi,Achang
-eɂ	e ʔ	n c	U+0065 U+0020 U+0242	15	Bola,Hpun,Lashi,Maru
-eɪ	e ɪ	n N	U+0065 U+026a	1	Hpun
-f	f	i	U+0066	4	Bola,Lashi,Maru
-fu	f u	i m	U+0066 U+0020 U+0075	1	Lashi
-g	g	i	U+0067	83	Hpun,Achang,Atsi,Maru,Lashi
-gj	g j	i m	U+0067 U+0020 U+006a	30	Atsi,Maru,Achang,Lashi
-gu	g u	i m	U+0067 U+0020 U+0075	4	Lashi,Achang
-h	h	i	U+0068	28	Maru,Hpun,Lashi,Achang,Atsi
-hj	h j	i m	U+0068 U+0020 U+006a	1	Achang
-hu	h u	i m	U+0068 U+0020 U+0075	2	Atsi,Achang
-hẹ	h ḛ	i n	U+0068 U+0020 U+1eb9	1	Lashi
-i	i	n	U+0069	163	Lashi,Maru,Bola,Hpun,Achang,Atsi
-ik	i k	n c	U+0069 U+0020 U+006b	2	Atsi
-in	i n	n c	U+0069 U+0020 U+006e	2	Atsi
-it	i t	n c	U+0069 U+0020 U+0074	15	Lashi,Atsi,Maru
-iŋ	i ŋ	n c	U+0069 U+0020 U+014b	7	Maru,Atsi
-iɂ	i ʔ	n c	U+0069 U+0020 U+0242	13	Bola,Achang,Lashi,Maru,Hpun
-j	j	m	U+006a	107	Bola,Hpun,Atsi,Maru,Achang,Lashi
-ju	j u	m n	U+006a U+0075	2	Bola,Achang
-jӧ	j ø	m n c	U+006a U+0020 U+04e7	1	Maru
-jẹ	j ḛ	m n	U+006a U+0020 U+1eb9	4	Maru,Achang,Lashi
-jẹk	j ḛ k	m n c	U+006a U+1eb9 U+006b	1	Achang
-+	+	+			
-jẹɂ	j ḛ ʔ	m n c	U+006a U+0020 U+1eb9 U+0242	2	Bola,Maru
-k	k	i	U+006b	43	Lashi,Maru,Atsi,Hpun,Achang,Bola
-kj	k j	i m	U+006b U+0020 U+006a	17	Atsi,Maru,Lashi,Achang,Bola
-kjẹị	k j ḛ i	i m n N	U+1ecb U+0020 U+006a U+1eb9	1	Achang
-kʰ	kʰ	i	U+006b U+02b0	81	Bola,Hpun,Achang,Lashi,Atsi,Maru
-kʰj	kʰ j	i m	U+006b U+02b0 U+0020 U+006a	35	Bola,Atsi,Maru,Lashi,Achang
-kʰju	kʰ j u	i m n	U+006b U+02b0 U+0020 U+006a U+0075	1	Atsi
-kʰu	kʰ u	i m	U+006b U+02b0 U+0020 U+0075	9	Lashi,Bola,Atsi,Achang,Hpun
-kʰɹ	kʰ ɹ	i m	U+006b U+02b0 U+0020 U+0279	1	Atsi
-l	l	i	U+006c	159	Hpun,Bola,Maru,Achang,Atsi,Lashi
-lj	l j	i m	U+006c U+0020 U+006a	1	Achang
-lu	l u	i m	U+006c U+0020 U+0075	4	Atsi,Achang,Bola
-lӧ	l ø	i n	U+006c U+0020 U+04e7	1	Maru
-m	m	i	U+006d	140	Hpun,Bola,Achang,Lashi,Atsi,Maru
-mj	m j	i m	U+006d U+0020 U+006a	77	Achang,Hpun,Bola,Maru,Atsi,Lashi
-mju	m j u	i m n	U+006d U+0020 U+006a U+0075	2	Atsi
-mu	m u	i m	U+006d U+0020 U+0075	5	Hpun,Atsi
-mẹ	m ḛ	i n	U+006d U+0020 U+1eb9	1	Lashi
-n	n	i	U+006e	134	Hpun,Bola,Atsi,Achang,Maru,Lashi
-nj	n j	i m	U+006e U+0020 U+006a	56	Bola,Atsi,Maru,Lashi,Achang
-nju	n j u	i m n	U+006e U+0020 U+006a U+0075	2	Atsi
-nu	n u	i m	U+006e U+0020 U+0075	1	Bola
-o	o	n	U+006f	53	Achang,Bola,Lashi,Hpun,Maru
-oap	o a p	m n c	U+006f U+0061 U+0020 U+0070	1	Achang
-oe	o e	m n	U+006f U+0065	1	Lashi
-oeɂ	o e ʔ	m n c	U+006f U+0065 U+0020 U+0242	1	Lashi
-oi	o i	n N	U+006f U+0069	4	Maru,Lashi
-oin	o i n	n N c	U+006f U+0069 U+0020 U+006e	1	Lashi
-oiɂ	o i ʔ	n N c	U+006f U+0069 U+0020 U+0242	6	Lashi
-ok	o k	n c	U+006f U+0020 U+006b	21	Hpun,Achang,Maru,Lashi
-okɂ	o kʔ/k	n c	U+006f U+0020 U+006b U+0242	1	Hpun
-om	o m	n c	U+006f U+0020 U+006d	1	Achang
-on	o n	n c	U+006f U+0020 U+006e	1	Achang
-ot	o t	n c	U+006f U+0020 U+0074	2	Lashi,Achang
-oŋ	o ŋ	n c	U+006f U+0020 U+014b	31	Maru,Bola,Achang,Lashi
-oɂ	o ʔ	n c	U+006f U+0020 U+0242	43	Achang,Hpun,Lashi,Maru
-p	p	i	U+0070	24	Lashi,Achang,Maru,Hpun,Bola
-pj	p j	i m	U+0070 U+0020 U+006a	12	Atsi,Maru,Bola,Lashi,Hpun
-pu	p u	i m	U+0070 U+0020 U+0075	4	Achang,Bola
-pʰ	pʰ	i	U+0070 U+02b0	29	Bola,Hpun,Lashi,Atsi,Maru,Achang
-pʰj	pʰ j	i m	U+0070 U+02b0 U+0020 U+006a	20	Bola,Hpun,Lashi,Maru,Atsi
-pʰu	pʰ u	i m	U+0070 U+02b0 U+0020 U+0075	1	Atsi
-pʰӧ	pʰ ø	i n	U+0070 U+02b0 U+0020 U+04e7	1	Maru
-pẹ	p ḛ	i n	U+0070 U+0020 U+1eb9	2	Maru
-r	r	i	U+0072	1	Hpun
-s	s	i	U+0073	82	Bola,Hpun,Achang,Atsi,Maru,Lashi
-sj	s j	i m	U+0073 U+0020 U+006a	1	Bola
-su	s u	i m	U+0073 U+0020 U+0075	5	Bola,Atsi,Achang
-sʰ	sʰ	i	U+0073 U+02b0	8	Bola,Hpun
-sʰu	sʰ u	i m	U+0073 U+02b0 U+0020 U+0075	1	Hpun
-sẹɂ	s ḛ ʔ	i n c	U+0073 U+0020 U+1eb9 U+0242	1	Bola
-t	t	i	U+0074	27	Atsi,Maru,Hpun,Achang,Bola
-tj	t j	i m	U+0074 U+0020 U+006a	2	Achang
-ts	ts	i	U+0074 U+0020 U+0073	18	Atsi,Maru,Achang,Lashi,Bola
-tsʰ	tsʰ	i	U+0074 U+0020 U+0073 U+02b0	46	Bola,Atsi,Lashi,Maru,Achang
-tui	t u i	i n N	U+0074 U+0020 U+0075	1	Bola
-tʃ	tʃ	i	U+0074 U+0020 U+0283	1	Lashi
-tʃʰ	tʃʰ	i	U+0074 U+0020 U+0283 U+02b0	69	Bola,Atsi,Achang,Maru,Lashi
-tʃʰi	tʃʰ i	i n	U+0074 U+0020 U+0283 U+02b0 U+0069	1	Lashi
-tʃʰj	tʃʰ j	i m	U+0074 U+0020 U+0283 U+02b0 U+006a	1	Achang
-tʃʰu	tʃʰ u	i m	U+0074 U+0020 U+0283 U+02b0 U+0075	5	Lashi,Achang,Atsi
-tʃʰẹ	tʃʰ ḛ	i n	U+0283 U+02b0 U+0020 U+1eb9	1	Bola
-tʰ	tʰ	i	U+0074 U+02b0	64	Bola,Hpun,Achang,Atsi,Maru,Lashi
-tʰj	tʰ j	i m	U+0074 U+02b0 U+0020 U+006a	3	Achang
-tʰu	tʰ u	i m	U+0074 U+02b0 U+0020 U+0075	1	Atsi
-tʰw	tʰ w	i m	U+0074 U+02b0 U+0020 U+0077	1	Hpun
-u	u	n	U+0075	88	Maru,Bola,Hpun,Achang,Atsi,Lashi
-uk	u k	n c	U+0075 U+0020 U+006b	19	Lashi,Maru,Achang
-um	u m	n c	U+0075 U+0020 U+006d	13	Maru,Atsi
-un	u n	n c	U+0075 U+0020 U+006e	4	Achang,Atsi
-up	u p	n c	U+0075 U+0020 U+0070	3	Atsi
-ut	u t	n c	U+0075 U+0020 U+0074	2	Atsi,Achang
-uŋ	u ŋ	n c	U+0075 U+0020 U+014b	36	Maru,Lashi,Achang,Atsi
-uɂ	u ʔ	n c	U+0075 U+0020 U+0242	31	Maru,Lashi,Achang,Hpun,Atsi
-v	v	i	U+0076	11	Bola,Maru,Atsi
-vɹ	v ɹ	i m	U+0076 U+0020 U+0279	1	Hpun
-vʷ	v	i	U+0076 U+02b7	2	Bola,Maru
-w	w	m	U+0077	52	Bola,Maru,Hpun,Atsi,Achang,Lashi
-x	x	i	U+0078	7	Hpun,Maru,Bola
-xj	x j	i m	U+0078 U+0020 U+006a	5	Achang
-xr	x r	i m	U+0078 U+0020 U+0072	1	Hpun
-xu	x u	i m	U+0078 U+0020 U+0075	1	Bola
-xw	x w	i m	U+0078 U+0020 U+0077	1	Hpun
-xɹ	x ɹ	i m	U+0078 U+0020 U+0279	1	Hpun
-z	z	i	U+007a	1	Hpun
-²	²	t	U+00b2	61	Achang,Atsi,Lashi,Maru
-²³	²³	t	U+00b2 U+00b3	69	Lashi,Maru,Bola
-²¹	²¹	t	U+00b2 U+00b9	18	Achang,Atsi,Maru,Lashi
-²⁴	²⁴	t	U+00b2 U+2074	3	Maru,Lashi
-²⁵	²⁵	t	U+00b2 U+2075	4	Lashi,Achang,Maru
-³	³	t	U+00b3	408	Bola,Maru,Atsi,Lashi,Achang
-³²	³²	t	U+00b3 U+00b2	171	Achang,Lashi,Atsi,Maru
-³²³	³²³	t	U+00b3 U+00b2 U+00b3	1	Lashi
-³¹	³¹	t	U+00b3 U+00b9	327	Maru,Lashi,Atsi,Achang,Hpun
-³⁴	³⁴	t	U+00b3 U+2074	32	Lashi,Atsi,Achang,Maru
-³⁴³	³⁴³	t	U+00b3 U+2074 U+00b3	1	Maru
-³⁵	³⁵	t	U+00b3 U+2075	17	Atsi,Lashi,Achang,Maru
-ãŋ	a ŋ	n c	U+00e3 U+0020 U+223c U+014b	2	Bola,Lashi
-ãɪ	ã ɪ	n c	U+00e3 U+026a U+0020 U+223c	6	Lashi
-ã∼	ã ∼	n c	U+00e3 U+0020 U+223c	1	Bola
-æm	æ m	n c	U+00e6 U+0020 U+006d	12	Lashi
-æp	æ p	n c	U+00e6 U+0020 U+0070	10	Atsi,Maru,Achang,Lashi
-æt	æ t	n c	U+00e6 U+0020 U+0074	1	Achang
-æu	æ u	n N	U+00e6 U+0075	4	Achang
-æuk	æ u k	n N c	U+00e6 U+0075 U+0020 U+006b	1	Maru
-æuŋ	æ u ŋ	n N c	U+00e6 U+0075 U+0020 U+014b	6	Achang,Maru
-æuɂ	æ u ʔ	n c	U+00e6 U+0075 U+0020 U+0242	4	Maru
-æ̃m	æ m	n c	U+00e6 U+0303 U+0020 U+223c U+006d	1	Lashi
-æ̃∼p	ã p	n c	U+00e6 U+0303 U+0020 U+223c U+0070	1	Lashi
-æ̣m	æ̰ m	n c	U+00e6 U+0323 U+0020 U+006d	4	Lashi
-æ̣n	æ̰ n	n c	U+00e6 U+0323 U+0020 U+006e	1	Achang
-æ̣p	æ̰ p	n c	U+00e6 U+0323 U+0020 U+0070	6	Bola,Lashi
-æ̣ɂ	æ̰ ʔ	n c	U+00e6 U+0323 U+0020 U+0242	1	Achang
-æ̣ụ	æ̰ u	n	U+00e6 U+0323 U+1ee5	2	Achang
-æ̣ụɂ	æ̰ u ʔ	n c	U+00e6 U+0323 U+1ee5 U+0020 U+0242	1	Achang
-æụk	æ̰ u k	n N c	U+00e6 U+1ee5 U+0020 U+006b	1	Maru
-õ	õ ∼	n c	U+00f5 U+0020 U+223c	3	Lashi,Bola
-õŋ	õ ŋ	n c	U+00f5 U+0020 U+223c U+014b	2	Lashi
-ö	ø	n	U+00f6	3	Maru
-öi	ø i	n N	U+00f6 U+0069	2	Maru
-öɂ	ö ʔ	n c	U+00f6 U+0020 U+0242	1	Maru
-ø	ø	n	U+00f8	2	Lashi
-øk	ø k	n c	U+00f8 U+0020 U+006b	1	Lashi
-øm	ø m	n c	U+00f8 U+0020 U+006d	4	Lashi
-øp	ø p	n c	U+00f8 U+0020 U+0070	3	Lashi
-ø̃m	ø m	n c	U+00f8 U+0303 U+0020 U+223c U+006d	1	Lashi
-ø̣p	ø̰ p	n c	U+00f8 U+0323 U+0020 U+0070	1	Lashi
-āŋ	a ŋ	n c	U+0101 U+0020 U+014b	1	Bola
-ē	ẽ	n	U+0113	1	Lashi
-ēŋ	e ŋ	n c	U+0113 U+0020 U+014b	2	Lashi
-ĩ∼	ĩ ∼	n c	U+0129 U+0020 U+223c	1	Bola
-ŋ	ŋ	i	U+014b	60	Bola,Hpun,Achang,Atsi,Lashi,Maru
-ŋj	ŋ j	i m	U+014b U+0020 U+006a	1	Hpun
-ŋu	ŋ u	i m	U+014b U+0020 U+0075	1	Achang
-ŋw	ŋ w	i m	U+014b U+0020 U+0077	1	Bola
-ũ	ũ ∼	n c	U+0169 U+0020 U+223c	4	Lashi
-ũɛ̃∼m	u ɛ̃ m	m n c	U+0169 U+025b U+0303 U+0020 U+223c U+006d	1	Lashi
-ɂ	ʔ	i	U+0242	82	Bola,Hpun,Lashi,Achang,Maru,Atsi
-ɂj	ʔ j	i m	U+0242 U+0020 U+006a	1	Atsi
-ɔ	ɔ	n	U+0254	116	Hpun,Maru,Achang,Lashi,Atsi
-ɔk	ɔ k	n c	U+0254 U+0020 U+006b	2	Atsi
-ɔm	ɔ m	n c	U+0254 U+0020 U+006d	9	Atsi,Achang
-ɔp	ɔ p	n c	U+0254 U+0020 U+0070	4	Atsi,Achang
-ɔt	ɔ t	n c	U+0254 U+0020 U+0074	7	Achang,Atsi
-ɔŋ	ɔ ŋ	n c	U+0254 U+0020 U+014b	13	Maru,Atsi,Hpun
-ɔɂ	ɔ ʔ	n c	U+0254 U+0020 U+0242	65	Bola,Maru,Lashi,Achang,Atsi
-ɔət	ɔ ə t	m n c	U+0254 U+0259 U+0020 U+0074	1	Achang
-ɔ̃	ɔ̃ ∼	n N	U+0254 U+0303 U+0020 U+223c	5	Achang,Lashi
-ɔ̃ɂ	ɔ̃ ʔ	n c	U+0254 U+0303 U+0020 U+223c U+0242	6	Lashi
-ɔ̣	ɔ̰	n	U+0254 U+0323	10	Atsi,Achang
-ɔ̣m	ɔ̰ m	n c	U+0254 U+0323 U+0020 U+006d	1	Atsi
-ɔ̣p	ɔ̰ p	n c	U+0254 U+0323 U+0020 U+0070	3	Achang
-ɔ̣t	ɔ̰ t	n c	U+0254 U+0323 U+0020 U+0074	1	Achang
-ɔ̣ɂ	ɔ̰ ʔ	n c	U+0254 U+0323 U+0020 U+0242	10	Atsi,Maru,Achang,Lashi
-ə	ə	n	U+0259	67	Bola,Maru,Hpun,Achang,Lashi,Atsi
-ək	ə k	n c	U+0259 U+0020 U+006b	7	Lashi
-əp	ə p	n c	U+0259 U+0020 U+0070	1	Maru
-ət	ə t	n c	U+0259 U+0020 U+0074	7	Atsi,Maru
-əŋ	ə ŋ	n c	U+0259 U+0020 U+014b	13	Lashi
-əɂ	ə ʔ	n c	U+0259 U+0020 U+0242	1	Achang
-ə̣	ə̰	n	U+0259 U+0323	1	Achang
-ə̣ŋ	ə̰ ŋ	n c	U+0259 U+0323 U+0020 U+014b	1	Lashi
-ɛ	ɛ	n	U+025b	39	Atsi,Maru,Bola,Hpun,Lashi,Achang
-ɛm	ɛ m	n c	U+025b U+0020 U+006d	10	Lashi
-ɛn	ɛ n	n c	U+025b U+0020 U+006e	9	Lashi,Atsi,Maru,Achang
-ɛp	ɛ p	n c	U+025b U+0020 U+0070	3	Lashi
-ɛt	ɛ t	n c	U+025b U+0020 U+0074	8	Bola,Lashi,Achang
-ɛɂ	ɛ ʔ	n c	U+025b U+0020 U+0242	8	Hpun,Lashi,Achang,Maru
-ɛɪ	ɛ ɪ	n N	U+025b U+026a	1	Hpun
-ɛ̣	ɛ̰	n	U+025b U+0323	3	Atsi,Achang
-ɛ̣m	ɛ̰ m	n c	U+025b U+0323 U+0020 U+006d	1	Lashi
-ɛ̣n	ɛ̰ n	n c	U+025b U+0323 U+0020 U+006e	3	Achang
-ɛ̣t	ɛ̰ t	n c	U+025b U+0323 U+0020 U+0074	3	Achang,Maru
-ɛ̣ɂ	ɛ̰ ʔ	n c	U+025b U+0323 U+0242	1	Bola
-ɣ	ɣ	i	U+0263	21	Lashi,Bola,Maru
-ɨ	ɨ	n	U+0268	6	Lashi
-ɨu	ɨ u	m n	U+0268 U+0075	7	Achang
-ɨŋ	ɨ ŋ	n c	U+0268 U+0020 U+014b	2	Achang
-ɨɂ	ɨ ʔ	n c	U+0268 U+0020 U+0242	2	Lashi,Achang
-ɨ̣ɂ	ɨ̣ ʔ	n c	U+0268 U+0323 U+0020 U+0242	1	Lashi
-ɨ̣ụ	ɨ̰ u	n N	U+0268 U+0323 U+1ee5	1	Achang
-ɪ	ɪ	n	U+026a	7	Lashi,Atsi,Maru
-ɪk	ɪ k	n c	U+026a U+0020 U+006b	5	Atsi
-ɪn	ɪ n	n c	U+026a U+0020 U+006e	17	Lashi,Atsi,Maru
-ɪp	ɪ p	n c	U+026a U+0020 U+0070	2	Maru
-ɪt	ɪ t	n c	U+026a U+0020 U+0074	4	Atsi
-ɪŋ	ɪ ŋ	n c	U+026a U+0020 U+014b	2	Atsi
-ɪ̣k	ɪ̰ k	n c	U+026a U+0323 U+0020 U+006b	1	Atsi
-ɪ̣t	ɪ̰ t	n c	U+026a U+0323 U+0020 U+0074	3	Atsi
-ɯŋ	ɯ ŋ	n c	U+026f U+0020 U+014b	2	Atsi
-ɯ̃∼	ɯ̃ ∼	n c	U+026f U+0303 U+0020 U+223c	1	Lashi
-ɲ	ɲ	i	U+0272	2	Hpun
-ɹ	ɹ	i	U+0279	10	Lashi,Atsi,Hpun
-ʃ	ʃ	i	U+0283	90	Bola,Maru,Achang,Lashi,Atsi,Hpun
-ʃi	ʃ i	i m	U+0283 U+0020 U+0069	1	Lashi
-ʃj	ʃ j	i m	U+0283 U+0020 U+006a	2	Lashi,Maru
-ʃu	ʃ u	i m	U+0283 U+0020 U+0075	1	Hpun
-ʃw	ʃ w	i m	U+0283 U+0020 U+0077	4	Hpun
-ʃʰ	ʃʰ	i	U+0283 U+02b0	3	Bola
-ʊ	ʊ	n	U+028a	1	Achang
-ʊn	ʊ n	n c	U+028a U+0020 U+006e	5	Maru,Hpun,Atsi
-ʊp	ʊ p	n c	U+028a U+0020 U+0070	4	Atsi
-ʊt	ʊ t	n c	U+028a U+0020 U+0074	5	Atsi
-ʊŋ	ʊ ŋ	n c	U+028a U+014b	1	Hpun
-ʊɂ	ʊ ʔ	n c	U+028a U+0242	1	Hpun
-ʊ̣t	ʊ̰ t	n c	U+028a U+0323 U+0020 U+0074	5	Atsi
-ʒ	ʒ	i	U+0292	1	Maru
-βʷ	βʷ	i	U+03b2 U+02b7	6	Atsi
-ạ	a̰	n	U+1ea1	11	Atsi,Achang,Bola,Maru
-ạiɂ	a̰ i ʔ	n N c	U+1ea1 U+0069 U+0020 U+0242	2	Lashi
-ạk	a̰ k	n c	U+1ea1 U+0020 U+006b	4	Bola,Maru
-ạm	ạ m	n c	U+1ea1 U+0020 U+006d	13	Bola,Achang,Atsi,Maru
-ạmp	a̰ mp	n c	U+1ea1 U+0020 U+006d U+0070	1	Achang
-ạn	a̰ n	n c	U+1ea1 U+0020 U+006e	5	Bola,Maru,Achang,Atsi
-ạp	ạ p	n c	U+1ea1 U+0020 U+0070	12	Bola,Achang,Maru,Atsi
-ạt	a̰ t	n c	U+1ea1 U+0020 U+0074	2	Maru
-ạŋ	ạ ŋ	n c	U+1ea1 U+0020 U+014b	20	Bola,Lashi,Maru,Achang,Atsi
-ạŋk	a̰ ŋk	n c	U+1ea1 U+0020 U+014b U+006b	3	Lashi,Achang
-ạɂ	a̰ ʔ	n c	U+1ea1 U+0020 U+0242	5	Lashi,Bola
-ạ̄	ã̰ ∼	n c	U+1ea1 U+0304	1	Bola
-ạị	a̰ i	n N	U+1ea1 U+1ecb	4	Atsi,Achang
-ạịk	a̰ i k	n N c	U+1ea1 U+1ecb U+0020 U+006b	1	Achang
-ạịt	a̰ i t	n N c	U+1ea1 U+1ecb U+0020 U+0074	2	Maru
-ạịɂ	a̰ ḭ ʔ	n c	U+1ea1 U+1ecb U+0020 U+0242	5	Lashi,Achang,Maru
-ạụ	a̰ u	n N	U+1ea1 U+1ee5	10	Bola,Lashi,Maru,Atsi,Achang
-ạụk	a̰ u k	n N c	U+1ea1 U+1ee5 U+0020 U+006b	1	Maru
-ạụt	a̰ u t	n N c	U+1ea1 U+1ee5 U+0020 U+0074	1	Bola
-ạụŋ	a̰ u ŋ	n N c	U+1ea1 U+1ee5 U+0020 U+014b	2	Bola,Maru
-ạụɂ	a̰ u ʔ	n N c	U+1ea1 U+1ee5 U+0020 U+0242	3	Maru
-ẹ	ḛ	c	U+1eb9	4	Lashi,Maru,Bola
-ẹɂ	ḛ ʔ	n c	U+1eb9 U+0242	7	Bola,Lashi,Maru
-ẽ	ẽ ∼	n c	U+1ebd U+0020 U+223c	3	Bola
-ẽŋ	e ŋ	n c	U+1ebd U+0020 U+223c U+014b	1	Lashi
-ẽɂ	ẽ ʔ	n c	U+1ebd U+0020 U+223c U+0242	1	Lashi
-ị	ḭ	n	U+1ecb	18	Achang,Lashi,Atsi,Maru,Bola
-ịt	ḭ t	n c	U+1ecb U+0020 U+0074	2	Maru
-ịɂ	ḭ ʔ	n c	U+1ecb U+0020 U+0242	4	Achang,Maru
-ọ	o̰	n	U+1ecd	6	Achang,Bola,Maru
-ọk	o̰ k	n c	U+1ecd U+0020 U+006b	8	Lashi,Maru
-ọŋ	o̰ ŋ	n c	U+1ecd U+0020 U+014b	3	Lashi,Achang
-ọɂ	o̰ ʔ	n c	U+1ecd U+0020 U+0242	7	Lashi,Maru
-ọ̈ɂ	ø̰ ʔ	n c	U+1ecd U+0308 U+0020 U+0242	1	Maru
-ọị	o̰ i	n	U+1ecd U+1ecb	2	Lashi,Maru
-ọịɂ	o̰ ḭ ʔ	n N c	U+1ecd U+1ecb U+0020 U+0242	4	Lashi
-ụ	ṵ	n	U+1ee5	9	Lashi,Maru,Bola,Achang
-ụk	ṵ k	n c	U+1ee5 U+0020 U+006b	5	Achang
-ụm	ṵ m	n c	U+1ee5 U+0020 U+006d	3	Atsi
-ụn	ṵ n	n c	U+1ee5 U+0020 U+006e	1	Atsi
-ụp	ụ p	n c	U+1ee5 U+0020 U+0070	2	Atsi
-ụŋ	ṵ ŋ	n c	U+1ee5 U+0020 U+014b	4	Bola,Atsi
-ụɂ	ṵ ʔ	n c	U+1ee5 U+0020 U+0242	5	Achang,Atsi
-ụə̣t	ụə̣ t	n c	U+1ee5 U+0259 U+0323 U+0020 U+0074	1	Achang
-ụɛ̣m	u ɛ̰ m	m n c	U+1ee5 U+025b U+0323 U+0020 U+006d	1	Lashi
-ụ̃	ṵ̃ ∼	n c	U+1ee5 U+0303	1	Bola
-ụạt	u a̰ t	n c	U+1ee5 U+1ea1 U+0020 U+0074	1	Achang
-ụị	ṵ i	n N	U+1ee5 U+1ecb	2	Bola,Achang
-⁴	⁴	t	U+2074	103	Achang,Atsi,Maru,Lashi
-dzӧi	dz ø i	i n N			
-æ̃	æ̃ ∼	n c			
-xuĩ	x u ĩ ∼	i m n c			
-dʒ	dʒ	i			
-nã	n ã ∼	i n c			
-njũɛ̃m	n j ũɛ̃/ɛ̃ m	i m n c			 
-mɯ̃	m ɯ̃ ∼	i n c			
-dʒj	dʒ j	i m			
-⁴²	⁴²	t	U+2074 U+00b2	57	Atsi,Lashi,Maru,Achang
-⁴³	⁴³	t	U+2074 U+00b3	64	Lashi,Achang,Atsi,Maru
-⁴¹	⁴¹	t	U+2074 U+00b9	21	Lashi,Achang,Maru
-⁴⁵	⁴⁵	t	U+2074 U+2075	24	Maru,Atsi,Lashi,Achang
-⁵	⁵	t	U+2075	207	Maru,Atsi,Lashi,Achang
-⁵²	⁵²	t	U+2075 U+00b2	112	Maru,Atsi,Achang,Lashi,Bola
-⁵³	⁵³	t	U+2075 U+00b3	189	Maru,Achang,Lashi,Atsi
-⁵¹	⁵¹	t	U+2075 U+00b9	38	Achang,Atsi,Maru,Lashi
-⁵⁴	⁵⁴	t	U+2075 U+2074	121	Lashi,Achang,Atsi,Maru
-⁵⁵	⁵⁵	t	U+2075 U+2075	65	Hpun
+Grapheme	SOURCE	Segments	Structure	Unicode	Frequency	Reflexes	Examples
+a		a	n	U+0061	132	Atsi,Achang,Lashi,Hpun,Bola,Maru	
+ai		a i	n N	U+0061 U+0069	29	Hpun,Bola,Lashi,Atsi,Maru,Achang	
+aik		a i k	n N c	U+0061 U+0069 U+0020 U+006b	1	Achang	
+ain		a i n	n N c	U+0061 U+0069 U+0020 U+006e	7	Achang,Lashi	
+ait		a i t	n N c	U+0061 U+0069 U+0020 U+0074	4	Lashi,Maru	
+aiŋ		ai ŋ	n c	U+0061 U+0069 U+0020 U+014b	11	Hpun	
+aiɂ		ai ʔ	n c	U+0061 U+0069 U+0020 U+0242	12	Achang,Hpun	
+ak		a k	n c	U+0061 U+0020 U+006b	10	Bola,Maru	
+am		a m	n c	U+0061 U+0020 U+006d	50	Lashi,Bola,Maru,Atsi,Achang	
+an		a n	n c	U+0061 U+0020 U+006e	24	Bola,Maru,Atsi,Achang	
+ap		a p	n c	U+0061 U+0020 U+0070	17	Bola,Atsi,Maru,Achang	
+at		a t	n c	U+0061 U+0020 U+0074	15	Hpun,Maru,Atsi,Achang	
+au		a u	n N	U+0061 U+0075	99	Bola,Atsi,Maru,Achang,Lashi	
+auk		a u k	n N c	U+0061 U+0075 U+0020 U+006b	4	Lashi,Maru	
+aun		a u n	n c	U+0061 U+0075 U+0020 U+006e	4	Bola,Maru	
+aup		a u p	n N c	U+0061 U+0075 U+0020 U+0070	1	Bola	
+aut		a u t	n N c	U+0061 U+0075 U+0020 U+0074	3	Maru	
+auŋ		au ŋ	n c	U+0061 U+0075 U+0020 U+014b	19	Hpun,Bola,Maru	
+auɂ		au ʔ	n c	U+0061 U+0075 U+0020 U+0242	9	Lashi,Achang,Maru,Bola	
+aŋ		a ŋ	n c	U+0061 U+0020 U+014b	98	Hpun,Maru,Bola,Achang,Lashi,Atsi	
+aŋk		a ŋk	n c	U+0061 U+0020 U+014b U+006b	4	Achang,Maru,Lashi	
+aɂ		a ʔ	n c	U+0061 U+0020 U+0242	19	Maru,Lashi,Achang,Atsi,Bola,Hpun	
+aụɂ		a̰ u ʔ	n N c	U+0061 U+1ee5 U+0020 U+0242	1	Lashi	
+b		b	i	U+0062	80	Achang,Atsi,Maru,Lashi	
+bj		b j	i m	U+0062 U+0020 U+006a	19	Atsi,Maru,Lashi	
+bu		b u	i m	U+0062 U+0020 U+0075	8	Lashi,Atsi,Achang	
+bẹ		b ẹ	i m	U+0062 U+0020 U+1eb9	1	Maru	
+bẹtɂ		b ḛ ʔ	i n c	U+0074 U+0020 U+0242	1	Maru	
+c		tʃ	i	U+0063	1	Hpun	
+ch		tʃʰ	i	U+0063 U+0020 U+0068	2	Hpun	
+cʰ		tʃʰ	i	U+0063 U+02b0	3	Hpun	
+cʰw		tʃʰ w	i m	U+0063 U+02b0 U+0020 U+0077	1	Hpun	
+d		d	i	U+0064	63	Achang,Atsi,Lashi,Maru	
+dj		d j	i m	U+0064 U+0020 U+006a	14	Achang	
+du		d u	i m	U+0064 U+0020 U+0075	6	Atsi,Achang,Lashi	
+dz		dz	i	U+0064 U+0020 U+007a	47	Achang,Atsi,Maru,Lashi	
+dzu		dz u	i m	U+0064 U+0020 U+007a U+0075	4	Atsi,Achang	
+dzӧi⁵		dz ø i	i n N	U+0069 U+0020 U+007a U+04e7	1	Maru	
+dʒu		dʒ u	i m	U+0064 U+0020 U+0292 U+0075	4	Lashi,Achang	
+e		e	n	U+0065	94	Achang,Bola,Atsi,Hpun,Maru,Lashi	
+ei		e i	n N	U+0065 U+0069	18	Hpun,Lashi,Achang	
+en		e n	n c	U+0065 U+0020 U+006e	5	Achang,Maru,Lashi	
+et		e t	n c	U+0065 U+0074	1	Hpun	
+eŋ		e ŋ	n c	U+0065 U+0020 U+014b	9	Hpun,Atsi,Lashi,Achang	
+eɂ		e ʔ	n c	U+0065 U+0020 U+0242	15	Bola,Hpun,Lashi,Maru	
+eɪ		e ɪ	n N	U+0065 U+026a	1	Hpun	
+f		f	i	U+0066	4	Bola,Lashi,Maru	
+fu		f u	i m	U+0066 U+0020 U+0075	1	Lashi	
+g		g	i	U+0067	83	Hpun,Achang,Atsi,Maru,Lashi	
+gj		g j	i m	U+0067 U+0020 U+006a	30	Atsi,Maru,Achang,Lashi	
+gu		g u	i m	U+0067 U+0020 U+0075	4	Lashi,Achang	
+h		h	i	U+0068	28	Maru,Hpun,Lashi,Achang,Atsi	
+hj		h j	i m	U+0068 U+0020 U+006a	1	Achang	
+hu		h u	i m	U+0068 U+0020 U+0075	2	Atsi,Achang	
+hẹ		h ḛ	i n	U+0068 U+0020 U+1eb9	1	Lashi	
+i		i	n	U+0069	163	Lashi,Maru,Bola,Hpun,Achang,Atsi	
+ik		i k	n c	U+0069 U+0020 U+006b	2	Atsi	
+in		i n	n c	U+0069 U+0020 U+006e	2	Atsi	
+it		i t	n c	U+0069 U+0020 U+0074	15	Lashi,Atsi,Maru	
+iŋ		i ŋ	n c	U+0069 U+0020 U+014b	7	Maru,Atsi	
+iɂ		i ʔ	n c	U+0069 U+0020 U+0242	13	Bola,Achang,Lashi,Maru,Hpun	
+j		j	m	U+006a	107	Bola,Hpun,Atsi,Maru,Achang,Lashi	
+ju		j u	m n	U+006a U+0075	2	Bola,Achang	
+jӧ		j ø	m n c	U+006a U+0020 U+04e7	1	Maru	
+jẹ		j ḛ	m n	U+006a U+0020 U+1eb9	4	Maru,Achang,Lashi	
+jẹk		j ḛ k	m n c	U+006a U+1eb9 U+006b	1	Achang	
++		+	+				
+jẹɂ		j ḛ ʔ	m n c	U+006a U+0020 U+1eb9 U+0242	2	Bola,Maru	
+k		k	i	U+006b	43	Lashi,Maru,Atsi,Hpun,Achang,Bola	
+kj		k j	i m	U+006b U+0020 U+006a	17	Atsi,Maru,Lashi,Achang,Bola	
+kjẹị		k j ḛ i	i m n N	U+1ecb U+0020 U+006a U+1eb9	1	Achang	
+kʰ		kʰ	i	U+006b U+02b0	81	Bola,Hpun,Achang,Lashi,Atsi,Maru	
+kʰj		kʰ j	i m	U+006b U+02b0 U+0020 U+006a	35	Bola,Atsi,Maru,Lashi,Achang	
+kʰju		kʰ j u	i m n	U+006b U+02b0 U+0020 U+006a U+0075	1	Atsi	
+kʰu		kʰ u	i m	U+006b U+02b0 U+0020 U+0075	9	Lashi,Bola,Atsi,Achang,Hpun	
+kʰɹ		kʰ ɹ	i m	U+006b U+02b0 U+0020 U+0279	1	Atsi	
+l		l	i	U+006c	159	Hpun,Bola,Maru,Achang,Atsi,Lashi	
+lj		l j	i m	U+006c U+0020 U+006a	1	Achang	
+lu		l u	i m	U+006c U+0020 U+0075	4	Atsi,Achang,Bola	
+lӧ		l ø	i n	U+006c U+0020 U+04e7	1	Maru	
+m		m	i	U+006d	140	Hpun,Bola,Achang,Lashi,Atsi,Maru	
+mj		m j	i m	U+006d U+0020 U+006a	77	Achang,Hpun,Bola,Maru,Atsi,Lashi	
+mju		m j u	i m n	U+006d U+0020 U+006a U+0075	2	Atsi	
+mu		m u	i m	U+006d U+0020 U+0075	5	Hpun,Atsi	
+mẹ		m ḛ	i n	U+006d U+0020 U+1eb9	1	Lashi	
+n		n	i	U+006e	134	Hpun,Bola,Atsi,Achang,Maru,Lashi	
+nj		n j	i m	U+006e U+0020 U+006a	56	Bola,Atsi,Maru,Lashi,Achang	
+nju		n j u	i m n	U+006e U+0020 U+006a U+0075	2	Atsi	
+nu		n u	i m	U+006e U+0020 U+0075	1	Bola	
+o		o	n	U+006f	53	Achang,Bola,Lashi,Hpun,Maru	
+oap		o a p	m n c	U+006f U+0061 U+0020 U+0070	1	Achang	
+oe		o e	m n	U+006f U+0065	1	Lashi	
+oeɂ		o e ʔ	m n c	U+006f U+0065 U+0020 U+0242	1	Lashi	
+oi		o i	n N	U+006f U+0069	4	Maru,Lashi	
+oin		o i n	n N c	U+006f U+0069 U+0020 U+006e	1	Lashi	
+oiɂ		o i ʔ	n N c	U+006f U+0069 U+0020 U+0242	6	Lashi	
+ok		o k	n c	U+006f U+0020 U+006b	21	Hpun,Achang,Maru,Lashi	
+okɂ		o kʔ/k	n c	U+006f U+0020 U+006b U+0242	1	Hpun	
+om		o m	n c	U+006f U+0020 U+006d	1	Achang	
+on		o n	n c	U+006f U+0020 U+006e	1	Achang	
+ot		o t	n c	U+006f U+0020 U+0074	2	Lashi,Achang	
+oŋ		o ŋ	n c	U+006f U+0020 U+014b	31	Maru,Bola,Achang,Lashi	
+oɂ		o ʔ	n c	U+006f U+0020 U+0242	43	Achang,Hpun,Lashi,Maru	
+p		p	i	U+0070	24	Lashi,Achang,Maru,Hpun,Bola	
+pj		p j	i m	U+0070 U+0020 U+006a	12	Atsi,Maru,Bola,Lashi,Hpun	
+pu		p u	i m	U+0070 U+0020 U+0075	4	Achang,Bola	
+pʰ		pʰ	i	U+0070 U+02b0	29	Bola,Hpun,Lashi,Atsi,Maru,Achang	
+pʰj		pʰ j	i m	U+0070 U+02b0 U+0020 U+006a	20	Bola,Hpun,Lashi,Maru,Atsi	
+pʰu		pʰ u	i m	U+0070 U+02b0 U+0020 U+0075	1	Atsi	
+pʰӧ		pʰ ø	i n	U+0070 U+02b0 U+0020 U+04e7	1	Maru	
+pẹ		p ḛ	i n	U+0070 U+0020 U+1eb9	2	Maru	
+r		r	i	U+0072	1	Hpun	
+s		s	i	U+0073	82	Bola,Hpun,Achang,Atsi,Maru,Lashi	
+sj		s j	i m	U+0073 U+0020 U+006a	1	Bola	
+su		s u	i m	U+0073 U+0020 U+0075	5	Bola,Atsi,Achang	
+sʰ		sʰ	i	U+0073 U+02b0	8	Bola,Hpun	
+sʰu		sʰ u	i m	U+0073 U+02b0 U+0020 U+0075	1	Hpun	
+sẹɂ		s ḛ ʔ	i n c	U+0073 U+0020 U+1eb9 U+0242	1	Bola	
+t		t	i	U+0074	27	Atsi,Maru,Hpun,Achang,Bola	
+tj		t j	i m	U+0074 U+0020 U+006a	2	Achang	
+ts		ts	i	U+0074 U+0020 U+0073	18	Atsi,Maru,Achang,Lashi,Bola	
+tsʰ		tsʰ	i	U+0074 U+0020 U+0073 U+02b0	46	Bola,Atsi,Lashi,Maru,Achang	
+tui		t u i	i n N	U+0074 U+0020 U+0075	1	Bola	
+tʃ		tʃ	i	U+0074 U+0020 U+0283	1	Lashi	
+tʃʰ		tʃʰ	i	U+0074 U+0020 U+0283 U+02b0	69	Bola,Atsi,Achang,Maru,Lashi	
+tʃʰi		tʃʰ i	i n	U+0074 U+0020 U+0283 U+02b0 U+0069	1	Lashi	
+tʃʰj		tʃʰ j	i m	U+0074 U+0020 U+0283 U+02b0 U+006a	1	Achang	
+tʃʰu		tʃʰ u	i m	U+0074 U+0020 U+0283 U+02b0 U+0075	5	Lashi,Achang,Atsi	
+tʃʰẹ		tʃʰ ḛ	i n	U+0283 U+02b0 U+0020 U+1eb9	1	Bola	
+tʰ		tʰ	i	U+0074 U+02b0	64	Bola,Hpun,Achang,Atsi,Maru,Lashi	
+tʰj		tʰ j	i m	U+0074 U+02b0 U+0020 U+006a	3	Achang	
+tʰu		tʰ u	i m	U+0074 U+02b0 U+0020 U+0075	1	Atsi	
+tʰw		tʰ w	i m	U+0074 U+02b0 U+0020 U+0077	1	Hpun	
+u		u	n	U+0075	88	Maru,Bola,Hpun,Achang,Atsi,Lashi	
+uk		u k	n c	U+0075 U+0020 U+006b	19	Lashi,Maru,Achang	
+um		u m	n c	U+0075 U+0020 U+006d	13	Maru,Atsi	
+un		u n	n c	U+0075 U+0020 U+006e	4	Achang,Atsi	
+up		u p	n c	U+0075 U+0020 U+0070	3	Atsi	
+ut		u t	n c	U+0075 U+0020 U+0074	2	Atsi,Achang	
+uŋ		u ŋ	n c	U+0075 U+0020 U+014b	36	Maru,Lashi,Achang,Atsi	
+uɂ		u ʔ	n c	U+0075 U+0020 U+0242	31	Maru,Lashi,Achang,Hpun,Atsi	
+v		v	i	U+0076	11	Bola,Maru,Atsi	
+vɹ		v ɹ	i m	U+0076 U+0020 U+0279	1	Hpun	
+vʷ		v	i	U+0076 U+02b7	2	Bola,Maru	
+w		w	m	U+0077	52	Bola,Maru,Hpun,Atsi,Achang,Lashi	
+x		x	i	U+0078	7	Hpun,Maru,Bola	
+xj		x j	i m	U+0078 U+0020 U+006a	5	Achang	
+xr		x r	i m	U+0078 U+0020 U+0072	1	Hpun	
+xu		x u	i m	U+0078 U+0020 U+0075	1	Bola	
+xw		x w	i m	U+0078 U+0020 U+0077	1	Hpun	
+xɹ		x ɹ	i m	U+0078 U+0020 U+0279	1	Hpun	
+z		z	i	U+007a	1	Hpun	
+²		²	t	U+00b2	61	Achang,Atsi,Lashi,Maru	
+²³		²³	t	U+00b2 U+00b3	69	Lashi,Maru,Bola	
+²¹		²¹	t	U+00b2 U+00b9	18	Achang,Atsi,Maru,Lashi	
+²⁴		²⁴	t	U+00b2 U+2074	3	Maru,Lashi	
+²⁵		²⁵	t	U+00b2 U+2075	4	Lashi,Achang,Maru	
+³		³	t	U+00b3	408	Bola,Maru,Atsi,Lashi,Achang	
+³²		³²	t	U+00b3 U+00b2	171	Achang,Lashi,Atsi,Maru	
+³²³		³²³	t	U+00b3 U+00b2 U+00b3	1	Lashi	
+³¹		³¹	t	U+00b3 U+00b9	327	Maru,Lashi,Atsi,Achang,Hpun	
+³⁴		³⁴	t	U+00b3 U+2074	32	Lashi,Atsi,Achang,Maru	
+³⁴³		³⁴³	t	U+00b3 U+2074 U+00b3	1	Maru	
+³⁵		³⁵	t	U+00b3 U+2075	17	Atsi,Lashi,Achang,Maru	
+ãŋ		a ŋ	n c	U+00e3 U+0020 U+223c U+014b	2	Bola,Lashi	
+ãɪ		ã ɪ	n c	U+00e3 U+026a U+0020 U+223c	6	Lashi	
+ã∼		ã ∼	n c	U+00e3 U+0020 U+223c	1	Bola	
+æm		æ m	n c	U+00e6 U+0020 U+006d	12	Lashi	
+æp		æ p	n c	U+00e6 U+0020 U+0070	10	Atsi,Maru,Achang,Lashi	
+æt		æ t	n c	U+00e6 U+0020 U+0074	1	Achang	
+æu		æ u	n N	U+00e6 U+0075	4	Achang	
+æuk		æ u k	n N c	U+00e6 U+0075 U+0020 U+006b	1	Maru	
+æuŋ		æ u ŋ	n N c	U+00e6 U+0075 U+0020 U+014b	6	Achang,Maru	
+æuɂ		æ u ʔ	n c	U+00e6 U+0075 U+0020 U+0242	4	Maru	
+æ̃m		æ m	n c	U+00e6 U+0303 U+0020 U+223c U+006d	1	Lashi	
+æ̃∼p		ã p	n c	U+00e6 U+0303 U+0020 U+223c U+0070	1	Lashi	
+æ̣m		æ̰ m	n c	U+00e6 U+0323 U+0020 U+006d	4	Lashi	
+æ̣n		æ̰ n	n c	U+00e6 U+0323 U+0020 U+006e	1	Achang	
+æ̣p		æ̰ p	n c	U+00e6 U+0323 U+0020 U+0070	6	Bola,Lashi	
+æ̣ɂ		æ̰ ʔ	n c	U+00e6 U+0323 U+0020 U+0242	1	Achang	
+æ̣ụ		æ̰ u	n	U+00e6 U+0323 U+1ee5	2	Achang	
+æ̣ụɂ		æ̰ u ʔ	n c	U+00e6 U+0323 U+1ee5 U+0020 U+0242	1	Achang	
+æụk		æ̰ u k	n N c	U+00e6 U+1ee5 U+0020 U+006b	1	Maru	
+õ		õ ∼	n c	U+00f5 U+0020 U+223c	3	Lashi,Bola	
+õŋ		õ ŋ	n c	U+00f5 U+0020 U+223c U+014b	2	Lashi	
+ö		ø	n	U+00f6	3	Maru	
+öi		ø i	n N	U+00f6 U+0069	2	Maru	
+öɂ		ö ʔ	n c	U+00f6 U+0020 U+0242	1	Maru	
+ø		ø	n	U+00f8	2	Lashi	
+øk		ø k	n c	U+00f8 U+0020 U+006b	1	Lashi	
+øm		ø m	n c	U+00f8 U+0020 U+006d	4	Lashi	
+øp		ø p	n c	U+00f8 U+0020 U+0070	3	Lashi	
+ø̃m		ø m	n c	U+00f8 U+0303 U+0020 U+223c U+006d	1	Lashi	
+ø̣p		ø̰ p	n c	U+00f8 U+0323 U+0020 U+0070	1	Lashi	
+āŋ		a ŋ	n c	U+0101 U+0020 U+014b	1	Bola	
+ē		ẽ	n	U+0113	1	Lashi	
+ēŋ		e ŋ	n c	U+0113 U+0020 U+014b	2	Lashi	
+ĩ∼		ĩ ∼	n c	U+0129 U+0020 U+223c	1	Bola	
+ŋ		ŋ	i	U+014b	60	Bola,Hpun,Achang,Atsi,Lashi,Maru	
+ŋj		ŋ j	i m	U+014b U+0020 U+006a	1	Hpun	
+ŋu		ŋ u	i m	U+014b U+0020 U+0075	1	Achang	
+ŋw		ŋ w	i m	U+014b U+0020 U+0077	1	Bola	
+ũ		ũ ∼	n c	U+0169 U+0020 U+223c	4	Lashi	
+ũɛ̃∼m		u ɛ̃ m	m n c	U+0169 U+025b U+0303 U+0020 U+223c U+006d	1	Lashi	
+ɂ		ʔ	i	U+0242	82	Bola,Hpun,Lashi,Achang,Maru,Atsi	
+ɂj		ʔ j	i m	U+0242 U+0020 U+006a	1	Atsi	
+ɔ		ɔ	n	U+0254	116	Hpun,Maru,Achang,Lashi,Atsi	
+ɔk		ɔ k	n c	U+0254 U+0020 U+006b	2	Atsi	
+ɔm		ɔ m	n c	U+0254 U+0020 U+006d	9	Atsi,Achang	
+ɔp		ɔ p	n c	U+0254 U+0020 U+0070	4	Atsi,Achang	
+ɔt		ɔ t	n c	U+0254 U+0020 U+0074	7	Achang,Atsi	
+ɔŋ		ɔ ŋ	n c	U+0254 U+0020 U+014b	13	Maru,Atsi,Hpun	
+ɔɂ		ɔ ʔ	n c	U+0254 U+0020 U+0242	65	Bola,Maru,Lashi,Achang,Atsi	
+ɔət		ɔ ə t	m n c	U+0254 U+0259 U+0020 U+0074	1	Achang	
+ɔ̃		ɔ̃ ∼	n N	U+0254 U+0303 U+0020 U+223c	5	Achang,Lashi	
+ɔ̃ɂ		ɔ̃ ʔ	n c	U+0254 U+0303 U+0020 U+223c U+0242	6	Lashi	
+ɔ̣		ɔ̰	n	U+0254 U+0323	10	Atsi,Achang	
+ɔ̣m		ɔ̰ m	n c	U+0254 U+0323 U+0020 U+006d	1	Atsi	
+ɔ̣p		ɔ̰ p	n c	U+0254 U+0323 U+0020 U+0070	3	Achang	
+ɔ̣t		ɔ̰ t	n c	U+0254 U+0323 U+0020 U+0074	1	Achang	
+ɔ̣ɂ		ɔ̰ ʔ	n c	U+0254 U+0323 U+0020 U+0242	10	Atsi,Maru,Achang,Lashi	
+ə		ə	n	U+0259	67	Bola,Maru,Hpun,Achang,Lashi,Atsi	
+ək		ə k	n c	U+0259 U+0020 U+006b	7	Lashi	
+əp		ə p	n c	U+0259 U+0020 U+0070	1	Maru	
+ət		ə t	n c	U+0259 U+0020 U+0074	7	Atsi,Maru	
+əŋ		ə ŋ	n c	U+0259 U+0020 U+014b	13	Lashi	
+əɂ		ə ʔ	n c	U+0259 U+0020 U+0242	1	Achang	
+ə̣		ə̰	n	U+0259 U+0323	1	Achang	
+ə̣ŋ		ə̰ ŋ	n c	U+0259 U+0323 U+0020 U+014b	1	Lashi	
+ɛ		ɛ	n	U+025b	39	Atsi,Maru,Bola,Hpun,Lashi,Achang	
+ɛm		ɛ m	n c	U+025b U+0020 U+006d	10	Lashi	
+ɛn		ɛ n	n c	U+025b U+0020 U+006e	9	Lashi,Atsi,Maru,Achang	
+ɛp		ɛ p	n c	U+025b U+0020 U+0070	3	Lashi	
+ɛt		ɛ t	n c	U+025b U+0020 U+0074	8	Bola,Lashi,Achang	
+ɛɂ		ɛ ʔ	n c	U+025b U+0020 U+0242	8	Hpun,Lashi,Achang,Maru	
+ɛɪ		ɛ ɪ	n N	U+025b U+026a	1	Hpun	
+ɛ̣		ɛ̰	n	U+025b U+0323	3	Atsi,Achang	
+ɛ̣m		ɛ̰ m	n c	U+025b U+0323 U+0020 U+006d	1	Lashi	
+ɛ̣n		ɛ̰ n	n c	U+025b U+0323 U+0020 U+006e	3	Achang	
+ɛ̣t		ɛ̰ t	n c	U+025b U+0323 U+0020 U+0074	3	Achang,Maru	
+ɛ̣ɂ		ɛ̰ ʔ	n c	U+025b U+0323 U+0242	1	Bola	
+ɣ		ɣ	i	U+0263	21	Lashi,Bola,Maru	
+ɨ		ɨ	n	U+0268	6	Lashi	
+ɨu		ɨ u	m n	U+0268 U+0075	7	Achang	
+ɨŋ		ɨ ŋ	n c	U+0268 U+0020 U+014b	2	Achang	
+ɨɂ		ɨ ʔ	n c	U+0268 U+0020 U+0242	2	Lashi,Achang	
+ɨ̣ɂ		ɨ̣ ʔ	n c	U+0268 U+0323 U+0020 U+0242	1	Lashi	
+ɨ̣ụ		ɨ̰ u	n N	U+0268 U+0323 U+1ee5	1	Achang	
+ɪ		ɪ	n	U+026a	7	Lashi,Atsi,Maru	
+ɪk		ɪ k	n c	U+026a U+0020 U+006b	5	Atsi	
+ɪn		ɪ n	n c	U+026a U+0020 U+006e	17	Lashi,Atsi,Maru	
+ɪp		ɪ p	n c	U+026a U+0020 U+0070	2	Maru	
+ɪt		ɪ t	n c	U+026a U+0020 U+0074	4	Atsi	
+ɪŋ		ɪ ŋ	n c	U+026a U+0020 U+014b	2	Atsi	
+ɪ̣k		ɪ̰ k	n c	U+026a U+0323 U+0020 U+006b	1	Atsi	
+ɪ̣t		ɪ̰ t	n c	U+026a U+0323 U+0020 U+0074	3	Atsi	
+ɯŋ		ɯ ŋ	n c	U+026f U+0020 U+014b	2	Atsi	
+ɯ̃∼		ɯ̃ ∼	n c	U+026f U+0303 U+0020 U+223c	1	Lashi	
+ɲ		ɲ	i	U+0272	2	Hpun	
+ɹ		ɹ	i	U+0279	10	Lashi,Atsi,Hpun	
+ʃ		ʃ	i	U+0283	90	Bola,Maru,Achang,Lashi,Atsi,Hpun	
+ʃi		ʃ i	i m	U+0283 U+0020 U+0069	1	Lashi	
+ʃj		ʃ j	i m	U+0283 U+0020 U+006a	2	Lashi,Maru	
+ʃu		ʃ u	i m	U+0283 U+0020 U+0075	1	Hpun	
+ʃw		ʃ w	i m	U+0283 U+0020 U+0077	4	Hpun	
+ʃʰ		ʃʰ	i	U+0283 U+02b0	3	Bola	
+ʊ		ʊ	n	U+028a	1	Achang	
+ʊn		ʊ n	n c	U+028a U+0020 U+006e	5	Maru,Hpun,Atsi	
+ʊp		ʊ p	n c	U+028a U+0020 U+0070	4	Atsi	
+ʊt		ʊ t	n c	U+028a U+0020 U+0074	5	Atsi	
+ʊŋ		ʊ ŋ	n c	U+028a U+014b	1	Hpun	
+ʊɂ		ʊ ʔ	n c	U+028a U+0242	1	Hpun	
+ʊ̣t		ʊ̰ t	n c	U+028a U+0323 U+0020 U+0074	5	Atsi	
+ʒ		ʒ	i	U+0292	1	Maru	
+βʷ		βʷ	i	U+03b2 U+02b7	6	Atsi	
+ạ		a̰	n	U+1ea1	11	Atsi,Achang,Bola,Maru	
+ạiɂ		a̰ i ʔ	n N c	U+1ea1 U+0069 U+0020 U+0242	2	Lashi	
+ạk		a̰ k	n c	U+1ea1 U+0020 U+006b	4	Bola,Maru	
+ạm		ạ m	n c	U+1ea1 U+0020 U+006d	13	Bola,Achang,Atsi,Maru	
+ạmp		a̰ mp	n c	U+1ea1 U+0020 U+006d U+0070	1	Achang	
+ạn		a̰ n	n c	U+1ea1 U+0020 U+006e	5	Bola,Maru,Achang,Atsi	
+ạp		ạ p	n c	U+1ea1 U+0020 U+0070	12	Bola,Achang,Maru,Atsi	
+ạt		a̰ t	n c	U+1ea1 U+0020 U+0074	2	Maru	
+ạŋ		ạ ŋ	n c	U+1ea1 U+0020 U+014b	20	Bola,Lashi,Maru,Achang,Atsi	
+ạŋk		a̰ ŋk	n c	U+1ea1 U+0020 U+014b U+006b	3	Lashi,Achang	
+ạɂ		a̰ ʔ	n c	U+1ea1 U+0020 U+0242	5	Lashi,Bola	
+ạ̄		ã̰ ∼	n c	U+1ea1 U+0304	1	Bola	
+ạị		a̰ i	n N	U+1ea1 U+1ecb	4	Atsi,Achang	
+ạịk		a̰ i k	n N c	U+1ea1 U+1ecb U+0020 U+006b	1	Achang	
+ạịt		a̰ i t	n N c	U+1ea1 U+1ecb U+0020 U+0074	2	Maru	
+ạịɂ		a̰ ḭ ʔ	n c	U+1ea1 U+1ecb U+0020 U+0242	5	Lashi,Achang,Maru	
+ạụ		a̰ u	n N	U+1ea1 U+1ee5	10	Bola,Lashi,Maru,Atsi,Achang	
+ạụk		a̰ u k	n N c	U+1ea1 U+1ee5 U+0020 U+006b	1	Maru	
+ạụt		a̰ u t	n N c	U+1ea1 U+1ee5 U+0020 U+0074	1	Bola	
+ạụŋ		a̰ u ŋ	n N c	U+1ea1 U+1ee5 U+0020 U+014b	2	Bola,Maru	
+ạụɂ		a̰ u ʔ	n N c	U+1ea1 U+1ee5 U+0020 U+0242	3	Maru	
+ẹ		ḛ	c	U+1eb9	4	Lashi,Maru,Bola	
+ẹɂ		ḛ ʔ	n c	U+1eb9 U+0242	7	Bola,Lashi,Maru	
+ẽ		ẽ ∼	n c	U+1ebd U+0020 U+223c	3	Bola	
+ẽŋ		e ŋ	n c	U+1ebd U+0020 U+223c U+014b	1	Lashi	
+ẽɂ		ẽ ʔ	n c	U+1ebd U+0020 U+223c U+0242	1	Lashi	
+ị		ḭ	n	U+1ecb	18	Achang,Lashi,Atsi,Maru,Bola	
+ịt		ḭ t	n c	U+1ecb U+0020 U+0074	2	Maru	
+ịɂ		ḭ ʔ	n c	U+1ecb U+0020 U+0242	4	Achang,Maru	
+ọ		o̰	n	U+1ecd	6	Achang,Bola,Maru	
+ọk		o̰ k	n c	U+1ecd U+0020 U+006b	8	Lashi,Maru	
+ọŋ		o̰ ŋ	n c	U+1ecd U+0020 U+014b	3	Lashi,Achang	
+ọɂ		o̰ ʔ	n c	U+1ecd U+0020 U+0242	7	Lashi,Maru	
+ọ̈ɂ		ø̰ ʔ	n c	U+1ecd U+0308 U+0020 U+0242	1	Maru	
+ọị		o̰ i	n	U+1ecd U+1ecb	2	Lashi,Maru	
+ọịɂ		o̰ ḭ ʔ	n N c	U+1ecd U+1ecb U+0020 U+0242	4	Lashi	
+ụ		ṵ	n	U+1ee5	9	Lashi,Maru,Bola,Achang	
+ụk		ṵ k	n c	U+1ee5 U+0020 U+006b	5	Achang	
+ụm		ṵ m	n c	U+1ee5 U+0020 U+006d	3	Atsi	
+ụn		ṵ n	n c	U+1ee5 U+0020 U+006e	1	Atsi	
+ụp		ụ p	n c	U+1ee5 U+0020 U+0070	2	Atsi	
+ụŋ		ṵ ŋ	n c	U+1ee5 U+0020 U+014b	4	Bola,Atsi	
+ụɂ		ṵ ʔ	n c	U+1ee5 U+0020 U+0242	5	Achang,Atsi	
+ụə̣t		ụə̣ t	n c	U+1ee5 U+0259 U+0323 U+0020 U+0074	1	Achang	
+ụɛ̣m		u ɛ̰ m	m n c	U+1ee5 U+025b U+0323 U+0020 U+006d	1	Lashi	
+ụ̃		ṵ̃ ∼	n c	U+1ee5 U+0303	1	Bola	
+ụạt		u a̰ t	n c	U+1ee5 U+1ea1 U+0020 U+0074	1	Achang	
+ụị		ṵ i	n N	U+1ee5 U+1ecb	2	Bola,Achang	
+⁴		⁴	t	U+2074	103	Achang,Atsi,Maru,Lashi	
+dzӧi		dz ø i	i n N				
+æ̃		æ̃ ∼	n c				
+xuĩ		x u ĩ ∼	i m n c				
+dʒ		dʒ	i				
+nã		n ã ∼	i n c				
+njũɛ̃m		n j ũɛ̃/ɛ̃ m	i m n c			 	
+mɯ̃		m ɯ̃ ∼	i n c				
+dʒj		dʒ j	i m				
+⁴²		⁴²	t	U+2074 U+00b2	57	Atsi,Lashi,Maru,Achang	
+⁴³		⁴³	t	U+2074 U+00b3	64	Lashi,Achang,Atsi,Maru	
+⁴¹		⁴¹	t	U+2074 U+00b9	21	Lashi,Achang,Maru	
+⁴⁵		⁴⁵	t	U+2074 U+2075	24	Maru,Atsi,Lashi,Achang	
+⁵		⁵	t	U+2075	207	Maru,Atsi,Lashi,Achang	
+⁵²		⁵²	t	U+2075 U+00b2	112	Maru,Atsi,Achang,Lashi,Bola	
+⁵³		⁵³	t	U+2075 U+00b3	189	Maru,Achang,Lashi,Atsi	
+⁵¹		⁵¹	t	U+2075 U+00b9	38	Achang,Atsi,Maru,Lashi	
+⁵⁴		⁵⁴	t	U+2075 U+2074	121	Lashi,Achang,Atsi,Maru	
+⁵⁵		⁵⁵	t	U+2075 U+2075	65	Hpun	
 a:	a:	a:	n	U+0061 U+003a	16	Written_Burmese	ŋa:, pʰa:, hma:, pa:, na:
 aˀ	aˀ	aˀ	n	U+0061 U+02c0	11	Written_Burmese	laˀ, hnaˀ, pʰaˀ, kaˀ, kaˀ
 u	u	u	n	U+0075	8	Written_Burmese	cʰu, ɂu, pu, tʰu, cʰu
