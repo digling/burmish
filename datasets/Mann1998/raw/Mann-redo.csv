@@ -1,0 +1,580 @@
+Button_number	Mann_number	Nishi_Number	Mann_meaning	Written_Burmese	Achang	Zaiwa	Lashi	Maru	Bela	Phon
+	001a	175	sky	mui:	mau³⁴	mau³	mau³	moɂ³⁵	mau⁵²	mu³¹
+	001b		sky	kauŋ:	kʰoŋ³²	kʰuŋ⁵³	kʰoŋ³¹	gauŋ⁵¹		
+	002a		sun	pauŋ:	pui³¹	bui³	be⁵¹	ba³¹	pui³	
+4	003a	216	moon	laˀ	lạ⁵	lə⁴	la⁵	lọ⁴³	lẹ²³	la³¹
+	003b		moon		mụ⁵	mɔ⁴	mɔ⁵³		mə⁵²	
+	004a		star	krai	gi²	kị⁵³	kị⁵³	gi⁵²	kị³	
+	005a		cloud	tim	dʒə³²	dum⁴²	dʒɛ⁵³	dʒạm³¹	tsạm³	
+	006a	31	mist	hnaŋ:		ŋạn⁵³	ŋãɪ³	ŋɪn⁴²		
+	006b		mist		dʒue⁴⁵			tʃʰe⁴³		
+46	007a	70	rain	rwa			wɔ⁵¹			waɂ⁵⁵
+	008a		rainbow	sak	sai³⁵		səŋ⁴³	saŋk⁵³		sə
+	008b		rainbow		jaŋ⁵³	βʷɔɂ³²	jɔɂ³¹	ja⁴¹		jʊŋ
+	008c		rainbow		kan²	gan²		gen⁴		
+	009a		lightning	hljap		lạp⁴	læ̣p⁵³			
+	010a		thunder	krui:		gum⁵³	guɛm³			
+	011a	352	shadow	rip	jæt²¹	vʊp³	jø̣p³			
+	011b		shadow				paŋ⁵³	baɂ²¹		
+31	012a		night	ɲaɲˀ	njɛn³⁵	mjɪn³⁴	mjēŋ⁵	mị⁵	mjan²³	meɪ³¹
+40	013a	229	day	neˀ	njei⁴⁵	ni⁴⁵	njē⁵	na³¹	neɂ⁵²	ni³¹
+	014a		morning	nak	nap³	nap³	næp³²	nɛɂ³²	ne²³	
+	014b		morning			gjɔ⁴	gjot⁵²	ga³¹	kaŋ³	
+	015a		noon		kuŋ⁵¹	guŋ⁵³	goŋ⁵¹	gau³¹	kạ̄⁵²	
+	016a		yesterday	ja			jɪn⁵³	jɛɂ²³	jə²³	
+	016b		yesterday			ɂə³	ɂai²⁵	ɂa³²	ɂaŋ³	
+	017a		tomorrow		jɔ³¹		jɔ⁴²			
+	017b		tomorrow			ma³		mɔ³⁵	ma²³	
+	018a		year		dzan⁴²	dzan⁵¹	tsain⁴	dzɪn³¹		
+	019a		east		bui⁴²	ba³¹	bø⁵³	ba³¹	pui³	
+	019b		east		tʰuɂ⁵⁴	tʰɔɂ⁵	tʰuɂ⁵²	tʰuk⁵	tʰau⁵²	
+	020a		west		waŋ³¹	waŋ³¹	waŋ³¹	wa³²	wãŋ³	
+	021a		north		dzọŋ³²		tsọŋ³²		tsaŋ³	
+	022a		south		tị³²		bi³²		pi³	
+	023a	67	water	re	dʒei⁴²					cʰi⁵⁵
+	023b		water			ɂʊ̣t⁵	ge⁵¹	ɣit⁴	ɣi³	
+	024a		river	kʰyauŋ:	laŋ³²	laŋ³¹	lạŋ³¹		laŋ⁵²	
+	025a		sea	paŋ		baŋ³	baŋ²³	baŋ³		
+	025b		sea	lai		lai³¹	lai³²	lai³²		
+	026a		earth, soil	cʰi	dzɔ⁴⁵	dzɛ³¹	dʒoŋ⁵¹		tsai²³	
+	026b	57	earth, soil	mre		mit⁵	mjẹ⁵³	miɂ³	mi³	mji⁵⁵
+	027a		mud	hrwamˀ	tʰɔm⁵		tʰøm⁵	tʰam³²		
+	027b		mud		bɔp⁴³	bɔ³	bøp²¹	bap³²		
+	028a		dust	pʰut	pʰə⁵	pʰui²	pʰə⁵	bət³		
+	028b		dust		lạụ⁵¹	lau⁵³	lau⁵¹			
+82	029a		stone	klauk	luk³	luɂ³	lok³	lau⁴³	lauɂ²³	loɂ³¹
+	030a		sand	sai:	si⁵	su³⁵				
+	030b		sand		ʃɔ³¹		tʃʰo³¹	tʃʰö³¹	ʃa³	ʃe
+	030c		sand			mui⁵²	mjẹ⁴³	ma³²		mu
+	031a		lime(betel)	tʰumˀ	ʃə⁴³	tʃʰɔ³²	ʃo⁵³			
+	031b		lime(betel)		hui⁵	hui³	hẹi⁴²			
+	032a		gold	hrwe	xjen³	hɯŋ⁵³	ʃəŋ⁵²	xaŋ⁴²	xaŋ³	ʃaiŋ⁵⁵
+	033a	66	silver	ŋwe	ŋui⁴²	ŋun³¹	ŋ⁵²	ŋoi⁴²	nui³	
+	034a		iron		tʰjɛɂ⁴²	dɔɂ⁵	dɔɂ⁵²	tọɂ⁵⁴	tạɂ⁵²	
+	034b		iron				dʒɔɂ³	dʒoɂ³²		
+	034c	30	iron	sam		ʃam⁵⁴				se⁵⁵
+	035a		mountain		buɔm³¹	bum³¹	bɛm⁵¹	bam³¹	pam²³	
+	036a		cave		luk³²	lʊp³	loɂ³⁴	lauk³²		
+	036b		cave		kʰjuŋ³²	kʰjuŋ⁵³				
+	036c		cave				ɂoɂ⁵³	ɂạụk⁵		
+	037a		forest				gjɛm⁵³	dʒam⁴		
+	037b		forest		kʰjam⁴¹		kʰau³²			
+	037c		forest	tau:				tʰa⁴		
+84	038a	289	tree	sac	saiɂ⁵	sɪk⁵	sək⁵⁴	sak⁵	sak⁵²	ʃaiɂ³¹
+	038b		tree			gam⁵³	gam³¹	ge⁴¹	kʰi³	
+	039a		branch	kuiŋ:	kɔ̣³¹	kɔɂ⁵⁴	goŋ³	gɔŋ³¹		kʰo³¹
+	040a		bark	kʰauk	kụk⁵⁴	kụɂ⁵	gok⁵³	kạụɂ⁵⁴		kʰue⁵⁵
+	041a	161	thorn	cʰu:	dzu³⁴	dzu³¹	dzu⁴	dzau⁴		sʰu³¹
+	042a	338	root	mrac	njɛt³²	mɪt⁴³				mjaiɂ³¹
+	042b		root				gi²	gi²	ki⁵²	
+	043a		leaf		huɂ⁵	haɂ⁵	foɂ⁵³	foɂ⁵	faɂ⁵²	
+	044a	152	flower	pan:	pan³⁴	ban³²	bain⁴	pẹn⁴	pje⁵²	pɛ³¹
+80	045a	134	fruit	si:	ʃi⁵	ʃi³¹	ʃi⁴	ʃi⁴³		ʃi³¹
+	046a		seed	ɂə	ɂa³²		ɂa³	ɂa³	ɂa	ɂa
+	046b	220	seed	ceˀ	dʒei⁵⁴	dʒi⁴		dʒit⁴⁵		
+	046c		seed			ʃɪ³	ʃi⁵			si³¹
+	047a		grass	mrak	mạn²⁵	mjɔɂ³¹	mjɔɂ²	mjoɂ²⁴	mẹ²³	mjoɂ³¹
+35	048a	198	bamboo	wa:	wu³⁴	wa³¹	wɔ³	vo⁴		wa³¹
+	049a		bamboo shoot	mrac	njiɂ⁴	nik³²	mjuk³	mạk⁴²		maiɂ³¹
+	050a	50	mushroom	hmui	mau³¹	mai³	mau³¹	mok⁴³		mu⁵⁵
+	051a		rattan	krim	gjɛn⁴²	gam⁵³	gjɛm⁵¹	ɣam⁵¹		
+	052a		kapok	lak		lə²	la³²	lə²		
+	052b		kapok	pam		ban⁵³	bæm³¹	pẹ⁴²		
+	053a		sugar cane	paŋ	pʰɨŋ⁵	pʰuŋ³	pʰəŋ⁴⁵	pʰauŋ⁴		pjo
+	053b		sugar cane		tʃʰau³	tʃʰui⁵³	tʃʰau³¹	tʃʰuk⁵⁴		ʃu⁵⁵
+	054a		betel nut		tʃʰa³		tʃʰa⁵⁴			
+	055a		opium	hbin:		pʰɛn³				
+	056a		liquor	rak	jei³	ɂi⁵	jēŋ⁴	ɂịɂ⁵⁴		
+	057a		banana	hŋak	ŋɔɂ³	ŋɔ⁴⁵	ŋɔ³	ŋoɂ³		ŋuɂ³¹
+	057b		banana		njụk³⁵	mjuɂ⁵³	mjok⁵⁴	mjæuɂ³²		
+	058a		papaya	saŋ	saŋ³	seŋ⁴	saŋ⁵⁴	saŋ⁵²		
+	058b		papaya	hbau:	pʰɔ³	pʰɔ⁵⁴	pʰɔɂ³	pʰɔ⁵²		
+	061a		coconut	ɂun:	ɂun³¹	ɂʊn⁵³		ɂʊn⁴²		ɂʊn³¹
+	062a		eggplant	kʰa	kʰə³	kʰət⁵	kʰə⁵	kʰət³		
+	062b		eggplant	ram:	lạm⁵	lam⁵⁴	læm⁵	le⁴		ɹɛ³¹
+	063a		peanut	mre	mjɛ³	mi³	mjeŋ³²	mi²³	me³	
+	063b		peanut			nuɂ³⁵	nok³²		nak⁵²	
+	063c		peanut	pai:	bɛ⁵					
+	064a	109	ginger	kʰjaŋ:	tʃʰaŋ⁵	tʃʰaŋ³¹	tʃʰaŋ⁵⁴	tʃʰa³	tʃʰaŋ²³	ʃo³¹
+	064b		ginger				gɔɂ⁵²	kọɂ⁵⁴		kə
+	065a		garlic		hu⁵	hu³	hø⁵	hau³		
+	065b		garlic	swan	son³	sʊn⁵⁴	soin⁴²		saun²³	ʃwe³¹
+	065c		garlic			pʰju⁵¹	pʰju²¹	pʰju⁵¹		pʰju⁵⁵
+	066a		red pepper		la³		la²			
+	066b		red pepper			pʰjik⁵		pʰjak⁵		
+	067a		corn		la³	lum⁴	la²			
+	067b		corn		mi⁵		mɯ̃⁵²			
+	068a		paddy rice		guk³	guɂ³²	kọk⁵³	gauk³²		koɂ⁵⁵
+	069a		cooked rice		wɔm³		wøm²			
+	069b		cooked rice			dzaŋ³¹		dzo³¹		
+	070a		rice husk	pʰwai:	pʰə³			pʰӧi³²		pʰu
+	070b		rice husk				kọk⁵⁴			koɂ⁵⁵
+	070c		rice husk		san³	tʃʰɪŋ⁵³	sɨ⁵			ʃeɂ
+	071a	97	salt	cʰa:	tsʰɔ⁵	tsʰɔ³¹	tsʰo⁵	tsʰo⁴³	tʰa²³	sʰa³¹
+	072a		animal	kauŋ	gau³⁴		kau²			
+	072b		animal		njæ̣ụɂ⁵²		njauk⁵³			
+	073a		tiger		dʒɔ³		dzə⁴³			
+	073b		tiger	kja:	lu³	lə³²	lo³		la⁵²	la³¹
+	073c		tiger	kja:				kʰa²		kə
+	073d		tiger			mɔ³		mjaŋ³²		
+29	074a	81	bear	wam	wɔm³¹	vam³¹	wuɂ³⁴	we⁴¹		we⁵⁵
+	075a	258	deer	cʰat	tsʰat⁵³	tsʰə³	tsạịɂ⁵¹			chi⁵⁵
+	076a		monkey	hlwai:	lai³⁴	lə³	la³			
+	076b	336	monkey	mjauk	njuk⁴²	mjuɂ³²	mjok³²	mjæuɂ³¹	mjauɂ⁵²	mjaiŋ⁵⁵
+	077a		gibbon			nɔɂ³²	nɔ̃ɂ³¹			
+	079a	21	porcupine	pʰruˀ	tjụ³	bju⁵³	bju³	pjụ⁵²		pʰjuɂ⁵⁵
+	080a		rat	krwat	gjuɂ⁴²		gɛn³²	ɣok³²	ɣo²³	
+	080b		rat			ŋɔ³	nɔ̃ɂ³		naɂ⁵²	
+37	081a	108	dog	kʰwe:	kʰui⁴⁵	kʰui³¹	kʰue³²	kʰa²	kʰui²³	kʰui³¹
+	081b		dog				la⁵³	lə		
+	082a		bark2			kʰui³²				kʰue⁵⁵
+	082b		bark2		dʒjæp⁴²		gjæp³	ɣeɂ³		
+	083a		bite		ŋat³¹	ŋat³²	ŋait³	na³²		
+	085a	359	pig	wak	wuɂ⁴²	waɂ³¹	wuɂ³	vɔɂ³²	vʷa⁵²	wʊɂ³¹
+	086a	185	cow	nwa:	nju³	nɔ³	nũ³	noŋ⁴	nau⁵²	nu³¹
+	086b		cow			dʒuŋ⁵³		dʒauŋ⁵¹		
+	087a	230	milk	nuiˀ	nau⁵	nau³	nau⁴	noŋ³	nau²³	nu³¹
+	088a		buffalo		lui⁴	lui³¹	li³	lӧi³	lui⁵²	li³¹
+	089a	19	buffalo horn	kʰjui	kʰjæu³	kʰjui⁵³	kʰjau³²³	kʰjoɂ⁵²	kʰju³	
+	090a		tail		ljạŋk⁵³		jạŋk⁵³			
+59	090b	180	tail	mri:		mi³¹	me³	mị⁴³	mi⁵²	mi³¹
+	090c		tail			ʃɔ⁴³		ʃɪ⁴	sʰa²³	
+	091a	10	elephant	cʰaŋ	tsʰaŋ³		tsʰaŋ²	tsʰa⁵³		
+	092a	48	elephant tusk	cwai	dzui³¹	dzui³¹	dzi⁵² (tusk)/tsɨ̣⁵²(tooth)	dzӧi³¹	tui³	sʰui⁵⁵
+	093a	299	bird	hŋak	ŋɔ̣ɂ⁵²	ŋɔ̣ɂ⁵⁴	ŋɔ̣ɂ⁵²	ŋɔ̣ɂ⁵⁴	ŋạɂ⁵²	ŋa³¹
+	094a		bird nest	suik	suat⁵⁴	sʊt⁵	soiɂ⁵³	sait⁵⁴		ʃaɂ³¹
+	095a	43	wing	tauŋ	duŋ³¹	duŋ³¹	doŋ⁵¹	dauŋ⁴¹		tɔŋ⁵⁵
+	096a		feather	mwe:	mau⁴⁵	mau³¹	mau³⁵	mọk⁵		mjai
+	096b		feather	ɂə			ɂa³			
+	097a		fly	pjam	daŋ³	daŋ⁵³	daŋ³	da⁴		
+	098a	242	egg	ɂuˀ	ɂuɂ⁵³	ɂu³	wɨ̣ɂ⁵³	au⁵⁴	ɣụ²³	ɂu³¹
+	099a		chicken	krak	gjɔɂ³¹	βʷɔɂ³²	gjɔɂ³²	ɣɔɂ³²	ɣɔɂ²³	
+	100a		duck	bai:	bɛ³		bə³			
+87	101a		fish	ŋa:	n⁴³	ŋɔt³	ŋə³	ŋo³	ŋə	ŋa³¹
+	102a		snake		lạŋ³	lạŋ⁵³	lạŋ³⁴	lạ³		
+69	102b		snake	mrwe	nji³¹	mui³¹	mjũ⁴¹	mọị³²	me³	
+	103a		house lizard			dzuŋ³	dʒɛ⁵			
+	105a		crocodile	miˀ	man³¹					mi³¹
+	106a	91	frog	pʰa:	pụ⁵	bɔ³¹	pu⁵	pọ³	pa²³	pa³¹
+	107a	151	insect	pui:	bau³	bau³¹				pu³¹
+	108a		spider		njɔ̣⁴²	mjạ⁴	mjɛ³			
+	108b		spider			gɔŋ³²	gaŋ³²	ga³²	koŋ⁵²	
+	109a		spider web		sot⁵	sʊt⁵		sait⁵		
+	109b		spider web	ɂim			jɛm³			
+	110a	136	louse	san:		ʃɪn³¹	ʃen⁵	ʃɪn²	ʃaun²³	
+	111a		termite		dʒaŋ³	dʒaŋ³²		dʒạ³²		
+	111b		termite	kʰraˀ	guan⁵	gɔŋ²¹	kʰjæm⁵²	kạn³		ʃɛɪ³¹
+	112a		cockroach	pui:	tʰjɔ⁴²	pʰjɔ⁵³	pʰjɔ⁴²	pʰjɔ³¹	pʰja³	
+	113a		snail		nə³		nə³²	nə²		
+	113b		snail	pak	bap³¹		bait³²	beɂ²¹		
+	114a	24	mosquito	kʰraŋ	kjạŋ³	kjạŋ⁵³	kjạŋ⁵²	gjạ²¹	kjạŋ³	
+	115a		bee	pja:	djɔ³	bjɔ³¹	bjɔ³	bjɔ²	pja⁵²	
+	116a		fly (insect)	jaŋ	jaŋ³	jaŋ³²	jaŋ³		joŋ	jo⁵⁵
+	116b		fly (insect)		kʰuŋ⁵	kʰuŋ³¹	kʰoŋ⁵			kə
+	117a		butterfly		pʰə³	pʰət⁵	pʰə⁵³	pʰət³²	pʰə³	
+	117b		butterfly	lip	djam³	lạm⁵³	læm²¹	le³¹	lẽ³	
+	117c		butterfly	pra						pja⁵⁵
+	118a		scorpion	kaŋ:	guŋ³¹		goŋ⁵²			
+	118b		scorpion		gau⁵		gau⁵			ko³¹
+	118c		scorpion	kauk		gɔk⁴				
+	119a		head		ɂut⁵	ɂʊt³²	wə⁵	ɂau²	ɂu³	
+	119b		head		lɔm⁵³	lụm³¹	lø̃m⁵¹		lam⁵²	
+	120a		face	mjak	njɔɂ⁴³	mjɔɂ³²	mjɔ̃ɂ⁴	mjɔɂ³	mjaɂ²³	
+	120b		face	hna	nɔ̣³¹		nɔ̃³	nɔ³		
+	121a	126	brain	ɂu:	ɂu⁴⁵	ɂu³⁴	wə⁵	ɂau³	ɂu	ɂo³¹
+	121b		brain	hnauk	nuk⁴²	nuɂ⁵	noɂ⁵¹	nauɂ⁴²	nauɂ²³	nokɂ³¹
+	122a	9	hair	cʰam	tsʰam³	tsʰam⁵³	tsʰæm⁵³	tsʰe⁴¹	tsʰi³	sʰɛ⁵⁵
+	123a		forehead	naˀ	ŋa³	ŋɔt³	ŋə³	ŋa³		
+	123b		forehead	kʰauŋ:	laŋ³	laŋ³¹	laŋ³	la²		
+	124a		eyebrow		mi³²	mau³	mɨ³		mauŋ²³	
+71	125a	335	eye	mjak	njɔɂ³	mjɔɂ³²	mjɔ̃ɂ⁴	mjɔɂ³²	mja²³	juɂ³¹
+	125b		eye		dʒi⁴³	dʒi³			tsi²³	si³¹
+	126a		eyelid	kʰwam	kụk⁵⁴	kụɂ⁵	gok⁵³			
+66	127a	61	nose	hna	nɔ̣³	nɔ⁵³	nũ³	nọ⁴¹	nã³	naɂ⁵⁵
+	128a		cheek	pa:	bə⁴	bu³	bə³	bə³²		pa³¹
+	128b		cheek		lɔt⁴³		loiɂ³²			
+88	129a		ear	na:	nɔ³	nɔ³	nai³	no³	ne³	na³¹
+	129b		ear			kʰjæp⁵	kʰjæp⁵³		kjɛ²³	
+	130a	295	mouth	hnut	nụə̣t⁵⁴	nʊ̣t⁵	nọịɂ⁵²	nạt⁵⁴		
+	131a		tongue			mui³¹		ʃɔ⁵¹	ʃʰa⁵²	
+	131b		tongue		djɔ̣³		jɔ⁴³			jaɂ⁵⁵
+	132a		saliva			kan³¹	gain⁵³	kʰət³	kiɂ²³	
+	132a		saliva	swe:	dʒei⁵					tʰwi
+	133a		tooth	swa:						sɛ
+	134a		gums		njeŋ³¹			njɛn³¹		
+	135a		chin		ɂam³	ɂam⁵	ɂæm³	ɂe³²		
+	135b		chin	ceˀ	tʃʰam⁵	tʰaŋ⁵³	tʃʰæm⁴			
+	136a		beard	na:	nɔ̣t⁵⁴	nʊ̣t⁵	nọịɂ⁵³	nạịɂ⁵⁴	nau⁵²	
+	136b		beard	mut	mi⁴²	mui³¹	mɨ³²	mọk⁴	mjɛ⁵²	
+	137a	353	shave (beard)	rit	juk⁴³		gjɛt⁴			
+	138a		back	nauk	noŋ⁵		noŋ⁴⁵			
+	138b		back	kjauk	kʰoŋ³	kʰuŋ⁵³	kʰoŋ³¹			tʰaŋ
+	139a	200	abdomen	wam:	wom³	βʷam³	wɛm³		xuĩ³	
+	139b		abdomen		dau³	dau³¹	dau³²	duk³²	tau⁵²	
+	140a	263	navel	kʰjak	tʃʰɔɂ⁵⁴	tʃʰɔɂ⁵⁴	tʃʰɔɂ⁵³	tʃʰoɂ⁵⁴		sʰɛɂ³¹
+	141a	296	heart	hnaˀ	nạịk⁵⁴	nɪ̣k⁵	nək⁵⁴		nak⁵²	
+	141b		heart	lum:	lam³²	lum³¹	lɛm²		lam⁵²	laŋ³¹
+	142a	275	lungs	cʰut	tsʰɔt⁵³		tsọịɂ⁵³		tsạɂ⁵²	ʃwaiɂ³¹
+85	143a	131	liver	saɲ:	tjɛ̣n⁵	sin⁴²	səŋ⁵	saŋ³²	saŋ²³	ʃaiŋ³¹
+	144a		intestines	ɂu	ɂu³	ɂu⁵¹	wu⁴	ɂau³¹	wu³	
+	145a	355	hand	lak	lɔɂ⁴²	lɔɂ³²	lɔ̣ɂ³	loɂ³²	lạ⁵²	lʊɂ³¹
+	146a		elbow		man⁵	mun³⁴	moi⁴⁵	mạịt⁵		
+	146b		elbow	tauŋ	tʰuŋ⁵	tʰuŋ⁴	tʰuŋ⁵³	tʰauŋ²		
+	146c		elbow		gue³		gue⁵³			
+	147a		armpit				tʃʰæp⁵³	tʃʰɛɂ⁴³		
+	147b		armpit	kʰjuiŋ:			kʰjoŋ⁴	kʰæuŋ⁴²		
+	149a	140	finger	hɲui:	njæ̣ụ⁵	njui³¹	njạụ⁵	njọɂ⁵	njạụŋ²³	
+74	150a	132	nail	saɲ:	sai⁵	siŋ³¹	səŋ⁴	saŋ⁴³	saŋ²³	ʃaiŋ³¹
+	151a		buttocks	cʰauŋˀ	tʃʰoɂ⁵³	tʃʰə⁵	tʃʰoŋ⁵³			
+	153a		thigh		daŋ⁵	daŋ³²	daŋ⁵		toŋ²³	
+	153b		thigh	pauŋ	bau⁵	bau³	bau⁴	bauŋ³¹	pau⁵²	
+	154a		knee	pu	pʰə⁵		bue⁵³	pạt⁵		
+	154b		knee		luk⁵⁴		loɂ³²	lauɂ³		
+	154c		knee	cʰac	tʃʰap⁵⁴					chiɂ⁵⁵
+	155a		calf		pụɂ⁵⁴	bu³	buɂ⁵³	bau³		
+	156a		shin		njạŋ⁵	mjạŋ³²		mạ⁴		
+	156b		shin		kạŋ³		gaŋk⁵²	kạụŋ⁴		
+	157a	18	foot	kʰre	kʰjei³	kʰji⁵³	kʰje⁵³	kʰit⁵³	kʰi³	kʰi⁵⁵
+	158a		heel			tʰaŋ⁴³	tʰuŋ⁴	tʰauŋ²		tʰaŋ³¹
+	159a		bone		ʃe³	ʃə⁴³	ʃe⁵⁴	ʃɪ⁴³	ʃʰu	
+78	159b	189	bone	rui:	jæu³	wị³²	jau⁴¹	ɣok³		ɹu³¹
+	160a		rib	nam	nam³¹	nam³²	nam³¹	nɛ³		
+	160b		rib			tʃʰam³²	tʃʰam⁵⁴	tʃʰe⁴²		
+22	161a	135	flesh	sa:	ʃɔ⁵	ʃɔ³¹	ʃu⁵	ʃɔ³²		ʃa³¹
+	162a		fat	cʰi	tsʰɨu³		tsʰu³²	tsʰau³¹		ʃaiŋ⁵⁵
+	163a		skin	re	jei³¹		je⁵¹			ɹi
+93	164a	128	blood	swe:	sui⁵	sui⁴²	soi⁵	sa²	sui²³	ʃui³¹
+	165a		sweat			bui³²	bje³¹	bau³¹	pau⁵²	
+	165b		sweat	kʰjwe:	gjɛ̣³		kjụ⁵	gjӧ²	kjɛ³	xwai
+	166a		pus				fueɂ⁵³	fak⁵		
+	167a	111	excrement	kʰje:	kʰjei⁵	kʰi³¹	kʰei⁵	kʰiɂ⁵⁴		
+	168a		urine		jẹị⁵	ɂi³	jẹ⁵	ɂịt⁵		
+	168b		urine	se:		ʃi⁵³				sʰi³¹
+	169a	349	man	jauk		juɂ⁴			jauɂ⁵²	jok⁵⁵
+	169b		man	kja:		ge³¹	ge⁵¹	gai³¹	kai⁵²	
+	170a		woman	mjui:	mɛ³¹	mi³	me⁴	mjɪ²	mɛ³	mi⁵⁵
+	170b		woman				je⁴	ɣe²	ɣɛ⁵²	
+	171a		person	lu	dju³¹		bju⁵¹	bju³¹	pju³	
+	172a		father		ɂa³	ɂə	ɂa³	jɪp²	ɂa	ɂə
+	172b		father	pʰaˀ	ba⁵		pʰoɂ⁵³	pʰɔ⁴³	va³	pʰa
+	173a		mother		ɂuŋ³		ɂa³		ɂa	ɂə
+	173b		mother		wɛ³¹		jẹɂ⁵³	jɪp²		ji³¹
+	173c		mother	miˀ			noŋ	mị⁴²		
+42	174a		child	sa:	ʃaŋ³	ʃaŋ⁵³				sə
+	174b		child			dʒə³	dzu⁴	dzo³²		
+	174c		child	le:	lə³					
+33	175a		son-in-law	mak	mɔɂ⁴³		mɔɂ⁴			moɂ³¹
+	175b		son-in-law			ɂạụ⁵³		ɂok⁴²		
+	176a		husband		jɛ̣n⁴	jạŋ³	jok³	jạm³²		
+	176b		husband		sain⁴³			saŋ²¹		
+	176c		husband	laŋ:		laŋ⁵³			loŋ³	lo⁵⁵
+	176d		husband		pʰɔɂ³¹			pʰo³		
+	177a		wife	maˀ	njịɂ³⁴	mi³¹	me⁴	mị⁴	mi⁵²	mi⁵⁵
+	178a		widow	cʰui:	tʃʰau⁵	tʃʰui³²	tʃʰau⁵⁴	tʃʰuk⁵⁴		
+	178b		widow	ma	mu⁵	mɔ³	mɔ̃⁴	mɔ⁴		mai³¹
+	179a		elder sibling	ɂac	ɂa³	ɂa⁴⁵	ɂa⁴	jə²	ɂa³	
+	179b		elder sibling	maˀ	maŋ³	maŋ⁵³	maŋ⁴	ma²		mo³¹
+	180a		younger sibling	nuˀ	nu⁵		nõŋ⁵	nauŋ³²	nauŋ⁵²	
+	181a		friend		djɛn³¹		bjeŋ⁵³	bjɪn²¹	pui³	
+	181b		friend	cʰwe	tʃʰaŋ⁵	dzum³	tʃʰaŋ⁵	tʃʰa²		
+72	182a	51	name	maɲ	njeŋ³¹	mjɪŋ³¹	mjəŋ³¹	mạŋ³¹	maŋ²³	maiŋ⁵⁵
+	183a	71	village	rwa	wʊ³	wa³¹	wə⁴	vo²	wa²³	wa⁵⁵
+	183b		village		kʰau³		goŋ⁵¹	kʰauŋ²		kʰə
+	184a		road, path			kʰjɔ⁵³	kʰjɔ⁴	kʰjɔ⁵¹	kʰja⁵²	kʰə
+13	184b		road, path	lam:	lụ³					ɹi³¹
+	185a	36	boat	hle		lạị⁵³	lẹɂ⁵⁴	lạ³¹		liɂ⁵⁵
+	185b		boat	ɂə		wi³		ɣit²		
+	186a	25	house	ɂim	jẹn³	ɂjụm⁵³	jɛ̣m⁴	jạm³¹	jạm²³	ɂaiŋ⁵⁵
+	187a		door	kʰa:	kʰuam⁵	kʰum³¹	kʰæm⁴	kʰam³	kʰam²³	
+	188b		window	taŋ:		dɔŋ³¹	duaŋ³¹			
+	188c		window	pauk	baiɂ⁴¹					
+	189a		roof	kʰaŋ	kʰoŋ³	kʰuŋ⁵³	kʰoŋ⁴²	kʰauŋ³¹		kʰauŋ⁵⁵
+	190a		under house		dʒei³¹	gi⁴³	ge⁵	git³		
+	191a		wall of house		dʒə̣³	tsʰə⁵⁴			tsʰi	tʰo⁵⁵
+	192a		mat		tʰan³	tʃʰə⁴	tʰãɪ⁵²	tʰɪn⁴¹		
+	192b		mat	pʰja		pʰjɔ⁵³				
+	193a		pillow	ɂum:	ɂu⁵	ɂu³	wə⁵	ɂau²		ɂaiɂ³¹
+	193b		pillow	kʰauŋ:	kʰɨɂ⁵³	kʰuɂ⁵⁴	kʰoɂ⁵³	kʰau³		
+	194a		blanket		mi³¹		mẹị⁵¹	mai³²		
+	194b		blanket			pʰə³		pʰoɂ⁴		
+	194c		blanket	cauŋ		dʒɔŋ³⁴				
+	195a		clothing			bu³¹		bau²	pụ⁵²	
+	196a		weave (cloth)	kam:		kan³²	gain³	gɪn⁴	ɣa⁵²	
+	196b	350	weave (cloth)	rak	jɔɂ³¹	wɔɂ³	jɔ̣ɂ³	ɣoɂ³²		rʊɂ³¹
+	197a	99	dye (cloth)	cʰui:	tsʰau⁵		tʃụɛ̣m⁴¹	tsʰo⁵⁴		ʃo³¹
+	198a		sarong	lum	lụ⁵		lo⁴			
+	198b		sarong	kʰaɲ				kạŋ³²		
+	199a		trousers		kʰjaɂ⁵³	kʰap³²	kʰjaɂ⁵³			
+	200a	266	sew	kʰjup	tʃʰoap⁵¹	kʰjup⁵⁴	tʃʰuɛp⁵³	kʰjæp⁵		xɹaɂ³¹
+	201a		needle	ɂap	ŋạp⁵⁴	ɂạp⁵	ŋæ̃p⁵³	ŋẹɂ⁵⁴	neɂ⁵²	
+	202a		comb		tjẹ⁵	da³			tụị²³	
+	202a		comb	hbi:			bi⁵	bje³²		pʰje³¹
+	203a		ring	lak	lɔɂ³²	lɔɂ³²	lɔ̣ɂ³	loɂ³²		
+	203b		ring				bain⁴	pẹn²		
+	203c		ring	cwap	kjɔ̣p⁵³	dʒɔp⁵⁴				
+	205a		cooking pot	ɂui:	ɂau⁵		ɂau⁵	ɂọk⁵⁴		oɂ⁵⁵
+	206a		ladle	hmut	mɔət⁴¹	mə³	mọịɂ³			mui³¹
+	207a		mortar	cʰum	tsʰɔm³	tsʰum⁵³	tsʰæm⁴³	tsʰam⁴¹		
+	208a		pestle		tʰuŋ⁵	tʰuŋ³⁴	tʃʰaŋ⁴⁵	tʃʰa³²		ci⁵⁵
+	208b		pestle	kjaɲ	kjẹị³	gi⁵³	ge³¹			
+	209a		spoon		mɔt⁴²		moiɂ³			
+	209b		spoon			dʒɔ⁵³	dzɔ³			
+	210a		plate	pan:	ban³¹		bãɪ⁵¹	ban³¹		
+	210b		plate	ɂaŋ		dzaŋ³¹		dzo³²		
+	211a		firewood	tʰaŋ:	tʰaŋ⁵	tʰaŋ³¹	tʰaŋ⁴	tʰa³²		tʰo³¹
+58	212a	172	fire	mi:	nji³	mị³¹	mɪ⁴	mi⁴³	mi⁵²	mi³¹
+	213a		ashes	kʰap				kʰjum⁴³		
+	213b		ashes		jap⁴²	vap⁵	jæp³			
+	214b	107	smoke	kʰui:	kʰau⁵	kʰau³¹	kʰau⁵	kʰoɂ⁵⁴	kʰau²³	kʰu³¹
+	215a		candle	pʰaˀ	pʰə³	bjɔ³				
+	215b		candle			dziŋ⁵	dzəŋ⁵¹	tsạŋ⁴¹		
+	215c		candle	jauŋ:	jæuŋ⁵					
+	217a		gong		maŋ⁵		maŋ³⁴	ma³⁴³		mɔŋ³¹
+39	218a	193	crossbow	le:	djei³	lai³	le³	la³		
+	219a		arrow	hmra:	njɔ̃³	mjɔ³¹	mjɔ̃³	mi³		mja³¹
+	220a		spear	hlam	lạm³	lạm⁵³	læ̣m³	le³²		lɛ⁵⁵
+	221a		knife		ʃam³	ʃam⁵³	ʃæm³	ʃjɛ³	ʃʰị²³	
+	222a		hear		hjæu⁵	wɔ⁴	ʃau⁵		kjạ⁵²	
+	222b	170	hear	kra:	gjɔ⁴¹	gjɔ⁵³	gjɔ³¹	gjo⁵	kja	
+	223a		smell	namˀ:	nam³¹	hɔm⁵³	næm³¹	nje³		nɛ⁵⁵
+	224a	53	see	mraŋ	njaŋ³¹	mjaŋ³¹	mjaŋ³¹	mja⁴	mjạŋ⁵²	mjo⁵⁵
+	225a		wink	hmit	njɔɂ⁴³	mjɔɂ³	mjɔɂ³	mjɔɂ³²		
+	225b		wink			lʊp³		lap³²		
+	226a	65	weep	ŋui	ŋau³¹	ŋau³²	ŋau³¹	ŋoɂ³²		ŋu⁵⁵
+	227a	162	eat	ca:	dzɔ³	dzɔ⁵³	dzɔ³	dzo⁴	ta⁵²	sa³¹
+	228a	54	swallow	mjui	njæ̣ụ³	mjui³²	mjau⁵³	mjuɂ³	mjụŋ³	
+	229a		hungry		juat⁴²		joiɂ²	vʷe³⁴		
+	229b	332	hungry	mwat		mʊt³²		mọ̈ɂ⁵⁴		mjeɂ³¹
+	230a		full, satisfied			gi³¹	gi³	kʰi⁵⁴		
+	231a		thirsty	sip	ʃɛt⁵³	ʃɪt⁵	ʃiɂ³¹	ʃap⁵³		
+	232a	272	drink	sauk	ʃok⁵²	ʃuɂ⁵	ʃioɂ³¹	ʃaut⁵³	ʃau²³	ʃoɂ³¹
+	233a	348	be drunk	jac	jɛt³¹		jeɂ³	ʒit³⁵		ze³¹
+	234a		vomit		duk⁴²		dok³	daut⁴²		
+	235a		spit			be³²	bi⁴⁵			
+	235b		spit	prac	djɛ⁵		pjạɂ⁵³	pʰö⁵		
+	236a	113	cough	kʰjauŋ:		kʰɹuŋ³	kʰjoŋ⁵	kʰjæuŋ³		xɔŋ³¹
+	236b	123	cough		tsạụ⁵	dzau³²	dzau⁵³	dzọɂ⁵⁴		sʰo³¹
+	237a		sneeze		dʒei³		dʒe⁴³			
+	237c		sneeze			tʃʰɪ³²		tʃʰɔ³		
+	238a		yawn	han:	ham⁵	ham²¹	ham⁴	he⁴		
+27	239a	292	breathe	sak	sɔɂ⁵³	sɔɂ⁵⁴	sɔɂ⁵³	sɔɂ⁵⁴		
+	239b		breathe		ʃɛt³¹	ʃe³¹	ʃɛ³¹	ʃɛ³¹		ʃet
+	240b		whistle			nʊ̣t⁵		nạịt⁵⁴		
+16	241a		suck	cup	dʒɔ̣p⁵³	tʃʰup⁴³	dʒuɛp⁴²	dʒạp⁵⁴		saɂ³¹
+	242a		lick	hljak	djɔɂ³¹	jɔɂ³²	jɔ̣ɂ³²	jɔɂ³²		
+	244a		laugh	rai	ji³¹	βʷi³	jị³¹	ɣi²	ɣị²³	ɹiɂ⁵⁵
+	245a		speak		tạịɂ⁵³	daŋ⁴³	daŋ²		tị²³	
+	245b		speak	cʰui				dʒau²		
+	246a		tell		tạị⁵³	tạị⁵³	deɂ³¹	da⁴³		
+	246b		tell		gjɔ⁵		gjɔ³	gjɔ³²		
+	247a		shout		kạịɂ⁵³	gə³		geɂ⁴²		
+	247b		shout	hac				hok⁵⁴		
+	248a		answer			tạụ³¹	duɛm³²	duk⁵		tʰu³¹
+	248b		answer				deɂ³²	da⁴³		
+	248c		answer	pʰreuˀ	pʰuk⁵³					
+	249a		lie, fib			mạụ⁵²	mauɂ³¹	mọk⁵⁴		
+	250a		sing	cʰui	tʃʰuŋ⁵			tʃʰæuŋ⁴³		
+	250b		sing	kju		-⁵⁴	kʰoi⁴³		kjẹɂ³	
+	251a		think		ŋạm⁵³	mɪt³	mje³²	mit³		
+	252a	225	know	siˀ	sɛɂ⁵³	se⁵³	sɛɂ⁵²		sjɛ²³	ʃi
+	253a		forget		tɔ̣⁴⁵	tɔ̣⁵⁴	dɔ³⁴	tọɂ⁵		
+	253b		forget	meˀ	njẹk⁵²	mị⁵³	mjɛ̣ɂ⁵²	mịt⁵⁴		
+	254a		choose	kʰjai	kʰjɛn³	kʰɪn⁴²	kʰje⁴³	kʰɪn⁴³		
+	254b		choose	rwe:			ju³¹	ju³		
+	255a	282	love		dʒɛt⁵⁴			dʒit⁵		
+	255b		love		dap³¹			de³²		
+	256a		hate			ɂa²	ɂa²			
+	257a		wait		laŋ⁵	laŋ³⁴	laŋ³	la²⁵		
+	257b		wait	ŋamˀ				na⁵²		
+	258a		count		suan³		soe³			
+	258b		count			ŋạp⁵⁴		ŋịɂ⁵	ŋwɛ̣ɂ	
+	259a	328	afraid	krauk	gjuk⁴²	gjuɂ³²	gjok³²	gjæuɂ⁴³		
+	260a		angry	mjak	nạị⁵³	nɪk⁵	nək³²	nạk⁵⁴	nạk⁵²	
+	260b		angry		jɔ̣³²	jɔ⁵¹	jɔ²¹	jo³⁵	ja⁵²	
+	261a	287	sleep	ɂip	jɛ̣t⁵³	jụp⁵	jøp⁴²	jạp⁵	jạp³	ɂaiɂ³¹
+	262a		snore		nọ³		njɔ̃³¹	mjaŋ³		
+	262b		snore	hauk	kʰuŋ³	kʰɔk³²				
+83	263a	333	dream	mak	mɔɂ³¹	mɔɂ⁵²	mɔɂ²¹	moɂ³²	ma⁵²	mʊɂ³¹
+25	264a	56	painful	na	nɔ³¹	nɔ³¹	no²³	no²³		naɂ⁵⁵
+	265a		medicine		mɛ³		mə³	mə²	mạ³	
+	265b	100	medicine	cʰe:	tʃʰei⁵	tʃʰi³¹	tʃʰe⁵	tʃʰit⁵⁴	tʃʰə²³	ʃiɂ³¹
+95	266a	196	to itch	ja:	jɔ³	jɔ⁵³	jɔ³²			ja³¹
+	267a		scratch	kʰrac	kjɛ̣n³	gin³¹	gjẽŋ³²	gɪn⁴¹		
+	268a		shiver		nan³¹	nạn³	nãɪ⁴	nɪn⁵⁴	ne²³	
+86	269a	28	die	se	ʃei³	ʃi⁴³	ʃe³²	ʃit⁵⁴		ʃiɂ⁵⁵
+	270a		ghost		si³	ʃə⁴	sə³	səp²		
+	270b		ghost		djɔ³¹	bjɔ⁵¹	bju³¹	bjɔ³¹	jui³	
+	271a		sit	tʰuiŋ	dzọŋ³	dzuŋ³¹	dzoŋ²	dzauŋ³	tsāŋ³	
+	272a	351	stand	rap	jap³¹	jạp³¹		jeɂ³		ɹeɂ⁵⁵
+	273a		kneel	tʰauk	tʰuk⁵³	tʰuɂ⁴³	tʰoɂ⁵³	tʰauk⁵⁴		
+	274a		walk		su⁵	sɔ⁵²	sɔ⁴	su⁵	tsọ²³	
+	275a		crawl	twa:	du³	dɔ³²	dɔ²	du⁴²	tạụ⁵²	
+	276a	236	go; return	la:	lɔ³¹	le⁴³	lɔ³¹	lo³		ɹʊɂ
+	277a	83	enter	waŋ	waŋ³¹		waŋ³¹	wa³²		vɹo⁵⁵
+	278a		return			dau	døm³¹	dam³		
+	278b		return		tạụ⁵			tọk⁵⁴		
+	279a	159	push	twan:	duan³	dʒụn⁵	duen³	dum⁵⁴	tsạn²³	
+	280a		pull	luˀ	laŋ³	laŋ⁵³	laŋ²		lõ⁵²	
+	281a		kick		tʰəɂ⁵³		tʰɨɂ⁴²	tʰauŋ⁴		
+	282a		throw		dɨu⁴³	dun⁵³				
+	282b		throw	pjac			pjæ̣p⁵³	pjẹɂ⁵⁴		
+8a	283a	222	fall	kjaˀ	gjɔ⁴³		gjɔ⁴	gjo⁵	kja²³	
+	284a		swim	kʰjwe:				kʰeɂ⁵⁴		
+	285a		float	mjau:			mjũ³	mjuŋ⁵⁴		
+	286a		sink	hnac	njɔp⁴¹	mjup³⁴	mjok³²	nap⁴	nap⁵²	
+	286b		sink			waŋ³¹		wa⁵⁴		
+	287a		flow	kjaˀ	jau³¹	ɂʊ̣t⁵	jau³¹	jọk⁵		
+	287b		flow			mjui²¹	njɛ²¹	na⁴³		
+	288a	150	give	pe:	dje³	bi⁵³	bje³	pjit⁵⁴		pe³¹
+	289a		tie		dụị⁵	dui⁵³	dɨ⁵⁴	döi⁵		
+	290a		wipe		bua³¹		boeɂ³			
+	290b	270	wipe	sut		sʊt⁵⁴		sat⁵⁴		ʃwaiɂ³¹
+	291a		rub, scrub	swe:	tsʰaɂ⁴¹		dʒoiɂ⁵			
+	292a		wash		tʃʰei⁵	tʃʰi⁵³	tʃʰe⁴³	tʃʰit⁵⁴	tʃʰə²³	ʃe³¹
+	294a		bathe	kʰjui:	guŋ⁴³	guŋ³	goŋ³¹	gauŋ³¹		
+	295a		hit		bat³¹			bẹtɂ⁵⁴		
+	295b		hit	ruik			jøk³			
+	295c		hit	tuik		tʰui⁵³				
+	296a		split	kʰwai:	kʰjam⁵⁴	kʰɔɂ⁵	kʰɔɂ⁵²	kʰoɂ⁵⁴		
+	297a		cut (hair)	cʰam	tsʰam³				xam³	
+	297b		cut (hair)	hɲap			njæ̃m⁵⁴	mjæụk⁵³		
+	298a	94	stab	tʰui:	tʰau⁵	tʰau⁵²	tʰau⁴	tʰoɂ⁵		
+	299a		grind	kraɲ			lə̣ŋ³²		lui²³	
+	300a		plant	cuik			dzoŋ⁴	dzạụɂ⁵³		
+	300b		plant		xjɔ⁵	hɔ⁵³				
+	301a		dig	tu:	du³	du⁵³	du³	daut⁴		tu³¹
+	302a		burnt (corpse)	mrup	njɔ̣p⁵²	mjụp⁵⁴	njøp⁵³	njạp⁵	njæ̣p⁵²	mjaɂ³¹
+	303a		winnow (rice)	pra		pjạŋ⁵³		ja⁴		
+	303b		winnow (rice)	hlauŋ:	lạŋk⁴²					
+	304a		to dry		lạp⁴²	lạp⁵⁴	læ̣p³²	lẹɂ⁵⁴		
+	305a	96	pound(rice)	tʰauŋ:	tʰuŋ⁵	tʰuŋ⁵³	tʰoŋ⁴	tʰaun⁵		tʰɔŋ³¹
+	306a		cook (rice)		dʒauɂ³¹	dzaŋ³	dʒaụɂ⁵³	dzɔ³²	tsạɂ⁵²	
+	307a		boil	cʰu	tsụɂ⁵²	dʒɔɂ⁵⁴	dzu³²	dzạụ⁴		
+	308a		burn		ŋæ̣ɂ³¹	njɛ̣⁵³	ŋe⁴	ŋa⁴⁵		
+	309a		extinguish	se		sat⁵⁴	sai⁵²	seɂ⁵⁴		
+	309b		extinguish			mi³		mi⁴		
+	310a		work	hmuˀ	mu⁵	mu⁵	mɔ⁵	mau²⁵		
+	310b		work		dzui³	dzui⁵³	dzɨ²¹	dzöi⁵		
+	311a		play		lɨ̣ụ³		lu³²		li²³	
+	312a		dance	kaˀ	gɔ⁵	gɔ³	gɔ⁴	go³⁴		ga³¹
+	313a	309	shoot	pac	baiɂ³¹		bək²	bak³²		
+	314a		hunt		ʃo⁵	ʃɔ³	ʃo⁵	ʃɪ⁵⁴	su⁵²	cʰo
+	314b		hunt		kʰat⁵²	kʰat⁵⁴	kʰạiɂ⁵¹			
+26	315a	290	kill	sat	sat⁵²	sat⁵	sạiɂ⁴²	sẹɂ⁵⁴	sẹɂ⁵²	ʃiɂ⁵⁵
+	315b		kill	pʰjak				pjẹ⁵⁴		
+	316a		fight			bjɔɂ³	pjæ̣p³¹		pẹɂ²³	
+	317a		but	wai	wi³¹	βʷi³	ɣɨ³¹	wai³	ve³	wiɂ⁵⁵
+	318a	145	sell	rauŋ:	ɂuŋ⁵	ɂụŋ⁵³	ɂõŋ⁵⁴	ɂaun⁴	ɂaŋ³	ɹɔŋ³¹
+	319a		exchange	pʰai	tʰaiɂ³¹	tʰai⁵⁴	tʰe⁵³	tʰa⁴³		
+	319b		exchange	hlai		lum⁵³				
+	320a		pay				tʃʰiɛ²	tʃʰi⁴		
+	320b		pay	pe:	djei³	bi⁵³		bịɂ⁵⁴		
+38	321a	106	steal	kʰui:	kʰau⁵	kʰau⁵²	kʰau³	kʰoɂ⁵⁴		kʰo³¹
+	322a		one(person)	tac	dai³		dai³	de³	ta⁵²	toɂ³¹
+	322b		one(person)	jauk	juk³²	juɂ³¹	jok³²	jæuɂ⁴²		
+	323a		two(ppl)		ɂai⁵³	ɂi⁴⁵	ɂək⁵³		jị²³	haiɂ³¹
+	324a	130	three(ppl)	sum:	sɔm⁵³	sum³²	sɛm³	sam⁴²	sam³	ʃaŋ³¹
+	325a		four(ppl)		njei³	mi³²	mje⁴		mi⁵²	ɲi³¹
+	326a	188	five(ppl)	ŋa:	ŋ³	ŋɔ³²	m³	ŋɔ³⁵	ŋa⁵²	
+	327a	267	six(ppl)	kʰrauk	kʰjuk⁵³	kʰjuɂ⁵³	kʰjok⁵³	kʰjæuk⁵⁴	kʰjaup⁵²	kɔŋ⁵⁵
+	328a	297	seven(ppl)	hnac	njɛ̣⁵³	njɪ̣t⁵	njẽɂ⁵³	nạịɂ⁵⁴	nạụt⁵²	
+	329a	300	eight(ppl)		xjɛ⁵³	ʃɪ̣t⁵	ʃet⁵³	ʃöɂ⁵	ʃɛt⁵²	ʃiɂ³¹
+	329b		eight(ppl)	hrac						jɔŋ⁵⁵
+	330a	167	nine(ppl)	kui:	gau³⁴	gau³²	gau³	gok⁴³	kau⁵²	
+	331a	8	ten(ppl)	cʰai	tsʰi³	tsʰe⁵³	tsʰe³	tsʰe⁵³	tʰai³	cʰwat⁵⁵
+	332a	32	hundred(ppl)	ra	xjɔ³	ʃɔ⁵³	ʃo⁴²			jaɂ⁵⁵
+	333a		thousand(ppl)			hiŋ⁴⁵				heŋ⁵⁵
+	333b		thousand(ppl)		kʰjɨŋ⁵⁴		kʰəŋ⁵³	kʰiŋ⁵⁴		
+	334a	178	many(ppl)	mja:	njɔ³⁵	mjɔ³	mjõ³⁵	mjɔ⁴⁵	mja⁵²	
+	334b		many(ppl)		ʃɔ³⁵		ʃɔɂ⁵³			
+	335a		all		ŋan⁵		ŋãɪ²⁴			
+	336a		some	ɂə	jam⁵	ɂạm³¹	jæ̣m⁴			
+	337a		few		mạụ⁵			mo³²		
+	337b		few			dʒɪ̣t⁵	dʒit⁵			
+	337c		few	nai:						ne³¹
+	338a		half		gɔ⁵		gɔ³	gauŋ³		
+	338b		half		ji⁵	βʷi⁴	ji³	ɣi³⁵		
+	339a	165	big	kri:	gu⁵⁴	kɔ̣⁵³	ge³	ɣi³⁵	kọ²³	cʰi³¹
+	340a		small	ŋai	ŋi³¹		ŋe³¹	ŋai²³	ŋai³	ŋji⁵⁵
+	341a	34	long	hraɲ	xjeŋ³	hɯŋ⁴³	ʃjəŋ⁴³	xaŋ³	xaŋ²³	xraiŋ⁵⁵
+	342a		short (length)	tut		dɔt⁵⁴				
+	342b		short (length)		djuŋ³		ləŋ⁴	laŋ³⁴	laŋ²³	
+	343a		tall	ma:	njạŋ³	mjạŋ³¹	mjãŋ³²	mjạ³	mjụ̃³	
+	344a		short (height)	nimˀ	njæ̣n⁴¹	jụm⁴³	njũɛ̃m³²	mjạm⁵	njạp⁵²	
+	345a	4	thick	tʰu	tʰɨu³	tʰu⁴³	tʰu³²	tʰau³		tʰuɂ⁵⁵
+94	346a	116	thin	pa:	bu³		bo³	bo³		pa³¹
+	347a	7	fat	cʰu	tsʰɨu³	tsʰu⁴³	tsʰu³²	tsʰau³²		
+	348a		skinny		gji⁵	gi⁴³	gi⁴			
+	349a		wide, broad		lam³¹	lam³²	læ̣m³¹	le²	lẽ²³	
+	350a		narrow	kraɲ	dzə³¹	dʒap⁵⁴	dʒæp⁵³		tsẹɂ⁵²	ʃaŋ⁵⁵
+	351a		deep	nak	nɔɂ³²	nɪk³²	nɔ̃ɂ³	noɂ⁴³		nʊɂ³¹
+	352a		shallow	pak	bu³¹		bɔ⁴			
+54	353a	195	spherical	lum:	lai⁵	liŋ³²	ləŋ⁴		laŋ²³	laŋ³¹
+	354a		full	pruiŋ:	djeŋ⁵	biŋ³⁴	bjəŋ⁴	bjaŋ³⁴		pjaiŋ³¹
+	355a		right side	lak	lɔɂ⁴³	lɔɂ³	lɔ̣ɂ³	loɂ³		lʊɂ³¹
+	355b	86	right side	ja	jɔ⁴²	jɔ³¹	ju⁴²	jo³²		
+	356a		left side				goŋ⁵	kauŋ³		
+	356b		left side	wai:	wi³⁴					
+	357a		straight	taɲ:	dan³	diŋ⁴	dain³	dɪn⁴		
+	358a	199	far	we:	wɛ³	ve⁵³	we²	wa³⁴	ve⁵²	we³¹
+	359a		near	raŋ		dʒạŋ⁵³	dʒaŋk⁵³	dʒa³⁴	tsõ²³	
+98	359b		near	ni:	ni³					ne³¹
+	360a		this		hai³		hɛ³			haiŋ⁵⁵
+	360b		this			ʃi⁵³	dzi⁵¹	tʃʰe⁴¹	tʃʰẹ³	
+	361a		that	hui	hau³	he⁵³	hau³	ɂai³¹		hʊn⁵⁵
+	362a	344	black	nak	nɔɂ³¹	nɔɂ³	nɔ̃ɂ³	noɂ²¹	naɂ⁵²	nuɂ³¹
+	363a	3	white	pʰru	tʰjɨu³	pʰju³²	pʰju⁴³	pʰju³	pʰju³	pʰjuɂ⁵⁵
+	364a	59	red	ni	nɛ³¹	ne³²	ne³¹	ne³	nẽ³	nɛ³¹
+	365a	63	green	njui	njæu³¹	njui³²	njau³¹	njọɂ⁴²	njụŋ³	
+	366a		yellow				bɔ⁴	bo³⁵	pa²³	
+	367a		dirty		tʃʰɔɂ⁵⁴	tʃʰa⁵	tʃʰɔɂ⁵³			
+	367b		dirty		lauɂ³¹			lạk⁵³	lu²³	
+	368a		new	ɂə	ɂa³	ɂə³	ɂa³	ɂa²		
+	368b	291	new	sac	saik⁵⁴	sɪk⁵⁴	sək⁵³	sak⁵		
+	369a		old		tsʰau⁵		tsʰau³	tsʰoɂ⁵⁴		
+	370a		dark		tʃʰuat⁵⁴	tʃʰut⁵⁴	tʃʰoiɂ⁵³			
+	370b		dark	hmauŋ		ma³²	mau²			
+	370c		dark					noɂ³⁴		ɲo⁵⁵
+	371a		bright	paˀ	baŋ³¹	bɔ³	baŋ³¹	bo³⁴		
+	372a		same	tu	de³	tsụŋ⁵³	du³¹	dau³		
+	373a		different	kwai:			gə⁵	gə²		
+	374a	14	sweet	kʰjui	tʃʰau³	tʃʰui⁵³	tʃʰau³¹	tʃʰok⁵⁴		ʃwa⁵⁵
+	375a	15	sour	kʰjaɲ	dʒjɛn³	dʒɪn³¹	dʒeŋ³²	dʒɪn³²		ʃei⁵⁵
+1	376a	105	bitter	kʰa:	kʰɔ⁵	kʰɔ⁵³	kʰɔ⁴	kʰo⁵	kʰa²³	kʰa³¹
+	377a		spicy	praɲˀ		pʰjɪk⁵	pʰjək⁵³	jak³		
+	378a	307	rotten	pup	buɔp³¹	bʊp³	buɛp²	bap³⁴		
+	379a		swell	ram:	jam³		jæ̣m³			
+	380a		dry	kʰrauk	kjụk⁵⁴	kjụɂ⁵⁴	kjọɂ⁵³	kjạụɂ⁵³		xoɂ³¹
+	381a		wet	cwat	dʒuɛɂ⁵²		dʒøm³²	dʒo⁵		
+	382a		hot		ŋɛ⁵	njɛ³²				
+	382b		hot	lauŋ			loŋ⁵¹	lauŋ³		
+	383a		cold					gjoɂ³²		
+	383b		cold		dʒam³		dʒæm⁵⁴			
+	384a	254	sharp	tʰak	dzuɂ³¹	tʰɔɂ⁵⁴	tʰɔɂ⁵²	tʰoɂ⁵⁴		tuɂ³¹
+	385a		blunt	tum:	duam³					
+	386a	192	heavy	le:		lai⁵³	le³²	la⁵		
+	387a		hard		tʰan³	tʰan³²	tʰãɪ²			
+	388a		smooth		dʒụạt⁵⁴		dʒueɂ⁵³			
+	388b		smooth	ljaɲ		ɹa³	joŋ³	jæuŋ⁴		
+	389a		fast		njap⁴²		mjæp³			
+	390a		slow	cʰe:	dzɔ⁵		dzɔ⁴⁵		ta⁵²	
+	390b		slow			jɔ̣⁴⁵	ɹɛ⁵³		je³	
+	391a		strong		jɔm³	vum³	jɛm²³	ɣam³		
+	391b		strong		bɔ³¹	bɔ³¹	bɔ⁵¹	bo³		
+	392a		weak	nan:	nụk⁵³	njɔ̣m⁵³	nəŋ²	ne⁵		
+	393a		tired	mraŋ	njuŋ³	mjuŋ⁵³	mjoŋ³	mjæuŋ⁴⁵		ŋɔ³¹
+	394a		blind		dʒɛt³¹	dʒɪt³²	dʒe⁴⁵	dʒit⁵³		sʰi³¹
+	396a		bald	prauŋ	la³	laŋ³				
+	396b		bald				gjɛ³¹	kjɛ̣t⁵³		
+	396c		bald			ŋɔt³²		ŋa³⁴		
+	397a		naked		tʃʰjɛn³	tʃʰɪn⁵³	tʃʰen³²	dʒɛ̣t⁵		
+	398a		good	kauŋ:	gi³¹	ge³¹	ge³¹	gai²		kɔŋ³¹
+	402a		when?	kaˀ	kʰa⁴	kʰət⁴³	kʰa²⁴	kʰö⁵		
+	402b		when?		nạmp⁵²	nạm³²	næ̣p⁴²			
+	403a		where?	hma			mɔ²¹			
+	403b		where?		dje³			dau⁵¹		
+	404a		who?		haŋk⁵⁴		haŋ⁴		kʰak³	
+	404b		who?				ŋọị³¹	ŋat³²		
+	405a		what?		tʃʰa³	dʒuŋ⁵²	tʃʰɛ⁵³			
+	405b		what?	hma:		ha⁵				
+	406a		how many?	hnaˀ	njɔ̣ɂ⁵³					
