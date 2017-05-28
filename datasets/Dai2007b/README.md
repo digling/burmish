@@ -46,11 +46,10 @@ The book contains
 
 ## The bibtex details
 
-* Book{Dai2007a,
-* title     = {Lèqīyǔ yánjiū},
-* publisher = {中央民族大学出版社 Zhōngyāng mínzú dàxué chūbǎnshè},
-* year      = {2007},
-* author    = {{Dài Qìngxià 戴庆厦} and {Lǐ Jié 李洁}},
-* iso_code  = {lsi},
-* usera     = {A study of the Leqi language},
-* userb     = {勒期语研究},
+* Book{Dai2007b,
+* Title                    = {Bōlāyǔ yánjiū},
+* Author                   = {{Dài Qìngxià 戴慶廈} and {蔣潁 Jiǎng Yǐng} and {孔志恩 Kǒng Zhì'ēn}},
+* Publisher                = {民族出版社 Mínzú chūbǎnshè},
+* Year                     = {2007},
+* Usera                    = {A study of the Bola language},
+* Userb                    = {波拉語研究}
