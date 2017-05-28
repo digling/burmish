@@ -1,20 +1,19 @@
-THIS IS THE WRONG README, IT IS JUST HERE TO MAKE IT EASIER TO FILL IN THE CORRECT DETAILS. 
 ## Summary
 
 This book, of 
-* 344 pages, 
+* 348 pages, 
 
-contains information about the Lashi language. 
+contains information about the Bola language. 
 There is a
-* 54 page vocabulary 
+* 82 page vocabulary 
 which has numbered entries, the total is 
-* 2125 vocabulary items
+* xxx vocabulary items
 
 ## Doculects
 
 BED | Dai2007 | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Lashi | 勒期 | L | Dai2007 | 
+Bola | 勒期 | L | Dai2007b | 
 
 ## Notes on Sources
 
