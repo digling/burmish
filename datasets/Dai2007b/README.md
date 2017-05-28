@@ -38,7 +38,7 @@ The book contains
 
 ## Digitization Information
 
-* Digitized by Astrid Otto, delivered on 23 January 2017.
+* Digitized by XXX, delivered on XXX.
 
 ## Notes on Orthography Profile
 
