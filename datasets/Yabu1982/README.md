@@ -36,7 +36,7 @@ The book contains
 
 ## Digitization Information
 
-* Not yet digitized.
+* Digitized by Ulatus, delivered 25 May 2017.
 
 ## Notes on Orthography Profile
 
