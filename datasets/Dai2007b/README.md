@@ -6,14 +6,14 @@ This book, of
 contains information about the Bola language. 
 There is a
 * 82 page vocabulary 
-which has numbered entries, the total is 
-* xxx vocabulary items
+which has numbered entries, totalling circa 
+* 2296 vocabulary items
 
 ## Doculects
 
-BED | Dai2007 | Abbreviation | Source | Note on Source
+BED | Dai2007b | Abbreviation | Source | Note on Source
 --- | --- | --- | --- | ---
-Bola | 勒期 | L | Dai2007b | 
+Bola | 波拉 | B | Dai2007b | 
 
 ## Notes on Sources
 
