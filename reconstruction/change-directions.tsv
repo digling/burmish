@@ -8,6 +8,7 @@ c	p	p
 c	p	ʔ		
 c	ŋ	ŋ		
 c	ŋ	∼		
+c	ŋ	nʲ	9	only in Old Burmese (Wolfenden's law)
 c	n	n		
 c	n	∼		
 c	m	m		
@@ -15,21 +16,20 @@ c	m	∼
 c	∼	-		
 c	j	-		
 c	w	w		
-c	ŋ	nʲ	9	
 c	ʈ	-		
-i	m			
-i	l			
-i	l	r		
-i	m	m̥		only if the vowel is tense
-i	l	l̥		only if the vowel is tense
-i	l	j		
 i	k	tɕ		
 i	k	tʃ		
-i	s	s		
-i	n	n		
-i	p	p		
 i	t	t		
+i	p	p		
 i	ŋ	ŋ		
+i	m	m		
+i	m	m̥		only if the vowel is tense
+i	n	n		
+i	l	l		
+i	l	r		
+i	l	l̥		only if the vowel is tense
+i	l	j		
+i	s	s		
 i	kʰ	tɕʰ		
 i	kʰ	tʃʰ		
 i	kʰ	tsʰ		
