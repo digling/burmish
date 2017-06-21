@@ -91,7 +91,7 @@ i	g
 i	ʈʂ			
 i	ɳ			
 i	r̥	x		
-i	r	r̥		
+i	r	r̥		only if the vowel is tense
 i	m	m		
 i	l	l		
 i	p	p		
@@ -136,14 +136,15 @@ i	ɣ	j
 i	ɣ	v		
 i	ŋʲ	ŋʲ		
 i	ŋʲ	ŋ		
-i	ŋʲ	nʲ		
+i	ŋʲ	nʲ
+i	nʲ	nʲ		
 i	nʲ	ɲ		
 i	j	j		
 i	rj	j		
+i	rj	r		
 i	v	ɣ		
 i	ʃ	ɕ		
 i	ʃ	ç		
-i	rj	r		
 m	j			
 m	r	ʐ		
 m	w			
@@ -155,13 +156,13 @@ m	l	j
 m	i			
 M	u			
 m	a	ɑ		
-m	ɤ			
+m	ɤ			perhaps a mistake for gamma?
 M	?			
 m	rj	r		
 m	rj	j		
 m	rj	rj		
 n	a			
-n	?			
+n	?			seems unlikely that a glottal stop would be a nucleus
 n	i			
 n	u			
 n	a	ɔ		
@@ -170,9 +171,10 @@ n	o
 N	u			
 N	i			
 n	ɛ			
+n	a	ɛ		primarily before dentals
 n	e			
 n	a	ɑ		
-n	a̰			
+n	a̰	a		with aspiration of the initial
 n	ə			
 n	ã	ɑ̃		
 n	ṵ			
@@ -182,16 +184,16 @@ n	ɔ̰	ɔ̰
 n	a̰	ɔ̰		
 n	ə̆			
 n	ă			
-n	ḭ			
+n	ḭ	i		with aspiration of the initial
 n	ĩ			
-n	ɛ̰			
+n	ɛ̰	ɛ		with aspiration of the initial
 n	u	ʊ		
 n	ɛ̃			
 n	ŏ			
 n	aː			
-n	o̰			
+n	o̰	o		with aspiration of the initial
 n	ɿ			
-n	ə̰			
+n	ə̰	ə		with aspiration of the initial
 n	ɯ			
 n	ɔ̆			
 n	ɔː			
@@ -240,22 +242,17 @@ t	⁵³
 t	³³			
 t	⁵¹			
 t	⁴			
-t	k			
-t	j			
-t	ŋ			
-t	m			
-t	t			
-t	ts			
-t	w			
+t	k			probably due to faulty alignments
+t	j			probably due to faulty alignments
+t	ŋ			probably due to faulty alignments
+t	m			probably due to faulty alignments
+t	t			probably due to faulty alignments
+t	ts			probably due to faulty alignments
+t	w			probably due to faulty alignments
 	tθ			
 	tɕʰ			
-	ts	tɕ		
 	k	ɣ		
-	k	r		
-	k	j		
 	ts	s		
-	c	s		
-	ts	c		
 	ts	t		
 	s	tθ		
 	ʃ	ʂ		
