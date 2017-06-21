@@ -1,14 +1,14 @@
 WHERE	FROM	TO	WEIGHT	NOTE
 c	ʔ	-		
 c	k	ʔ		
-c	k	ts	9	
+c	k	ts		only in Old Burmese (Wolfenden's law)
 c	t	t		
 c	t	ʔ		
 c	p	p		
 c	p	ʔ		
 c	ŋ	ŋ		
 c	ŋ	∼		
-c	ŋ	nʲ	9	only in Old Burmese (Wolfenden's law)
+c	ŋ	nʲ		only in Old Burmese (Wolfenden's law)
 c	n	n		
 c	n	∼		
 c	m	m		
@@ -29,16 +29,16 @@ i	l	l
 i	l	r		
 i	l	l̥		only if the vowel is tense
 i	l	j		
-i	s	s		
-i	kʰ	tɕʰ		
+i	s	s
+i	kʰ	kʰ		
 i	kʰ	tʃʰ		
 i	kʰ	tsʰ		
+i	kʰ	x		
 i	j	j		
 i	r	j		
 i	l	j		
 i	ʃ	ʃ		
 i	ʃ	s		
-i	kʰ	x		
 i	tʰ	tʰ		
 i	ts	ts		
 i	ts	t		
@@ -50,7 +50,7 @@ i	pʰ	pʰ
 i	w	v		
 i	tʃ	ts		
 i	tʃ	tʃ		
-i	n	n̥		only if the vowel is tense
+i	tʃ	tɕ		
 i	tsʰ	tsʰ		
 i	s	tθ		
 i	nʲ	ɲ		
@@ -59,11 +59,11 @@ i	r	ɣ
 i	kʰ	ɣ		
 i	w	w		
 i	tʃʰ	tɕʰ		
-i	m	m̥		only if the vowel is tense
 i	tʃʰ	tʃʰ		
 i	tʃʰ	tsʰ		
+i	n	n̥		only if the vowel is tense
+i	m	m̥		only if the vowel is tense
 i	r	ʐ		
-i	tʃ	tɕ		
 i	ʃ	ɕ		
 i	kʰ	f		
 i	kʰ	x		
