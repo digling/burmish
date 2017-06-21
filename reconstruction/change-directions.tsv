@@ -1,18 +1,20 @@
 WHERE	FROM	TO	WEIGHT	NOTE
 c	ʔ	-		
+c	k	ʔ		
+c	k	ts	9	
 c	ŋ	ŋ		
-c	∼	-		
-c	k	-		
+c	ŋ	∼		
 c	n	n		
+c	n	∼		
 c	m	m		
+c	m	∼		
+c	∼	-		
 c	t	t		
 c	p	p		
 c	j	-		
 c	w	w		
-c	k	ts	9	
 c	ŋ	nʲ	9	
 c	ʈ	-		
-c	k	ʔ		
 i	m			
 i	l			
 i	l	r		
