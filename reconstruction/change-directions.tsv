@@ -16,12 +16,11 @@ c	k	ʔ
 i	m			
 i	l			
 i	l	r		
-i	m	m̥		
-i	l	l̥		
+i	m	m̥		only if the vowel is tense		
+i	l	l̥		only if the vowel is tense
 i	l	j		
 i	k	tɕ		
 i	k	tʃ		
-i	k	ts		
 i	s	s		
 i	n	n		
 i	p	p		
@@ -38,6 +37,11 @@ i	ʃ	s
 i	kʰ	x		
 i	tʰ	tʰ		
 i	ts	ts		
+i	ts	t		
+i	ts	s
+i	tsʰ	tsʰ		
+i	tsʰ	tʰ		
+i	tsʰ	sʰ
 i	pʰ	pʰ		
 i	w	v		
 i	tʃ	ts		
