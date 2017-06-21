@@ -17,40 +17,38 @@ c	∼	-
 c	j	-		
 c	w	w		
 c	ʈ	-		
-i	k	tɕ		
+i	k	k		
 i	k	tʃ		
-i	t	t		
-i	p	p		
-i	ŋ	ŋ		
-i	m	m		
-i	m	m̥		only if the vowel is tense
-i	n	n		
-i	l	l		
-i	l	r		
-i	l	l̥		only if the vowel is tense
-i	l	j		
-i	s	s		
 i	kʰ	kʰ		
 i	kʰ	tʃʰ		
-i	kʰ	tsʰ		
 i	kʰ	x		
-i	j	j		
-i	r	j		
-i	l	j		
-i	ʃ	ʃ		
-i	ʃ	s		
+i	ŋ	ŋ
+i	tʃ	tʃ		
+i	tʃ	ts		
+i	tʃ	tɕ		
+i	t	t		
 i	tʰ	tʰ		
+i	n	n		
+i	n	n̥		only if the vowel is tense
+i	p	p		
+i	m	m		
+i	m	m̥		only if the vowel is tense
 i	ts	ts		
 i	ts	t		
 i	ts	s		
 i	tsʰ	tsʰ		
 i	tsʰ	tʰ		
 i	tsʰ	sʰ		
+i	l	l		
+i	l	r		
+i	l	l̥		only if the vowel is tense
 i	pʰ	pʰ		
+i	j	j		
+i	r	j		
+i	ʃ	ʃ		
+i	ʃ	s		
+i	s	s		
 i	w	v		
-i	tʃ	ts		
-i	tʃ	tʃ		
-i	tʃ	tɕ		
 i	tsʰ	tsʰ		
 i	s	tθ		
 i	nʲ	ɲ		
@@ -61,8 +59,6 @@ i	w	w
 i	tʃʰ	tɕʰ		
 i	tʃʰ	tʃʰ		
 i	tʃʰ	tsʰ		
-i	n	n̥		only if the vowel is tense
-i	m	m̥		only if the vowel is tense
 i	r	ʐ		
 i	ʃ	ɕ		
 i	kʰ	f		
