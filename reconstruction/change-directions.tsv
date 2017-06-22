@@ -22,16 +22,16 @@ c	ʈ
 i	k			
 i	k	tʃ		
 i	k	tɕ		
-i	k	kʰ		only if the vowel is tense
-i	k	tʃʰ		only if the vowel is tense
-i	k	tɕʰ		only if the vowel is tense
+i	k	kʰ		only if the inherited vowel is tense
+i	k	tʃʰ		only if the inherited vowel is tense
+i	k	tɕʰ		only if the inherited vowel is tense
 i	kʰ			
 i	kʰ	tʃʰ		
 i	kʰ	tɕʰ		
 i	kʰ	x		
 i	kʰ	ɣ		
 i	ŋ			
-i	ŋ	ŋ̊		only if the vowel is tense
+i	ŋ	ŋ̊		only if the inherited vowel is tense
 i	tʃ			
 i	tʃ	ts		
 i	tʃ	tɕ		
@@ -42,20 +42,26 @@ i	tʃʰ	tsʰ
 i	tʃʰ	sʰ		only in Rangoon
 i	nʲ	ɲ		
 i	ɲ			
-i	nʲ	n̥ʲ		only if the vowel is tense
-i	ɲ	ɲ̊		only if the vowel is tense
+i	nʲ	n̥ʲ		only if the inherited vowel is tense
+i	ɲ	ɲ̊		only if the inherited vowel is tense
 i	t			
+i	t	tʰ		only if the inherited vowel is tense
 i	tʰ			
 i	n			
-i	n	n̥		only if the vowel is tense
+i	n	n̥		only if the inherited vowel is tense
 i	p			
+i	p	pʰ		only if the inherited vowel is tense
 i	pʰ			
 i	pʰ	f		
 i	m			
-i	m	m̥		only if the vowel is tense
+i	m	m̥		only if the inherited vowel is tense
 i	ts			
 i	ts	t		
 i	ts	s		
+i	ts	c		before palatal vowels (?)
+i	ts	tsʰ		only if the inherited vowel is tense
+i	ts	tʰ		only if the inherited vowel is tense
+i	ts	sʰ		only if the inherited vowel is tense, only in Rangoon
 i	ts	c		before palatal vowels (?)
 i	tsʰ			
 i	tsʰ	tʰ		
