@@ -1,5 +1,4 @@
 WHERE	FROM	TO	WEIGHT	NOTE
-c	ʔ	-		
 c	k			
 c	k	ʔ		
 c	k	ts		only in Old Burmese (Wolfenden's law)
@@ -20,14 +19,17 @@ c	j	-
 c	w			
 c	ʈ			
 i	k			
-i	k	tʃ		
-i	k	tɕ		
+i	k	tʃ		conditioned palatalization 
+i	k	tɕ		conditioned palatalization
+i	k	c		conditioned palatalization
 i	k	kʰ		only if the inherited vowel is tense
-i	k	tʃʰ		only if the inherited vowel is tense
-i	k	tɕʰ		only if the inherited vowel is tense
+i	k	tʃʰ		conditioned palatalization, only if the inherited vowel is tense
+i	k	tɕʰ		conditioned palatalization, only if the inherited vowel is tense
+i	k	cʰ		conditioned palatalization, only if the inherited vowel is tense
 i	kʰ			
-i	kʰ	tʃʰ		
-i	kʰ	tɕʰ		
+i	kʰ	tʃʰ		conditioned palatalization
+i	kʰ	tɕʰ		conditioned palatalization
+i	kʰ	cʰ		conditioned palatalization
 i	kʰ	x		
 i	kʰ	ɣ		
 i	ŋ			
@@ -35,14 +37,17 @@ i	ŋ	ŋ̊		only if the inherited vowel is tense
 i	tʃ			
 i	tʃ	ts		
 i	tʃ	tɕ		
+i	tʃ	c		
 i	tʃ	s		only in Rangoon
 i	tʃ	tʃʰ		only if the inherited vowel is tense
 i	tʃ	tsʰ		only if the inherited vowel is tense
 i	tʃ	tɕʰ		only if the inherited vowel is tense
+i	tʃ	cʰ		only if the inherited vowel is tense
 i	tʃ	sʰ		only if the inherited vowel is tense, only in Rangoon
 i	tʃʰ			
 i	tʃʰ	tɕʰ		
 i	tʃʰ	tsʰ		
+i	tʃʰ	cʰ		
 i	tʃʰ	sʰ		only in Rangoon
 i	nʲ	ɲ		
 i	ɲ			
@@ -124,12 +129,6 @@ i	m	m
 i	nʲ	n		
 i	mʲ	m		
 i	n	n		
-i	k	k		
-i	k	tɕ		
-i	kʰ			
-i	kʰ	x		
-i	kʰ	tɕʰ		
-i	kʰ	cʰ		
 i	s	s		
 i	s	tθ		
 i	s	ʂ		
