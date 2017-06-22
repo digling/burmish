@@ -18,11 +18,13 @@ c	m	∼
 c	∼	-		
 c	j	-		
 c	w			
-c	ʈ	-		
+c	ʈ			
 i	k			
-i	k	kʰ		only if the vowel is tense
 i	k	tʃ		
 i	k	tɕ		
+i	k	kʰ		only if the vowel is tense
+i	k	tʃʰ		only if the vowel is tense
+i	k	tɕʰ		only if the vowel is tense
 i	kʰ			
 i	kʰ	tʃʰ		
 i	kʰ	tɕʰ		
@@ -32,10 +34,12 @@ i	ŋ
 i	ŋ	ŋ̊		only if the vowel is tense
 i	tʃ			
 i	tʃ	ts		
-i	tʃ	tɕ		
+i	tʃ	tɕ	
+i	tʃ	s		only in Rangoon
 i	tʃʰ			
 i	tʃʰ	tɕʰ		
 i	tʃʰ	tsʰ		
+i	tʃʰ	sʰ		only in Rangoon
 i	nʲ	ɲ		
 i	ɲ			
 i	nʲ	n̥ʲ		only if the vowel is tense
