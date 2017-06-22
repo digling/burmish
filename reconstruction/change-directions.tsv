@@ -181,6 +181,8 @@ m	rj	rj
 n	?			strange to have a glottal stop as a nucleus
 n	ə			
 n	ə̆			
+n	əː			
+n	əː	ə		
 n	a			
 n	a	ɔ		
 n	a	ɑ		
@@ -201,6 +203,18 @@ n	ă	ɔ̆
 n	i			
 n	i	a		before inherited velar finals
 n	i	ɛ		in closed syllables of some kind
+n	i	ĩ		
+n	i	ə		
+n	i	ɯ		
+n	i	ɤ		
+n	ḭ	ɤ		
+n	ḭ:	ɤ		
+n	ḭ:	ḭ		
+n	ḭ	i		with aspiration of the initial
+n	ḭ	ə̰		
+n	ḭ	ə		
+n	ĩ			
+n	ĭ	ə̆		
 n	ɔ			
 n	ɔ	o		
 n	o			
@@ -217,17 +231,7 @@ n	ɔ̰
 n	ɔ̆			
 n	ɔː			
 n	ɔː	ɔ		
-n	ḭ:	ḭ		
-n	ḭ	i		with aspiration of the initial
-n	ḭ	ə̰		
-n	ḭ	ə		
-n	ĩ			
-n	ĭ	ə̆		
-n	i	ĩ		
-n	i	ə		
-n	i	ɯ		
 n	ɛ̰	ɛ		with aspiration of the initial
-n	u	ʊ		
 n	ɛ̃			
 n	ɛ	ɛ̃		
 n	ŏ			
@@ -240,12 +244,11 @@ n	uː
 n	u:	u		
 n	ṵː			
 n	ṵː	ṵ		
+n	u	ʊ		
 n	õ			
 n	o	õ		
 n	ɛ̰̃			
 n	ɛ̰	ɛ̰̃		
-n	əː			
-n	əː	ə		
 n	ɛː			
 n	ḛ			
 n	ḛ	e		with aspiration of the initial
