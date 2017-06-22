@@ -83,9 +83,13 @@ i	r
 i	r	j		
 i	r	ɣ		
 i	r	ʐ		
-i	r	r̥		only if the vowel is tense
-i	r̥	ʃ		only if the vowel is tense
 i	r	xʐ		
+i	r	r̥		only if inherited the vowel is tense
+i	r̥	x		
+i	r̥	ʃ		
+i	r̥	ɕ		
+i	r̥	ç
+i	r̥	ʂ		
 i	r̥	x		
 i	r	ɣ		
 i	rj			
@@ -93,14 +97,18 @@ i	rj	r
 i	rj	j		
 i	l			
 i	l	r		
-i	l	l̥		only if the vowel is tense
-i	l̥	ɬ		only if the vowel is tense
+i	l	l̥		only if the inherited vowel is tense
+i	l̥	ɬ		only if the inherited vowel is tense
 i	l̥	x		
 i	l̥	ʃ		
 i	l̥	ɕ		
+i	l̥	ç
+i	l̥	ʂ		
 i	ʃ			
 i	ʃ	s		
 i	ʃ	ɕ		
+i	ʃ	ʂ		
+i	ʃ	ç		
 i	s			
 i	s	ʂ		
 i	s	tθ		
@@ -120,10 +128,6 @@ i	m	m
 i	l	l		
 i	p	p		
 i	t	t		
-i	ʃ	ʃ		
-i	ʃ	ʂ		
-i	ʃ	s		
-i	ʃ	ç		
 i	mʲ	nʲ		
 i	m	m		
 i	nʲ	n		
