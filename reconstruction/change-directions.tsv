@@ -44,12 +44,15 @@ i	m	m̥		only if the vowel is tense
 i	ts			
 i	ts	t		
 i	ts	s		
+i	ts	c		before palatal vowels (?)
 i	tsʰ			
 i	tsʰ	tʰ		
 i	tsʰ	sʰ		
+i	tsʰ	cʰ		before palatal vowels (?)
 i	w			
 i	w	v		
 i	j			
+i	r			
 i	r	j		
 i	l			
 i	l	r		
@@ -60,17 +63,16 @@ i	ʃ	ɕ
 i	s			
 i	s	ʂ		
 i	s	tθ		
-i	tsʰ			
-i	tsʰ	cʰ		
 i	nʲ	ɲ		
 i	r	ɣ		
 i	r	ʐ		
 i	r	r̥		only if the vowel is tense
-i	x	f		
-i	ts	c		
+i	rj			
+i	rj	r		
+i	rj	j		
+i	x	f		before labial vowels
 i	l	l̥		only if the vowel is tense
 i	ɲ			
-i	r	r		
 i	nʲ	n̥ʲ		only if the vowel is tense
 i	ŋ	ŋ̊		only if the vowel is tense
 i	b			
@@ -80,9 +82,6 @@ i	ʑ
 i	d			
 i	ɲ	ɲ̊		only if the vowel is tense
 i	kʰr	xʐ		
-i	rj	r		
-i	rj	j		
-i	rj	rj		
 i	tʂ			
 i	h	h		
 i	l	ɬ		only if the vowel is tense
