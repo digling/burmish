@@ -1,70 +1,71 @@
 WHERE	FROM	TO	WEIGHT	NOTE
 c	ʔ	-		
+c	k			
 c	k	ʔ		
 c	k	ts		only in Old Burmese (Wolfenden's law)
-c	t	t		
+c	t			
 c	t	ʔ		
-c	p	p		
+c	p			
 c	p	ʔ		
-c	ŋ	ŋ		
+c	ŋ			
 c	ŋ	∼		
 c	ŋ	nʲ		only in Old Burmese (Wolfenden's law)
-c	n	n		
+c	n			
 c	n	∼		
-c	m	m		
+c	m			
 c	m	∼		
 c	∼	-		
 c	j	-		
-c	w	w		
+c	w			
 c	ʈ	-		
-i	k	k		
+i	k			
 i	k	tʃ		
 i	kʰ	kʰ		
 i	kʰ	tʃʰ		
 i	kʰ	x		
-i	ŋ	ŋ		
+i	kʰ	ɣ		
+i	ŋ			
 i	ŋ	ŋ̊		only if the vowel is tense
-i	tʃ	tʃ		
+i	tʃ			
 i	tʃ	ts		
 i	tʃ	tɕ		
-i	tʃʰ	tʃʰ		
+i	tʃʰ			
 i	tʃʰ	tɕʰ		
 i	tʃʰ	tsʰ		
-i	t	t		
-i	tʰ	tʰ		
-i	n	n		
+i	t			
+i	tʰ			
+i	n			
 i	n	n̥		only if the vowel is tense
-i	p	p		
-i	m	m		
+i	p			
+i	m			
 i	m	m̥		only if the vowel is tense
-i	ts	ts		
+i	ts			
 i	ts	t		
 i	ts	s		
-i	tsʰ	tsʰ		
+i	tsʰ			
 i	tsʰ	tʰ		
 i	tsʰ	sʰ		
-i	l	l		
+i	l			
 i	l	r		
 i	l	l̥		only if the vowel is tense
-i	pʰ	pʰ		
-i	j	j		
+i	pʰ			
+i	j			
 i	r	j		
-i	ʃ	ʃ		
+i	ʃ			
 i	ʃ	s		
-i	s	s		
-i	w	v		
-i	tsʰ	tsʰ		
-i	tsʰ	cʰ		
-i	s	tθ		
-i	nʲ	ɲ		
-i	s	ʂ		
-i	r	ɣ		
-i	kʰ	ɣ		
-i	w	w		
-i	r	ʐ		
 i	ʃ	ɕ		
+i	s			
+i	s	ʂ		
+i	s	tθ		
+i	w			
+i	w	v		
+i	tsʰ			
+i	tsʰ	cʰ		
+i	nʲ	ɲ		
+i	r	ɣ		
+i	r	ʐ		
+i	r	r̥		only if the vowel is tense
 i	x	f		
-i	kʰ	x		
 i	ts	c		
 i	l	l̥		only if the vowel is tense
 i	ɲ			
@@ -75,7 +76,6 @@ i	b
 i	tsʰ	tʰ		
 i	ʈʂʰ			
 i	ʑ			
-i	r	r̥		only if the vowel is tense
 i	d			
 i	ɲ	ɲ̊		only if the vowel is tense
 i	kʰr	xʐ		
