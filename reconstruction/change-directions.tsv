@@ -7,6 +7,7 @@ c	ŋ
 c	ŋ	∼		
 c	ŋ	nʲ		only in Old Burmese (Wolfenden's law)
 c	t			
+c	t	ts		only in Written Burmese (Wolfenden's law)
 c	t	ʔ		
 c	n			
 c	n	∼		
@@ -61,14 +62,16 @@ i	r	j
 i	r	ɣ		
 i	r	ʐ		
 i	r	r̥		only if the vowel is tense
+i	r̥	ʃ		only if the vowel is tense
 i	rj			
 i	rj	r		
 i	rj	j		
 i	l			
 i	l	r		
 i	l	l̥		only if the vowel is tense
-i	l̥	ɬ		
-i	l̥	x		only if the vowel is tense
+i	l̥	ɬ		only if the vowel is tense
+i	l̥	x		
+i	l̥	ʃ		
 i	ʃ			
 i	ʃ	s		
 i	ʃ	ɕ		
