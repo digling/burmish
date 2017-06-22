@@ -105,7 +105,7 @@ i	mʲ	m
 i	n	n		
 i	k	k		
 i	k	tɕ		
-i	kʰ	kʰ		
+i	kʰ			
 i	kʰ	x		
 i	kʰ	tɕʰ		
 i	kʰ	cʰ		
@@ -145,15 +145,15 @@ i	v	ɣ
 i	ʃ	ɕ		
 i	ʃ	ç		
 m	j			
-m	r	r		
+m	r			
 m	r	ʐ		
 m	w			
-m	u			
+m	u			seems strange to call u a medial
+m	l			
 m	l	r		
-m	l	l		
 m	l	j		
-m	i			
-M	u			
+m	i			seems strange to call i a medial
+M	u			seems strange to call u a medial
 m	a	ɑ		
 m	ɤ			perhaps a mistake for gamma?
 M	?			strange to have a glottal stop as a medial
@@ -163,12 +163,14 @@ m	rj	rj
 n	a			
 n	?			strange to have a glottal stop as a nucleus
 n	i			
+n	i	a		before inherited velar finals
 n	u			
 n	a	ɔ		
 n	ɔ	ɔ		
 n	o			
 N	u			
 N	i			
+N	i	a		before inherited velar finals
 n	ɛ			
 n	a	ɛ		primarily before dentals
 n	e			
