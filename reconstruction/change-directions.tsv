@@ -146,9 +146,9 @@ i	v	ɣ
 i	ʃ	ɕ		
 i	ʃ	ç		
 m	j			
+m	r	r		
 m	r	ʐ		
 m	w			
-m	r	r		
 m	u			
 m	l	r		
 m	l	l		
@@ -157,12 +157,12 @@ m	i
 M	u			
 m	a	ɑ		
 m	ɤ			perhaps a mistake for gamma?
-M	?			
+M	?			strange to have a glottal stop as a medial
 m	rj	r		
 m	rj	j		
 m	rj	rj		
 n	a			
-n	?			seems unlikely that a glottal stop would be a nucleus
+n	?			strange to have a glottal stop as a nucleus
 n	i			
 n	u			
 n	a	ɔ		
@@ -175,7 +175,8 @@ n	a	ɛ		primarily before dentals
 n	e			
 n	a	ɑ		
 n	a̰	a		with aspiration of the initial
-n	ə			
+n	ə
+n	a	ã		
 n	ã	ɑ̃		
 n	ṵ			
 n	ɔ̃	ɔ̃		
@@ -186,9 +187,11 @@ n	ə̆
 n	ă			
 n	ḭ	i		with aspiration of the initial
 n	ĩ			
+n	i	ĩ		
 n	ɛ̰	ɛ		with aspiration of the initial
 n	u	ʊ		
-n	ɛ̃			
+n	ɛ̃	
+n	ɛ	ɛ̃		
 n	ŏ			
 n	aː			
 n	o̰	o		with aspiration of the initial
@@ -199,6 +202,7 @@ n	ɔ̆
 n	ɔː			
 n	uː			
 n	õ			
+n	o	õ		
 n	ɛ̰̃			
 n	ṵː			
 n	əː			
