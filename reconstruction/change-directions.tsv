@@ -75,7 +75,6 @@ i	b
 i	tsʰ	tʰ		
 i	ʈʂʰ			
 i	ʑ			
-i	ç			
 i	r	r̥		only if the vowel is tense
 i	d			
 i	ɲ	ɲ̊		only if the vowel is tense
@@ -99,6 +98,7 @@ i	t	t
 i	ʃ	ʃ		
 i	ʃ	ʂ		
 i	ʃ	s		
+i	ʃ	ç		
 i	mʲ	nʲ		
 i	m	m		
 i	nʲ	n		
@@ -179,6 +179,7 @@ n	ə
 n	a	ã		
 n	ã	ɑ̃		
 n	ṵ			
+n	ṵ	u		with aspiration of the initial
 n	ɔ̃	ɔ̃		
 n	ã	ɔ̃		
 n	ɔ̰	ɔ̰		
@@ -209,11 +210,14 @@ n	ṵː
 n	əː			
 n	ɛː			
 n	ḛ			
+n	ḛ	e		with aspiration of the initial
 n	ẽ			
 n	e	ẽ		
 n	ɤ			
 n	ø			
 n	ɔ̰̃			
+n	ɔ̰̃	ɔ̃		
+n	ɔ̰	ɔ̰̃		
 n	a̰ː			
 n	ĕ			
 n	ə̰ː			
