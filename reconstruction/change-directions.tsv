@@ -5,6 +5,7 @@ c	k	ts		only in Old Burmese (Wolfenden's law)
 c	ŋ			
 c	ŋ	∼		
 c	ŋ	nʲ		only in Old Burmese (Wolfenden's law)
+c	ŋ	-		only in Rangoon
 c	t			
 c	t	ts		only in Written Burmese (Wolfenden's law)
 c	t	ʔ		
@@ -78,6 +79,8 @@ i	tsʰ	sʰ
 i	tsʰ	cʰ		before palatal vowels (?)
 i	w			
 i	w	v		
+i	w	-		
+i	v	-		
 i	j			
 i	j	ʑ		
 i	r			
@@ -182,6 +185,7 @@ m	rj	j
 m	rj	rj		
 n	?			strange to have a glottal stop as a nucleus
 n	ə			
+n	ə	ə̆		
 n	ə̆			
 n	əː			
 n	əː	ə		
@@ -191,9 +195,11 @@ n	a	ɑ
 n	a	ɑ̃		
 n	a	ã		
 n	a	ɔ̃		
+n	a	i		only in Rangoon
 n	a	ĩ		only in Rangoon
 n	a	ɛ		in closed syllalbes (dental and labial examples)
 n	a	ɛ̃		in closed syllalbes (dental and labial examples)
+n	a	e		only in Achang
 n	aː			
 n	aː	a		
 n	a̰	a		with aspiration of the initial
@@ -214,6 +220,7 @@ n	i	ĩ
 n	i	ə		
 n	i	ɯ		
 n	i	ɤ		
+n	i	ɿ		
 n	i	ɑ̃	only in Rangoon	
 n	ḭ	ɤ		
 n	ḭ:	ɤ		
@@ -254,6 +261,7 @@ n	ṵː
 n	ṵː	ṵ		
 n	u	ʊ		
 n	u	a		only in Bola
+n	u	õ		only in Rangoon
 n	õ			
 n	o	õ		
 n	ɛ̰̃			
@@ -266,7 +274,7 @@ n	e	ẽ
 n	ɤ			
 n	ø			
 n	ɔ̰̃			
-n	ɔ̰̃	ɔ̃		
+n	ɔ̰̃	ɔ̃		with aspiration of the initial
 n	ɔ̰	ɔ̰̃		
 n	a̰ː			
 n	ĕ			
