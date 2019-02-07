@@ -2,4 +2,4 @@ Burmish
 =======
 
 
-Link to [DATABASE](http://tsv.lingpy.org/?remote_dbase=burmish.sqlite3&file=burmish&preview=10&basics=DOCULECT|CONCEPT|IPA|COGID|COGIDS|ALIGNMENT&sampa=IPA|TOKENS&highlight=TOKENS|ALIGNMENT&columns=DOCULECT|CONCEPT|IPA|TOKENS|ALIGNMENT|COGID|COGIDS|NOTE|CONCEPTICON_ID).
+Link to [DATABASE](http://tsv.lingpy.org/?remote_dbase=burmish&file=burmish&preview=100&basics=DOCULECT|CONCEPT|IPA|TOKENS|NOTE|COGIDS|CROSSIDS|ALIGNMENT&doculects=Achang_Longchuan|Atsi|Bola|Lashi|Maru|Old_Burmese|Rangoon|Proto-Burmish|Xiandao).
